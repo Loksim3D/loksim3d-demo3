@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="" FileInfo="" FilePicture="" Texture="Auslegermast_Leiter.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="2"/>
+	<Point>
+		<Props Normal="0;0;-1" Vekt="-0.22;0;-0.4"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;-1" Vekt="-0.22;8.1;-0.4"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;-1" Vekt="0.22;8.1;-0.4"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;-1" Vekt="0.22;0;-0.4"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="10,221;10,6;39,6;39,221"/>
+	</Flaeche>
+</OBJECT>

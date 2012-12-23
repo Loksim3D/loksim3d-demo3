@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="U. Klein" FileInfo="Masthalterung für Radspannwerk nebeneinander am Betonmast/nmit getrennter Abspannung, Fahrdrahthöhe 5,3m/nMit Maststandort einfügen/nFangkorb zuschaltbar/n/nOriginal von Frieder Cramer/nBearbeitet: U.Klein 2010" FilePicture="Abspannmast8.22m.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\UKL\Einzelteil\Winkeleisen_VZ_90_90_800.l3dobj" Position="0;0.55;0.25" Rotation="-90;-90;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\UKL\Einzelteil\Winkeleisen_VZ_90_90_600.l3dobj" Position="0;6.77;0.234" Rotation="-90;-90;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\UKL\Einzelteil\Winkeleisen_VZ_90_90_600.l3dobj" Position="0;6.27;0.234" Rotation="-90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\UKL\Einzelteil\Flacheisen_VZ_40_500.l3dobj" Position="0.3;6.52;0.235" Rotation="0;90;90" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\UKL\Einzelteil\Flacheisen_VZ_40_500.l3dobj" Position="-0.26;6.52;0.235" Rotation="0;90;90" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\UKL\Einzelteil\Winkeleisen_VZ_90_90_340.l3dobj" Position="0.2;0.55;0.425" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\UKL\Einzelteil\Winkeleisen_VZ_90_90_340.l3dobj" Position="-0.2;0.55;0.425" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\UKL\Einzelteil\Spannwerke\Fangkorb_2_B350.l3dobj" Position="0;0.8;0.335" Rotation="-90;0;0" ShowOn="Fangkorb" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\UKL\Einzelteil\Ankerfundament_500_700.l3dobj" Position="0;0;-5.95" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\UKL\Einzelteil\Ankerseil_8800.l3dobj" Position="-0.225;6.685;0" Rotation="-2.17;0;43" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\UKL\Einzelteil\Ankerseil_8800.l3dobj" Position="0.225;6.685;0" Rotation="2.17;0;43" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\UKL\Einzelteil\Spannwerkhalter_Betonmast_VZ.l3dobj" Position="0.185;6.36;0.0935" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\UKL\Einzelteil\Spannwerkhalter_Betonmast_VZ.l3dobj" Position="0.18;6.745;0.0935" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\UKL\Einzelteil\Spannwerkhalter_Betonmast_VZ.l3dobj" Position="-0.185;6.36;0.0935" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\UKL\Einzelteil\Spannwerkhalter_Betonmast_VZ.l3dobj" Position="-0.18;6.745;0.0935" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+</GRUPPENOBJECT>

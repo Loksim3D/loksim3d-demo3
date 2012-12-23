@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="U.Klein" FileInfo="Klemmhalter für Seitenrohr, AL/nmit Fahrdrahthöhe einfügen" FilePicture="" Texture="Ausleger_Re_AL.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="2"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="-0.01;0.37;-0.025"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="-0.01;0.46;-0.025"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.05;0.46;-0.025"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.05;0.37;-0.025"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="-0.01;0.37;0.025"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="-0.01;0.46;0.025"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.05;0.46;0.025"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="0.05;0.37;0.025"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="19,282;19,270;27,270;27,282"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;6;5;4" Texture="27,282;27,270;19,270;19,282"/>
+	</Flaeche>
+</OBJECT>

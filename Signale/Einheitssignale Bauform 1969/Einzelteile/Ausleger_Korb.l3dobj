@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="" FileInfo="" FilePicture="" Texture="Auslegermast1.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="2"/>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0;4.39;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="1.04;4.39;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="1.04;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="0;0;0.82"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="0;4.39;0.82"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="1.04;4.39;0.82"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="1.04;0;0.82"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0.27;-0.6;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.77;-0.6;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="0.27;-0.6;0.82"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.77;-0.6;0.82"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0.27;-0.6;-1.62"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.77;-0.6;-1.62"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0;0;-1.62"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="1.04;0;-1.62"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3;9;8" Texture="267,403;267,118;352,118;352,403;327,436;292,436"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;6;5;4;10;11" Texture="164,403;164,118;247,118;247,403;224,435;189,435"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;2;6;7" Texture="99,410;99,121;143,121;143,410"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;1;0" Texture="143,410;143,121;99,121;99,410"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="10;11;13;12" Texture="270,448;270,473;149,474;149,448"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="12;14;15;13" Texture="303,478;288,445;350,445;333,478"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;15;13;11" Texture="142,407;18,407;18,439;142,439"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="0;4;10;8" Texture="143,407;99,407;99,439;143,439"/>
+	</Flaeche>
+</OBJECT>

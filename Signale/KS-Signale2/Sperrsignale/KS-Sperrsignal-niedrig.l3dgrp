@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="© JPB 2007" FileInfo="niedriges Sperrsignal/nKS-Bauform/n/n(c) 20. 09. 2004 Sebastian Kircher/n© JPB 2007" FilePicture="KS-Sperrsignal-niedrig.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\KS-Signale2\Einzelteile\KS-Sperrsignalschirm.l3dobj" Position="1.5;0.2;0" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\KS-Signale2\Einzelteile\KS-Sperrsignalmast-niedrig.l3dobj" Position="1.765;0.1;0.05" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\KS-Signale2\Einzelteile\KS-Sperrsignalfuss.l3dobj" Position="1.665;0;-0.05" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\KS-Signale2\Einzelteile\KS-Sperrsignal-Sh0.l3dobj" Position="1.95;0.49;-0.01" Rotation="0;0;0" ShowOn="Sh0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\KS-Signale2\Einzelteile\scheinrot.l3dobj" Position="2;0.54;0" Rotation="0;0;0" ShowOn="Sh0" ZoomFaktor="140"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\KS-Signale2\Einzelteile\KS-Sperrsignal-Sh1.l3dobj" Position="1.81;0.49;-0.01" Rotation="0;0;0" ShowOn="Sh1" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\KS-Signale2\Einzelteile\KS-Sperrsignal-Sh1.l3dobj" Position="1.57;0.27;-0.01" Rotation="0;0;0" ShowOn="Sh1" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\KS-Signale2\Einzelteile\Scheinweiss.l3dobj" Position="1.61;0.32;0" Rotation="0;0;0" ShowOn="Sh1" ZoomFaktor="140"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\KS-Signale2\Einzelteile\Scheinweiss.l3dobj" Position="1.86;0.54;0" Rotation="0;0;0" ShowOn="Sh1" ZoomFaktor="140"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\KS-Signale2\Einzelteile\KS-Sperrsignalmastschild.l3dobj" Position="2.08;0.17;-0.01" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\KS-Signale2\Einzelteile\KS-Kreisscheibe.l3dobj" Position="1.49;0;-0.06" Rotation="0;0;0" ShowOn="Kreisscheibe" ZoomFaktor="1"/>
+	</Object>
+	<Font>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="0" DefaultText="505X" Fonthoehe="0.055" GroupProperty="Signalnummer" Leuchtend="FALSE" Name="\Signale\KS-Signale2\Einzelteile\Signalnummer.l3dfont" Position="1.908;0.343;-0.01" Rotation="0;1;0"/>
+	</Font>
+</GRUPPENOBJECT>

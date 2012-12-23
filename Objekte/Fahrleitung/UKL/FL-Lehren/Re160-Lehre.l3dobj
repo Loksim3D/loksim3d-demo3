@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="U. Klein" FileInfo="Fahrleitungslehre für Re160/nAuch für Re200 verwendbar/nMit Fahrdrahthöhe einfügen" FilePicture="" Texture="\Signale\einzelteile\formmastschild1.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="-1.9;-0.13;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="-1.9;0.37;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="-0.4;0.37;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="-0.4;-0.13;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="0.4;-0.13;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0.4;0.37;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="1.9;0.37;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="1.9;-0.13;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="-1.9;0.37;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="-1.9;2.17;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="-0.4;2.17;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="-0.4;0.37;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="0.4;0.37;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0.4;2.17;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="1.9;2.17;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="1.9;0.37;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="-1.9;2.17;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="-1.9;3.67;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="1.9;3.67;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="1.9;2.17;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="70,99;70,6;83,7;83,99"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;6;7" Texture="70,99;70,6;83,7;83,99"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="8;9;10;11" Texture="70,198;70,108;82,107;82,201"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="12;13;14;15" Texture="70,200;70,110;81,109;82,200"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="16;17;18;19" Texture="70,99;70,6;83,7;83,99"/>
+	</Flaeche>
+</OBJECT>

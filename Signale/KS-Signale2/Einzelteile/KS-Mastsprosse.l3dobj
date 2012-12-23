@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="" FileInfo="" FilePicture="" Texture="KS-Mastsprosse.bmp" TransTexture="" Transparent="TRUE" TransparentTyp="1"/>
+	<Point>
+		<Props Normal="-1;-1;0" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;0" Vekt="0;0.09;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;0" Vekt="0.25;0.09;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;0" Vekt="0.25;0;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="0,38;0,2;122,2;122,38"/>
+	</Flaeche>
+</OBJECT>

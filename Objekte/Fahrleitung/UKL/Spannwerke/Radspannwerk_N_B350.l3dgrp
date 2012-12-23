@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="U. Klein" FileInfo="Radspannwerk nebeneinander Fahrdraht&#47;Tragseil mit Betongewicht 350mm/nMit Fahrdrahthöhe, Maststandort +&#47;-0,2m /nund Fahrdrahtwinkel einfügen/n/nOriginal von Frieder Cramer/nBearbeitet: U.Klein 2010" FilePicture="Abspannmast8.22m.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\UKL\Einzelteil\Spannwerke\Spannrad_570.l3dobj" Position="0;1.295;0.67" Rotation="90;15;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\UKL\Einzelteil\Spannwerke\Radlager_re.l3dobj" Position="0;1.295;0.67" Rotation="0;0;18" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\UKL\Einzelteil\Spannwerke\Radlager_li.l3dobj" Position="0;1.295;0.67" Rotation="0;0;18" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\UKL\Einzelteil\Gewicht_B350_13s.l3dobj" Position="0;-1.7;0.94" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\UKL\Einzelteil\Spannwerke\Spannseil_3000.l3dobj" Position="0;1.295;0.94" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\UKL\Einzelteil\Spannwerke\Drehlager.l3dobj" Position="0;1.22;0.272" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\UKL\Einzelteil\Spannwerke\Stangenlager.l3dobj" Position="0;0.931;0.7" Rotation="0;180;-90" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\UKL\Einzelteil\Spannwerke\Gewichtsfuehrung_RN.l3dobj" Position="0;0;0.74" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\UKL\Einzelteil\Spannwerke\Gewichtsfuehrung_Befest_350.l3dobj" Position="0;-4.715;0.41" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+</GRUPPENOBJECT>

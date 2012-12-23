@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<OBJECT>
+	<Props TransparentTyp="0" Beleuchtet="FALSE" Transparent="FALSE" FilePicture="" FileAuthor="" FileInfo="" Drawrueckseiten="FALSE" TransTexture="" Texture="KS-Mastschild-wrw-klein.bmp"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0;1;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.15;1;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.15;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="0;1;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.15;1;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="0.15;0;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="0,188;0,0;45,0;46,188"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;6;5;4" Texture="54,188;54,0;107,0;107,188"/>
+	</Flaeche>
+</OBJECT>

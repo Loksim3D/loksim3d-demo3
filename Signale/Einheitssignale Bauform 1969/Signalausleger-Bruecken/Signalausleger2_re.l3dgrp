@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<GRUPPENOBJECT>
+	<Props FilePicture="Signalausleger2_re.l3dgrp.jpg" FileAuthor="Andreas Peter" FileInfo="Signalausleger, rechts vom Gleis/nGleisabstand 4 m/nmax. 3 Signalkörbe/n/n(c) Andreas Peter ; November 2004"/>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Ausleger2_Stuetze.l3dobj" Position="3.8;0.2;0"/>
+	</Object>
+	<Object>
+		<Props Rotation="180;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Ausleger2_Traverse.l3dobj" Position="3.8;7.2;0"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Auslegerfundament_alt.l3dobj" Position="3.8;0;0"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Aussteifungen2.l3dobj" Position="3.8;0.2;0.3"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Aussteifungen2.l3dobj" Position="3.8;0.2;-0.3"/>
+	</Object>
+	<Object>
+		<Props Rotation="90;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Aussteifungen2.l3dobj" Position="4.1;0.2;0"/>
+	</Object>
+	<Object>
+		<Props Rotation="90;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Aussteifungen2.l3dobj" Position="3.5;0.2;0"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Ausleger_Leiter.l3dobj" Position="3.8;0.5;0"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Ausleger_Schutzkorb.l3dobj" Position="3.8;2.6;0"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Ausleger2_Verbindung.l3dobj" Position="3.8;7.1;0"/>
+	</Object>
+</GRUPPENOBJECT>

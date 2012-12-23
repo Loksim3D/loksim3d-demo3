@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="U.Klein" FileDoku="" FileInfo="Mastanker für Betonmasten/nmit Mastabstand einfügen/n/nBearbeitung: U.Klein 2012" FilePicture="Betonmast_Re250-180-530-Ka_Anker.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\UKL\Einzelteil\Winkeleisen_VZ_90_90_500.l3dobj" Position="0;6.925;0.147" Rotation="-90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\UKL\Einzelteil\Ankerfundament_500_700.l3dobj" Position="0;0;-4.904" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\UKL\Einzelteil\Ankerseil_8800.l3dobj" Position="-0.2;7.01;0.246" Rotation="-2.25;0;37.75" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\UKL\Einzelteil\Ankerseil_8800.l3dobj" Position="0.2;7.01;0.246" Rotation="2.25;0;37.75" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+</GRUPPENOBJECT>

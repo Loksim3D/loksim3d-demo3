@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="Thomas Breier" FileInfo="" FilePicture="regellichtraum.l3dobj.jpg" Texture="regellichtraum.bmp" TransTexture="regellichtraum_alpha.bmp" Transparent="FALSE" TransparentTyp="3"/>
+	<Point>
+		<Props Normal="1;1;1" Vekt="-0.78;5.17;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.78;5.17;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="-1.445;4.36;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="-1.445;5.17;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="-1.445;5.27;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="-1.045;5.57;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="1.045;5.57;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="1.445;5.27;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="1.445;5.17;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="1.445;4.36;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="4;5;6;7" Texture="150,50;150,50;150,50;150,50"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;4;7;8" Texture="150,50;150,50;150,50;150,50"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;0;2" Texture="150,50;150,50;150,50"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="1;8;9" Texture="150,50;150,50;150,50"/>
+	</Flaeche>
+</OBJECT>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="Martin Finken" FileInfo="Fahrleitungstrenner für Re100 Fahrleitung/n/nGeeignet für  50m Fahrleitung,/n/n/nAuf der gleichen Länge wie den Fahrdraht setzen/n/n(C) Martin Finken, Januar 2011" FilePicture=""/>
+	<Object>
+		<Props BlinkIntervall="0" Name="FL_Trenner_50m.l3dobj" Position="0;0.25;25" Rotation="-90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Standard\MartinF\Iso_Wa2.l3dobj" Position="0;1.2;26.5" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Ausgleich.l3dobj" Position="0;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Ausgleich.l3dobj" Position="0;0;50" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+</GRUPPENOBJECT>

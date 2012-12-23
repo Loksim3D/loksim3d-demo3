@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FONT>
+	<Props FileAuthor="" FileInfo="" FilePicture="" Fonthoehe="107" Texture="Geschwindigkeit_gelb.bmp"/>
+	<Zeichen>
+		<Props Width="45" X="5" Y="5" Zeichen="0"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="35" X="63" Y="5" Zeichen="1"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="53" X="121" Y="5" Zeichen="2"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="53" X="179" Y="5" Zeichen="3"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="53" X="5" Y="117" Zeichen="4"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="45" X="63" Y="117" Zeichen="5"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="53" X="121" Y="117" Zeichen="6"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="53" X="179" Y="117" Zeichen="7"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="53" X="5" Y="229" Zeichen="8"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="53" X="63" Y="229" Zeichen="9"/>
+	</Zeichen>
+</FONT>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="U.Klein" FileInfo="Stützrohrhänger/nLänge 1,7m/n/nBearbeitung: U. Klein 2010" FilePicture="FL-Mast_kA_re.l3dobj.jpg" Texture="\Objekte\Fahrleitung\allqtw.bmp" TransTexture="" Transparent="TRUE" TransparentTyp="1"/>
+	<Point>
+		<Props Normal="-1;-1;0" Vekt="-0.006;-1.7;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;0" Vekt="-0.006;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;0" Vekt="0.006;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;0" Vekt="0.006;-1.7;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="1,35;478,35;478,11;1,11"/>
+	</Flaeche>
+</OBJECT>

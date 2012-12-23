@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<OBJECT>
+	<Props TransparentTyp="0" Beleuchtet="FALSE" Transparent="FALSE" FilePicture="" FileAuthor="" FileInfo="" Drawrueckseiten="TRUE" TransTexture="" Texture="Auslegerm2-Stuetze.bmp"/>
+	<Point>
+		<Props Normal="-1;1;0" Vekt="-0.6;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;0" Vekt="-0.32;0.74;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;0" Vekt="0.32;0.74;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;0" Vekt="0.6;0;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="1,228;4,208;24,207;28,228"/>
+	</Flaeche>
+</OBJECT>

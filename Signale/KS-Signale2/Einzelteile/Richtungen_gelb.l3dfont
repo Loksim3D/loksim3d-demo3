@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FONT>
+	<Props FileAuthor="" FileInfo="" FilePicture="" Fonthoehe="88" Texture="Richtungen_gelb.bmp"/>
+	<Zeichen>
+		<Props Width="58" X="5" Y="10" Zeichen="A"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="58" X="68" Y="10" Zeichen="B"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="58" X="131" Y="10" Zeichen="C"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="58" X="194" Y="10" Zeichen="D"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="58" X="257" Y="10" Zeichen="E"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="58" X="320" Y="10" Zeichen="F"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="58" X="5" Y="118" Zeichen="G"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="58" X="68" Y="118" Zeichen="H"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="58" X="131" Y="118" Zeichen="I"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="58" X="194" Y="118" Zeichen="J"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="58" X="257" Y="118" Zeichen="K"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="58" X="320" Y="118" Zeichen="L"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="58" X="5" Y="226" Zeichen="M"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="58" X="68" Y="226" Zeichen="N"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="58" X="131" Y="226" Zeichen="O"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="58" X="194" Y="226" Zeichen="P"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="58" X="257" Y="226" Zeichen="Q"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="58" X="320" Y="226" Zeichen="R"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="58" X="5" Y="334" Zeichen="S"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="58" X="68" Y="334" Zeichen="T"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="58" X="131" Y="334" Zeichen="U"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="58" X="194" Y="334" Zeichen="V"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="58" X="257" Y="334" Zeichen="W"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="58" X="320" Y="334" Zeichen="Z"/>
+	</Zeichen>
+</FONT>

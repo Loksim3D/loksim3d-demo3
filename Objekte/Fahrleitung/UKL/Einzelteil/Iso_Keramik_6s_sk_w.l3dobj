@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="U.Klein" FileInfo="Keramikisolator, 6 Schirme, mit Seilklemmen, waagrecht" FilePicture="" Texture="Iso_Seil.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="2"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="-0.38;-0.0925;-0.025"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="-0.38;0.0925;-0.025"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.38;0.0925;-0.025"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.38;-0.0925;-0.025"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="-0.38;-0.0925;0.025"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="-0.38;0.0925;0.025"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.38;0.0925;0.025"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="0.38;-0.0925;0.025"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="9,295;9,204;381,204;381,295"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;6;5;4" Texture="381,295;381,204;9,204;9,295"/>
+	</Flaeche>
+</OBJECT>

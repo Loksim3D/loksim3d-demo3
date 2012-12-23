@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="Thomas Breier" FileInfo="Wand, die den Regellichtraum darstellt,/n/nEinfach das Objekt aufstellen, fertig. Der obere Bereich (an-&#47;abwählbar)/nist für den Stromabnehmer gedacht./n/nViel Spaß damit!/nThomas Breier/nDezember 2006" FilePicture="regellichtraum.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" Name="ThomasB\regellichtraum_oben.l3dobj" Position="0;0;0" Rotation="0;0;0" ShowOn="PlatzfuerStromabnehmer" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ThomasB\regellichtraum_unten.l3dobj" Position="0;0;0" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+</GRUPPENOBJECT>

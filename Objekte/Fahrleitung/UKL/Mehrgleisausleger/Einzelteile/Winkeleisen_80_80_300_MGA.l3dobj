@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="U.Klein" FileDoku="" FileInfo="Winkeleisen 90x90 340mm Lang" FilePicture="FL-Mast_kA_re.l3dobj.jpg" Texture="\Objekte\Standard\Frieder\Streckenmasten\ET\Abspannmast8.2m.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="2"/>
+	<Point>
+		<Props Normal="1;0;0" Vekt="0;0;0.15"/>
+	</Point>
+	<Point>
+		<Props Normal="1;0;0" Vekt="0;0.08;0.15"/>
+	</Point>
+	<Point>
+		<Props Normal="1;0;0" Vekt="0;0.08;-0.15"/>
+	</Point>
+	<Point>
+		<Props Normal="1;0;0" Vekt="0;0;-0.15"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;0" Vekt="0;0;0.15"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;0" Vekt="0.08;0;0.15"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;0" Vekt="0.08;0;-0.15"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;0" Vekt="0;0;-0.15"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;1" Vekt="0;0;0.15"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;1" Vekt="0;0.08;0.15"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;1" Vekt="0.08;0.08;0.15"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;1" Vekt="0.08;0;0.15"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;-1" Vekt="0;0;-0.15"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;-1" Vekt="0;0.08;-0.15"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;-1" Vekt="0.08;0.08;-0.15"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;-1" Vekt="0.08;0;-0.15"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="81,77;78,28;92,47;88,78"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;6;7" Texture="82,95;79,35;92,44;92,95"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="8;9;10;11" Texture="87,42;88,87;78,80;79,50"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="12;13;14;15" Texture="87,42;88,87;78,80;79,50"/>
+	</Flaeche>
+</OBJECT>

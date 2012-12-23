@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="" FileInfo="" FilePicture="" Texture="KS-Korb1.bmp" TransTexture="" Transparent="TRUE" TransparentTyp="1"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0;1;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.8;1;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.8;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="0;0;0.9"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="0;1;0.9"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.8;1;0.9"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="0.8;0;0.9"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="0,318;1,2;291,2;291,318"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;6;5;4" Texture="586,319;586,2;295,2;295,319"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;2;6;7" Texture="0,642;0,325;167,325;167,642"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;1;0" Texture="587,318;586,3;296,2;296,318"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;3;0;4" Texture="183,576;183,338;525,338;525,576"/>
+	</Flaeche>
+</OBJECT>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="" FileInfo="" FilePicture="" Texture="KS-Knotenblech-3.bmp" TransTexture="" Transparent="TRUE" TransparentTyp="1"/>
+	<Point>
+		<Props Normal="-1;-1;0" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;0" Vekt="0;0.4;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;0" Vekt="0.15;0.4;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;0" Vekt="0.15;0;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="0,200;0,0;48,0;48,200"/>
+	</Flaeche>
+</OBJECT>

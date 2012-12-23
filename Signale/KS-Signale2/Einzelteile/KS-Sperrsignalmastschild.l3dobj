@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<OBJECT>
+	<Props TransparentTyp="0" Beleuchtet="FALSE" Transparent="FALSE" FilePicture="" FileAuthor="" FileInfo="" Drawrueckseiten="FALSE" TransTexture="" Texture="KS-Mastschild Sperrsignal.bmp"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0;0.3;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.07;0.3;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.07;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="0;0.3;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.07;0.3;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="0.07;0;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="0,399;0,0;105,0;104,399"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;6;5;4" Texture="11,10;11,6;75,6;75,10"/>
+	</Flaeche>
+</OBJECT>

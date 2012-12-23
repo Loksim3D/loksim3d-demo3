@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<GRUPPENOBJECT>
+	<Props FilePicture="Vorsignalbake 250 li.l3dgrp.jpg" FileAuthor="AndreasKA" FileInfo="Vorsignalbake 250m vor dem Signal; linkes Gleis/n/n(c) Andreas Peter ; Oktober 2004"/>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Vorsignalbake 250.l3dobj" Position="-2.95;1;0"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Betonpfosten-3m.l3dobj" Position="-2.8;-0.5;0.05"/>
+	</Object>
+</GRUPPENOBJECT>
