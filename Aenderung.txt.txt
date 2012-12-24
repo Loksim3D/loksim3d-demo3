@@ -1,2 +1,5 @@
+2012-12-24
+* [ukl] Bf. Hainfurt: Fahrleitung über Gleis Verbinder4 gesetzt
+
 2012-12-23
 * [ukl] Bf. Hainfurt mit teilweise installierter Fahrleitung im SVN abgelegt

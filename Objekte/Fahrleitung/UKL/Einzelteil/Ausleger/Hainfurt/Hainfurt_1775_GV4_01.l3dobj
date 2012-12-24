@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="U.Klein" FileDoku="" FileInfo="Sonderausleger Bf. Hainfurt, km 1,775, Gl. V4/n/nOriginal Bitmap von Frieder Cramer/nBearbeitung: U. Klein 2012" FilePicture="FL-Mast_kA_re.l3dobj.jpg" Texture="\Objekte\Fahrleitung\ukl\Einzelteil\Ausleger\Ausleger_Re_AL.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="2"/>
+	<Point>
+		<Props Normal="0;-1;0" Vekt="-0.15;0.29;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="-0.15;1.8;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="1.4;1.8;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;0" Vekt="1.4;0.29;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;0" Vekt="-0.02;1.69;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="-0.1;1.77;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="1.4;2.2;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;0" Vekt="1.4;2.1;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;0" Vekt="0.15;0.6;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="0.15;0.69;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="0.95;0.75;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;0" Vekt="0.95;0.66;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="50,235;50,16;420,16;420,235"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;6;7" Texture="48,292;48,280;406,280;406,292"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="8;9;10;11" Texture="66,292;66,280;409,280;409,292"/>
+	</Flaeche>
+</OBJECT>
