@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="U.Klein" FileInfo="Seitenhalter für Ausleger/nMit Fahrdrahthöhe einfügen /n/nOriginal Bitmap von Frieder Cramer/nBearbeitung: U. Klein 2010" FilePicture="FL-Mast_kA_re.l3dobj.jpg" Texture="\Objekte\Standard\Frieder\Streckenmasten\ET\Stahlmast2.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="2"/>
+	<Point>
+		<Props Normal="0;-1;0" Vekt="0.31;0.37;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="0.31;0.68;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="-0.85;0.68;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;0" Vekt="-0.85;0.37;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="383,480;328,480;328,259;383,259"/>
+	</Flaeche>
+</OBJECT>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="U. Klein" FileInfo="Keramikisolator, 7 Schirme, ohne Seilklemmen, waagrecht,/nlängs zur Fahrtrichtung/nSpeziell für Nachspannungen und Streckentrennungen" FilePicture="" Texture="Iso_Seil.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="2"/>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.043;0.025;-0.205"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.043;-0.025;-0.205"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;-1" Vekt="0;-0.05;-0.205"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="-0.043;-0.025;-0.205"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="-0.043;0.025;-0.205"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;-1" Vekt="0;0.05;-0.205"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.043;0.025;0.205"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="0.043;-0.025;0.205"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;1" Vekt="0;-0.05;0.205"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="-0.043;-0.025;0.205"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="-0.043;0.025;0.205"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;1" Vekt="0;0.05;0.205"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3;4;5" Texture="286,343;288,361;271,358;269,332;272,319;287,323"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="11;10;9;8;7;6" Texture="121,322;106,319;100,328;104,355;118,358;121,347"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="6;7;1;0" Texture="97,325;97,352;294,352;294,325"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;8;2;1" Texture="97,352;97,325;294,325;294,352"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="8;9;3;2" Texture="97,325;97,352;294,352;294,325"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="9;10;4;3" Texture="97,352;97,325;294,325;294,352"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="10;11;5;4" Texture="97,325;97,352;294,352;294,325"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="11;6;0;5" Texture="97,352;97,325;294,325;294,352"/>
+	</Flaeche>
+</OBJECT>

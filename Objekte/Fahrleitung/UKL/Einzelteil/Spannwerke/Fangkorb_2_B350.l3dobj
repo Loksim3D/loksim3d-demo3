@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="U. Klein" FileInfo="Fangkorb für zwei Spanngewichte B350/n/nOriginal von Frieder Cramer/nBearbeitung: 2011 U.Klein" FilePicture="" Texture="Spannwerk.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="2"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="0;0;-0.5"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0;2;-0.5"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.78;2;-0.5"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.78;0;-0.5"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="0;0;0.5"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="0;2;0.5"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.78;2;0.5"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="0.78;0;0.5"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="142,458;142,264;195,264;195,458"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;6;5;4" Texture="142,458;142,264;195,264;195,458"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;2;6;7" Texture="25,458;25,264;138,264;138,458"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;1;0" Texture="25,458;24,264;138,264;138,458"/>
+	</Flaeche>
+</OBJECT>

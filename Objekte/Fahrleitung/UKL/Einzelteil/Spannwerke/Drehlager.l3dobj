@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="TRUE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="U.Klein" FileInfo="Drehlager für Radspannwerk/n/nOriginalbitmap von Frieder Cramer/nBearbeitung: U.Klein 2010" FilePicture="FL-Mast_kA_re.l3dobj.jpg" Texture="Spannwerk.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="2"/>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="0.012;-0.25;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.012;0.25;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="-0.012;0.25;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="-0.012;-0.25;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="130,177;129,158;141,159;140,178"/>
+	</Flaeche>
+</OBJECT>

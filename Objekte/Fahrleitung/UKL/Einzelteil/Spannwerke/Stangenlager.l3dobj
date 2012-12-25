@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="U.Klein" FileInfo="Stangenlager für Gewichtssäule/n/nOriginalbitmap von Frieder Cramer/nBearbeitung: U.Klein 2010" FilePicture="FL-Mast_kA_re.l3dobj.jpg" Texture="Spannwerk.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="2"/>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.025;0.075;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;0;1" Vekt="0.025;-0.31;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;0;1" Vekt="-0.025;-0.31;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="-0.025;0.075;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;0;1" Vekt="0.025;-0.35;0.04"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;0;1" Vekt="-0.025;-0.35;0.04"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="0.025;-0.45;0.04"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="-0.025;-0.45;0.04"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="127,175;129,157;140,159;139,174"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="1;2;5;4" Texture="140,176;128,176;129,160;142,159"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;7;6" Texture="142,177;139,159;130,159;129,176"/>
+	</Flaeche>
+</OBJECT>

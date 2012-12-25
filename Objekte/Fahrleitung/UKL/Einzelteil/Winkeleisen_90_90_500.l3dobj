@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="U.Klein" FileInfo="Winkeleisen 90x90 500mm Lang" FilePicture="FL-Mast_kA_re.l3dobj.jpg" Texture="Ausleger\Ausleger_Re.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="2"/>
+	<Point>
+		<Props Normal="1;0;0" Vekt="0;0;0.25"/>
+	</Point>
+	<Point>
+		<Props Normal="1;0;0" Vekt="0;0.09;0.25"/>
+	</Point>
+	<Point>
+		<Props Normal="1;0;0" Vekt="0;0.09;-0.25"/>
+	</Point>
+	<Point>
+		<Props Normal="1;0;0" Vekt="0;0;-0.25"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;0" Vekt="0;0;0.25"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;0" Vekt="0.09;0;0.25"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;0" Vekt="0.09;0;-0.25"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;0" Vekt="0;0;-0.25"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="120,59;120,56;246,128;243,131"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;6;7" Texture="106,51;107,48;263,139;260,141"/>
+	</Flaeche>
+</OBJECT>

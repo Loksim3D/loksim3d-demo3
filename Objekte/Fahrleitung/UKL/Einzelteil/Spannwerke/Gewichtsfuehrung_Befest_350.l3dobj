@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="U. Klein" FileInfo="Befestingung Gewichtsführung 350mm lang/n/nOriginalbitmap von Frieder Cramer/nBearbeitung: U.Klein 2010" FilePicture="" Texture="Spannwerk.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="2"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="-0.015;-0.015;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="-0.015;0.015;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.015;0.015;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.015;-0.015;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="-0.015;-0.015;0.33"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="-0.015;0.015;0.35"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.015;0.015;0.35"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="0.015;-0.015;0.33"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="129,177;129,158;142,159;141,178"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;6;5;4" Texture="128,178;128,158;141,158;142,179"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;2;6;7" Texture="128,178;128,157;141,159;141,178"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;1;0" Texture="128,177;128,158;142,158;141,178"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="1;5;6;2" Texture="129,177;129,158;142,158;142,178"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;7;4;0" Texture="128,176;127,158;140,158;142,177"/>
+	</Flaeche>
+</OBJECT>

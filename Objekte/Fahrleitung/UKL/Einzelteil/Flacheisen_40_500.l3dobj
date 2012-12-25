@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="U.Klein" FileInfo="Flacheisen 40x0 500mm Lang" FilePicture="FL-Mast_kA_re.l3dobj.jpg" Texture="Ausleger\Ausleger_Re.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="2"/>
+	<Point>
+		<Props Normal="1;0;0" Vekt="0;0;0.25"/>
+	</Point>
+	<Point>
+		<Props Normal="1;0;0" Vekt="0;0.04;0.25"/>
+	</Point>
+	<Point>
+		<Props Normal="1;0;0" Vekt="0;0.04;-0.25"/>
+	</Point>
+	<Point>
+		<Props Normal="1;0;0" Vekt="0;0;-0.25"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="120,59;120,56;246,128;243,131"/>
+	</Flaeche>
+</OBJECT>

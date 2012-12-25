@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="U.Klein" FileInfo="Radlager links für Spannrad/n/nOriginalbitmap von Frieder Cramer/nBearbeitung: U.Klein 2010" FilePicture="FL-Mast_kA_re.l3dobj.jpg" Texture="Spannwerk.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="2"/>
+	<Point>
+		<Props Normal="1;0;0" Vekt="-0.101;-0.035;0.035"/>
+	</Point>
+	<Point>
+		<Props Normal="1;0;0" Vekt="-0.101;0.035;0.035"/>
+	</Point>
+	<Point>
+		<Props Normal="1;0;0" Vekt="-0.101;0.035;-0.3"/>
+	</Point>
+	<Point>
+		<Props Normal="1;0;0" Vekt="-0.101;-0.035;-0.3"/>
+	</Point>
+	<Point>
+		<Props Normal="1;0;0" Vekt="-0.01;0.035;-0.43"/>
+	</Point>
+	<Point>
+		<Props Normal="1;0;0" Vekt="-0.01;-0.035;-0.41"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="127,177;127,156;141,158;141,177"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="2;4;5;3" Texture="141,177;128,176;128,156;140,158"/>
+	</Flaeche>
+</OBJECT>

@@ -1490,7 +1490,7 @@
 					</Eigenschaften>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelausleger\Re160\Ausleger_200_Re160-180-550-Ka-SR.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1825" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelausleger\Re160\Ausleger_215_Re160-180-550-Ka-SR.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1825" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5000-180-550-KL.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1825" Verschiebung="0;0;0" Winkel="0;0;0"/>
@@ -2069,13 +2069,13 @@
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\MF\FL_Trenner\FL_Trenner_RE100-5000-140-550.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1675" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Hainfurt\Hainfurt_1725_GV4.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1725.349976" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Hainfurt\Hainfurt_1725_GV4.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1725.349976" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelausleger\Hainfurt\Hainfurt_1775_GV4_01.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1775.300049" Verschiebung="-1.2;0;0" Winkel="180;0;0"/>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re100\N\Re100-5035-140-550-AS2L-N-RN-190.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1825.300049" Verschiebung="-1.2;0;0" Winkel="180;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Hainfurt\Hainfurt_1825_GV4.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1825.300049" Verschiebung="-1.2;0;0" Winkel="180;0;0"/>
 				</Eintrag>
 			</Object>
 		</Objecte>
@@ -2172,19 +2172,22 @@
 					<Props Abstand="0" Anzahl="1" Datei="" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1625" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1675" Verschiebung="0;0;0" Winkel="0;0;0"/>
-				</Eintrag>
-				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1725" Verschiebung="0;0;0" Winkel="0;0;0"/>
-				</Eintrag>
-				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelausleger\Re160\Ausleger_200_Re160-180-550-La-SR.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1825" Verschiebung="0;0;0" Winkel="180;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5000-180-550-KL.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1825" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelausleger\Re160\Ausleger_200_Re160-180-550-Ka-SR.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1875" Verschiebung="-0.35;0;0" Winkel="180;0;0"/>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Mehrgleisausleger\Mehrgleisausleger_06m_820_Re160.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1875" Verschiebung="-0.65;0;0" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props Ausleger_rechts="&#39;TRUE&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5000-180-550-LK.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1875" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 			</Object>
 		</Objecte>
@@ -2314,27 +2317,33 @@
 				</Eintrag>
 			</Object>
 			<Object>
+				<Props Name="FL_Lehre" Offset="0;-10;0" Position="1800" Qualitaet="0"/>
+				<Eintrag>
+					<Props Abstand="1" Anzahl="200" Datei="\Objekte\Fahrleitung\ukl\FL-Lehren\Re160-Lehre.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="0;5.5;0" Winkel="0;0;0"/>
+				</Eintrag>
+			</Object>
+			<Object>
 				<Props Name="FL_1475" Offset="0;0;0" Position="0" Qualitaet="5"/>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1475" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5000-180-550-LK.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1775" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1575" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5000-180-550-KK.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1825" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1625" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelausleger\Re160\Ausleger_320_Re160-180-550-La-SR.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1874.599976" Verschiebung="0.4;0;0" Winkel="180;0;0"/>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1675" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5000-180-550-KK.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1875" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1725" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Props Abstand="100" Anzahl="3" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5000-180-550-KL.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1925" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1775" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Props Abstand="100" Anzahl="2" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5000-180-550-LK.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1975" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelausleger\Re160\Ausleger_200_Re160-180-550-Ka-SR.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1875" Verschiebung="0;0;0" Winkel="180;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2175" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 			</Object>
 		</Objecte>
