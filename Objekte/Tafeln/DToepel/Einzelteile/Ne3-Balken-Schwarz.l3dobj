@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="" FileInfo="" FilePicture="" Texture="Ne3-Balken-Schwarz.bmp" TransTexture="" Transparent="TRUE" TransparentTyp="1"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="0.04;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0.04;0.15;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.44;0.4;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.44;0.25;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="3,34;3,21;47,3;47,15"/>
+	</Flaeche>
+</OBJECT>

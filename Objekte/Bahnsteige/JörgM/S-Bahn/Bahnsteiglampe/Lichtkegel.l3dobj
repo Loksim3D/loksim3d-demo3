@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="TRUE" Drawrueckseiten="FALSE" FileAuthor="" FileInfo="" FilePicture="" Texture="Lichtkegel.bmp" TransTexture="LichtkegelALPHA.bmp" Transparent="FALSE" TransparentTyp="3"/>
+	<Point>
+		<Props Normal="0;1;0" Vekt="-3;0.05;-3"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="-3;0.05;3"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="3;0.05;3"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="3;0.05;-3"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="3,197;3,1;198,1;198,197"/>
+	</Flaeche>
+</OBJECT>

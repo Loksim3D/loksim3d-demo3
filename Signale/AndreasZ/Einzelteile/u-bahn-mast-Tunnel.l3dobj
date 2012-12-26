@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<OBJECT>
+	<Props TransparentTyp="0" Beleuchtet="TRUE" Transparent="FALSE" FilePicture="" FileAuthor="" FileInfo="" Drawrueckseiten="TRUE" TransTexture="" Texture="u-bahn-mast-Tunnel.bmp"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0;5;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.1;5;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.1;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="0;0;0.1"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="0;5;0.1"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.1;5;0.1"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="0.1;0;0.1"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="1,360;2,0;13,1;12,361"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;6;5;4" Texture="1,360;2,0;12,3;12,360"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;2;6;7" Texture="4,361;3,0;13,3;10,360"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;1;0" Texture="1,360;2,1;12,2;11,360"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="1;5;6;2" Texture="4,18;0,0;12,1;12,11"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;3;0;4" Texture="4,355;3,341;11,342;10,357"/>
+	</Flaeche>
+</OBJECT>

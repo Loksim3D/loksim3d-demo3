@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="Andreas Zimmermann" FileInfo="U-Bahnhauptsignal mit kurzem Ausleger/nfür Tunnelbahnhöfe/n/nmögliche Stellungen: Hp0, Hp1, Hp2, Hp3" FilePicture="U-Bahn-Hauptsignal-Tunnel-hell-kA.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\u-bahn-halter-tunnel.l3dobj" Position="2.1;3;0" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\u-bahn-kasten-hell.l3dobj" Position="1.95;3.4;-0.2" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\u-bahn-kasten-hell.l3dobj" Position="1.95;3.75;-0.2" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\u-bahn-kasten-hell.l3dobj" Position="1.95;4.1;-0.2" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\u-bahn-kasten-hell.l3dobj" Position="1.95;3.05;-0.2" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\u-bahn-gruen.l3dobj" Position="1.96;4.39;-0.08" Rotation="0;0;0" ShowOn="Hp1" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\u-bahn-rot.l3dobj" Position="1.96;4.04;-0.08" Rotation="0;0;0" ShowOn="Hp0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\u-bahn-orange.l3dobj" Position="1.96;3.69;-0.08" Rotation="0;0;0" ShowOn="Hp2" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\u-bahn-orange.l3dobj" Position="1.96;3.34;-0.08" Rotation="0;0;0" ShowOn="SIG20" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\u-bahn-gruen.l3dobj" Position="1.96;4.39;-0.08" Rotation="0;0;0" ShowOn="Hp2" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\u-bahn-orange.l3dobj" Position="1.96;3.69;-0.08" Rotation="0;0;0" ShowOn="SIG20" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\u-bahn-gruen.l3dobj" Position="1.96;4.39;-0.08" Rotation="0;0;0" ShowOn="SIG20" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\scheingruen.l3dobj" Position="2.1;4.25;-0.22" Rotation="0;0;0" ShowOn="Hp1" ZoomFaktor="200"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\scheingruen.l3dobj" Position="2.1;4.25;-0.22" Rotation="0;0;0" ShowOn="Hp2" ZoomFaktor="200"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\scheingruen.l3dobj" Position="2.1;4.25;-0.22" Rotation="0;0;0" ShowOn="SIG20" ZoomFaktor="200"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\scheingelb.l3dobj" Position="2.1;3.55;-0.22" Rotation="0;0;0" ShowOn="Hp2" ZoomFaktor="200"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\scheingelb.l3dobj" Position="2.1;3.55;-0.22" Rotation="0;0;0" ShowOn="SIG20" ZoomFaktor="200"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\scheingelb.l3dobj" Position="2.1;3.2;-0.22" Rotation="0;0;0" ShowOn="SIG20" ZoomFaktor="200"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\scheinrot.l3dobj" Position="2.1;3.9;-0.22" Rotation="0;0;0" ShowOn="Hp0" ZoomFaktor="200"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\u-bahn-mastschild-Tunnel.l3dobj" Position="2.29;2.98;-0.04" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+</GRUPPENOBJECT>

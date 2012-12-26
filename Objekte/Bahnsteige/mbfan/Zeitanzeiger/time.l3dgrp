@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="© JPB 2010 &#47; mbfan 2012" FileInfo="Digitaler Zeitanzeiger/nmit 2 Displays pro Seite/nbasiert auf der Simulationszeit/n/n© JPB 2010/n© mbfan 2012" FilePicture="settable.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" Name="ETs\Gehäuse.l3dobj" Position="0;-0.3;-0.2" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\Halterung.l3dobj" Position="0.2;-0.1;-0.05" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ETs\Display.l3dobj" Position="0;-0.27;-0.19" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ETs\Display.l3dobj" Position="0.25;-0.27;-0.19" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ETs\Display.l3dobj" Position="0;-0.27;0.19" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ETs\Display.l3dobj" Position="0.25;-0.27;0.19" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText=":" Fonthoehe="0.1" GroupProperty="Zwischentext" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.175;-0.15;-0.2" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText=":" Fonthoehe="0.1" GroupProperty="Zwischentext" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.325;-0.15;-0.2" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText=":" Fonthoehe="0.1" GroupProperty="Zwischentext" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.325;-0.15;0.2" Rotation="180;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText=":" Fonthoehe="0.1" GroupProperty="Zwischentext" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.175;-0.15;0.2" Rotation="180;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="0" DynamicVisibility="(Simulation::ZeitInSekunden % 36000) &#47; 3600 == 0" FixedDynamicVisibility="TRUE" Fonthoehe="0.1" GroupProperty="Stundeneiner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.1;-0.15;-0.2" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="1" DynamicVisibility="(Simulation::ZeitInSekunden % 36000) &#47; 3600 == 1" FixedDynamicVisibility="TRUE" Fonthoehe="0.1" GroupProperty="Stundeneiner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.1;-0.15;-0.2" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="2" DynamicVisibility="(Simulation::ZeitInSekunden % 36000) &#47; 3600 == 2" FixedDynamicVisibility="TRUE" Fonthoehe="0.1" GroupProperty="Stundeneiner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.1;-0.15;-0.2" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="3" DynamicVisibility="(Simulation::ZeitInSekunden % 36000) &#47; 3600 == 3" FixedDynamicVisibility="TRUE" Fonthoehe="0.1" GroupProperty="Stundeneiner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.1;-0.15;-0.2" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="4" DynamicVisibility="(Simulation::ZeitInSekunden % 36000) &#47; 3600 == 4" FixedDynamicVisibility="TRUE" Fonthoehe="0.1" GroupProperty="Stundeneiner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.1;-0.15;-0.2" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="5" DynamicVisibility="(Simulation::ZeitInSekunden % 36000) &#47; 3600 == 5" FixedDynamicVisibility="TRUE" Fonthoehe="0.1" GroupProperty="Stundeneiner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.1;-0.15;-0.2" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="6" DynamicVisibility="(Simulation::ZeitInSekunden % 36000) &#47; 3600 == 6" FixedDynamicVisibility="TRUE" Fonthoehe="0.1" GroupProperty="Stundeneiner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.1;-0.15;-0.2" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="7" DynamicVisibility="(Simulation::ZeitInSekunden % 36000) &#47; 3600 == 7" FixedDynamicVisibility="TRUE" Fonthoehe="0.1" GroupProperty="Stundeneiner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.1;-0.15;-0.2" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="8" DynamicVisibility="(Simulation::ZeitInSekunden % 36000) &#47; 3600 == 8" FixedDynamicVisibility="TRUE" Fonthoehe="0.1" GroupProperty="Stundeneiner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.1;-0.15;-0.2" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="9" DynamicVisibility="(Simulation::ZeitInSekunden % 36000) &#47; 3600 == 9" FixedDynamicVisibility="TRUE" Fonthoehe="0.1" GroupProperty="Stundeneiner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.1;-0.15;-0.2" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="2" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="0" DynamicVisibility="Simulation::ZeitInSekunden &#47; 36000 == 0" FixedDynamicVisibility="TRUE" Fonthoehe="0.1" GroupProperty="Stundenzehner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.1;-0.15;-0.2" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="2" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="1" DynamicVisibility="Simulation::ZeitInSekunden &#47; 36000 == 1" FixedDynamicVisibility="TRUE" Fonthoehe="0.1" GroupProperty="Stundenzehner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.1;-0.15;-0.2" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="2" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="2" DynamicVisibility="Simulation::ZeitInSekunden &#47; 36000 == 2" FixedDynamicVisibility="TRUE" Fonthoehe="0.1" GroupProperty="Stundenzehner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.1;-0.15;-0.2" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="2" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="0" DynamicVisibility="(Simulation::ZeitInSekunden % 3600) &#47; 600 == 0" FixedDynamicVisibility="TRUE" Fonthoehe="0.1" GroupProperty="Minutenzehner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.25;-0.15;-0.2" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="2" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="1" DynamicVisibility="(Simulation::ZeitInSekunden % 3600) &#47; 600 == 1" FixedDynamicVisibility="TRUE" Fonthoehe="0.1" GroupProperty="Minutenzehner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.25;-0.15;-0.2" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="2" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="2" DynamicVisibility="(Simulation::ZeitInSekunden % 3600) &#47; 600 == 2" FixedDynamicVisibility="TRUE" Fonthoehe="0.1" GroupProperty="Minutenzehner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.25;-0.15;-0.2" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="2" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="3" DynamicVisibility="(Simulation::ZeitInSekunden % 3600) &#47; 600 == 3" FixedDynamicVisibility="TRUE" Fonthoehe="0.1" GroupProperty="Minutenzehner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.25;-0.15;-0.2" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="2" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="4" DynamicVisibility="(Simulation::ZeitInSekunden % 3600) &#47; 600 == 4" FixedDynamicVisibility="TRUE" Fonthoehe="0.1" GroupProperty="Minutenzehner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.25;-0.15;-0.2" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="2" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="5" DynamicVisibility="(Simulation::ZeitInSekunden % 3600) &#47; 600 == 5" FixedDynamicVisibility="TRUE" Fonthoehe="0.1" GroupProperty="Minutenzehner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.25;-0.15;-0.2" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="0" DynamicVisibility="(Simulation::ZeitInSekunden % 600) &#47; 60 == 0" FixedDynamicVisibility="FALSE" Fonthoehe="0.1" GroupProperty="Minuteneiner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.25;-0.15;-0.2" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="1" DynamicVisibility="(Simulation::ZeitInSekunden % 600) &#47; 60 == 1" FixedDynamicVisibility="TRUE" Fonthoehe="0.1" GroupProperty="Minuteneiner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.25;-0.15;-0.2" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="2" DynamicVisibility="(Simulation::ZeitInSekunden % 600) &#47; 60 == 2" FixedDynamicVisibility="FALSE" Fonthoehe="0.1" GroupProperty="Minuteneiner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.25;-0.15;-0.2" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="3" DynamicVisibility="(Simulation::ZeitInSekunden % 600) &#47; 60 == 3" FixedDynamicVisibility="FALSE" Fonthoehe="0.1" GroupProperty="Minuteneiner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.25;-0.15;-0.2" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="4" DynamicVisibility="(Simulation::ZeitInSekunden % 600) &#47; 60 == 4" FixedDynamicVisibility="FALSE" Fonthoehe="0.1" GroupProperty="Minuteneiner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.25;-0.15;-0.2" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="5" DynamicVisibility="(Simulation::ZeitInSekunden % 600) &#47; 60 == 5" FixedDynamicVisibility="FALSE" Fonthoehe="0.1" GroupProperty="Minuteneiner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.25;-0.15;-0.2" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="6" DynamicVisibility="(Simulation::ZeitInSekunden % 600) &#47; 60 == 6" FixedDynamicVisibility="FALSE" Fonthoehe="0.1" GroupProperty="Minuteneiner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.25;-0.15;-0.2" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="7" DynamicVisibility="(Simulation::ZeitInSekunden % 600) &#47; 60 == 7" FixedDynamicVisibility="FALSE" Fonthoehe="0.1" GroupProperty="Minuteneiner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.25;-0.15;-0.2" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="8" DynamicVisibility="(Simulation::ZeitInSekunden % 600) &#47; 60 == 8" FixedDynamicVisibility="FALSE" Fonthoehe="0.1" GroupProperty="Minuteneiner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.25;-0.15;-0.2" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="9" DynamicVisibility="(Simulation::ZeitInSekunden % 600) &#47; 60 == 9" FixedDynamicVisibility="FALSE" Fonthoehe="0.1" GroupProperty="Minuteneiner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.25;-0.15;-0.2" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="2" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="0" DynamicVisibility="(Simulation::ZeitInSekunden % 60) &#47; 10 == 0" FixedDynamicVisibility="FALSE" Fonthoehe="0.1" GroupProperty="Sekundenzehner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.4;-0.15;-0.2" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="2" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="1" DynamicVisibility="(Simulation::ZeitInSekunden % 60) &#47; 10 == 1" FixedDynamicVisibility="FALSE" Fonthoehe="0.1" GroupProperty="Sekundenzehner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.4;-0.15;-0.2" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="2" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="2" DynamicVisibility="(Simulation::ZeitInSekunden % 60) &#47; 10 == 2" FixedDynamicVisibility="FALSE" Fonthoehe="0.1" GroupProperty="Sekundenzehner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.4;-0.15;-0.2" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="2" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="3" DynamicVisibility="(Simulation::ZeitInSekunden % 60) &#47; 10 == 3" FixedDynamicVisibility="FALSE" Fonthoehe="0.1" GroupProperty="Sekundenzehner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.4;-0.15;-0.2" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="2" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="4" DynamicVisibility="(Simulation::ZeitInSekunden % 60) &#47; 10 == 4" FixedDynamicVisibility="FALSE" Fonthoehe="0.1" GroupProperty="Sekundenzehner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.4;-0.15;-0.2" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="2" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="5" DynamicVisibility="(Simulation::ZeitInSekunden % 60) &#47; 10 == 5" FixedDynamicVisibility="FALSE" Fonthoehe="0.1" GroupProperty="Sekundenzehner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.4;-0.15;-0.2" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="0" DynamicVisibility="Simulation::ZeitInSekunden % 10 == 0" FixedDynamicVisibility="FALSE" Fonthoehe="0.1" GroupProperty="Sekundeneiner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.4;-0.15;-0.2" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="1" DynamicVisibility="Simulation::ZeitInSekunden % 10 == 1" FixedDynamicVisibility="FALSE" Fonthoehe="0.1" GroupProperty="Sekundeneiner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.4;-0.15;-0.2" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="2" DynamicVisibility="Simulation::ZeitInSekunden % 10 == 2" FixedDynamicVisibility="FALSE" Fonthoehe="0.1" GroupProperty="Sekundeneiner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.4;-0.15;-0.2" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="3" DynamicVisibility="Simulation::ZeitInSekunden % 10 == 3" FixedDynamicVisibility="FALSE" Fonthoehe="0.1" GroupProperty="Sekundeneiner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.4;-0.15;-0.2" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="4" DynamicVisibility="Simulation::ZeitInSekunden % 10 == 4" FixedDynamicVisibility="FALSE" Fonthoehe="0.1" GroupProperty="Sekundeneiner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.4;-0.15;-0.2" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="5" DynamicVisibility="Simulation::ZeitInSekunden % 10 == 5" FixedDynamicVisibility="FALSE" Fonthoehe="0.1" GroupProperty="Sekundeneiner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.4;-0.15;-0.2" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="6" DynamicVisibility="Simulation::ZeitInSekunden % 10 == 6" FixedDynamicVisibility="FALSE" Fonthoehe="0.1" GroupProperty="Sekundeneiner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.4;-0.15;-0.2" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="7" DynamicVisibility="Simulation::ZeitInSekunden % 10 == 7" FixedDynamicVisibility="FALSE" Fonthoehe="0.1" GroupProperty="Sekundeneiner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.4;-0.15;-0.2" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="8" DynamicVisibility="Simulation::ZeitInSekunden % 10 == 8" FixedDynamicVisibility="FALSE" Fonthoehe="0.1" GroupProperty="Sekundeneiner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.4;-0.15;-0.2" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="9" DynamicVisibility="Simulation::ZeitInSekunden % 10 == 9" FixedDynamicVisibility="FALSE" Fonthoehe="0.1" GroupProperty="Sekundeneiner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.4;-0.15;-0.2" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="2" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="0" DynamicVisibility="Simulation::ZeitInSekunden &#47; 36000 == 0" FixedDynamicVisibility="TRUE" Fonthoehe="0.1" GroupProperty="Stundenzehner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.4;-0.15;0.2" Rotation="180;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="2" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="1" DynamicVisibility="Simulation::ZeitInSekunden &#47; 36000 == 1" FixedDynamicVisibility="TRUE" Fonthoehe="0.1" GroupProperty="Stundenzehner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.4;-0.15;0.2" Rotation="180;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="2" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="2" DynamicVisibility="Simulation::ZeitInSekunden &#47; 36000 == 2" FixedDynamicVisibility="TRUE" Fonthoehe="0.1" GroupProperty="Stundenzehner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.4;-0.15;0.2" Rotation="180;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="0" DynamicVisibility="(Simulation::ZeitInSekunden % 36000) &#47; 3600 == 0" FixedDynamicVisibility="TRUE" Fonthoehe="0.1" GroupProperty="Stundeneiner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.4;-0.15;0.2" Rotation="180;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="1" DynamicVisibility="(Simulation::ZeitInSekunden % 36000) &#47; 3600 == 1" FixedDynamicVisibility="TRUE" Fonthoehe="0.1" GroupProperty="Stundeneiner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.4;-0.15;0.2" Rotation="180;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="2" DynamicVisibility="(Simulation::ZeitInSekunden % 36000) &#47; 3600 == 2" FixedDynamicVisibility="TRUE" Fonthoehe="0.1" GroupProperty="Stundeneiner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.4;-0.15;0.2" Rotation="180;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="3" DynamicVisibility="(Simulation::ZeitInSekunden % 36000) &#47; 3600 == 3" FixedDynamicVisibility="TRUE" Fonthoehe="0.1" GroupProperty="Stundeneiner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.4;-0.15;0.2" Rotation="180;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="4" DynamicVisibility="(Simulation::ZeitInSekunden % 36000) &#47; 3600 == 4" FixedDynamicVisibility="TRUE" Fonthoehe="0.1" GroupProperty="Stundeneiner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.4;-0.15;0.2" Rotation="180;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="5" DynamicVisibility="(Simulation::ZeitInSekunden % 36000) &#47; 3600 == 5" FixedDynamicVisibility="TRUE" Fonthoehe="0.1" GroupProperty="Stundeneiner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.4;-0.15;0.2" Rotation="180;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="6" DynamicVisibility="(Simulation::ZeitInSekunden % 36000) &#47; 3600 == 6" FixedDynamicVisibility="TRUE" Fonthoehe="0.1" GroupProperty="Stundeneiner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.4;-0.15;0.2" Rotation="180;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="7" DynamicVisibility="(Simulation::ZeitInSekunden % 36000) &#47; 3600 == 7" FixedDynamicVisibility="TRUE" Fonthoehe="0.1" GroupProperty="Stundeneiner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.4;-0.15;0.2" Rotation="180;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="8" DynamicVisibility="(Simulation::ZeitInSekunden % 36000) &#47; 3600 == 8" FixedDynamicVisibility="TRUE" Fonthoehe="0.1" GroupProperty="Stundeneiner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.4;-0.15;0.2" Rotation="180;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="9" DynamicVisibility="(Simulation::ZeitInSekunden % 36000) &#47; 3600 == 9" FixedDynamicVisibility="TRUE" Fonthoehe="0.1" GroupProperty="Stundeneiner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.4;-0.15;0.2" Rotation="180;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="2" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="0" DynamicVisibility="(Simulation::ZeitInSekunden % 3600) &#47; 600 == 0" FixedDynamicVisibility="TRUE" Fonthoehe="0.1" GroupProperty="Minutenzehner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.25;-0.15;0.2" Rotation="180;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="2" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="1" DynamicVisibility="(Simulation::ZeitInSekunden % 3600) &#47; 600 == 1" FixedDynamicVisibility="TRUE" Fonthoehe="0.1" GroupProperty="Minutenzehner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.25;-0.15;0.2" Rotation="180;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="2" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="2" DynamicVisibility="(Simulation::ZeitInSekunden % 3600) &#47; 600 == 2" FixedDynamicVisibility="TRUE" Fonthoehe="0.1" GroupProperty="Minutenzehner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.25;-0.15;0.2" Rotation="180;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="2" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="3" DynamicVisibility="(Simulation::ZeitInSekunden % 3600) &#47; 600 == 3" FixedDynamicVisibility="TRUE" Fonthoehe="0.1" GroupProperty="Minutenzehner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.25;-0.15;0.2" Rotation="180;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="2" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="4" DynamicVisibility="(Simulation::ZeitInSekunden % 3600) &#47; 600 == 4" FixedDynamicVisibility="TRUE" Fonthoehe="0.1" GroupProperty="Minutenzehner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.25;-0.15;0.2" Rotation="180;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="2" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="5" DynamicVisibility="(Simulation::ZeitInSekunden % 3600) &#47; 600 == 5" FixedDynamicVisibility="TRUE" Fonthoehe="0.1" GroupProperty="Minutenzehner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.25;-0.15;0.2" Rotation="180;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="0" DynamicVisibility="(Simulation::ZeitInSekunden % 600) &#47; 60 == 0" FixedDynamicVisibility="TRUE" Fonthoehe="0.1" GroupProperty="Minuteneiner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.25;-0.15;0.2" Rotation="180;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="1" DynamicVisibility="(Simulation::ZeitInSekunden % 600) &#47; 60 == 1" FixedDynamicVisibility="FALSE" Fonthoehe="0.1" GroupProperty="Minuteneiner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.25;-0.15;0.2" Rotation="180;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="2" DynamicVisibility="(Simulation::ZeitInSekunden % 600) &#47; 60 == 2" FixedDynamicVisibility="FALSE" Fonthoehe="0.1" GroupProperty="Minuteneiner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.25;-0.15;0.2" Rotation="180;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="3" DynamicVisibility="(Simulation::ZeitInSekunden % 600) &#47; 60 == 3" FixedDynamicVisibility="FALSE" Fonthoehe="0.1" GroupProperty="Minuteneiner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.25;-0.15;0.2" Rotation="180;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="4" DynamicVisibility="(Simulation::ZeitInSekunden % 600) &#47; 60 == 4" FixedDynamicVisibility="FALSE" Fonthoehe="0.1" GroupProperty="Minuteneiner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.25;-0.15;0.2" Rotation="180;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="5" DynamicVisibility="(Simulation::ZeitInSekunden % 600) &#47; 60 == 5" FixedDynamicVisibility="TRUE" Fonthoehe="0.1" GroupProperty="Minuteneiner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.25;-0.15;0.2" Rotation="180;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="6" DynamicVisibility="(Simulation::ZeitInSekunden % 600) &#47; 60 == 6" FixedDynamicVisibility="FALSE" Fonthoehe="0.1" GroupProperty="Minuteneiner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.25;-0.15;0.2" Rotation="180;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="7" DynamicVisibility="(Simulation::ZeitInSekunden % 600) &#47; 60 == 7" FixedDynamicVisibility="FALSE" Fonthoehe="0.1" GroupProperty="Minuteneiner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.25;-0.15;0.2" Rotation="180;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="8" DynamicVisibility="(Simulation::ZeitInSekunden % 600) &#47; 60 == 8" FixedDynamicVisibility="FALSE" Fonthoehe="0.1" GroupProperty="Minuteneiner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.25;-0.15;0.2" Rotation="180;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="9" DynamicVisibility="(Simulation::ZeitInSekunden % 600) &#47; 60 == 9" FixedDynamicVisibility="FALSE" Fonthoehe="0.1" GroupProperty="Minuteneiner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.25;-0.15;0.2" Rotation="180;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="2" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="0" DynamicVisibility="(Simulation::ZeitInSekunden % 60) &#47; 10 == 0" FixedDynamicVisibility="FALSE" Fonthoehe="0.1" GroupProperty="Sekundenzehner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.1;-0.15;0.2" Rotation="180;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="2" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="1" DynamicVisibility="(Simulation::ZeitInSekunden % 60) &#47; 10 == 1" FixedDynamicVisibility="FALSE" Fonthoehe="0.1" GroupProperty="Sekundenzehner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.1;-0.15;0.2" Rotation="180;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="2" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="2" DynamicVisibility="(Simulation::ZeitInSekunden % 60) &#47; 10 == 2" FixedDynamicVisibility="FALSE" Fonthoehe="0.1" GroupProperty="Sekundenzehner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.1;-0.15;0.2" Rotation="180;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="2" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="3" DynamicVisibility="(Simulation::ZeitInSekunden % 60) &#47; 10 == 3" FixedDynamicVisibility="FALSE" Fonthoehe="0.1" GroupProperty="Sekundenzehner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.1;-0.15;0.2" Rotation="180;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="2" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="4" DynamicVisibility="(Simulation::ZeitInSekunden % 60) &#47; 10 == 4" FixedDynamicVisibility="FALSE" Fonthoehe="0.1" GroupProperty="Sekundenzehner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.1;-0.15;0.2" Rotation="180;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="2" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="5" DynamicVisibility="(Simulation::ZeitInSekunden % 60) &#47; 10 == 5" FixedDynamicVisibility="FALSE" Fonthoehe="0.1" GroupProperty="Sekundenzehner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.1;-0.15;0.2" Rotation="180;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="0" DynamicVisibility="Simulation::ZeitInSekunden % 10 == 0" FixedDynamicVisibility="FALSE" Fonthoehe="0.1" GroupProperty="Sekundeneiner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.1;-0.15;0.2" Rotation="180;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="1" DynamicVisibility="Simulation::ZeitInSekunden % 10 == 1" FixedDynamicVisibility="FALSE" Fonthoehe="0.1" GroupProperty="Sekundeneiner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.1;-0.15;0.2" Rotation="180;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="2" DynamicVisibility="Simulation::ZeitInSekunden % 10 == 2" FixedDynamicVisibility="FALSE" Fonthoehe="0.1" GroupProperty="Sekundeneiner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.1;-0.15;0.2" Rotation="180;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="3" DynamicVisibility="Simulation::ZeitInSekunden % 10 == 3" FixedDynamicVisibility="FALSE" Fonthoehe="0.1" GroupProperty="Sekundeneiner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.1;-0.15;0.2" Rotation="180;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="4" DynamicVisibility="Simulation::ZeitInSekunden % 10 == 4" FixedDynamicVisibility="FALSE" Fonthoehe="0.1" GroupProperty="Sekundeneiner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.1;-0.15;0.2" Rotation="180;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="5" DynamicVisibility="Simulation::ZeitInSekunden % 10 == 5" FixedDynamicVisibility="FALSE" Fonthoehe="0.1" GroupProperty="Sekundeneiner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.1;-0.15;0.2" Rotation="180;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="6" DynamicVisibility="Simulation::ZeitInSekunden % 10 == 6" FixedDynamicVisibility="FALSE" Fonthoehe="0.1" GroupProperty="Sekundeneiner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.1;-0.15;0.2" Rotation="180;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="7" DynamicVisibility="Simulation::ZeitInSekunden % 10 == 7" FixedDynamicVisibility="FALSE" Fonthoehe="0.1" GroupProperty="Sekundeneiner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.1;-0.15;0.2" Rotation="180;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="8" DynamicVisibility="Simulation::ZeitInSekunden % 10 == 8" FixedDynamicVisibility="FALSE" Fonthoehe="0.1" GroupProperty="Sekundeneiner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.1;-0.15;0.2" Rotation="180;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="9" DynamicVisibility="Simulation::ZeitInSekunden % 10 == 9" FixedDynamicVisibility="FALSE" Fonthoehe="0.1" GroupProperty="Sekundeneiner" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.1;-0.15;0.2" Rotation="180;0;0" Vertikal="FALSE"/>
+	</Font>
+</GRUPPENOBJECT>

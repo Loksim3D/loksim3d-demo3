@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<GRUPPENOBJECT>
+	<Props FilePicture="" FileAuthor="Andreas Zimmermann" FileInfo="Treppenaufgang/nan der Station Otto-von-Berg-Straße"/>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Stufe.l3dobj" Position="0;0;0"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Stufe.l3dobj" Position="0;0.2;0.25"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Stufe.l3dobj" Position="0;0.4;0.5"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Stufe.l3dobj" Position="0;0.6;0.75"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Stufe.l3dobj" Position="0;0.8;1"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Stufe.l3dobj" Position="0;1;1.25"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Stufe.l3dobj" Position="0;1.2;1.5"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Stufe.l3dobj" Position="0;1.4;1.75"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Stufe.l3dobj" Position="0;1.6;2"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Stufe.l3dobj" Position="0;1.8;2.25"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Stufe.l3dobj" Position="0;2;2.5"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Stufe.l3dobj" Position="0;2.2;2.75"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Stufe.l3dobj" Position="0;2.4;3"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Stufe.l3dobj" Position="0;2.6;3.2"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Stufe.l3dobj" Position="0;2.8;3.5"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Stufe.l3dobj" Position="0;3;3.75"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Stufe.l3dobj" Position="0;3.2;4"/>
+	</Object>
+	<Object>
+		<Props Rotation="90;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Betonwand.l3dobj" Position="2;0;10.2"/>
+	</Object>
+	<Object>
+		<Props Rotation="90;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Betonwand.l3dobj" Position="0;0;10.2"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;-40" BlinkIntervall="0" ZoomFaktor="1" Name="Geländer.l3dobj" Position="0;0.9;0"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;-40" BlinkIntervall="0" ZoomFaktor="1" Name="Geländer.l3dobj" Position="1.95;0.9;0"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Stufe.l3dobj" Position="0;3.4;4.25"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Stufe.l3dobj" Position="0;3.6;4.5"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Stufe.l3dobj" Position="0;3.8;4.75"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Stufe.l3dobj" Position="0;4;5"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Stufe.l3dobj" Position="0;4.2;5.25"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Stufe.l3dobj" Position="0;4.4;5.5"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Stufe.l3dobj" Position="0;4.6;5.75"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Stufe.l3dobj" Position="0;4.8;6"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Wand-Otto-von-Berg-Str2.l3dobj" Position="-1;0;0.2"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Wand-Otto-von-Berg-Str2.l3dobj" Position="2;0;0.2"/>
+	</Object>
+</GRUPPENOBJECT>

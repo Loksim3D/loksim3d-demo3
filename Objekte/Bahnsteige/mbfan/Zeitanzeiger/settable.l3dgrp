@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="© JPB 2010 &#47; mbfan 2012" FileInfo="Digitaler Zeitanzeiger/nmit 2 Displays pro Seite/neinstellbar/n/nauch als kleiner Info-Anzeiger verwendbar:/nText bei &#34;Minute&#34; eingeben, &#34;Zwischentext&#34; auf &#34; &#34; stellen./n/n© JPB 2010/n© mbfan 2012" FilePicture="settable.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" Name="ETs\Gehäuse.l3dobj" Position="0;-0.3;-0.2" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\Halterung.l3dobj" Position="0.2;-0.1;-0.05" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ETs\Display.l3dobj" Position="0;-0.27;-0.19" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ETs\Display.l3dobj" Position="0.25;-0.27;-0.19" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ETs\Display.l3dobj" Position="0;-0.27;0.19" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ETs\Display.l3dobj" Position="0.25;-0.27;0.19" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Font>
+		<Props AlignHorz="2" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="" Fonthoehe="0.1" GroupProperty="Stunde" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.15;-0.15;-0.2" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="" Fonthoehe="0.1" GroupProperty="Minute" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.25;-0.15;-0.2" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="" Fonthoehe="0.1" GroupProperty="Sekunde" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.35;-0.15;-0.2" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText=":" Fonthoehe="0.1" GroupProperty="Zwischentext" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.175;-0.15;-0.2" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText=":" Fonthoehe="0.1" GroupProperty="Zwischentext" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.325;-0.15;-0.2" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="2" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="" Fonthoehe="0.1" GroupProperty="Stunde" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.35;-0.15;0.2" Rotation="180;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="" Fonthoehe="0.1" GroupProperty="Minute" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.25;-0.15;0.2" Rotation="180;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="" Fonthoehe="0.1" GroupProperty="Sekunde" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.15;-0.15;0.2" Rotation="180;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText=":" Fonthoehe="0.1" GroupProperty="Zwischentext" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.325;-0.15;0.2" Rotation="180;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText=":" Fonthoehe="0.1" GroupProperty="Zwischentext" Leuchtend="TRUE" Name="\objekte\Bahnsteige\JPB\Zugzielanzeiger\Einzelteile\ZZA_2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.175;-0.15;0.2" Rotation="180;0;0" Vertikal="FALSE"/>
+	</Font>
+</GRUPPENOBJECT>

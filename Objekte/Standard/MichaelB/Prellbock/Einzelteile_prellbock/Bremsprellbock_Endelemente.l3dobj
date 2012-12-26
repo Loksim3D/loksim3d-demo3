@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="Michael Buhmann" FileInfo="Endbremselement zum Bremsprellbock" FilePicture="" Texture="Bremsprellbock_Bremselemente.bmp" TransTexture="" Transparent="TRUE" TransparentTyp="1"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="-0.8;0.38;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="-0.8;0.38;1"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.8;0.38;1"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.8;0.38;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="-0.8;0.38;0.9"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="0.8;0.38;0.9"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.8;0.28;0.9"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="-0.8;0.28;0.9"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="3,117;3,53;132,53;132,117"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;6;5;4" Texture="98,64;35,64;35,54;97,54"/>
+	</Flaeche>
+</OBJECT>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="Michael Buhmann" FileInfo="ET zum Puffer" FilePicture="" Texture="Bremsprellbock.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0;0.4;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.4;0.4;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.4;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="0;0;0.05"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="0;0.4;0.05"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.4;0.4;0.05"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="0.4;0;0.05"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="54,197;54,156;85,156;85,197"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;6;5;4" Texture="127,118;127,102;156,104;160,119"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;2;6;7" Texture="220,210;221,168;216,168;216,210"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;1;0" Texture="216,209;216,168;221,169;220,209"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="1;5;6;2" Texture="220,209;217,209;217,171;221,171"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;7;4;0" Texture="123,95;126,119;158,119;153,95"/>
+	</Flaeche>
+</OBJECT>

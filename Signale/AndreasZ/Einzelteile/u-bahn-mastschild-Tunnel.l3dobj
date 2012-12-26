@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<OBJECT>
+	<Props TransparentTyp="0" Beleuchtet="TRUE" Transparent="FALSE" FilePicture="" FileAuthor="" FileInfo="" Drawrueckseiten="FALSE" TransTexture="" Texture="u-bahn-mastschild.bmp"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0;0.4;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.1;0.4;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.1;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="0;0.4;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.1;0.4;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="0.1;0;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="0,137;0,0;34,0;34,137"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;6;5;4" Texture="50,100;51,16;79,9;74,104"/>
+	</Flaeche>
+</OBJECT>

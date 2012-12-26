@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="Nicolas Reuter" FileInfo="Tunnelwand, erstellt aus einem Modell von Andreas Z." FilePicture=""/>
+	<Object>
+		<Props BlinkIntervall="0" Name="Wand-Tunnelhaltestelle I.l3dobj" Position="0;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="Hohenstein Holzhausen" Fonthoehe="0.4" GroupProperty="TEXT" Leuchtend="FALSE" Name="\Fonts\AndreasZ\DIN 1451.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="2.9;4.85;5.1" Rotation="90;0;0"/>
+	</Font>
+</GRUPPENOBJECT>

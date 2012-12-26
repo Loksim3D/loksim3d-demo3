@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="" FileInfo="" FilePicture="" Texture="Decke-Bismarckring.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="1;1;1" Vekt="4;5.9;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="4;5.9;10.5"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="-14;5.9;10.5"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="-14;5.9;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="551,370;7,370;5,3;551,3"/>
+	</Flaeche>
+</OBJECT>

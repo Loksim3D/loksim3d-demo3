@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="Andreas Zimmermann" FileInfo="U-Bahnhauptsignal mit kurzem Ausleger/nfür Tunnelbahnhöfe/n/nmögliche Stellungen: Hp0, Hp1, Hp2, Hp3" FilePicture="U-Bahn-Hauptsignal-Tunnel-hell-kA.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\u-bahn-halter-tunnel3.l3dobj" Position="2.5;3;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\u-bahn-kasten-hell.l3dobj" Position="2.35;3.4;-0.2" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\u-bahn-kasten-hell.l3dobj" Position="2.35;3.75;-0.2" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\u-bahn-kasten-hell.l3dobj" Position="2.35;4.1;-0.2" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\u-bahn-kasten-hell.l3dobj" Position="2.35;3.05;-0.2" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\u-bahn-rot.l3dobj" Position="2.36;4.04;-0.08" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\scheinrot.l3dobj" Position="2.5;3.9;-0.22" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="200"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\u-bahn-mastschild-Tunnel.l3dobj" Position="2.69;2.98;-0.04" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+</GRUPPENOBJECT>

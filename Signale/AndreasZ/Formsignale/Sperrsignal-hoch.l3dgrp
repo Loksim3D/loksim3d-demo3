@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<GRUPPENOBJECT>
+	<Props FilePicture="Sperrsignal-hoch.l3dgrp.jpg" FileAuthor="Andreas Zimmermann" FileInfo="Sperrsignal, hoch/n/nmögliche Stellungen: Sh0, Sh1/n/nOriginal:           (c) by Sebastian Leonow/nBearbeitung:  (c) by Andreas Zimmermann, 29.10.2004"/>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Einzelteile\formsperrsignalschirm.l3dobj" Position="2.7;4;-0.1"/>
+	</Object>
+	<Object>
+		<Props Rotation="180;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="\Signale\Einzelteile\formsperrsignalmast.l3dobj" Position="2.7;0;0.4"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" ShowOn="Sh0" Name="Einzelteile\formsperrsignalfluegel.l3dobj" Position="2.7;4;-0.1"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;45;0" BlinkIntervall="0" ZoomFaktor="1" ShowOn="Sh1" Name="Einzelteile\formsperrsignalfluegel.l3dobj" Position="3;4.1;-0.1"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="\Signale\Einzelteile\kasten1.l3dobj" Position="2.7;-0.3;0.3"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Einzelteile\formsperrsignalschirm2.l3dobj" Position="2.7;4;-0.1"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Einzelteile\formsperrsignalschirm3.l3dobj" Position="2.7;4.76;0.35"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Einzelteile\Sockel.l3dobj" Position="2.5;-2.9;0.15"/>
+	</Object>
+</GRUPPENOBJECT>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="TRUE" Drawrueckseiten="TRUE" FileAuthor="Andreas Zimmermann" FileInfo="U-Bahnsteig/n/nLänge 10,0 m/nBreite 4,4 m" FilePicture="U-Bahn-2_seite_10m.l3dobj.jpg" Texture="U-Bahn-4_mitte_10m.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="-4;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="-4;0.9;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="-7;0.9;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="-7;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="-4;0;10.03"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="-4;0.9;10.03"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="-7;0.9;10.03"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="-7;0;10.03"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="-4;0.9;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="-4;1.2;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="-4;0.9;10.03"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="-4;1.2;10.03"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="-8.4;0.9;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="-8.4;1.2;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="-8.4;0.9;10.03"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="-8.4;1.2;10.03"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="296,377;6,377;6,318;296,319"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;6;5;4" Texture="3,379;3,316;296,316;296,379"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;2;6;7" Texture="4,376;4,320;292,320;292,376"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;1;0" Texture="4,377;4,319;295,319;296,377"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="12;8;10;14" Texture="290,318;297,379;7,379;6,317"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="13;9;11;15" Texture="378,2;378,201;2,201;2,2"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="15;14;10;11" Texture="289,318;288,375;13,372;11,324"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="11;10;8;9" Texture="287,255;287,302;5,302;5,255"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="8;9;13;12" Texture="290,320;11,324;11,370;293,372"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="13;12;14;15" Texture="287,253;289,303;9,303;9,253"/>
+	</Flaeche>
+</OBJECT>

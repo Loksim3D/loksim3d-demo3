@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<OBJECT>
+	<Props TransparentTyp="1" Beleuchtet="TRUE" Transparent="TRUE" FilePicture="" FileAuthor="Andreas Zimmermann" FileInfo="" Drawrueckseiten="TRUE" TransTexture="" Texture="u-bahn-kasten-dunkel.bmp"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0;0.3;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.3;0.3;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.3;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="0;0;0.3"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="0;0.3;0.3"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.3;0.3;0.3"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="0.3;0;0.3"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.02;0.02;0.05"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.02;0.28;0.05"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.28;0.28;0.05"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.28;0.02;0.05"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="0,128;0,43;85,43;85,128"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;6;5;4" Texture="13,46;5,4;85,5;87,43"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;2;6;7" Texture="17,42;14,8;80,13;86,43"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;1;0" Texture="26,32;8,8;81,6;82,38"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="1;5;6;2" Texture="16,41;21,12;79,9;74,40"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;3;0;4" Texture="9,38;5,4;89,4;85,41"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="11;10;9;8" Texture="126,2;126,48;99,48;99,3"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="1;9;8;0" Texture="124,1;124,49;101,48;98,3"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="0;3;11;8" Texture="126,1;126,50;98,50;98,1"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;11;10;2" Texture="124,3;124,49;100,49;100,2"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="2;1;9;10" Texture="124,2;124,48;99,48;99,2"/>
+	</Flaeche>
+</OBJECT>

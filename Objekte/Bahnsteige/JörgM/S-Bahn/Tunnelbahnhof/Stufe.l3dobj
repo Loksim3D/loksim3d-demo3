@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="" FileInfo="" FilePicture="" Texture="U-Bahn-1_mitte_10m.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0;0.2;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="2;0.2;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="2;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="0;0;0.3"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="0;0.2;0.3"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="2;0.2;0.3"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="2;0;0.3"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="0,57;1,22;101,22;101,57"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;6;5;4" Texture="0,100;0,39;97,37;100,100"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;2;6;7" Texture="0,100;2,39;99,39;100,100"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;1;0" Texture="0,100;3,32;100,31;100,100"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="1;5;6;2" Texture="1,25;2,56;111,56;111,25"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;3;0;4" Texture="0,100;2,33;101,33;100,100"/>
+	</Flaeche>
+</OBJECT>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<GRUPPENOBJECT>
+	<Props FilePicture="U-Bahn-Fahrsperre-Tunnel.l3dgrp.jpg" FileAuthor="Andreas Zimmermann" FileInfo="Das Original stammt von Sebastian Kircher !/n/nU-Bahn-Fahrsperre/nverschmutzt, für Tunnelstrecken"/>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Indusimagnet_modern.l3dobj" Position="0.45;0.1;0"/>
+	</Object>
+</GRUPPENOBJECT>

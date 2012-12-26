@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="Michael Buhmann" FileInfo="ET zum Bremsprellbock/nT-Platte zum Seitenteil" FilePicture="" Texture="Bremsprellbock.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0;0.8;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.3;0.8;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.3;0;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="193,92;200,110;190,110;183,94"/>
+	</Flaeche>
+</OBJECT>

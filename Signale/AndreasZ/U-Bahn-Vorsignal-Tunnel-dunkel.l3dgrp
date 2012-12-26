@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<GRUPPENOBJECT>
+	<Props FilePicture="U-Bahn-Vorsignal-Tunnel-dunkel.l3dgrp.jpg" FileAuthor="Andreas Zimmermann" FileInfo="U-Bahnvorsignal /nfür Tunnelstrecken/n/nmögliche Stellungen: V0, V1, V2"/>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Einzelteile\u-bahn-halter-tunnel.l3dobj" Position="2.5;3;0"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Einzelteile\u-bahn-kasten-dunkel.l3dobj" Position="2.35;3.75;-0.2"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Einzelteile\u-bahn-kasten-dunkel.l3dobj" Position="2.35;4.1;-0.2"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" ShowOn="Vr0" Name="Einzelteile\u-bahn-orange.l3dobj" Position="2.36;4.39;-0.08"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" ShowOn="Vr2 or VSIG20" Name="Einzelteile\u-bahn-orange.l3dobj" Position="2.36;4.39;-0.08"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" ShowOn="Vr1" Name="Einzelteile\u-bahn-gruen.l3dobj" Position="2.36;4.04;-0.08"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="200" ShowOn="Vr2 or VSIG20" Name="Einzelteile\scheingelb.l3dobj" Position="2.5;4.25;-0.22"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="200" ShowOn="Vr1" Name="Einzelteile\scheingruen.l3dobj" Position="2.5;3.9;-0.22"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="200" ShowOn="Vr0" Name="Einzelteile\scheingelb.l3dobj" Position="2.5;4.25;-0.22"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="200" ShowOn="Vr2 or VSIG20" Name="Einzelteile\scheingruen.l3dobj" Position="2.5;3.9;-0.22"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" ShowOn="Vr2 or VSIG20" Name="Einzelteile\u-bahn-gruen.l3dobj" Position="2.36;4.04;-0.08"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Einzelteile\u-bahn-vr-tafel-dunkel.l3dobj" Position="2.35;3.1;-0.04"/>
+	</Object>
+</GRUPPENOBJECT>

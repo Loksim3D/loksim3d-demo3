@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<GRUPPENOBJECT>
+	<Props FilePicture="Vorsignal_hoch-1-gas.l3dgrp.jpg" FileAuthor="Andreas Zimmermann" FileInfo="Hohes Vorsignal/n/nmit Scheibe und Propangaslampen/nmögliche Stellungen: Vr0, Vr1/n/nOriginal:           (c) by Sebastian Leonow/nBearbeitung:  (c) by Andreas Zimmermann, 04.10.2004"/>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Einzelteile\vorsignalmast-hoch.l3dobj" Position="2.7;0;0"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="\Signale\Einzelteile\Vorsignalscheibe.l3dobj" Position="2.7;5.4;-0.05" HideOn="Vr1"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;180" BlinkIntervall="0" ZoomFaktor="1" ShowOn="Vr0" Name="Einzelteile\vorblende.l3dobj" Position="2.65;4.9;-0.03"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;180;180" BlinkIntervall="0" ZoomFaktor="1" Name="Einzelteile\vorblende.l3dobj" Position="2.73;3.9;-0.03" HideOn="Vr1"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Einzelteile\formgelb2.l3dobj" Position="2.32;3.95;-0.06" HideOn="Vr1"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" ShowOn="Vr0" Name="Einzelteile\formgelb2.l3dobj" Position="2.86;4.66;-0.06"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Einzelteile\vorblendeVr1.l3dobj" Position="2.65;4.6;-0.03" HideOn="Vr0"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;180;0" BlinkIntervall="0" ZoomFaktor="1" ShowOn="Vr1" Name="Einzelteile\vorblendeVr1.l3dobj" Position="2.69;4.22;-0.03"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" ShowOn="Vr1" Name="Einzelteile\formgruen2.l3dobj" Position="2.33;3.93;-0.06"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Einzelteile\formgruen2.l3dobj" Position="2.82;4.69;-0.06" HideOn="Vr0"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;83" BlinkIntervall="0" ZoomFaktor="1" ShowOn="Vr1" Name="\Signale\Einzelteile\Vorsignalscheibe.l3dobj" Position="2.7;5.41;0.05"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="\Signale\Einzelteile\mechvor1Vr0.l3dobj" Position="2.7;4.1;-0.05" HideOn="Vr1"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" ShowOn="Vr1" Name="\Signale\Einzelteile\mechvor1Vr1.l3dobj" Position="2.7;4;-0.05"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Einzelteile\NE2.l3dobj" Position="2.45;0.2;-0.8"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Einzelteile\gaslampe.l3dobj" Position="2.95;4.76;0.02"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Einzelteile\gaslampe.l3dobj" Position="2.42;4.05;0.02"/>
+	</Object>
+	<Object>
+		<Props Rotation="90;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Einzelteile\halterung.l3dobj" Position="2.98;4.7;0.1"/>
+	</Object>
+	<Object>
+		<Props Rotation="90;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Einzelteile\halterung.l3dobj" Position="2.7;3.99;0.1"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Einzelteile\gasflasche.l3dobj" Position="2.3;3.4;0.17"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Einzelteile\gasflasche.l3dobj" Position="2.8;4.1;0.17"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Einzelteile\Sockel.l3dobj" Position="2.5;-2.9;-0.125"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Einzelteile\Betonmast.l3dobj" Position="2.67;-1.1;-0.77"/>
+	</Object>
+	<Object>
+		<Props Rotation="180;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Einzelteile\weiss.l3dobj" Position="2.49;4.13;0.1"/>
+	</Object>
+	<Object>
+		<Props Rotation="180;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Einzelteile\weiss.l3dobj" Position="3.02;4.84;0.1"/>
+	</Object>
+</GRUPPENOBJECT>

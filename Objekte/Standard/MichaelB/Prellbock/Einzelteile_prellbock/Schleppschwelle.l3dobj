@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="Michael Buhmann" FileInfo="ET zum Bremsprellbock" FilePicture="" Texture="Bremsprellbock_Bremselemente.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="-1.2;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="-1.2;0.2;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="1.2;0.2;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="1.2;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="-1.2;0;0.3"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="-1.2;0.2;0.3"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="1.2;0.2;0.3"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="1.2;0;0.3"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0;0.2;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0;0.2;0.3"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="6,198;6,177;119,178;119,198"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;6;5;4" Texture="5,200;5,177;120,178;120,200"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;2;6;7" Texture="84,198;83,187;109,187;109,198"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;1;0" Texture="69,198;69,188;105,188;104,198"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="1;5;9;8" Texture="122,210;122,177;59,177;59,210"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="9;6;2;8" Texture="59,210;122,210;122,177;59,177"/>
+	</Flaeche>
+</OBJECT>

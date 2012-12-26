@@ -1,0 +1,952 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STRECKE>
+	<Props FileAuthor="Nicolas Reuter" FileDoku="" FileInfo="(c) mbfan 2012" FilePicture=""/>
+	<DefaulRail>
+		<Props File="\Rails\RainerH\flimmerfrei\16holzschwellen_schotter_normal.l3drail"/>
+	</DefaulRail>
+	<StdTexture>
+		<Props File=""/>
+	</StdTexture>
+	<Himmelsrichtung>
+		<Props Value="0"/>
+	</Himmelsrichtung>
+	<GLEIS>
+		<Props Name="Hauptgleis"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="2000" ParallelAbstand="-10" ParallelEnd="0" ParallelGleis="" ParallelStart="0" StartPos="0" StartPunkt="0;0;0" Typ="Normal" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
+			</Erstellung>
+			<KURVE>
+				<Props Ende="850" SanfterWinkel="TRUE" Start="160" Winkel="22"/>
+			</KURVE>
+			<KURVE>
+				<Props Ende="1304" SanfterWinkel="TRUE" Start="1010" Winkel="-28"/>
+			</KURVE>
+			<KURVE>
+				<Props Ende="1482" SanfterWinkel="TRUE" Start="1300" Winkel="7.16"/>
+			</KURVE>
+			<KURVE>
+				<Props Ende="1770" SanfterWinkel="TRUE" Start="1482" Winkel="-11.2"/>
+			</KURVE>
+		</TOPOLOGIE>
+		<Objecte>
+			<Object>
+				<Props Name="Waldstadt" Offset="0;0;0" Position="0" Qualitaet="0" RollMaterial="FALSE"/>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="16" Datei="\Objekte\Bahnsteige\AndreasZ\U-Bahn-2_seite_10m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="9.8;-0.2;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="62"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="16" Datei="\Objekte\Bahnsteige\AndreasZ\U-Bahn-2_seite_10m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="10" Verschiebung="1.8;-0.2;0" WeitSichtbar="TRUE" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="61"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="16" Datei="\Objekte\Bahnsteige\mbfan\Tunnel\Wand mit Text.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="5;-1.5;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="64"/>
+					</Lightning>
+					<Eigenschaften>
+						<Props TEXT="&#39;Waldstadt&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Ausgang-Stadtmitte.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="8;1;0" WeitSichtbar="TRUE" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="59"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="9.97" Anzahl="16" Datei="\Objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Decke-Bismarckring.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="4;-0.42;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="61"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Ausgang-Stadtmitte.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="159.800003" Verschiebung="6;1;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="62"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="16" Datei="\Objekte\Bahnsteige\mbfan\Tunnel\Wand mit Text.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="10" Verschiebung="0;-1.5;0" WeitSichtbar="TRUE" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="64"/>
+					</Lightning>
+					<Eigenschaften>
+						<Props TEXT="&#39;Waldstadt&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="1" Datei="\Objekte\Bahnsteige\mbfan\Tunnel\Wand mit Text.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="3" Verschiebung="-4;-1.5;0" WeitSichtbar="TRUE" Winkel="90;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="64"/>
+					</Lightning>
+					<Eigenschaften>
+						<Props TEXT="&#39;Waldstadt&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_uebergang_roehre_kasten.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="160" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_uebergang_roehre_kasten.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="160" Verschiebung="0;0;0" Winkel="180;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_uebergang_roehre_kasten.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="160" Verschiebung="-6.95;0;0" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="Waldstadt 2" Offset="0;0;0" Position="0" Qualitaet="3" RollMaterial="FALSE"/>
+				<Eintrag>
+					<Props Abstand="6" Anzahl="26" Datei="\Objekte\Bahnsteige\JörgM\S-Bahn\Bahnsteiglampe\Bahnsteiglampe1.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="5" Verschiebung="5;1.7;0" WeitSichtbar="FALSE" Winkel="90;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="30" Anzahl="4" Datei="\Objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\NBS_Bank_Fpl.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="60" Verschiebung="9;0;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="68"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\RainerZ\Werbung\Werbung_var2.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="20" Verschiebung="5;1;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props 6="&#39;TRUE&#39;"/>
+					</Eigenschaften>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="69"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\RainerZ\Werbung\Werbung_var2.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="60" Verschiebung="5;1;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props 3="&#39;TRUE&#39;"/>
+					</Eigenschaften>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="66"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\RainerZ\Werbung\Werbung_var2.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="100" Verschiebung="5;1;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props 9="&#39;TRUE&#39;"/>
+					</Eigenschaften>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="65"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\RainerZ\Werbung\Werbung_var2.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="140" Verschiebung="5;1;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props 10="&#39;TRUE&#39;"/>
+					</Eigenschaften>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="70"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bruecken\Frieder\ET\BrueckeBernheim\NBS_Aufzug.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="7" Verschiebung="5;1;0" WeitSichtbar="FALSE" Winkel="180;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bruecken\Frieder\ET\BrueckeBernheim\NBS_Aufzug_Mitte.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="7" Verschiebung="5;4.3;0" WeitSichtbar="FALSE" Winkel="180;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\RainerZ\Bahnsteigschild-mH.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="158" Verschiebung="7;2;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props TEXT="&#39;Ausgang&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="32" Anzahl="4" Datei="\Objekte\Bahnsteige\JPB\Zugzielanzeiger\ZZA_digital_S5_mitGleis.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="32" Verschiebung="2.5;5.2;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props Ab_in_1="&#39;in 0 Min&#39;" Abfahrtszeit="&#39;SE 32&#39;" Abfahrtszeit_1="&#39;W 3&#39;" Abfahrtszeit_2="&#39;W 3&#39;" Ankunftszeit="&#39;in 10 min.&#39;" Bahnsteig-Nr.="&#39;4&#39;" Gleis="&#39;1&#39;" Gleis_Nr="&#39;1&#39;" Linie="&#39;U 1&#39;" TEXT="&#39;Hauptbahnhof&#39;" Zeit_1="&#39;W 1&#39;" Zeit_2="&#39;W 1&#39;" Ziel="&#39;Hauptbahnhof&#39;" Ziel_1="&#39;WI Frauenstein&#39;" Ziel_2="&#39;WI Frauenstein&#39;" Zug_Nr._1="&#39;in 0 Min&#39;" Zug_Nr._2="&#39;in 30 Min.&#39;" Zuggattung+Nr="&#39;in 0 Min.&#39;" Zuggattung+Nr_1="&#39;in 0 min.&#39;" Zuggattung+Nr_2="&#39;in 30 min.&#39;" Zuglauf="&#39;Flughafen - Fachhochschule - Luisenplatz - HBF&#39;" Zuglauf_1="&#39;Erbenheim - HBF - FHS - Sonnenberg&#39;" Zuglauf_2="&#39;Erbenheim - HBF - FHS - Sonnenberg&#39;" Zugziel="&#39;Nürnberger Platz&#39;" Zugziel_1="&#39;Wiesbaden Ost&#39;" Zugziel_2="&#39;Wiesbaden Ost&#39;" wagenstand="&#39;1111&#39;" Über="&#39;Goethealle - Stadtmitte&#39;" Über_1_1="&#39;West&#39;" Über_2="&#39;West&#39;"/>
+					</Eigenschaften>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="67"/>
+					</Lightning>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="Tunnel" Offset="0;0;0" Position="0" Qualitaet="2"/>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="69" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_roehre_10m_1gl.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="160" Verschiebung="0;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="77" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_roehre_10m_1gl.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1010" Verschiebung="0;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="6" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_roehre_10m_1gl.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1940" Verschiebung="0;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="Alfred-Delp-Straße" Offset="0;0;0" Position="850" Qualitaet="1" RollMaterial="FALSE"/>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="16" Datei="\Objekte\Bahnsteige\AndreasZ\U-Bahn-2_seite_10m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="9.8;-0.2;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="62"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="16" Datei="\Objekte\Bahnsteige\AndreasZ\U-Bahn-2_seite_10m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="10" Verschiebung="1.8;-0.2;0" WeitSichtbar="TRUE" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="61"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="16" Datei="\Objekte\Bahnsteige\mbfan\Tunnel\Wand mit Text.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="5;-1.5;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="64"/>
+					</Lightning>
+					<Eigenschaften>
+						<Props TEXT="&#39;Alfred-Delp-Straße&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Ausgang-Stadtmitte.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="8;1;0" WeitSichtbar="TRUE" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="59"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="9.97" Anzahl="16" Datei="\Objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Decke-Bismarckring.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="4;-0.42;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="61"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Ausgang-Stadtmitte.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="159.800003" Verschiebung="6;1;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="62"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="16" Datei="\Objekte\Bahnsteige\mbfan\Tunnel\Wand mit Text.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="10" Verschiebung="0;-1.5;0" WeitSichtbar="TRUE" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="64"/>
+					</Lightning>
+					<Eigenschaften>
+						<Props TEXT="&#39;Alfred-Delp-Straße&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="160" Anzahl="2" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_uebergang_roehre_kasten.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="160" Anzahl="2" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_uebergang_roehre_kasten.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" Winkel="180;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="160" Anzahl="2" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_uebergang_roehre_kasten.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="-6.95;0;0" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="Alfred-Delp-Straße 2" Offset="0;0;0" Position="850" Qualitaet="3" RollMaterial="FALSE"/>
+				<Eintrag>
+					<Props Abstand="6" Anzahl="26" Datei="\Objekte\Bahnsteige\JörgM\S-Bahn\Bahnsteiglampe\Bahnsteiglampe1.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="5" Verschiebung="5;1.7;0" WeitSichtbar="FALSE" Winkel="90;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="30" Anzahl="4" Datei="\Objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\NBS_Bank_Fpl.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="60" Verschiebung="9;0;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="68"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\RainerZ\Werbung\Werbung_var2.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="20" Verschiebung="5;1;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props 6="&#39;TRUE&#39;"/>
+					</Eigenschaften>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="69"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\RainerZ\Werbung\Werbung_var2.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="60" Verschiebung="5;1;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props 3="&#39;TRUE&#39;"/>
+					</Eigenschaften>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="66"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\RainerZ\Werbung\Werbung_var2.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="100" Verschiebung="5;1;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props 9="&#39;TRUE&#39;"/>
+					</Eigenschaften>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="65"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\RainerZ\Werbung\Werbung_var2.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="140" Verschiebung="5;1;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props 10="&#39;TRUE&#39;"/>
+					</Eigenschaften>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="70"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bruecken\Frieder\ET\BrueckeBernheim\NBS_Aufzug.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="7" Verschiebung="5;1;0" WeitSichtbar="FALSE" Winkel="180;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bruecken\Frieder\ET\BrueckeBernheim\NBS_Aufzug_Mitte.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="7" Verschiebung="5;4.3;0" WeitSichtbar="FALSE" Winkel="180;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\RainerZ\Bahnsteigschild-mH.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="158" Verschiebung="7;2;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props TEXT="&#39;Ausgang&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props DynamicVisibility="FahrplanVars::Ziel == &#39;WS&#39;" FixedDynamicVisibility="TRUE" Name="Alfred-Delp-Straße ZZA Waldstadt" Offset="0;0;0" Position="850" Qualitaet="3"/>
+				<Eintrag>
+					<Props Abstand="32" Anzahl="4" Datei="\Objekte\Bahnsteige\JPB\Zugzielanzeiger\ZZA_digital_S5_mitGleis.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="32" Verschiebung="2.5;5.2;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props Ab_in_1="&#39;in 0 Min&#39;" Abfahrtszeit="&#39;SE 32&#39;" Abfahrtszeit_1="&#39;W 3&#39;" Abfahrtszeit_2="&#39;W 3&#39;" Ankunftszeit="&#39;in 10 min.&#39;" Bahnsteig-Nr.="&#39;4&#39;" Gleis="&#39;1&#39;" Gleis_Nr="&#39;1&#39;" Linie="&#39;U 1&#39;" TEXT="&#39;Hauptbahnhof&#39;" Zeit_1="&#39;W 1&#39;" Zeit_2="&#39;W 1&#39;" Ziel="&#39;Hauptbahnhof&#39;" Ziel_1="&#39;WI Frauenstein&#39;" Ziel_2="&#39;WI Frauenstein&#39;" Zug_Nr._1="&#39;in 0 Min&#39;" Zug_Nr._2="&#39;in 30 Min.&#39;" Zuggattung+Nr="&#39;in 0 Min.&#39;" Zuggattung+Nr_1="&#39;in 0 min.&#39;" Zuggattung+Nr_2="&#39;in 30 min.&#39;" Zuglauf_1="&#39;Erbenheim - HBF - FHS - Sonnenberg&#39;" Zuglauf_2="&#39;Erbenheim - HBF - FHS - Sonnenberg&#39;" Zugziel="&#39;Waldstadt&#39;" Zugziel_1="&#39;Wiesbaden Ost&#39;" Zugziel_2="&#39;Wiesbaden Ost&#39;" wagenstand="&#39;1111&#39;" Über="&#39;Goethealle - Stadtmitte&#39;" Über_1_1="&#39;West&#39;" Über_2="&#39;West&#39;"/>
+					</Eigenschaften>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="67"/>
+					</Lightning>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props DynamicVisibility="FahrplanVars::Ziel == &#39;NPL&#39;" FixedDynamicVisibility="TRUE" Name="Alfred-Delp-Straße ZZA Nürnberger Platz" Offset="0;0;0" Position="850" Qualitaet="3"/>
+				<Eintrag>
+					<Props Abstand="32" Anzahl="4" Datei="\Objekte\Bahnsteige\JPB\Zugzielanzeiger\ZZA_digital_S5_mitGleis.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="32" Verschiebung="2.5;5.2;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props Ab_in_1="&#39;in 0 Min&#39;" Abfahrtszeit="&#39;SE 32&#39;" Abfahrtszeit_1="&#39;W 3&#39;" Abfahrtszeit_2="&#39;W 3&#39;" Ankunftszeit="&#39;in 10 min.&#39;" Bahnsteig-Nr.="&#39;4&#39;" Gleis="&#39;1&#39;" Gleis_Nr="&#39;1&#39;" Linie="&#39;U 1&#39;" TEXT="&#39;Hauptbahnhof&#39;" Zeit_1="&#39;W 1&#39;" Zeit_2="&#39;W 1&#39;" Ziel="&#39;Hauptbahnhof&#39;" Ziel_1="&#39;WI Frauenstein&#39;" Ziel_2="&#39;WI Frauenstein&#39;" Zug_Nr._1="&#39;in 0 Min&#39;" Zug_Nr._2="&#39;in 30 Min.&#39;" Zuggattung+Nr="&#39;in 0 Min.&#39;" Zuggattung+Nr_1="&#39;in 0 min.&#39;" Zuggattung+Nr_2="&#39;in 30 min.&#39;" Zuglauf="&#39;Flughafen - Fachhochschule - Luisenplatz - HBF&#39;" Zuglauf_1="&#39;Erbenheim - HBF - FHS - Sonnenberg&#39;" Zuglauf_2="&#39;Erbenheim - HBF - FHS - Sonnenberg&#39;" Zugziel="&#39;Nürnberger Platz&#39;" Zugziel_1="&#39;Wiesbaden Ost&#39;" Zugziel_2="&#39;Wiesbaden Ost&#39;" wagenstand="&#39;1111&#39;" Über="&#39;Goethealle - Stadtmitte&#39;" Über_1_1="&#39;West&#39;" Über_2="&#39;West&#39;"/>
+					</Eigenschaften>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="67"/>
+					</Lightning>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="Terminal 3" Offset="0;0;0" Position="1780" Qualitaet="1" RollMaterial="FALSE"/>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="16" Datei="\Objekte\Bahnsteige\AndreasZ\U-Bahn-2_seite_10m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="9.8;-0.2;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="62"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="16" Datei="\Objekte\Bahnsteige\AndreasZ\U-Bahn-2_seite_10m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="10" Verschiebung="1.8;-0.2;0" WeitSichtbar="TRUE" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="61"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="16" Datei="\Objekte\Bahnsteige\mbfan\Tunnel\Wand mit Text.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="5;-1.5;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="64"/>
+					</Lightning>
+					<Eigenschaften>
+						<Props TEXT="&#39;Flughafen Terminal 3&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Ausgang-Stadtmitte.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="8;1;0" WeitSichtbar="TRUE" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="59"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="9.97" Anzahl="16" Datei="\Objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Decke-Bismarckring.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="4;-0.42;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="61"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Ausgang-Stadtmitte.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="159.800003" Verschiebung="6;1;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="62"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="16" Datei="\Objekte\Bahnsteige\mbfan\Tunnel\Wand mit Text.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="10" Verschiebung="0;-1.5;0" WeitSichtbar="TRUE" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="64"/>
+					</Lightning>
+					<Eigenschaften>
+						<Props TEXT="&#39;Flughafen Terminal 3&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="160" Anzahl="2" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_uebergang_roehre_kasten.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="160" Anzahl="2" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_uebergang_roehre_kasten.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" Winkel="180;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="160" Anzahl="2" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_uebergang_roehre_kasten.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="-6.95;0;0" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="Terminal 3 2" Offset="0;0;0" Position="1780" Qualitaet="3" RollMaterial="FALSE"/>
+				<Eintrag>
+					<Props Abstand="6" Anzahl="26" Datei="\Objekte\Bahnsteige\JörgM\S-Bahn\Bahnsteiglampe\Bahnsteiglampe1.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="5" Verschiebung="5;1.7;0" WeitSichtbar="FALSE" Winkel="90;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="30" Anzahl="4" Datei="\Objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\NBS_Bank_Fpl.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="60" Verschiebung="9;0;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="68"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\RainerZ\Werbung\Werbung_var2.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="20" Verschiebung="5;1;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props 6="&#39;TRUE&#39;"/>
+					</Eigenschaften>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="69"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\RainerZ\Werbung\Werbung_var2.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="60" Verschiebung="5;1;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props 3="&#39;TRUE&#39;"/>
+					</Eigenschaften>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="66"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\RainerZ\Werbung\Werbung_var2.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="100" Verschiebung="5;1;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props 9="&#39;TRUE&#39;"/>
+					</Eigenschaften>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="65"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\RainerZ\Werbung\Werbung_var2.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="140" Verschiebung="5;1;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props 10="&#39;TRUE&#39;"/>
+					</Eigenschaften>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="70"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bruecken\Frieder\ET\BrueckeBernheim\NBS_Aufzug.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="7" Verschiebung="5;1;0" WeitSichtbar="FALSE" Winkel="180;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bruecken\Frieder\ET\BrueckeBernheim\NBS_Aufzug_Mitte.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="7" Verschiebung="5;4.3;0" WeitSichtbar="FALSE" Winkel="180;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\RainerZ\Bahnsteigschild-mH.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="158" Verschiebung="7;2;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props TEXT="&#39;Ausgang&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props DynamicVisibility="FahrplanVars::Ziel == &#39;WS&#39;" FixedDynamicVisibility="TRUE" Name="Alfred-Delp-Straße ZZA Waldstadt" Offset="0;0;0" Position="1780" Qualitaet="3"/>
+				<Eintrag>
+					<Props Abstand="32" Anzahl="4" Datei="\Objekte\Bahnsteige\JPB\Zugzielanzeiger\ZZA_digital_S5_mitGleis.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="32" Verschiebung="2.5;5.2;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props Ab_in_1="&#39;in 0 Min&#39;" Abfahrtszeit="&#39;SE 32&#39;" Abfahrtszeit_1="&#39;W 3&#39;" Abfahrtszeit_2="&#39;W 3&#39;" Ankunftszeit="&#39;in 10 min.&#39;" Bahnsteig-Nr.="&#39;4&#39;" Gleis="&#39;1&#39;" Gleis_Nr="&#39;1&#39;" Linie="&#39;U 1&#39;" TEXT="&#39;Hauptbahnhof&#39;" Zeit_1="&#39;W 1&#39;" Zeit_2="&#39;W 1&#39;" Ziel="&#39;Hauptbahnhof&#39;" Ziel_1="&#39;WI Frauenstein&#39;" Ziel_2="&#39;WI Frauenstein&#39;" Zug_Nr._1="&#39;in 0 Min&#39;" Zug_Nr._2="&#39;in 30 Min.&#39;" Zuggattung+Nr="&#39;in 0 Min.&#39;" Zuggattung+Nr_1="&#39;in 0 min.&#39;" Zuggattung+Nr_2="&#39;in 30 min.&#39;" Zuglauf="&#39;Alfred-Delp-Straße&#39;" Zuglauf_1="&#39;Erbenheim - HBF - FHS - Sonnenberg&#39;" Zuglauf_2="&#39;Erbenheim - HBF - FHS - Sonnenberg&#39;" Zugziel="&#39;Waldstadt&#39;" Zugziel_1="&#39;Wiesbaden Ost&#39;" Zugziel_2="&#39;Wiesbaden Ost&#39;" wagenstand="&#39;1111&#39;" Über="&#39;Goethealle - Stadtmitte&#39;" Über_1_1="&#39;West&#39;" Über_2="&#39;West&#39;"/>
+					</Eigenschaften>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="67"/>
+					</Lightning>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props DynamicVisibility="FahrplanVars::Ziel == &#39;NPL&#39;" FixedDynamicVisibility="TRUE" Name="Alfred-Delp-Straße ZZA Nürnberger Platz" Offset="0;0;0" Position="1780" Qualitaet="3"/>
+				<Eintrag>
+					<Props Abstand="32" Anzahl="4" Datei="\Objekte\Bahnsteige\JPB\Zugzielanzeiger\ZZA_digital_S5_mitGleis.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="32" Verschiebung="2.5;5.2;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props Ab_in_1="&#39;in 0 Min&#39;" Abfahrtszeit="&#39;SE 32&#39;" Abfahrtszeit_1="&#39;W 3&#39;" Abfahrtszeit_2="&#39;W 3&#39;" Ankunftszeit="&#39;in 10 min.&#39;" Bahnsteig-Nr.="&#39;4&#39;" Gleis="&#39;1&#39;" Gleis_Nr="&#39;1&#39;" Linie="&#39;U 1&#39;" TEXT="&#39;Hauptbahnhof&#39;" Zeit_1="&#39;W 1&#39;" Zeit_2="&#39;W 1&#39;" Ziel="&#39;Hauptbahnhof&#39;" Ziel_1="&#39;WI Frauenstein&#39;" Ziel_2="&#39;WI Frauenstein&#39;" Zug_Nr._1="&#39;in 0 Min&#39;" Zug_Nr._2="&#39;in 30 Min.&#39;" Zuggattung+Nr="&#39;in 0 Min.&#39;" Zuggattung+Nr_1="&#39;in 0 min.&#39;" Zuggattung+Nr_2="&#39;in 30 min.&#39;" Zuglauf="&#39;Flughafen - Fachhochschule - Luisenplatz - HBF&#39;" Zuglauf_1="&#39;Erbenheim - HBF - FHS - Sonnenberg&#39;" Zuglauf_2="&#39;Erbenheim - HBF - FHS - Sonnenberg&#39;" Zugziel="&#39;Nürnberger Platz&#39;" Zugziel_1="&#39;Wiesbaden Ost&#39;" Zugziel_2="&#39;Wiesbaden Ost&#39;" wagenstand="&#39;1111&#39;" Über="&#39;Goethealle - Stadtmitte&#39;" Über_1_1="&#39;West&#39;" Über_2="&#39;West&#39;"/>
+					</Eigenschaften>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="67"/>
+					</Lightning>
+				</Eintrag>
+			</Object>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+			<Landschaftsobjekt>
+				<Props Abstand="20" Name="Schotter Waldstadt" Polygon="TRUE" Position="0" Scale="1" Texture="TRUE" TextureFile="\Texturen\MartinF\Schotter.bmp" Zwischenpunkte="TRUE"/>
+				<Lightning>
+					<Props DayLight="40" LokLight="TRUE" NightLight="40"/>
+				</Lightning>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="0" Verschiebung="-10"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="0" Verschiebung="10"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="160" Verschiebung="10"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="160" Verschiebung="-10"/>
+				</Landschaftsobjekt>
+			</Landschaftsobjekt>
+			<Landschaftsobjekt>
+				<Props Abstand="20" Name="Schotter Str 1" Polygon="TRUE" Position="160" Scale="1" Texture="TRUE" TextureFile="\Texturen\MartinF\Schotter.bmp" Zwischenpunkte="TRUE"/>
+				<Lightning>
+					<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+				</Lightning>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="0" Verschiebung="-10"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="0" Verschiebung="10"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="690" Verschiebung="10"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="690" Verschiebung="-10"/>
+				</Landschaftsobjekt>
+			</Landschaftsobjekt>
+			<Landschaftsobjekt>
+				<Props Abstand="20" Name="Schotter A-D-S" Polygon="TRUE" Position="850" Scale="1" Texture="TRUE" TextureFile="\Texturen\MartinF\Schotter.bmp" Zwischenpunkte="TRUE"/>
+				<Lightning>
+					<Props DayLight="40" LokLight="TRUE" NightLight="40"/>
+				</Lightning>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="0" Verschiebung="-10"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="0" Verschiebung="10"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="160" Verschiebung="10"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="160" Verschiebung="-10"/>
+				</Landschaftsobjekt>
+			</Landschaftsobjekt>
+			<Landschaftsobjekt>
+				<Props Abstand="20" Name="Schotter Str 2" Polygon="TRUE" Position="1010" Scale="1" Texture="TRUE" TextureFile="\Texturen\MartinF\Schotter.bmp" Zwischenpunkte="TRUE"/>
+				<Lightning>
+					<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+				</Lightning>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="0" Verschiebung="-10"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="0" Verschiebung="10"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="770" Verschiebung="10"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="770" Verschiebung="-10"/>
+				</Landschaftsobjekt>
+			</Landschaftsobjekt>
+			<Landschaftsobjekt>
+				<Props Abstand="20" Name="Schotter Term3" Polygon="TRUE" Position="1780" Scale="1" Texture="TRUE" TextureFile="\Texturen\MartinF\Schotter.bmp" Zwischenpunkte="TRUE"/>
+				<Lightning>
+					<Props DayLight="40" LokLight="TRUE" NightLight="40"/>
+				</Lightning>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="0" Verschiebung="-10"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="0" Verschiebung="10"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="160" Verschiebung="10"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="160" Verschiebung="-10"/>
+				</Landschaftsobjekt>
+			</Landschaftsobjekt>
+			<Landschaftsobjekt>
+				<Props Abstand="20" Name="Schotter Str 3" Polygon="TRUE" Position="1940" Scale="1" Texture="TRUE" TextureFile="\Texturen\MartinF\Schotter.bmp" Zwischenpunkte="TRUE"/>
+				<Lightning>
+					<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+				</Lightning>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="0" Verschiebung="-10"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="0" Verschiebung="10"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="60" Verschiebung="10"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="60" Verschiebung="-10"/>
+				</Landschaftsobjekt>
+			</Landschaftsobjekt>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+			<VOR>
+				<STRECKENNAMEN>
+					<Value>
+						<Props Pos="160" Value="Waldstadt"/>
+					</Value>
+					<Value>
+						<Props Pos="1010" Value="Alfred-Delp-Straße"/>
+					</Value>
+					<Value>
+						<Props Pos="1940" Value="Terminal 3"/>
+					</Value>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\AndreasZ\U-Bahn-Fahrsperre-Tunnel.l3dgrp" IndusiPos2000="0" KennLimit="200" KennLimitHide="40" Pos="170" SignalFile="\Signale\AndreasZ\U-Bahn-Hauptsignal-Tunnel-dunkel.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+							<Eigenschaften>
+								<Props Signalnummer="&#39;MHT/nT5&#39;"/>
+							</Eigenschaften>
+							<Position>
+								<Props Position="0;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\AndreasZ\U-Bahn-Fahrsperre-Tunnel.l3dgrp" IndusiPos2000="0" KennLimit="200" KennLimitHide="40" Pos="1020" SignalFile="\Signale\AndreasZ\U-Bahn-Hauptsignal-Tunnel-dunkel.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+							<Eigenschaften>
+								<Props Signalnummer="&#39;MHT/nT5&#39;"/>
+							</Eigenschaften>
+							<Position>
+								<Props Position="0;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\AndreasZ\U-Bahn-Fahrsperre-Tunnel.l3dgrp" IndusiPos2000="0" KennLimit="200" KennLimitHide="40" Pos="1950" SignalFile="\Signale\AndreasZ\U-Bahn-Hauptsignal-Tunnel-dunkel.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+							<Eigenschaften>
+								<Props Signalnummer="&#39;MHT/nT5&#39;"/>
+							</Eigenschaften>
+							<Position>
+								<Props Position="0;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi500Bis="0" IndusiFile1000="\Signale\AndreasZ\U-Bahn-Fahrsperre-Tunnel.l3dgrp" IndusiPos1000="0" KennLimit="200" KennLimitHide="40" Pos="1640" SignalFile="\Signale\AndreasZ\U-Bahn-Vorsignal-Tunnel-dunkel.l3dgrp" Typ="Vorsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+							<Eigenschaften>
+								<Props Signalnummer="&#39;MHT/nT5&#39;"/>
+							</Eigenschaften>
+							<Position>
+								<Props Position="0;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi500Bis="0" IndusiFile1000="\Signale\AndreasZ\U-Bahn-Fahrsperre-Tunnel.l3dgrp" IndusiPos1000="0" KennLimit="200" KennLimitHide="40" Pos="720" SignalFile="\Signale\AndreasZ\U-Bahn-Vorsignal-Tunnel-dunkel.l3dgrp" Typ="Vorsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+							<Eigenschaften>
+								<Props Signalnummer="&#39;MHT/nT5&#39;"/>
+							</Eigenschaften>
+							<Position>
+								<Props Position="0;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+					<Value>
+						<Props File="\Objekte\Tafeln\Ne5.l3dgrp" Name="Waldstadt" Pos="160" ToleranzMinus="50" ToleranzPlus="10" Zuglaenge="200"/>
+						<TafelObjExtraData>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+						</TafelObjExtraData>
+						<ObjectProps>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+							<Position>
+								<Props Position="0;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props File="\Objekte\Tafeln\Ne5.l3dgrp" Name="Alfred-Delp-Straße" Pos="1010" ToleranzMinus="50" ToleranzPlus="10" Zuglaenge="200"/>
+						<TafelObjExtraData>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+						</TafelObjExtraData>
+						<ObjectProps>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+							<Position>
+								<Props Position="0;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props File="\Objekte\Tafeln\Ne5.l3dgrp" Name="Terminal 3" Pos="1940" ToleranzMinus="50" ToleranzPlus="10" Zuglaenge="200"/>
+						<TafelObjExtraData>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+						</TafelObjExtraData>
+						<ObjectProps>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+							<Position>
+								<Props Position="0;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+				</Haltepunkt>
+				<Bahnuebergang>
+				</Bahnuebergang>
+				<RAIL>
+					<Value>
+						<Props Pos="0" RAILVALUE="\Rails\RainerH\flimmerfrei\16betonschwellen_schotter_normal.l3drail"/>
+						<Lightning>
+							<Props DayLight="40" LokLight="TRUE" NightLight="40"/>
+						</Lightning>
+					</Value>
+					<Value>
+						<Props Pos="160" RAILVALUE="\Rails\RainerH\flimmerfrei\16betonschwellen_schotter_normal.l3drail"/>
+						<Lightning>
+							<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+						</Lightning>
+					</Value>
+					<Value>
+						<Props Pos="850" RAILVALUE="\Rails\RainerH\flimmerfrei\16betonschwellen_schotter_normal.l3drail"/>
+						<Lightning>
+							<Props DayLight="40" LokLight="TRUE" NightLight="40"/>
+						</Lightning>
+					</Value>
+					<Value>
+						<Props Pos="1010" RAILVALUE="\Rails\RainerH\flimmerfrei\16betonschwellen_schotter_normal.l3drail"/>
+						<Lightning>
+							<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+						</Lightning>
+					</Value>
+					<Value>
+						<Props Pos="1780" RAILVALUE="\Rails\RainerH\flimmerfrei\16betonschwellen_schotter_normal.l3drail"/>
+						<Lightning>
+							<Props DayLight="40" LokLight="TRUE" NightLight="40"/>
+						</Lightning>
+					</Value>
+					<Value>
+						<Props Pos="1940" RAILVALUE="\Rails\RainerH\flimmerfrei\16betonschwellen_schotter_normal.l3drail"/>
+						<Lightning>
+							<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+						</Lightning>
+					</Value>
+				</RAIL>
+				<RailQuality>
+				</RailQuality>
+				<LZB>
+				</LZB>
+				<Kilometrierung>
+				</Kilometrierung>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Ueberhoehung>
+				</Ueberhoehung>
+				<RailProps>
+				</RailProps>
+				<Bremswegabstand>
+				</Bremswegabstand>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</VOR>
+			<ZURUECK>
+				<STRECKENNAMEN>
+					<Value>
+						<Props Pos="1780" Value="Terminal 3"/>
+					</Value>
+					<Value>
+						<Props Pos="850" Value="Alfred-Delp-Straße"/>
+					</Value>
+					<Value>
+						<Props Pos="10" Value="Waldstadt"/>
+					</Value>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="30" KMHNEIG="30" KeinHp2="FALSE" NichtImFahrplan="FALSE" Pos="200"/>
+					</Value>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\AndreasZ\U-Bahn-Fahrsperre-Tunnel.l3dgrp" IndusiPos2000="0" KennLimit="200" KennLimitHide="40" Pos="1770" SignalFile="\Signale\AndreasZ\U-Bahn-Hauptsignal-Tunnel-dunkel.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+							<Eigenschaften>
+								<Props Signalnummer="&#39;MHT/nT5&#39;"/>
+							</Eigenschaften>
+							<Position>
+								<Props Position="0;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\AndreasZ\U-Bahn-Fahrsperre-Tunnel.l3dgrp" IndusiPos2000="0" KennLimit="200" KennLimitHide="40" Pos="840" SignalFile="\Signale\AndreasZ\U-Bahn-Hauptsignal-Tunnel-dunkel.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+							<Eigenschaften>
+								<Props Signalnummer="&#39;MHT/nT5&#39;"/>
+							</Eigenschaften>
+							<Position>
+								<Props Position="0;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\AndreasZ\U-Bahn-Fahrsperre-Tunnel.l3dgrp" IndusiPos2000="0" KennLimit="200" KennLimitHide="40" Pos="200" SignalFile="\Signale\AndreasZ\U-Bahn-Hauptsignal-Tunnel-dunkel.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+							<Eigenschaften>
+								<Props Signalnummer="&#39;MHT/nT5&#39;"/>
+							</Eigenschaften>
+							<Position>
+								<Props Position="0;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi500Bis="0" IndusiFile1000="\Signale\AndreasZ\U-Bahn-Fahrsperre-Tunnel.l3dgrp" IndusiPos1000="0" KennLimit="200" KennLimitHide="40" Pos="1140" SignalFile="\Signale\AndreasZ\U-Bahn-Vorsignal-Tunnel-dunkel.l3dgrp" Typ="Vorsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+							<Eigenschaften>
+								<Props Signalnummer="&#39;MHT/nT5&#39;"/>
+							</Eigenschaften>
+							<Position>
+								<Props Position="0;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi500Bis="0" IndusiFile1000="\Signale\AndreasZ\U-Bahn-Fahrsperre-Tunnel.l3dgrp" IndusiPos1000="0" KennLimit="200" KennLimitHide="40" Pos="500" SignalFile="\Signale\AndreasZ\U-Bahn-Vorsignal-Tunnel-dunkel.l3dgrp" Typ="Vorsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+							<Eigenschaften>
+								<Props Signalnummer="&#39;MHT/nT5&#39;"/>
+							</Eigenschaften>
+							<Position>
+								<Props Position="0;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+					<Value>
+						<Props File="\Objekte\Tafeln\Ne5.l3dgrp" Name="Terminal 3" Pos="1780" ToleranzMinus="50" ToleranzPlus="10" Zuglaenge="200"/>
+						<TafelObjExtraData>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+						</TafelObjExtraData>
+						<ObjectProps>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+							<Position>
+								<Props Position="0;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props File="\Objekte\Tafeln\Ne5.l3dgrp" Name="Alfred-Delp-Straße" Pos="850" ToleranzMinus="50" ToleranzPlus="10" Zuglaenge="200"/>
+						<TafelObjExtraData>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+						</TafelObjExtraData>
+						<ObjectProps>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+							<Position>
+								<Props Position="0;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props File="\Objekte\Tafeln\Ne5.l3dgrp" Name="Waldstadt" Pos="10" ToleranzMinus="50" ToleranzPlus="10" Zuglaenge="200"/>
+						<TafelObjExtraData>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+						</TafelObjExtraData>
+						<ObjectProps>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+							<Position>
+								<Props Position="0;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+				</Haltepunkt>
+				<LZB>
+				</LZB>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</ZURUECK>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+</STRECKE>

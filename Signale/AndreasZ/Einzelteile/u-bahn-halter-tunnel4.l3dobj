@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<OBJECT>
+	<Props TransparentTyp="1" Beleuchtet="TRUE" Transparent="TRUE" FilePicture="" FileAuthor="Andreas Zimmermann" FileInfo="" Drawrueckseiten="TRUE" TransTexture="" Texture="u-bahn-halter-tunnel4.bmp"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0;0.8;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.02;0.8;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.02;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="0;0;0.02"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="0;0.8;0.02"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.02;0.8;0.02"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="0.02;0;0.02"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.5;0;0.02"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.5;0.8;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.5;0.8;0.02"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.5;0;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="0,100;0,0;67,5;67,101"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;6;5;4" Texture="0,100;0,0;66,8;65,102"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;2;6;7" Texture="0,100;0,0;63,7;61,100"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;1;0" Texture="0,100;0,0;64,8;67,99"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="1;5;6;2" Texture="0,100;0,0;67,6;60,101"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;3;0;4" Texture="0,100;0,0;60,5;57,99"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;0;11;8" Texture="65,11;64,105;20,110;0,0"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="2;6;10;9" Texture="65,5;57,112;12,114;8,7"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="9;11;3;2" Texture="127,0;127,251;74,251;74,0"/>
+	</Flaeche>
+</OBJECT>

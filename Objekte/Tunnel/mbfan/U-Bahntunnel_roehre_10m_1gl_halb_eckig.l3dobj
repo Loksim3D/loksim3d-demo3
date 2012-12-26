@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="Andreas Zimmermann" FileInfo="U-Bahntunnel (Röhre) mit Lichtschein/n/nLänge 10.0 m/nHöhe 5.5 m/nBreite 7.0 m" FilePicture="U-Bahntunnel_roehre_10m_licht.l3dobj.jpg" Texture="U-Bahntunnel_roehre_10m_halb.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="3;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="-3.5;1;10.5"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="-3.5;2.5;10.5"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="-3.5;2.5;-0.5"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="2.5;5.5;-0.5"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="2.5;5.5;10.5"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0;5.5;-0.5"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0;5.5;10.5"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="-2;5;-0.5"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="-2;5;10.5"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="-3.5;1;-0.5"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="-3;4;-0.5"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="-3;4;10.5"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="-3.1;0;-0.5"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="-3.1;0;10.5"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="-3.3;0.3;10.5"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="-3.3;0.3;-0.5"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="-2.2;0.3;-0.5"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="-2.2;0.3;10.5"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="-2.2;0;10.5"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="-2.2;0;-0.5"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="3;6;-0.5"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="3;6;10.5"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="3;5.5;-0.5"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="3;5.5;10.5"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="3;0;10.5"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="3;0;-0.5"/>
+	</Point>
+	<Flaeche>
+		<Props Points="2;1;10;3" Texture="295,93;295,143;2,143;2,93"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;6;23;24" Texture="2,182;295,182;295,235;2,235"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;9;8;6" Texture="295,184;295,240;3,240;3,184"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;11;12;2" Texture="296,99;296,1;1,1;1,99"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="11;8;9;12" Texture="2,191;2,249;295,249;295,191"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="13;14;1;10" Texture="2,177;295,177;295,137;2,137"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="15;16;17;18" Texture="1,254;295,254;295,288;1,288"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="20;19;18;17" Texture="295,304;1,304;1,288;295,288"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;22;21" Texture="2,182;295,182;295,235;2,235"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="23;24;25;26" Texture="290,182;0,182;0,250;290,250"/>
+	</Flaeche>
+</OBJECT>

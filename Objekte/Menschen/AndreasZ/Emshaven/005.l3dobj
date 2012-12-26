@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<OBJECT>
+	<Props AutoRotate="TRUE" Beleuchtet="TRUE" Drawrueckseiten="TRUE" FileAuthor="???" FileInfo="Mädchen mit Jacke/nfür Tunnelbahnhöfe (selbstleuchtend!)/n/nDas Objekt stammt von ???" FilePicture="005.l3dobj.jpg" Texture="\Objekte\Menschen\Passagier 04.bmp" TransTexture="" Transparent="TRUE" TransparentTyp="1"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="-0.5;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="-0.5;2;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.5;2;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.5;0;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="2,473;2,1;220,1;221,473"/>
+	</Flaeche>
+</OBJECT>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<OBJECT>
+	<Props TransparentTyp="1" Beleuchtet="TRUE" Transparent="TRUE" FilePicture="" FileAuthor="" FileInfo="" Drawrueckseiten="FALSE" TransTexture="" Texture="u-bahn-gruen.bmp"/>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0;0;-0.1"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.28;0;-0.1"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.28;-0.28;-0.1"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0;-0.28;-0.1"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="12,0;42,1;42,33;12,33"/>
+	</Flaeche>
+</OBJECT>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FONT>
+	<Props FileAuthor="" FileInfo="" FilePicture="" Fonthoehe="36" Texture="ZZA_4.bmp"/>
+	<Zeichen>
+		<Props Width="40" X="4" Y="5" Zeichen="_"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="40" X="47" Y="5" Zeichen="z"/>
+	</Zeichen>
+</FONT>

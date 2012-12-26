@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<GRUPPENOBJECT>
+	<Props FilePicture="U-Bahn-Hauptsignal-Tunnel-hell-kA.l3dgrp.jpg" FileAuthor="Andreas Zimmermann" FileInfo="U-Bahnhauptsignal mit kurzem Ausleger/nfür Tunnelbahnhöfe/n/nmögliche Stellungen: Hp0, Hp1, Hp2, Hp3"/>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Einzelteile\u-bahn-halter-tunnel3.l3dobj" Position="2.5;3;0"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Einzelteile\u-bahn-kasten-hell.l3dobj" Position="2.35;3.4;-0.2"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Einzelteile\u-bahn-kasten-hell.l3dobj" Position="2.35;3.75;-0.2"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Einzelteile\u-bahn-kasten-hell.l3dobj" Position="2.35;4.1;-0.2"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Einzelteile\u-bahn-kasten-hell.l3dobj" Position="2.35;3.05;-0.2"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" ShowOn="Hp1" Name="Einzelteile\u-bahn-gruen.l3dobj" Position="2.36;4.39;-0.08"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" ShowOn="Hp0" Name="Einzelteile\u-bahn-rot.l3dobj" Position="2.36;4.04;-0.08"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" ShowOn="Hp2" Name="Einzelteile\u-bahn-orange.l3dobj" Position="2.36;3.69;-0.08"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" ShowOn="SIG20" Name="Einzelteile\u-bahn-orange.l3dobj" Position="2.36;3.34;-0.08"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" ShowOn="Hp2" Name="Einzelteile\u-bahn-gruen.l3dobj" Position="2.36;4.39;-0.08"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" ShowOn="SIG20" Name="Einzelteile\u-bahn-orange.l3dobj" Position="2.36;3.69;-0.08"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" ShowOn="SIG20" Name="Einzelteile\u-bahn-gruen.l3dobj" Position="2.36;4.39;-0.08"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="200" ShowOn="Hp1" Name="Einzelteile\scheingruen.l3dobj" Position="2.5;4.25;-0.22"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="200" ShowOn="Hp2" Name="Einzelteile\scheingruen.l3dobj" Position="2.5;4.25;-0.22"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="200" ShowOn="SIG20" Name="Einzelteile\scheingruen.l3dobj" Position="2.5;4.25;-0.22"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="200" ShowOn="Hp2" Name="Einzelteile\scheingelb.l3dobj" Position="2.5;3.55;-0.22"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="200" ShowOn="SIG20" Name="Einzelteile\scheingelb.l3dobj" Position="2.5;3.55;-0.22"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="200" ShowOn="SIG20" Name="Einzelteile\scheingelb.l3dobj" Position="2.5;3.2;-0.22"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="200" ShowOn="Hp0" Name="Einzelteile\scheinrot.l3dobj" Position="2.5;3.9;-0.22"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Einzelteile\u-bahn-mastschild-Tunnel.l3dobj" Position="2.69;2.98;-0.04"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Einzelteile\u-bahn-kasten-hell2.l3dobj" Position="2;4.1;-0.2"/>
+	</Object>
+	<Object>
+		<Props Rotation="90;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Einzelteile\halterung.l3dobj" Position="2.47;4.19;0"/>
+	</Object>
+	<Font>
+		<Props Rotation="0;0;0" AlignVert="1" BlinkIntervall="0" Leuchtend="TRUE" Fonthoehe="0.25" DefaultText="" Name="\Signale\Einzelteile\geschwindigkeit.l3dfont" Position="2.15;4.25;-0.19" AlignHorz="1" GroupProperty="Signalkennziffer" Color="16777215"/>
+	</Font>
+</GRUPPENOBJECT>

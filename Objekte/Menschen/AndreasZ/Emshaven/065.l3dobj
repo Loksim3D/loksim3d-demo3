@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="TRUE" Beleuchtet="TRUE" Drawrueckseiten="FALSE" FileAuthor="Andreas Zimmermann" FileInfo="junge Frau mit Rucksack von hinten/nfür Tunnelbahnhöfe (selbstleuchtend!)" FilePicture="065.l3dobj.jpg" Texture="065.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="2"/>
+	<Point>
+		<Props Normal="-1;-1;0" Vekt="-0.3;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;0" Vekt="-0.3;1.8;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;0" Vekt="0.3;1.8;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;0" Vekt="0.3;0;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="1,230;1,1;83,3;87,225"/>
+	</Flaeche>
+</OBJECT>

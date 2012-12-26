@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="Andreas Zimmermann" FileInfo="U-Bahntunnel halb/n/nLänge 10.0 m/nHöhe 5.5 m/nBreite 6.0 m" FilePicture="U-Bahntunnel_10m_halb.l3dobj.jpg" Texture="U-Bahntunnel_10m.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="-3;5.5;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="3;5.5;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="-3;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="-3;5.5;10.5"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="3;5.5;10.5"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="-3;0;10.5"/>
+	</Point>
+	<Flaeche>
+		<Props Points="2;0;3;5" Texture="0,178;0,0;297,0;0,0"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;1;0;3" Texture="297,0;297,176;1,177;0,0"/>
+	</Flaeche>
+</OBJECT>

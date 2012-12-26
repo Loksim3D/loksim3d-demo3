@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="" FileInfo="" FilePicture=""/>
+	<Object>
+		<Props BlinkIntervall="0" Name="Lichtkegel.l3dobj" Position="0;-0.7;0" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Bahnsteiglampe3a.l3dobj" Position="0;3.5;0" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+</GRUPPENOBJECT>

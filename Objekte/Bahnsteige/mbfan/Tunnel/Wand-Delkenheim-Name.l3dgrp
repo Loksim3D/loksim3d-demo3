@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="Andreas Zimmermann" FileDoku="" FileInfo="" FilePicture=""/>
+	<Object>
+		<Props BlinkIntervall="0" Name="Wand-Tunnelhaltestelle Delkenheim.l3dobj" Position="0;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Font>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="0" DefaultText="Wiesbaden Stadion" Fonthoehe="0.4" GroupProperty="TEXT" Leuchtend="TRUE" Name="\Fonts\ABS_K_Dn.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="2.9;2.5;5" Rotation="90;0;0" Vertikal="FALSE"/>
+	</Font>
+</GRUPPENOBJECT>

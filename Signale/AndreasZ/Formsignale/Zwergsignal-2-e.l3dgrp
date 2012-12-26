@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<GRUPPENOBJECT>
+	<Props FilePicture="Zwergsignal-2-gas.l3dgrp.jpg" FileAuthor="Andreas Zimmermann" FileInfo="Zwergsignal (für Bahnsteige bis 1m Höhe)/n/nmit 2 Flügeln und elektrischen Lampen/nmögliche Stellungen: Hp0, Hp1, Hp2/n/nOriginal:           (c) by Sebastian Leonow/nBearbeitung:  (c) by Andreas Zimmermann, 18.10.2004"/>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Einzelteile\Gittermast3.l3dobj" Position="2.7;1;0"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" ShowOn="Hp0" Name="Einzelteile\Fluegel.l3dobj" Position="2.7;5.0865;-0.1"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;45;0" BlinkIntervall="0" ZoomFaktor="1" Name="Einzelteile\Fluegel.l3dobj" Position="2.7;5.0865;-0.1" HideOn="Hp0"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" ShowOn="Hp0" Name="Einzelteile\hauptblende.l3dobj" Position="2.85;4.4565;0"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Einzelteile\hauptblendeHp1.l3dobj" Position="2.78;4.6565;0" HideOn="Hp0"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" ShowOn="Hp0" Name="Einzelteile\formrot.l3dobj" Position="3.01;4.706501;-0.05"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Einzelteile\formgruen.l3dobj" Position="2.97;4.6765;-0.05" HideOn="Hp0"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" ShowOn="Hp0" Name="Einzelteile\mechhaupt2zwergHp0.l3dobj" Position="2.7;1;-0.05"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="\Signale\Einzelteile\kasten1.l3dobj" Position="2.7;0.8;0"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Einzelteile\e-lampe.l3dobj" Position="3.11;4.8065;0.03"/>
+	</Object>
+	<Object>
+		<Props Rotation="90;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Einzelteile\halterung.l3dobj" Position="3.11;4.7565;0.15"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" ShowOn="Hp0" Name="\Signale\Einzelteile\hauptblendehinten.l3dobj" Position="2.86;4.3865;0.27"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="\Signale\Einzelteile\hauptblendehintenHp1.l3dobj" Position="2.86;4.5565;0.27" HideOn="Hp0"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;90;0" BlinkIntervall="0" ZoomFaktor="1" Name="Einzelteile\Fluegel.l3dobj" Position="2.7;2.6065;-0.1" HideOn="Hp2"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;45;0" BlinkIntervall="0" ZoomFaktor="1" ShowOn="Hp2" Name="Einzelteile\Fluegel.l3dobj" Position="2.7;2.6065;-0.1"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Einzelteile\hauptblende2.l3dobj" Position="2.85;2.0065;0" HideOn="Hp2"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" ShowOn="Hp2" Name="Einzelteile\hauptblende2Hp2.l3dobj" Position="2.8;2.2065;0"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" ShowOn="Hp2" Name="Einzelteile\formgelb.l3dobj" Position="2.98;2.2165;-0.05"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Einzelteile\e-lampe.l3dobj" Position="3.1;2.3265;0.03"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="\Signale\Einzelteile\hauptblendehinten.l3dobj" Position="2.86;1.9065;0.27" HideOn="Hp2"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" ShowOn="Hp2" Name="\Signale\Einzelteile\hauptblendehintenHp1.l3dobj" Position="2.86;2.0765;0.27"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Einzelteile\formmastschild3.l3dobj" Position="2.7;-0.2;-0.05"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" ShowOn="Hp1" Name="Einzelteile\mechhaupt2zwergHp1.l3dobj" Position="2.7;1;-0.05"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" ShowOn="Hp2" Name="Einzelteile\mechhaupt2zwergHp2.l3dobj" Position="2.7;1;-0.05"/>
+	</Object>
+	<Object>
+		<Props Rotation="90;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Einzelteile\halterung.l3dobj" Position="3.11;2.3065;0.15"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Einzelteile\Sockel.l3dobj" Position="2.5;-1.9;-0.03"/>
+	</Object>
+	<Object>
+		<Props Rotation="180;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Einzelteile\weiss.l3dobj" Position="3.18;4.88;0.1"/>
+	</Object>
+	<Object>
+		<Props Rotation="180;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Einzelteile\weiss.l3dobj" Position="3.18;2.42;0.1"/>
+	</Object>
+</GRUPPENOBJECT>

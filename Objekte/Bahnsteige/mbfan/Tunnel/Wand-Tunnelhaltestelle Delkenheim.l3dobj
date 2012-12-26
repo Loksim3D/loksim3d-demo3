@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="TRUE" Drawrueckseiten="TRUE" FileAuthor="Andreas Zimmermann" FileDoku="" FileInfo="" FilePicture="" Texture="Wand-Tunnelhaltestelle Delkenheim.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="1;1;1" Vekt="2.95;1;-0.005"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="2.95;1;10.005"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="2.95;6;-0.005"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="2.95;6;10.005"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;3;2" Texture="512,0;512,512;0,512;0,0"/>
+	</Flaeche>
+</OBJECT>

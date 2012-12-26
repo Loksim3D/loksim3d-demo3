@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<OBJECT>
+	<Props AutoRotate="TRUE" Beleuchtet="TRUE" Drawrueckseiten="TRUE" FileAuthor="Andreas Zimmermann" FileInfo="Mädchen/nfür Tunnelbahnhöfe (selbstleuchtend!)" FilePicture="037.l3dobj.jpg" Texture="037.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="2"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="-0.25;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="-0.25;1.75;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.25;1.75;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.25;0;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="4,389;3,2;118,9;127,387"/>
+	</Flaeche>
+</OBJECT>

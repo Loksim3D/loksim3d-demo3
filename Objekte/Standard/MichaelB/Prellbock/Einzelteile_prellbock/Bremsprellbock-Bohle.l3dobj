@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="Michael Buhmann" FileInfo="Puffertraegerbohle zum Bremsprellbock" FilePicture="" Texture="Bremsprellbock.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="0;0;-1.2"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0;0.5;-1.2"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.3;0.5;-1.2"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.3;0;-1.2"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="0;0;1.2"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="0;0.5;1.2"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.3;0.5;1.2"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="0.3;0;1.2"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="176,220;176,161;198,161;197,220"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;6;5;4" Texture="197,221;197,161;176,161;176,221"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;2;6;7" Texture="125,121;124,114;158,114;159,121"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;1;0" Texture="125,122;124,100;156,100;155,121"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="1;5;6;2" Texture="125,121;126,113;159,114;159,121"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;7;4;0" Texture="155,105;128,105;129,119;155,119"/>
+	</Flaeche>
+</OBJECT>

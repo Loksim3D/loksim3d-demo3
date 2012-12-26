@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<OBJECT>
+	<Props AutoRotate="TRUE" Beleuchtet="TRUE" Drawrueckseiten="TRUE" FileAuthor="Markus Niessen" FileInfo="Mann mit Kinderwagen/nfür Tunnelbahnhöfe (selbstleuchtend!)/n/nDas Objekt stammt von Markus Niessen!" FilePicture="043.l3dobj.jpg" Texture="043.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="2"/>
+	<Point>
+		<Props Normal="-1;-1;0" Vekt="-0.4;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;0" Vekt="-0.4;2;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;0" Vekt="0.4;2;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;0" Vekt="0.4;0;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="1,199;1,1;80,1;80,199"/>
+	</Flaeche>
+</OBJECT>

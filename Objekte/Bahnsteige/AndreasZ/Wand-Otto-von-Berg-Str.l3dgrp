@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<GRUPPENOBJECT>
+	<Props FilePicture="" FileAuthor="Andreas Zimmermann" FileInfo=""/>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Wand-Otto-von-Berg-Str.l3dobj" Position="0;0;0"/>
+	</Object>
+	<Font>
+		<Props Rotation="90;0;0" AlignVert="1" BlinkIntervall="0" Leuchtend="TRUE" Fonthoehe="0.4" DefaultText="Otto-von-Berg-Straße" Name="\Fonts\ABS_K_Dn.l3dfont" Position="2.9;2.5;5" AlignHorz="1" GroupProperty="TEXT" Color="12632256"/>
+	</Font>
+</GRUPPENOBJECT>

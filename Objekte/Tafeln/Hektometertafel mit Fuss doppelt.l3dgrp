@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<GRUPPENOBJECT>
+	<Props FilePicture="Hektometertafel mit Fuss.l3dgrp.jpg" FileAuthor="Andreas Hofmann" FileInfo="Hektometertafel für Kilometer < 100"/>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Hektometertafel.l3dobj" Position="2;2;0"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Tafelfuss 2m.l3dobj" Position="2;0;0.05"/>
+	</Object>
+	<Object>
+		<Props Rotation="180;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Hektometertafel.l3dobj" Position="2;2;0.1"/>
+	</Object>
+	<Font>
+		<Props Rotation="0;0;0" AlignVert="1" BlinkIntervall="0" Leuchtend="FALSE" Fonthoehe="0.35" DefaultText="65/n6" Name="Hektometer.l3dfont" Position="2;2.4;-0.05" AlignHorz="1" GroupProperty="KILOMETER" Color="0"/>
+	</Font>
+	<Font>
+		<Props Rotation="180;0;0" AlignVert="1" BlinkIntervall="0" Leuchtend="FALSE" Fonthoehe="0.35" DefaultText="65/n6" Name="Hektometer.l3dfont" Position="2;2.4;0.15" AlignHorz="1" GroupProperty="KILOMETER" Color="0"/>
+	</Font>
+</GRUPPENOBJECT>

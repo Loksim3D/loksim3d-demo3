@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="Andreas Zimmermann" FileInfo="U-Bahntunnel (Röhre) mit Lichtschein/n/nLänge 10.0 m/nHöhe 5.5 m/nBreite 7.0 m" FilePicture="U-Bahntunnel_roehre_10m_licht.l3dobj.jpg" Texture="U-Bahntunnel_abdeckung_tunneleinfahrt_röhre.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="3;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="-3.5;2.5;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0;5.5;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="-2;5;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="-3;4;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="-3.1;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="-3.3;0.3;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="-2.2;0.3;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="-2.2;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="-6;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="-3.5;1;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="-6;5.5;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="-6;2.5;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="5;9;6;7;8" Texture="40,20;0,0;40,0;0,0;0,20"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="10;6;9;12" Texture="30,105;39,128;0,145;0,0"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="2;3;11" Texture="80,0;45,15;0,0"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;4;11" Texture="45,15;30,30;0,0"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;1;12;11" Texture="30,30;20,70;0,70;0,0"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="1;10;12" Texture="20,70;20,120;0,70"/>
+	</Flaeche>
+</OBJECT>

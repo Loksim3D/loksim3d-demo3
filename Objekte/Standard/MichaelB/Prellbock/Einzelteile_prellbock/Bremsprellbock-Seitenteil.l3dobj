@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="Michael Buhmann" FileInfo="ET zum Bremsprellbock" FilePicture="" Texture="Bremsprellbock.bmp" TransTexture="" Transparent="TRUE" TransparentTyp="1"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0;1.7;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="4;1.7;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="4;0;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="1,150;2,2;220,2;220,150"/>
+	</Flaeche>
+</OBJECT>

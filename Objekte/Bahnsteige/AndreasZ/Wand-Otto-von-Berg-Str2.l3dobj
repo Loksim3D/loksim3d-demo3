@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<OBJECT>
+	<Props TransparentTyp="0" Beleuchtet="TRUE" Transparent="FALSE" FilePicture="" FileAuthor="" FileInfo="" Drawrueckseiten="TRUE" TransTexture="" Texture="Wand-Otto-von-Berg-Str.bmp"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0;6;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="1;6;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="1;0;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="0,100;0,0;50,0;50,100"/>
+	</Flaeche>
+</OBJECT>

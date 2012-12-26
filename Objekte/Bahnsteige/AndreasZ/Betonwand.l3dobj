@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="TRUE" Drawrueckseiten="TRUE" FileAuthor="" FileInfo="" FilePicture="" Texture="\Texturen\Beton.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0;6;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="10;6;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="10;0;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="1,177;4,3;109,3;111,175"/>
+	</Flaeche>
+</OBJECT>

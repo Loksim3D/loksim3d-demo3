@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<GRUPPENOBJECT>
+	<Props FilePicture="Vorsignal-1-gas_links.l3dgrp.jpg" FileAuthor="Andreas Zimmermann" FileInfo="Vorsignal (links)/n/nmit Scheibe und elektrischen Lampen/nmögliche Stellungen: Vr0, Vr1/n/nOriginal:           (c) by Sebastian Leonow/nBearbeitung:  (c) by Andreas Zimmermann, 18.10.2004"/>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Einzelteile\vorsignalmast.l3dobj" Position="-2.7;0;0"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="\Signale\Einzelteile\Vorsignalscheibe.l3dobj" Position="-2.7;3.4;-0.05" HideOn="Vr1"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;180" BlinkIntervall="0" ZoomFaktor="1" ShowOn="Vr0" Name="Einzelteile\vorblende.l3dobj" Position="-2.75;2.9;-0.03"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;180;180" BlinkIntervall="0" ZoomFaktor="1" Name="Einzelteile\vorblende.l3dobj" Position="-2.67;1.9;-0.03" HideOn="Vr1"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Einzelteile\formgelb2.l3dobj" Position="-3.08;1.95;-0.06" HideOn="Vr1"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" ShowOn="Vr0" Name="Einzelteile\formgelb2.l3dobj" Position="-2.54;2.66;-0.06"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Einzelteile\vorblendeVr1.l3dobj" Position="-2.75;2.6;-0.03" HideOn="Vr0"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;180;0" BlinkIntervall="0" ZoomFaktor="1" ShowOn="Vr1" Name="Einzelteile\vorblendeVr1.l3dobj" Position="-2.71;2.22;-0.03"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" ShowOn="Vr1" Name="Einzelteile\formgruen2.l3dobj" Position="-3.07;1.93;-0.06"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Einzelteile\formgruen2.l3dobj" Position="-2.58;2.69;-0.06" HideOn="Vr0"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;83" BlinkIntervall="0" ZoomFaktor="1" ShowOn="Vr1" Name="\Signale\Einzelteile\Vorsignalscheibe.l3dobj" Position="-2.7;3.41;0.05"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="\Signale\Einzelteile\mechvor1Vr0.l3dobj" Position="-2.7;2.1;-0.05" HideOn="Vr1"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" ShowOn="Vr1" Name="\Signale\Einzelteile\mechvor1Vr1.l3dobj" Position="-2.7;2;-0.05"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Einzelteile\NE2.l3dobj" Position="-2.95;0.2;-0.8"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Einzelteile\e-lampe.l3dobj" Position="-2.45;2.76;0.02"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Einzelteile\e-lampe.l3dobj" Position="-2.98;2.05;0.02"/>
+	</Object>
+	<Object>
+		<Props Rotation="90;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Einzelteile\halterung.l3dobj" Position="-2.42;2.7;0.1"/>
+	</Object>
+	<Object>
+		<Props Rotation="90;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Einzelteile\halterung.l3dobj" Position="-2.7;1.99;0.1"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Einzelteile\Sockel.l3dobj" Position="-2.9;-2.9;-0.125"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Einzelteile\Betonmast.l3dobj" Position="-2.73;-1.1;-0.77"/>
+	</Object>
+	<Object>
+		<Props Rotation="180;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Einzelteile\weiss.l3dobj" Position="-2.91;2.13;0.1"/>
+	</Object>
+	<Object>
+		<Props Rotation="180;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Einzelteile\weiss.l3dobj" Position="-2.38;2.84;0.1"/>
+	</Object>
+</GRUPPENOBJECT>

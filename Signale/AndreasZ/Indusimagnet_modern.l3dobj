@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<OBJECT>
+	<Props TransparentTyp="2" Beleuchtet="TRUE" Transparent="FALSE" FilePicture="Indusimagnet_modern.l3dobj.jpg" FileAuthor="Sebastian Kircher" FileInfo="Dieses Objekt stammt von Sebastian Kircher/nund wurde von Andreas Zimmermann für den /nU-Bahnbetrieb umgebaut !" Drawrueckseiten="TRUE" TransTexture="" Texture="Indusimagnet_modern.bmp"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0;0.25;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.15;0.25;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.15;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="0;0;1"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="0;0.25;1"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.15;0.25;1"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="0.15;0;1"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="31,135;31,0;86,0;86,135"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;6;5;4" Texture="31,135;31,0;87,0;87,135"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;2;6;7" Texture="0,134;0,0;499,0;499,134"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;1;0" Texture="0,404;0,270;499,270;499,404"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="1;5;6;2" Texture="0,263;2,135;497,139;499,265"/>
+	</Flaeche>
+</OBJECT>

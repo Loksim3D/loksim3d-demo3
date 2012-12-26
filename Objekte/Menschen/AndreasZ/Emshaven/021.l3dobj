@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<OBJECT>
+	<Props AutoRotate="TRUE" Beleuchtet="TRUE" Drawrueckseiten="TRUE" FileAuthor="Andreas Zimmermann" FileInfo="Gruppe von Leuten/nfür Tunnelbahnhöfe (selbstleuchtend!)" FilePicture="021.l3dobj.jpg" Texture="021.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="2"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="-1.2;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="-1.2;2;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="1.2;2;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="1.2;0;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="2,367;2,11;412,18;414,365"/>
+	</Flaeche>
+</OBJECT>
