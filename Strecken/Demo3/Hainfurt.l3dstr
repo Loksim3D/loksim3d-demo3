@@ -36,13 +36,13 @@
 			<Object>
 				<Props Name="FL_0040" Offset="0;0;0" Position="0" Qualitaet="5"/>
 				<Eintrag>
-					<Props Abstand="120" Anzahl="2" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\Betonmast_Re250-180-530-Ka.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="40" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Props Abstand="120" Anzahl="2" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\FC\Betonmast_Re250-180-530-Ka.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="40" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="120" Anzahl="2" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re250\Re250-6000-180-530-KL.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="40" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="120" Anzahl="2" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\Betonmast_Re250-180-530-Lb.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="100" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Props Abstand="120" Anzahl="2" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\FC\Betonmast_Re250-180-530-Lb.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="100" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="120" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re250\Re250-6000-180-530-LK.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="100" Verschiebung="0;0;0" Winkel="0;0;0"/>
@@ -54,7 +54,7 @@
 			<Object>
 				<Props DynamicVisibility="WetterVars::*" FixedDynamicVisibility="FALSE" Name="FL-N_0275" Offset="0;0;0" Position="275" Qualitaet="5"/>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\Betonmast_Re250-180-530-Ka_Spann.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\FC\Betonmast_Re250-180-530-Ka_Anker.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Spannwerke\Radspannwerk_N_Masthalterung_BT530.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="3.5;0;0" Winkel="0;0;0"/>
@@ -72,7 +72,7 @@
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re250\N\Re250-5000-180-530-KSAK-N.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\Betonmast_Re250-180-530-SPA.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="50" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\FC\Betonmast_Re250-180-530-SPA.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="50" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re250\N\Re250-5000-180-530-SALSBL-N.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="50" Verschiebung="0;0;0" Winkel="0;0;0"/>
@@ -81,7 +81,7 @@
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re250\N\Re250-5000-180-530-SAKSBK-N.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="50" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\Betonmast_Re250-180-530-SPB.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="100" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\FC\Betonmast_Re250-180-530-SPB.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="100" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re250\N\Re250-5000-180-530-SBLSCL-N.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="100" Verschiebung="0;0;0" Winkel="0;0;0"/>
@@ -90,7 +90,7 @@
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re250\N\Re250-5000-180-530-SBKSCK-N.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="100" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\Betonmast_Re250-180-530-SPC.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="150" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\FC\Betonmast_Re250-180-530-SPC.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="150" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re250\N\Re250-5000-180-530-SCLSDL-N.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="150" Verschiebung="0;0;0" Winkel="0;0;0"/>
@@ -99,7 +99,7 @@
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re250\N\Re250-5000-180-530-SCKSDK-N.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="150" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\Betonmast_Re250-180-530-SPD.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="200" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\FC\Betonmast_Re250-180-530-SPD.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="200" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re250\N\Re250-5000-180-530-SDLL-N.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="200" Verschiebung="0;0;0" Winkel="0;0;0"/>
@@ -108,7 +108,7 @@
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re250\N\Re250-5000-180-530-SDKA-N-RN-350.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="200" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\Betonmast_Re250-180-530-Lb_Spann.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="250" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\FC\Betonmast_Re250-180-530-Lb_Spann.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="250" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Spannwerke\Radspannwerk_N_Masthalterung_BT530.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="250" Verschiebung="3.5;0;0" Winkel="180;0;0"/>
@@ -126,13 +126,13 @@
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re250\Re250-5500-180-530-LK-U1418.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="525" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="120" Anzahl="2" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\Betonmast_Re250-180-530-Ka.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="580" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Props Abstand="120" Anzahl="2" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\FC\Betonmast_Re250-180-530-Ka.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="580" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="120" Anzahl="2" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re250\Re250-6000-180-530-KL.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="580" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="120" Anzahl="2" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\Betonmast_Re250-180-530-Lb.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="640" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Props Abstand="120" Anzahl="2" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\FC\Betonmast_Re250-180-530-Lb.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="640" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="120" Anzahl="2" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re250\Re250-6000-180-530-LK.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="640" Verschiebung="0;0;0" Winkel="0;0;0"/>
@@ -141,7 +141,7 @@
 			<Object>
 				<Props Name="FL-F_0875" Offset="0;0;0" Position="875" Qualitaet="5"/>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\Betonmast_Re250-180-530-Ka_Anker.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="-55" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\FC\Betonmast_Re250-180-530-Ka_Anker.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="-55" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re250\F\Re250-5500-180-530-KL-U1814-ZF.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="-55" Verschiebung="0;0;0" Winkel="0;0;0"/>
@@ -150,7 +150,7 @@
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re250\F\Re250-5500-180-530-AF-350.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="-55" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\Betonmast_Re250-180-530-Lb.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\FC\Betonmast_Re250-180-530-Lb.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re250\F\Re250-5000-180-530-LK-VF.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" Winkel="0;0;0"/>
@@ -159,7 +159,7 @@
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re250\F\Re250-5000-180-530-FA-350.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\Betonmast_Re250-180-530-Ka_Anker.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="50" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\FC\Betonmast_Re250-180-530-Ka_Anker.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="50" Verschiebung="0;0;0" Winkel="0;0;0"/>
 					<Eigenschaften>
 						<Props andere_Seite="&#39;TRUE&#39;"/>
 					</Eigenschaften>
@@ -171,7 +171,7 @@
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re250\Re250-5000-180-530-KL.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="925" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\Betonmast_Re250-180-530-Lb.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="975" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\FC\Betonmast_Re250-180-530-Lb.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="975" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re250\Re250-5000-180-530-LK.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="975" Verschiebung="0;0;0" Winkel="0;0;0"/>
@@ -180,7 +180,7 @@
 			<Object>
 				<Props Name="FL_1025" Offset="0;0;0" Position="0" Qualitaet="5"/>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\Betonmast_Re250-180-530-Ka.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1025" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\FC\Betonmast_Re250-180-530-Ka.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1025" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re250\Re250-5000-180-530-KL.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1025" Verschiebung="0;0;0" Winkel="0;0;0"/>
@@ -582,13 +582,13 @@
 			<Object>
 				<Props Name="FL_0040" Offset="0;0;0" Position="0" Qualitaet="5"/>
 				<Eintrag>
-					<Props Abstand="120" Anzahl="2" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\Betonmast_Re250-180-530-Lb.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="40" Verschiebung="0;0;0" Winkel="180;0;0"/>
+					<Props Abstand="120" Anzahl="2" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\FC\Betonmast_Re250-180-530-Lb.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="40" Verschiebung="0;0;0" Winkel="180;0;0"/>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="120" Anzahl="2" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re250\Re250-6000-180-530-KL.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="40" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="120" Anzahl="2" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\Betonmast_Re250-180-530-Ka.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="100" Verschiebung="0;0;0" Winkel="180;0;0"/>
+					<Props Abstand="120" Anzahl="2" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\FC\Betonmast_Re250-180-530-Ka.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="100" Verschiebung="0;0;0" Winkel="180;0;0"/>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="120" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re250\Re250-6000-180-530-LK.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="100" Verschiebung="0;0;0" Winkel="0;0;0"/>
@@ -600,7 +600,7 @@
 			<Object>
 				<Props DynamicVisibility="WetterVars::*" FixedDynamicVisibility="FALSE" Name="FL-N_0275" Offset="0;0;0" Position="275" Qualitaet="5"/>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\Betonmast_Re250-180-530-Lb_Spann.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" Winkel="180;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\FC\Betonmast_Re250-180-530-Lb_Spann.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" Winkel="180;0;0"/>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Spannwerke\Radspannwerk_N_Masthalterung_BT530.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="-3.5;0;0" Winkel="0;0;0"/>
@@ -612,7 +612,7 @@
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Spannwerke\Radspannwerk_N_B350.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="-3.7;5.3;0" Winkel="3.4;0;0"/>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\Betonmast_Re250-180-530-SPD.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="50" Verschiebung="0;0;0" Winkel="180;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\FC\Betonmast_Re250-180-530-SPD.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="50" Verschiebung="0;0;0" Winkel="180;0;0"/>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re250\N\Re250-5000-180-530-SDKA-N-RN-350.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="50" Verschiebung="0;0;0" Winkel="180;0;0"/>
@@ -621,7 +621,7 @@
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re250\N\Re250-5000-180-530-SDLL-N.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="50" Verschiebung="0;0;0" Winkel="180;0;0"/>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\Betonmast_Re250-180-530-SPC.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="100" Verschiebung="0;0;0" Winkel="180;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\FC\Betonmast_Re250-180-530-SPC.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="100" Verschiebung="0;0;0" Winkel="180;0;0"/>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re250\N\Re250-5000-180-530-SCKSDK-N.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="100" Verschiebung="0;0;0" Winkel="180;0;0"/>
@@ -630,7 +630,7 @@
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re250\N\Re250-5000-180-530-SCLSDL-N.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="100" Verschiebung="0;0;0" Winkel="180;0;0"/>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\Betonmast_Re250-180-530-SPB.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="150" Verschiebung="0;0;0" Winkel="180;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\FC\Betonmast_Re250-180-530-SPB.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="150" Verschiebung="0;0;0" Winkel="180;0;0"/>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re250\N\Re250-5000-180-530-SBKSCK-N.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="150" Verschiebung="0;0;0" Winkel="180;0;0"/>
@@ -639,7 +639,7 @@
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re250\N\Re250-5000-180-530-SBLSCL-N.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="150" Verschiebung="0;0;0" Winkel="180;0;0"/>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\Betonmast_Re250-180-530-SPA.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="200" Verschiebung="0;0;0" Winkel="180;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\FC\Betonmast_Re250-180-530-SPA.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="200" Verschiebung="0;0;0" Winkel="180;0;0"/>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re250\N\Re250-5000-180-530-SAKSBK-N.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="200" Verschiebung="0;0;0" Winkel="180;0;0"/>
@@ -648,7 +648,7 @@
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re250\N\Re250-5000-180-530-SALSBL-N.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="200" Verschiebung="0;0;0" Winkel="180;0;0"/>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\Betonmast_Re250-180-530-Ka_Spann.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="250" Verschiebung="0;0;0" Winkel="180;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\FC\Betonmast_Re250-180-530-Ka_Spann.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="250" Verschiebung="0;0;0" Winkel="180;0;0"/>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Spannwerke\Radspannwerk_N_Masthalterung_BT530.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="250" Verschiebung="-3.5;0;0" Winkel="180;0;0"/>
@@ -672,13 +672,13 @@
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re250\Re250-5500-180-530-LK-U1418.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="525" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="120" Anzahl="2" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\Betonmast_Re250-180-530-Lb.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="580" Verschiebung="0;0;0" Winkel="180;0;0"/>
+					<Props Abstand="120" Anzahl="2" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\FC\Betonmast_Re250-180-530-Lb.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="580" Verschiebung="0;0;0" Winkel="180;0;0"/>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="120" Anzahl="2" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re250\Re250-6000-180-530-KL.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="580" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="120" Anzahl="2" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\Betonmast_Re250-180-530-Ka.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="640" Verschiebung="0;0;0" Winkel="180;0;0"/>
+					<Props Abstand="120" Anzahl="2" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\FC\Betonmast_Re250-180-530-Ka.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="640" Verschiebung="0;0;0" Winkel="180;0;0"/>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="120" Anzahl="2" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re250\Re250-6000-180-530-LK.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="640" Verschiebung="0;0;0" Winkel="0;0;0"/>
@@ -687,7 +687,7 @@
 			<Object>
 				<Props Name="FL-F_0875" Offset="0;0;0" Position="875" Qualitaet="5"/>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\Betonmast_Re250-180-530-Lb_Anker.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="-55" Verschiebung="0;0;0" Winkel="180;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\FC\Betonmast_Re250-180-530-Lb_Anker.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="-55" Verschiebung="0;0;0" Winkel="180;0;0"/>
 					<Eigenschaften>
 						<Props andere_Seite="&#39;TRUE&#39;"/>
 					</Eigenschaften>
@@ -699,7 +699,7 @@
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re250\F\Re250-5500-180-530-AF--350.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="-55" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\Betonmast_Re250-180-530-Ka.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" Winkel="180;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\FC\Betonmast_Re250-180-530-Ka.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" Winkel="180;0;0"/>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re250\F\Re250-5000-180-530-LK-VF.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" Winkel="0;0;0"/>
@@ -708,7 +708,7 @@
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re250\F\Re250-5000-180-530-FA--350.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\Betonmast_Re250-180-530-Lb_Anker.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="50" Verschiebung="0;0;0" Winkel="180;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\FC\Betonmast_Re250-180-530-Lb_Anker.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="50" Verschiebung="0;0;0" Winkel="180;0;0"/>
 				</Eintrag>
 			</Object>
 			<Object>
@@ -717,7 +717,7 @@
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re250\Re250-5000-180-530-KL.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="925" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\Betonmast_Re250-180-530-Ka.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="975" Verschiebung="0;0;0" Winkel="180;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\FC\Betonmast_Re250-180-530-Ka.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="975" Verschiebung="0;0;0" Winkel="180;0;0"/>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re250\Re250-5000-180-530-LK.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="975" Verschiebung="0;0;0" Winkel="0;0;0"/>
@@ -726,25 +726,25 @@
 			<Object>
 				<Props Name="FL_1025" Offset="0;0;0" Position="0" Qualitaet="5"/>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\Betonmast_Re250-180-530-Lb.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1025" Verschiebung="0;0;0" Winkel="180;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\FC\Betonmast_Re250-180-530-Lb.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1025" Verschiebung="0;0;0" Winkel="180;0;0"/>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re250\Re250-5000-180-530-KL.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1025" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\Betonmast_Re250-180-530-Ka.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1075" Verschiebung="0;0;0" Winkel="180;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\FC\Betonmast_Re250-180-530-Ka.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1075" Verschiebung="0;0;0" Winkel="180;0;0"/>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re250\Re250-5000-180-530-LK.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1075" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\Betonmast_Re250-180-530-Lb.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1125" Verschiebung="0;0;0" Winkel="180;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\FC\Betonmast_Re250-180-530-Lb.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1125" Verschiebung="0;0;0" Winkel="180;0;0"/>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Hainfurt\SHK-Re250-5000-180-530-30-0-0-30--30-20-20--30.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1125" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\Betonmast_Re250-180-550-Ka.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1175" Verschiebung="0;0;0" Winkel="180;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\FC\Betonmast_Re250-180-550-Ka.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1175" Verschiebung="0;0;0" Winkel="180;0;0"/>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re250\Re250-5000-180-550-LK.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1175" Verschiebung="0;0;0" Winkel="0;0;0"/>
@@ -753,7 +753,7 @@
 			<Object>
 				<Props Name="FL-S_1225" Offset="0;0;0" Position="1225" Qualitaet="5"/>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\Betonmast_Re250-180-550-Lb_Spann.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" Winkel="180;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\FC\Betonmast_Re250-180-550-Lb_Spann.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" Winkel="180;0;0"/>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Spannwerke\Radspannwerk_N_Masthalterung_BT530.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="-3.5;0.2;0" Winkel="0;0;0"/>
@@ -765,7 +765,7 @@
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Spannwerke\Radspannwerk_N_B350.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="-3.7;5.5;0" Winkel="3.81;0;0"/>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\Betonmast_Re250-Re160-180-550-SPD.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="50" Verschiebung="0;0;0" Winkel="180;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\FC\Betonmast_Re250-Re160-180-550-SPD.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="50" Verschiebung="0;0;0" Winkel="180;0;0"/>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\S\Re160-5000-180-550-SDKA-S-RN-350.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="50" Verschiebung="0;0;0" Winkel="180;0;0"/>
@@ -774,7 +774,7 @@
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re250\S\Re250-5000-180-550-SDLL-S.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="50" Verschiebung="0;0;0" Winkel="180;0;0"/>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\Betonmast_Re250-Re160-180-550-SPC.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="100" Verschiebung="0;0;0" Winkel="180;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\FC\Betonmast_Re250-Re160-180-550-SPC.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="100" Verschiebung="0;0;0" Winkel="180;0;0"/>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\S\Re160-5000-180-550-SCKSDK-S.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="100" Verschiebung="0;0;0" Winkel="180;0;0"/>
@@ -783,7 +783,7 @@
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re250\S\Re250-5000-180-550-SCLSDL-S.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="100" Verschiebung="0;0;0" Winkel="180;0;0"/>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\Betonmast_Re250-Re160-180-550-SPB.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="150" Verschiebung="0;0;0" Winkel="180;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\FC\Betonmast_Re250-Re160-180-550-SPB.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="150" Verschiebung="0;0;0" Winkel="180;0;0"/>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\S\Re160-5000-180-550-SBKSCK-S.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="150" Verschiebung="0;0;0" Winkel="180;0;0"/>
@@ -792,7 +792,7 @@
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re250\S\Re250-5000-180-550-SBLSCL-S.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="150" Verschiebung="0;0;0" Winkel="180;0;0"/>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\Betonmast_Re250-Re160-180-550-SPA.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="200" Verschiebung="0;0;0" Winkel="180;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\FC\Betonmast_Re250-Re160-180-550-SPA.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="200" Verschiebung="0;0;0" Winkel="180;0;0"/>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Betonmast_Anker.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="200" Verschiebung="-3.5;0;0" Winkel="0;0;0"/>
@@ -804,7 +804,7 @@
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re250\S\Re250-5000-180-550-SALSBL-S.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="200" Verschiebung="0;0;0" Winkel="180;0;0"/>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelteil\Rundmaste\Betonmast_080_A.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="250" Verschiebung="-3.5;0;0" Winkel="0;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelteil\Rundmaste\FC\Betonmast_080_A.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="250" Verschiebung="-3.5;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelteil\Vierkantrohr_VZ_80_50_800.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="250" Verschiebung="-3.34;7.615;0" Winkel="0;0;0"/>
@@ -849,25 +849,25 @@
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5000-180-550-KL.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1525" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re160\Betommast_Re160-180-550-Ka-SR.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1575" Verschiebung="0;0;0" Winkel="180;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re160\FC\Betommast_Re160-180-550-Ka-SR.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1575" Verschiebung="0;0;0" Winkel="180;0;0"/>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5000-180-550-LK.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1575" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re160\Betonmast_Re160-180-550-La-SR.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1625" Verschiebung="0;0;0" Winkel="180;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re160\FC\Betonmast_Re160-180-550-La-SR.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1625" Verschiebung="0;0;0" Winkel="180;0;0"/>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5000-180-550-KL.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1625" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re160\Betommast_Re160-180-550-Ka-SR.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1675" Verschiebung="0;0;0" Winkel="180;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re160\FC\Betommast_Re160-180-550-Ka-SR.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1675" Verschiebung="0;0;0" Winkel="180;0;0"/>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5000-180-550-LK.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1675" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re160\Betonmast_Re160-180-550-La-SR.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1725" Verschiebung="0;0;0" Winkel="180;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re160\FC\Betonmast_Re160-180-550-La-SR.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1725" Verschiebung="0;0;0" Winkel="180;0;0"/>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5000-180-550-KL.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1725" Verschiebung="0;0;0" Winkel="0;0;0"/>
@@ -879,7 +879,7 @@
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5000-180-550-LK.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1775" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelteil\Rundmaste\Betonmast_080_D.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="1825" Verschiebung="3.3;0;0" Winkel="0;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelteil\Rundmaste\FC\Betonmast_080_D.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="1825" Verschiebung="3.3;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelausleger\Re160\Ausleger_320_Re160-180-550-Ka-SR.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1825" Verschiebung="0;0;0" Winkel="0;0;0"/>
@@ -891,7 +891,7 @@
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelausleger\Re160\Ausleger_390_Re160-180-550-La-SR.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1875" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelteil\Rundmaste\Betonmast_080_D.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1875" Verschiebung="3.95;0;0" Winkel="0;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelteil\Rundmaste\FC\Betonmast_080_D.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1875" Verschiebung="3.95;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5000-180-550-LK.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1875" Verschiebung="0;0;0" Winkel="0;0;0"/>
@@ -1409,7 +1409,7 @@
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5000-180-550-LK.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1475" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re160\Betommast_Re160-180-550-Ka-SR.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1525" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re160\FC\Betommast_Re160-180-550-Ka-SR.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1525" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5000-180-550-KL.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1525" Verschiebung="0;0;0" Winkel="0;0;0"/>
@@ -1469,16 +1469,28 @@
 					</Eigenschaften>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5035-180-550-KL.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1724.650024" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5000-180-550-KL.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1724.650024" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Mehrgleisausleger\Mehrgleisausleger_06m_820_Re160.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1775" Verschiebung="0;0;0" Winkel="0;0;0"/>
 					<Eigenschaften>
-						<Props Ausleger_rechts="&#39;TRUE&#39;" Lang="&#39;TRUE&#39;"/>
+						<Props Ausleger_rechts="&#39;TRUE&#39;" Doppelausleger_links="&#39;TRUE&#39;"/>
 					</Eigenschaften>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5000-180-550-LK.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1775" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelausleger\Re160\Ausleger_320_Re160-180-550-La-SR.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1774.650024" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5035-180-550-LK.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1774.650024" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Spannwerke\Radspannwerk_N_Masthalterung.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1775.099976" Verschiebung="3.5;4.8;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Spannwerke\Radspannwerk_N_B350.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1775.099976" Verschiebung="3.3;4.8;0" Winkel="2;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Spannwerke\Radspannwerk_N_B350.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1775.099976" Verschiebung="3.7;4.8;0" Winkel="1.5;0;0"/>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Mehrgleisausleger\Mehrgleisausleger_07m_820_Re160.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1825" Verschiebung="5;0;0" Winkel="0;0;0"/>
@@ -1960,7 +1972,7 @@
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Hainfurt\Hainfurt_1525_GV2.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1525.27002" Verschiebung="-0.2;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Hainfurt\Betonmast_Bogenabzug_550_SH080.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1450" Verschiebung="0;0;0" Winkel="178.625;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Hainfurt\FC\Betonmast_Bogenabzug_550_SH080.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1450" Verschiebung="0;0;0" Winkel="178.625;0;0"/>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\MF\FL_Trenner\FL_Trenner_RE100-5000-140-550.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1474" Verschiebung="0;0;0" Winkel="0;0;0"/>
@@ -2163,25 +2175,19 @@
 			<Object>
 				<Props Name="FL_1475" Offset="0;0;0" Position="0" Qualitaet="5"/>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1475" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Hainfurt\Hainfurt_1775_G6.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1775.670044" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1575" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelausleger\Hainfurt\Hainfurt_1825_G6_01.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1824.650024" Verschiebung="0;0;0" Winkel="180;0;0"/>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1625" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Hainfurt\Hainfurt_1825_G6.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1824.650024" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelausleger\Re160\Ausleger_200_Re160-180-550-La-SR.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1825" Verschiebung="0;0;0" Winkel="180;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelausleger\Re160\Ausleger_240_Re160-180-550-Ka-SR.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1875" Verschiebung="0;0;0" Winkel="180;0;0"/>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5000-180-550-KL.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1825" Verschiebung="0;0;0" Winkel="0;0;0"/>
-				</Eintrag>
-				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelausleger\Re160\Ausleger_200_Re160-180-550-Ka-SR.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1875" Verschiebung="-0.35;0;0" Winkel="180;0;0"/>
-				</Eintrag>
-				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Mehrgleisausleger\Mehrgleisausleger_06m_820_Re160.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1875" Verschiebung="-0.65;0;0" Winkel="0;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Mehrgleisausleger\Mehrgleisausleger_06m_820_Re160.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1875" Verschiebung="-0.5;0;0" Winkel="0;0;0"/>
 					<Eigenschaften>
 						<Props Ausleger_rechts="&#39;TRUE&#39;"/>
 					</Eigenschaften>
@@ -2325,13 +2331,25 @@
 			<Object>
 				<Props Name="FL_1475" Offset="0;0;0" Position="0" Qualitaet="5"/>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5000-180-550-LK.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1775" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Hainfurt\Hainfurt_1675_G7.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1675" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5000-180-550-KK.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1825" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Hainfurt\Hainfurt_1725_G7.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1725" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelausleger\Re160\Ausleger_320_Re160-180-550-La-SR.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1874.599976" Verschiebung="0.4;0;0" Winkel="180;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelausleger\Hainfurt\Hainfurt_1775_G7_01.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1774.900024" Verschiebung="0.4;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Hainfurt\Hainfurt_1775_G7.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1774.900024" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelausleger\Re160\Ausleger_310_Re160-180-550-La-SR.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1824.599976" Verschiebung="0;0;0" Winkel="180;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5040-180-550-KK.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1824.599976" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelausleger\Re160\Ausleger_260_Re160-180-550-La-SR.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1874.599976" Verschiebung="0;0;0" Winkel="180;0;0"/>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5000-180-550-KK.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1875" Verschiebung="0;0;0" Winkel="0;0;0"/>
