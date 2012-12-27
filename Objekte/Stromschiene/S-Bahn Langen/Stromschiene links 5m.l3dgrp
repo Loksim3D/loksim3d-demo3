@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="Klaus Nickel" FileInfo="Ersteller: Klaus Nickel/n/numgebaut durch Jernbane, 2.3.12" FilePicture=""/>
+	<Object>
+		<Props BlinkIntervall="0" Name="Stromschiene.l3dobj" Position="-1.525;0;0" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Stromschiene Halterung.l3dobj" Position="-1.5;0;2.5" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+</GRUPPENOBJECT>

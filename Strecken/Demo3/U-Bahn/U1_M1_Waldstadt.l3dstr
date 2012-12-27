@@ -28,6 +28,12 @@
 			<KURVE>
 				<Props Ende="1770" SanfterWinkel="TRUE" Start="1482" Winkel="-11.2"/>
 			</KURVE>
+			<STEIGUNG>
+				<Props Ende="700" Promille="10" SanfterWinkel="TRUE" Start="160"/>
+			</STEIGUNG>
+			<STEIGUNG>
+				<Props Ende="1600" Promille="20" SanfterWinkel="TRUE" Start="1010"/>
+			</STEIGUNG>
 		</TOPOLOGIE>
 		<Objecte>
 			<Object>
@@ -193,7 +199,7 @@
 				</Eintrag>
 			</Object>
 			<Object>
-				<Props Name="Alfred-Delp-Straße" Offset="0;0;0" Position="850" Qualitaet="1" RollMaterial="FALSE"/>
+				<Props Name="Alfred-Werner-Straße" Offset="0;0;0" Position="850" Qualitaet="1" RollMaterial="FALSE"/>
 				<Eintrag>
 					<Props Abstand="10" Anzahl="16" Datei="\Objekte\Bahnsteige\AndreasZ\U-Bahn-2_seite_10m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="9.8;-0.2;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
 					<Lightning>
@@ -212,7 +218,7 @@
 						<Props DayLight="0" LokLight="TRUE" NightLight="64"/>
 					</Lightning>
 					<Eigenschaften>
-						<Props TEXT="&#39;Alfred-Delp-Straße&#39;"/>
+						<Props TEXT="&#39;Alfred-Werner-Straße&#39;"/>
 					</Eigenschaften>
 				</Eintrag>
 				<Eintrag>
@@ -239,7 +245,7 @@
 						<Props DayLight="0" LokLight="TRUE" NightLight="64"/>
 					</Lightning>
 					<Eigenschaften>
-						<Props TEXT="&#39;Alfred-Delp-Straße&#39;"/>
+						<Props TEXT="&#39;Alfred-Werner-Straße&#39;"/>
 					</Eigenschaften>
 				</Eintrag>
 				<Eintrag>
@@ -256,7 +262,7 @@
 				</Eintrag>
 			</Object>
 			<Object>
-				<Props Name="Alfred-Delp-Straße 2" Offset="0;0;0" Position="850" Qualitaet="3" RollMaterial="FALSE"/>
+				<Props Name="Alfred-Werner-Straße 2" Offset="0;0;0" Position="850" Qualitaet="3" RollMaterial="FALSE"/>
 				<Eintrag>
 					<Props Abstand="6" Anzahl="26" Datei="\Objekte\Bahnsteige\JörgM\S-Bahn\Bahnsteiglampe\Bahnsteiglampe1.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="5" Verschiebung="5;1.7;0" WeitSichtbar="FALSE" Winkel="90;0;0"/>
 				</Eintrag>
@@ -316,7 +322,7 @@
 				</Eintrag>
 			</Object>
 			<Object>
-				<Props DynamicVisibility="FahrplanVars::Ziel == &#39;WS&#39;" FixedDynamicVisibility="TRUE" Name="Alfred-Delp-Straße ZZA Waldstadt" Offset="0;0;0" Position="850" Qualitaet="3"/>
+				<Props DynamicVisibility="FahrplanVars::Ziel == &#39;WS&#39;" FixedDynamicVisibility="TRUE" Name="Alfred-Werner-Straße ZZA Waldstadt" Offset="0;0;0" Position="850" Qualitaet="3"/>
 				<Eintrag>
 					<Props Abstand="32" Anzahl="4" Datei="\Objekte\Bahnsteige\JPB\Zugzielanzeiger\ZZA_digital_S5_mitGleis.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="32" Verschiebung="2.5;5.2;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
 					<Eigenschaften>
@@ -328,7 +334,7 @@
 				</Eintrag>
 			</Object>
 			<Object>
-				<Props DynamicVisibility="FahrplanVars::Ziel == &#39;NPL&#39;" FixedDynamicVisibility="TRUE" Name="Alfred-Delp-Straße ZZA Nürnberger Platz" Offset="0;0;0" Position="850" Qualitaet="3"/>
+				<Props DynamicVisibility="FahrplanVars::Ziel == &#39;NPL&#39;" FixedDynamicVisibility="TRUE" Name="Alfred-Werner-Straße ZZA Nürnberger Platz" Offset="0;0;0" Position="850" Qualitaet="3"/>
 				<Eintrag>
 					<Props Abstand="32" Anzahl="4" Datei="\Objekte\Bahnsteige\JPB\Zugzielanzeiger\ZZA_digital_S5_mitGleis.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="32" Verschiebung="2.5;5.2;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
 					<Eigenschaften>
@@ -463,11 +469,11 @@
 				</Eintrag>
 			</Object>
 			<Object>
-				<Props DynamicVisibility="FahrplanVars::Ziel == &#39;WS&#39;" FixedDynamicVisibility="TRUE" Name="Alfred-Delp-Straße ZZA Waldstadt" Offset="0;0;0" Position="1780" Qualitaet="3"/>
+				<Props DynamicVisibility="FahrplanVars::Ziel == &#39;WS&#39;" FixedDynamicVisibility="TRUE" Name="Terminal 3 ZZA Waldstadt" Offset="0;0;0" Position="1780" Qualitaet="3"/>
 				<Eintrag>
 					<Props Abstand="32" Anzahl="4" Datei="\Objekte\Bahnsteige\JPB\Zugzielanzeiger\ZZA_digital_S5_mitGleis.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="32" Verschiebung="2.5;5.2;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
 					<Eigenschaften>
-						<Props Ab_in_1="&#39;in 0 Min&#39;" Abfahrtszeit="&#39;SE 32&#39;" Abfahrtszeit_1="&#39;W 3&#39;" Abfahrtszeit_2="&#39;W 3&#39;" Ankunftszeit="&#39;in 10 min.&#39;" Bahnsteig-Nr.="&#39;4&#39;" Gleis="&#39;1&#39;" Gleis_Nr="&#39;1&#39;" Linie="&#39;U 1&#39;" TEXT="&#39;Hauptbahnhof&#39;" Zeit_1="&#39;W 1&#39;" Zeit_2="&#39;W 1&#39;" Ziel="&#39;Hauptbahnhof&#39;" Ziel_1="&#39;WI Frauenstein&#39;" Ziel_2="&#39;WI Frauenstein&#39;" Zug_Nr._1="&#39;in 0 Min&#39;" Zug_Nr._2="&#39;in 30 Min.&#39;" Zuggattung+Nr="&#39;in 0 Min.&#39;" Zuggattung+Nr_1="&#39;in 0 min.&#39;" Zuggattung+Nr_2="&#39;in 30 min.&#39;" Zuglauf="&#39;Alfred-Delp-Straße&#39;" Zuglauf_1="&#39;Erbenheim - HBF - FHS - Sonnenberg&#39;" Zuglauf_2="&#39;Erbenheim - HBF - FHS - Sonnenberg&#39;" Zugziel="&#39;Waldstadt&#39;" Zugziel_1="&#39;Wiesbaden Ost&#39;" Zugziel_2="&#39;Wiesbaden Ost&#39;" wagenstand="&#39;1111&#39;" Über="&#39;Goethealle - Stadtmitte&#39;" Über_1_1="&#39;West&#39;" Über_2="&#39;West&#39;"/>
+						<Props Ab_in_1="&#39;in 0 Min&#39;" Abfahrtszeit="&#39;SE 32&#39;" Abfahrtszeit_1="&#39;W 3&#39;" Abfahrtszeit_2="&#39;W 3&#39;" Ankunftszeit="&#39;in 10 min.&#39;" Bahnsteig-Nr.="&#39;4&#39;" Gleis="&#39;1&#39;" Gleis_Nr="&#39;1&#39;" Linie="&#39;U 1&#39;" TEXT="&#39;Hauptbahnhof&#39;" Zeit_1="&#39;W 1&#39;" Zeit_2="&#39;W 1&#39;" Ziel="&#39;Hauptbahnhof&#39;" Ziel_1="&#39;WI Frauenstein&#39;" Ziel_2="&#39;WI Frauenstein&#39;" Zug_Nr._1="&#39;in 0 Min&#39;" Zug_Nr._2="&#39;in 30 Min.&#39;" Zuggattung+Nr="&#39;in 0 Min.&#39;" Zuggattung+Nr_1="&#39;in 0 min.&#39;" Zuggattung+Nr_2="&#39;in 30 min.&#39;" Zuglauf="&#39;Alfred-Werner-Straße&#39;" Zuglauf_1="&#39;Erbenheim - HBF - FHS - Sonnenberg&#39;" Zuglauf_2="&#39;Erbenheim - HBF - FHS - Sonnenberg&#39;" Zugziel="&#39;Waldstadt&#39;" Zugziel_1="&#39;Wiesbaden Ost&#39;" Zugziel_2="&#39;Wiesbaden Ost&#39;" wagenstand="&#39;1111&#39;" Über="&#39;Goethealle - Stadtmitte&#39;" Über_1_1="&#39;West&#39;" Über_2="&#39;West&#39;"/>
 					</Eigenschaften>
 					<Lightning>
 						<Props DayLight="0" LokLight="TRUE" NightLight="67"/>
@@ -475,7 +481,7 @@
 				</Eintrag>
 			</Object>
 			<Object>
-				<Props DynamicVisibility="FahrplanVars::Ziel == &#39;NPL&#39;" FixedDynamicVisibility="TRUE" Name="Alfred-Delp-Straße ZZA Nürnberger Platz" Offset="0;0;0" Position="1780" Qualitaet="3"/>
+				<Props DynamicVisibility="FahrplanVars::Ziel == &#39;NPL&#39;" FixedDynamicVisibility="TRUE" Name="Terminal 3 ZZA Nürnberger Platz" Offset="0;0;0" Position="1780" Qualitaet="3"/>
 				<Eintrag>
 					<Props Abstand="32" Anzahl="4" Datei="\Objekte\Bahnsteige\JPB\Zugzielanzeiger\ZZA_digital_S5_mitGleis.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="32" Verschiebung="2.5;5.2;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
 					<Eigenschaften>
@@ -483,6 +489,45 @@
 					</Eigenschaften>
 					<Lightning>
 						<Props DayLight="0" LokLight="TRUE" NightLight="67"/>
+					</Lightning>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="Stromschiene" Offset="0;0;0" Position="0" Qualitaet="0"/>
+				<Eintrag>
+					<Props Abstand="5" Anzahl="32" Datei="\Objekte\Stromschiene\S-Bahn Langen\Stromschiene links 5m.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="40" LokLight="TRUE" NightLight="40"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="5" Anzahl="138" Datei="\Objekte\Stromschiene\S-Bahn Langen\Stromschiene links 5m.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="160" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="5" Anzahl="32" Datei="\Objekte\Stromschiene\S-Bahn Langen\Stromschiene links 5m.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="850" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="40" LokLight="TRUE" NightLight="40"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="5" Anzahl="154" Datei="\Objekte\Stromschiene\S-Bahn Langen\Stromschiene links 5m.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1010" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="5" Anzahl="32" Datei="\Objekte\Stromschiene\S-Bahn Langen\Stromschiene links 5m.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1780" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="40" LokLight="TRUE" NightLight="40"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="5" Anzahl="12" Datei="\Objekte\Stromschiene\S-Bahn Langen\Stromschiene links 5m.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1940" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
 					</Lightning>
 				</Eintrag>
 			</Object>
@@ -606,7 +651,7 @@
 						<Props Pos="160" Value="Waldstadt"/>
 					</Value>
 					<Value>
-						<Props Pos="1010" Value="Alfred-Delp-Straße"/>
+						<Props Pos="1010" Value="Alfred-Werner-Straße"/>
 					</Value>
 					<Value>
 						<Props Pos="1940" Value="Terminal 3"/>
@@ -706,7 +751,7 @@
 						</ObjectProps>
 					</Value>
 					<Value>
-						<Props File="\Objekte\Tafeln\Ne5.l3dgrp" Name="Alfred-Delp-Straße" Pos="1010" ToleranzMinus="50" ToleranzPlus="10" Zuglaenge="200"/>
+						<Props File="\Objekte\Tafeln\Ne5.l3dgrp" Name="Alfred-Werner-Straße" Pos="1010" ToleranzMinus="50" ToleranzPlus="10" Zuglaenge="160"/>
 						<TafelObjExtraData>
 							<Lightning>
 								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>

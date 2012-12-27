@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="" FileInfo="" FilePicture="" Texture="Texturen\Stromschiene.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="-1;-1;0" Vekt="-0.075;0.51;-5.2"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;0" Vekt="-0.075;0.65;-5.2"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;0" Vekt="0.075;0.65;-5.2"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;0" Vekt="0.075;0.51;-5.2"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;0" Vekt="-0.075;0.51;0.2"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;0" Vekt="-0.075;0.65;0.2"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;0" Vekt="0.075;0.65;0.2"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;0" Vekt="0.075;0.51;0.2"/>
+	</Point>
+	<Flaeche>
+		<Props Points="3;2;6;7" Texture="1,39;1,27;159,26;159,38"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;1;0" Texture="159,2;159,14;1,13;1,1"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="1;5;6;2" Texture="159,13;1,13;1,27;159,27"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="2,2;12,2;12,12;2,12"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;6;7" Texture="2,2;12,2;12,12;2,12"/>
+	</Flaeche>
+</OBJECT>
