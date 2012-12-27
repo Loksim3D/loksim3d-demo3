@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="" FileDoku="" FileInfo="" FilePicture="" Texture="Bahnsteiglampe6.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="-0.5;0;-0.12"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="-0.5;0.16;-0.12"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.5;0.16;-0.12"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.5;0;-0.12"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="-0.5;0;0.12"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="-0.5;0.16;0.12"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.5;0.16;0.12"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="0.5;0;0.12"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="22,141;46,141;46,29;22,29"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;6;5;4" Texture="22,29;46,29;46,141;22,141"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;2;6;7" Texture="22,45;22,1;46,1;46,45"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;1;0" Texture="22,48;22,1;46,1;46,48"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="1;5;6;2" Texture="28,52;28,52;28,52;28,52"/>
+	</Flaeche>
+</OBJECT>

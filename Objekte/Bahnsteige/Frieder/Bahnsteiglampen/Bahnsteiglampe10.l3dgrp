@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="" FileDoku="" FileInfo="" FilePicture=""/>
+	<Object>
+		<Props BlinkIntervall="0" Name="Bahnsteiglampe10b.l3dobj" Position="0;6;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="WetterDaten::HelligkeitProzent &#62;= 60" FixedDynamicVisibility="FALSE" Name="Bahnsteiglampe10a_aus.l3dobj" Position="0;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="WetterDaten::HelligkeitProzent &#62;= 60" FixedDynamicVisibility="FALSE" Name="Bahnsteiglampe10c_aus.l3dobj" Position="0;6;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="WetterDaten::HelligkeitProzent &#60;= 60" FixedDynamicVisibility="FALSE" Name="Bahnsteiglampe10c_an.l3dobj" Position="0;6;0" Rotation="0;0;0" WeitSichtbar="TRUE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="WetterDaten::HelligkeitProzent &#60;= 60" FixedDynamicVisibility="FALSE" Name="Bahnsteiglampe10a_an.l3dobj" Position="0;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+</GRUPPENOBJECT>

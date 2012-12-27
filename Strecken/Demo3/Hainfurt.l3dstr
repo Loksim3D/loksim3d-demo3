@@ -38,6 +38,9 @@
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\Frieder\NBS_Bahnsteige\Anfang_5m_Regenrinne.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="448.75" Verschiebung="0;0;0" Winkel="180;0;0"/>
 				</Eintrag>
+				<Eintrag>
+					<Props Abstand="20" Anzahl="3" Datei="\Objekte\Bahnsteige\Frieder\Bahnsteiglampen\Bahnsteiglampe10.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="10" Verschiebung="-5;1;0" Winkel="0;0;0"/>
+				</Eintrag>
 			</Object>
 			<Object>
 				<Props Name="FL_0040" Offset="0;0;0" Position="0" Qualitaet="5"/>
@@ -2329,6 +2332,9 @@
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\RainerZ\Durchgang_verb.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="2" Verschiebung="5;1;0" Winkel="180;0;0"/>
 				</Eintrag>
+				<Eintrag>
+					<Props Abstand="20" Anzahl="3" Datei="\Objekte\Bahnsteige\Frieder\Bahnsteiglampen\Bahnsteiglampe10.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="10" Verschiebung="5;1;0" Winkel="0;0;0"/>
+				</Eintrag>
 			</Object>
 		</Objecte>
 		<Hoeheunterbrechung>
@@ -2634,6 +2640,9 @@
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\Frieder\NBS_Bahnsteige\Anfang_5m_Regenrinne.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="448.75" Verschiebung="0;0;0" Winkel="180;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="20" Anzahl="3" Datei="\Objekte\Bahnsteige\Frieder\Bahnsteiglampen\Bahnsteiglampe10.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="10" Verschiebung="-7.25;1;0" Winkel="0;0;0"/>
 				</Eintrag>
 			</Object>
 		</Objecte>
