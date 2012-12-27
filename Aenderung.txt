@@ -1,5 +1,6 @@
 2012-12-27
 * [kn]  Demo-U1 ergänzt (Module 2-5)
+* [Frieder] Textur für Betonmasten und Betonmasten (vor allem Vektoren) geändert
 * [ukl] Bf. Hainfurt: Fahrleitung über Gleis 6 und 7 gesetzt
 * [ukl] Betonmasten getauscht. (Textur Frieder)
 
