@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RAIL>
+	<Props Bettungsbreite="4" FileAuthor="" FileDoku="" FileInfo="" FilePicture="" Schienenbreite="0" Schienenhoehe="0" Spurbreite="0.01" Texture="leer.bmp" Transparent="TRUE"/>
+	<TexSchieneOben>
+		<Props x1="0" x2="1" y1="0" y2="1"/>
+	</TexSchieneOben>
+	<TexSchieneSeite>
+		<Props x1="0" x2="1" y1="0" y2="1"/>
+	</TexSchieneSeite>
+	<TexBettung>
+		<Props x1="0" x2="1" y1="0" y2="1"/>
+	</TexBettung>
+</RAIL>
