@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="Klaus Nickel" FileDoku="\Doku\KlausN\U-Bahn Berlin\U-Bahn-Signale.pdf" FileInfo="/nwww.veb-verkehr.de" FilePicture=""/>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tunnel" Name="Teile\Stellwerk.l3dobj" Position="0;0.01;-0.001" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Teile\Stellwerk_Tunnel.l3dobj" Position="0;0.01;-0.001" Rotation="0;0;0" ShowOn="Tunnel" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tunnel or U5 or So3_rechts or So3_links or kein_So3" Name="Teile\So3.l3dobj" Position="0;-0.89;-0.001" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="U5 or So3_rechts or So3_links or kein_So3" Name="Teile\So3.l3dobj" Position="0;-0.64;-0.001" Rotation="0;0;0" ShowOn="Tunnel" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="U5 or kein_So3" Name="Teile\So3.l3dobj" Position="0.2;0.01;-0.001" Rotation="0;0;0" ShowOn="So3_rechts" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="U5 or kein_So3" Name="Teile\So3.l3dobj" Position="-0.2;0.01;-0.001" Rotation="0;0;0" ShowOn="So3_links" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tunnel or kein_So3" Name="Teile\So3_Ost.l3dobj" Position="0.135;0.01;-0.001" Rotation="0;0;0" ShowOn="U5 and So3_rechts" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tunnel or kein_So3" Name="Teile\So3_Ost.l3dobj" Position="-0.135;0.01;-0.001" Rotation="0;0;0" ShowOn="U5 and So3_links" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="kein_So3" Name="Teile\So3_Tunnel.l3dobj" Position="0.125;-0.015;-0.001" Rotation="0;0;0" ShowOn="U5 and So3_rechts and Tunnel" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="kein_So3" Name="Teile\So3_Tunnel.l3dobj" Position="-0.125;-0.015;-0.001" Rotation="0;0;0" ShowOn="U5 and So3_links and Tunnel" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Tafel\Teile\Tunnelhalter.l3dobj" Position="0.05;3.51;0" Rotation="0;0;0" ShowOn="Tunnel and Halterung_rechts" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Tafel\Teile\Tunnelhalter.l3dobj" Position="0.05;2.88;0" Rotation="0;0;0" ShowOn="Tunnel and Halterung_rechts" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="U5 or So3_rechts or So3_links" Name="Tafel\Teile\Tunnelhalter.l3dobj" Position="0.05;2.86;0" Rotation="0;0;0" ShowOn="Tunnel and Halterung_rechts" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="U5 or So3_rechts or So3_links" Name="Tafel\Teile\Tunnelhalter.l3dobj" Position="0.05;2.23;0" Rotation="0;0;0" ShowOn="Tunnel and Halterung_rechts" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Tafel\Teile\Tunnelhalter.l3dobj" Position="-0.05;3.51;0" Rotation="0;0;0" ShowOn="Tunnel and Halterung_links" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Tafel\Teile\Tunnelhalter.l3dobj" Position="-0.05;2.88;0" Rotation="0;0;0" ShowOn="Tunnel and Halterung_links" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="U5 or So3_rechts or So3_links" Name="Tafel\Teile\Tunnelhalter.l3dobj" Position="-0.05;2.86;0" Rotation="0;0;0" ShowOn="Tunnel and Halterung_links" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="U5 or So3_rechts or So3_links" Name="Tafel\Teile\Tunnelhalter.l3dobj" Position="-0.05;2.23;0" Rotation="0;0;0" ShowOn="Tunnel and Halterung_links" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Font>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="859528" DefaultText="" Fonthoehe="0.19" GroupProperty="Bahnhof_L" Leuchtend="FALSE" Name="\Fonts\KlausN\U-Bahn Berlin\Mastschild_West.l3dfont" NormBottomLeft="0;0;-0.5" NormBottomRight="0;0;-0.5" NormTopLeft="0;0;-0.5" NormTopRight="0;0;-0.5" Position="0;3.53;-0.002" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="859528" DefaultText="" Fonthoehe="0.15" GroupProperty="Bahnhof_M" Leuchtend="FALSE" Name="\Fonts\KlausN\U-Bahn Berlin\Mastschild_West.l3dfont" NormBottomLeft="0;0;-0.5" NormBottomRight="0;0;-0.5" NormTopLeft="0;0;-0.5" NormTopRight="0;0;-0.5" Position="0;3.53;-0.002" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="859528" DefaultText="" Fonthoehe="0.11" GroupProperty="Bahnhof_S" Leuchtend="FALSE" Name="\Fonts\KlausN\U-Bahn Berlin\Mastschild_West.l3dfont" NormBottomLeft="0;0;-0.5" NormBottomRight="0;0;-0.5" NormTopLeft="0;0;-0.5" NormTopRight="0;0;-0.5" Position="0;3.53;-0.002" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="2" BlinkIntervall="0" Color="0" DefaultText="" Fonthoehe="0.16" GroupProperty="Bezeichnung" Leuchtend="FALSE" Name="\Fonts\KlausN\U-Bahn Berlin\Mastschild_West.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="-0.095;3.31;-0.002" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="2" BlinkIntervall="0" Color="0" DefaultText="" Fonthoehe="0.12" GroupProperty="Gleis" Leuchtend="FALSE" Name="\Fonts\KlausN\U-Bahn Berlin\Mastschild_West.l3dfont" NormBottomLeft="0;0;-0.5" NormBottomRight="0;0;-0.5" NormTopLeft="0;0;-0.5" NormTopRight="0;0;-0.5" Position="0.03;3.318;-0.002" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="2" AlignVert="0" BlinkIntervall="0" Color="0" DefaultText="" Fonthoehe="0.15" GroupProperty="Nummer" Leuchtend="FALSE" Name="\Fonts\KlausN\U-Bahn Berlin\Mastschild_Ost.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.095;3.59;-0.002" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="2" AlignVert="0" BlinkIntervall="0" Color="0" DefaultText="" Fonthoehe="0.15" GroupProperty="Nummer_tief" Leuchtend="FALSE" Name="\Fonts\KlausN\U-Bahn Berlin\Mastschild_Ost.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.095;3.47;-0.002" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+</GRUPPENOBJECT>

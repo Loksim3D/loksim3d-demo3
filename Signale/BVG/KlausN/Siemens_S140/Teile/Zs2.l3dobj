@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="" FileDoku="" FileInfo="" FilePicture="" Texture="Texturen\Signal.png" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="-0.25;0;-1" Vekt="-0.07;3.51;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.25;0;-1" Vekt="-0.07;3.8;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0.25;0;-1" Vekt="0.07;3.8;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0.25;0;-1" Vekt="0.07;3.51;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.25;0;1" Vekt="-0.07;3.51;0.31"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.25;0;1" Vekt="-0.07;3.8;0.31"/>
+	</Point>
+	<Point>
+		<Props Normal="0.25;0;1" Vekt="0.07;3.8;0.31"/>
+	</Point>
+	<Point>
+		<Props Normal="0.25;0;1" Vekt="0.07;3.51;0.31"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.25;0;-1" Vekt="-0.07;3.8;-0.02"/>
+	</Point>
+	<Point>
+		<Props Normal="0.25;0;-1" Vekt="0.07;3.8;-0.02"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="45,150;45,57;90,57;90,150"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;6;5;4" Texture="90,150;90,57;135,57;135,150"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;9;6;7" Texture="69,243;63,150;168,150;168,243"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;8;0" Texture="168,243;168,150;63,150;69,243"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="8;5;6;9" Texture="69,154;168,154;168,239;69,239"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;0;3;7" Texture="168,239;69,239;69,154;168,154"/>
+	</Flaeche>
+</OBJECT>

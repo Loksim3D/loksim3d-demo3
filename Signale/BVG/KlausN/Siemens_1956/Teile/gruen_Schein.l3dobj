@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="TRUE" Drawrueckseiten="FALSE" FileAuthor="" FileDoku="" FileInfo="" FilePicture="" Texture="\Signale\BVG\KlausN\Teile\Texturen\gruen.png" TransTexture="\Signale\BVG\KlausN\Teile\Texturen\schein.png" Transparent="FALSE" TransparentTyp="3"/>
+	<Point>
+		<Props Normal="-0.25;-0.25;-1" Vekt="-0.005;-0.005;-0.0001"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.25;0.25;-1" Vekt="-0.005;0.005;-0.0001"/>
+	</Point>
+	<Point>
+		<Props Normal="0.25;0.25;-1" Vekt="0.005;0.005;-0.0001"/>
+	</Point>
+	<Point>
+		<Props Normal="0.25;-0.25;-1" Vekt="0.005;-0.005;-0.0001"/>
+	</Point>
+	<Flaeche>
+		<Props Points="2;3;0;1" Texture="0,0;0,128;128,128;128,0"/>
+	</Flaeche>
+</OBJECT>

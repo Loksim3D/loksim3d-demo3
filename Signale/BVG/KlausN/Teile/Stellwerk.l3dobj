@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="Klaus Nickel" FileDoku="" FileInfo="www.veb-verkehr.de" FilePicture="" Texture="Texturen\Stellwerk.png" TransTexture="" Transparent="TRUE" TransparentTyp="1"/>
+	<Point>
+		<Props Normal="0;0;-0.5" Vekt="-0.11;2.71;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;-0.5" Vekt="-0.11;3.61;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;-0.5" Vekt="0.11;3.61;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;-0.5" Vekt="0.11;2.71;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="0,270;0,0;66,0;66,270"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;2;1;0" Texture="66,270;66,0;132,0;132,270"/>
+	</Flaeche>
+</OBJECT>

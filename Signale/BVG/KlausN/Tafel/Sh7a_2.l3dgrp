@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="" FileDoku="" FileInfo="" FilePicture=""/>
+	<Object>
+		<Props BlinkIntervall="0" Name="Teile\G3.l3dobj" Position="-0.1;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Teile\Tunnelhalter.l3dobj" Position="0.1;-0.08;0.005" Rotation="0;0;0" ShowOn="Tunnel" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Teile\G3.l3dobj" Position="-0.1;-0.31;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Teile\Tunnelhalter.l3dobj" Position="0.1;-0.39;0.005" Rotation="0;0;0" ShowOn="Tunnel" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Teile\Mast_klein.l3dobj" Position="0;-1.3;0" Rotation="0;0;0" ShowOn="Mast" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Teile\Tunnelhalter.l3dobj" Position="-0.1;-0.08;0.005" Rotation="0;0;0" ShowOn="Tunnel_links" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Teile\Tunnelhalter.l3dobj" Position="-0.1;-0.39;0.005" Rotation="0;0;0" ShowOn="Tunnel_links" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Font>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="0" DefaultText="" Fonthoehe="0.3" GroupProperty="Nummer_oben" Leuchtend="FALSE" Name="\Fonts\KlausN\U-Bahn Berlin\Zielanzeige-BVG.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0;0.12;-0.005" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="0" DefaultText="" Fonthoehe="0.3" GroupProperty="Nummer_unten" Leuchtend="FALSE" Name="\Fonts\KlausN\U-Bahn Berlin\Zielanzeige-BVG.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0;-0.19;-0.005" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+</GRUPPENOBJECT>

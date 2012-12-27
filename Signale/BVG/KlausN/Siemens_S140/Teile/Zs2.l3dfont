@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FONT>
+	<Props FileAuthor="Klaus Nickel" FileDoku="" FileInfo="/nwww.veb-verkehr.de" FilePicture="" Fonthoehe="21" Texture="Texturen\Zs2.png"/>
+	<Zeichen>
+		<Props Width="13" X="0" Y="0" Zeichen="0"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="13" X="13" Y="0" Zeichen="1"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="13" X="26" Y="0" Zeichen="2"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="13" X="39" Y="0" Zeichen="3"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="13" X="52" Y="0" Zeichen="4"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="13" X="0" Y="21" Zeichen="5"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="13" X="13" Y="21" Zeichen="6"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="13" X="26" Y="21" Zeichen="7"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="13" X="39" Y="21" Zeichen="8"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="13" X="52" Y="21" Zeichen="9"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="13" X="0" Y="42" Zeichen="A"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="13" X="13" Y="42" Zeichen="B"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="13" X="26" Y="42" Zeichen="C"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="13" X="39" Y="42" Zeichen="D"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="13" X="52" Y="42" Zeichen="E"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="13" X="0" Y="63" Zeichen="F"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="13" X="13" Y="63" Zeichen="G"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="13" X="26" Y="63" Zeichen="H"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="13" X="39" Y="63" Zeichen="I"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="13" X="52" Y="63" Zeichen="J"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="13" X="0" Y="84" Zeichen="K"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="13" X="13" Y="84" Zeichen="L"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="13" X="26" Y="84" Zeichen="M"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="13" X="39" Y="84" Zeichen="N"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="13" X="0" Y="0" Zeichen="O"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="13" X="52" Y="84" Zeichen="P"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="13" X="0" Y="105" Zeichen="Q"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="13" X="13" Y="105" Zeichen="R"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="13" X="26" Y="105" Zeichen="S"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="13" X="39" Y="105" Zeichen="T"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="13" X="52" Y="105" Zeichen="U"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="13" X="0" Y="126" Zeichen="V"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="13" X="13" Y="126" Zeichen="W"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="13" X="26" Y="126" Zeichen="X"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="13" X="39" Y="126" Zeichen="Y"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="13" X="52" Y="126" Zeichen="Z"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="13" X="0" Y="147" Zeichen="&#47;"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="13" X="13" Y="147" Zeichen="\"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="13" X="26" Y="147" Zeichen="{"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="13" X="39" Y="147" Zeichen="}"/>
+	</Zeichen>
+</FONT>

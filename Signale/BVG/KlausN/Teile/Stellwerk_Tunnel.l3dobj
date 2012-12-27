@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="Klaus Nickel" FileDoku="" FileInfo="www.veb-verkehr.de" FilePicture="" Texture="Texturen\Stellwerk_Tunnel.png" TransTexture="" Transparent="TRUE" TransparentTyp="1"/>
+	<Point>
+		<Props Normal="0;0;-0.5" Vekt="-0.1;2.96;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;-0.5" Vekt="-0.1;3.61;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;-0.5" Vekt="0.1;3.61;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;-0.5" Vekt="0.1;2.96;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="0,185;0,0;60,0;60,185"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;2;1;0" Texture="60,185;60,0;120,0;120,185"/>
+	</Flaeche>
+</OBJECT>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="TRUE" Drawrueckseiten="FALSE" FileAuthor="" FileDoku="" FileInfo="" FilePicture="" Texture="Texturen\Zs2.png" TransTexture="" Transparent="FALSE" TransparentTyp="2"/>
+	<Point>
+		<Props Normal="-0.25;-0.25;-1" Vekt="-0.061;3.56;-0.001"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.25;0.25;-1" Vekt="-0.061;3.765;-0.001"/>
+	</Point>
+	<Point>
+		<Props Normal="0.25;0.25;-1" Vekt="0.061;3.765;-0.001"/>
+	</Point>
+	<Point>
+		<Props Normal="0.25;-0.25;-1" Vekt="0.061;3.56;-0.001"/>
+	</Point>
+	<Flaeche>
+		<Props Points="2;3;0;1" Texture="52,147;52,168;65,168;65,147"/>
+	</Flaeche>
+</OBJECT>

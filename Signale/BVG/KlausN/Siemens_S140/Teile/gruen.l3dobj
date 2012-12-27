@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="TRUE" Drawrueckseiten="FALSE" FileAuthor="" FileDoku="" FileInfo="" FilePicture="" Texture="Texturen\Licht.png" TransTexture="" Transparent="TRUE" TransparentTyp="1"/>
+	<Point>
+		<Props Normal="-0.25;-0.25;-1" Vekt="-0.038;3.672;-0.0356"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.25;0.25;-1" Vekt="-0.038;3.748;-0.0584"/>
+	</Point>
+	<Point>
+		<Props Normal="0.25;0.25;-1" Vekt="0.038;3.748;-0.0584"/>
+	</Point>
+	<Point>
+		<Props Normal="0.25;-0.25;-1" Vekt="0.038;3.672;-0.0356"/>
+	</Point>
+	<Flaeche>
+		<Props Points="2;3;0;1" Texture="32,0;32,32;64,32;64,0"/>
+	</Flaeche>
+</OBJECT>

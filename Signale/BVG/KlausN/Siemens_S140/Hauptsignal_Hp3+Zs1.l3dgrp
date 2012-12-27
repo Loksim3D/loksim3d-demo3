@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="Klaus Nickel" FileDoku="\Doku\KlausN\U-Bahn Berlin\U-Bahn-Signale.pdf" FileInfo="/nwww.veb-verkehr.de" FilePicture=""/>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\BVG\KlausN\Siemens_1970\Teile\Mast.l3dobj" Position="0;0;0.1" Rotation="0;0;0" ShowOn="Mast" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Teile\Halterung.l3dobj" Position="0;-1.01;0" Rotation="0;0;0" ShowOn="Mast" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Teile\Zs2.l3dobj" Position="0;0.29;0" Rotation="0;0;0" ShowOn="Zs2_vorhanden" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Teile\Kasten.l3dobj" Position="0;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Teile\Lampe.l3dobj" Position="0;3.71;-0.06" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Zs13" Name="Teile\gruen.l3dobj" Position="0;0;0" Rotation="0;0;0" ShowOn="Hp1 or Hp2 or Hp3" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Zs13" Name="\Signale\BVG\KlausN\Siemens_1956\Teile\gruen_Schein.l3dobj" Position="0;3.71;-0.045" Rotation="0;0;0" ShowOn="Hp1 or Hp2 or Hp3" WeitSichtbar="FALSE" ZoomFaktor="200"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Teile\Kasten.l3dobj" Position="0;-0.18;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Teile\Lampe.l3dobj" Position="0;3.53;-0.06" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Teile\rot.l3dobj" Position="0;-0.18;0" Rotation="0;0;0" ShowOn="Hp0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\BVG\KlausN\Siemens_1956\Teile\rot_Schein.l3dobj" Position="0;3.53;-0.045" Rotation="0;0;0" ShowOn="Hp0" WeitSichtbar="FALSE" ZoomFaktor="200"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Teile\Kasten.l3dobj" Position="0;-0.36;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Teile\Lampe.l3dobj" Position="0;3.35;-0.06" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Teile\gelb.l3dobj" Position="0;-0.36;0" Rotation="0;0;0" ShowOn="Hp2 or Hp3" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\BVG\KlausN\Siemens_1956\Teile\gelb_Schein.l3dobj" Position="0;3.35;-0.045" Rotation="0;0;0" ShowOn="Hp2 or Hp3" WeitSichtbar="FALSE" ZoomFaktor="200"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Teile\Zs1.l3dobj" Position="0;-0.54;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Teile\Zs1_Licht.l3dobj" Position="0;-0.54;0" Rotation="0;0;0" ShowOn="Zs1" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Teile\Kasten.l3dobj" Position="0;-0.83;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Teile\Lampe.l3dobj" Position="0;2.88;-0.06" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Teile\gelb.l3dobj" Position="0;-0.83;0" Rotation="0;0;0" ShowOn="Hp2" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\BVG\KlausN\Siemens_1956\Teile\gelb_Schein.l3dobj" Position="0;2.88;-0.045" Rotation="0;0;0" ShowOn="Hp2" WeitSichtbar="FALSE" ZoomFaktor="200"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Teile\Kasten.l3dobj" Position="0;-1.01;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Mast" Name="Teile\Kasten.l3dobj" Position="0;-2.34;0" Rotation="0;0;0" ShowOn="Vorsignal" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Mast" Name="Teile\Lampe.l3dobj" Position="0;1.37;-0.06" Rotation="0;0;0" ShowOn="Vorsignal" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Hp0 or Mast" Name="Teile\gelb.l3dobj" Position="0;-2.34;0" Rotation="0;0;0" ShowOn="Vorsignal and (Vr0 or Vr2 or Vr3)" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Hp0 or Mast" Name="\Signale\BVG\KlausN\Siemens_1956\Teile\gelb_Schein.l3dobj" Position="0;1.37;-0.045" Rotation="0;0;0" ShowOn="Vorsignal and (Vr0 or Vr2 or Vr3)" WeitSichtbar="FALSE" ZoomFaktor="200"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Mast" Name="Teile\Kasten.l3dobj" Position="0;-2.52;0" Rotation="0;0;0" ShowOn="Vorsignal" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Mast" Name="Teile\Lampe.l3dobj" Position="0;1.19;-0.06" Rotation="0;0;0" ShowOn="Vorsignal" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Hp0 or Mast" Name="Teile\gruen.l3dobj" Position="0;-2.52;0" Rotation="0;0;0" ShowOn="Vorsignal and (Vr1 or Vr2 or Vr3)" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Hp0 or Mast" Name="\Signale\BVG\KlausN\Siemens_1956\Teile\gruen_Schein.l3dobj" Position="0;1.19;-0.045" Rotation="0;0;0" ShowOn="Vorsignal and (Vr1 or Vr2 or Vr3)" WeitSichtbar="FALSE" ZoomFaktor="200"/>
+	</Object>
+	<Font>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="16777215" DefaultText="" Fonthoehe="0.2" GroupProperty="Zs2" Leuchtend="TRUE" Name="Teile\Zs2.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0;3.949;-0.001" Rotation="0;0;0" ShowOn="Zs2_vorhanden" Vertikal="FALSE"/>
+	</Font>
+</GRUPPENOBJECT>
