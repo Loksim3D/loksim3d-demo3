@@ -45,10 +45,55 @@
 					</Eigenschaften>
 				</Eintrag>
 			</Object>
+			<Object>
+				<Props Name="Tunnel" Offset="0;0;0" Position="2000" Qualitaet="2"/>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="27" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_roehre_10m_1gl.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_abdeckung_tunneleinfahrt_röhre.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="270" Verschiebung="0;0;0" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="30" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_roehre_10m_halb_links.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="270" Verschiebung="0;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="6" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_roehre_10m_1gl.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1940" Verschiebung="0;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+			</Object>
 		</Objecte>
 		<Hoeheunterbrechung>
 		</Hoeheunterbrechung>
 		<Landschaft>
+			<Landschaftsobjekt>
+				<Props Abstand="20" Name="Schotter Str 1" Polygon="TRUE" Position="2000" Scale="1" Texture="TRUE" TextureFile="\Texturen\MartinF\Schotter.bmp" Zwischenpunkte="TRUE"/>
+				<Lightning>
+					<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+				</Lightning>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="0" Verschiebung="-5"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="0" Verschiebung="10"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="690" Verschiebung="10"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="690" Verschiebung="-5"/>
+				</Landschaftsobjekt>
+			</Landschaftsobjekt>
 		</Landschaft>
 		<EIGENSCHAFTEN>
 			<VOR>
@@ -221,6 +266,27 @@
 			</Ausweiche>
 		</TOPOLOGIE>
 		<Objecte>
+			<Object>
+				<Props Name="Tunnel" Offset="0;0;0" Position="2000" Qualitaet="2"/>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_abdeckung_tunneleinfahrt_röhre.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="270" Verschiebung="7;0;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="30" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_roehre_10m_halb_rechts.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="270" Verschiebung="0;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="6" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_roehre_10m_1gl.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1940" Verschiebung="0;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+			</Object>
 		</Objecte>
 		<Hoeheunterbrechung>
 		</Hoeheunterbrechung>
@@ -581,10 +647,10 @@
 				<Props EndPunkt="1000" ParallelAbstand="-34.900002" ParallelEnd="3240" ParallelGleis="Gleis_4" ParallelStart="2000" StartPos="0" StartPunkt="0;0;0" Typ="Parallel" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
 			</Erstellung>
 			<STEIGUNG>
-				<Props Ende="2400" Promille="40" SanfterWinkel="TRUE" Start="2550"/>
+				<Props Ende="2400" Promille="45" SanfterWinkel="TRUE" Start="2550"/>
 			</STEIGUNG>
 			<STEIGUNG>
-				<Props Ende="2230" Promille="-40" SanfterWinkel="TRUE" Start="2380"/>
+				<Props Ende="2230" Promille="-45" SanfterWinkel="TRUE" Start="2380"/>
 			</STEIGUNG>
 			<Ausweiche>
 				<Props Abstand="30.4" Ende="0" KurvenWeite="250" Start="2400"/>
@@ -603,7 +669,7 @@
 		</Objecte>
 		<Hoeheunterbrechung>
 			<Landschaftsobjekt>
-				<Props Ende="2410" Start="2360"/>
+				<Props Ende="2430" Start="2360"/>
 			</Landschaftsobjekt>
 			<Landschaftsobjekt>
 				<Props Ende="3030" Start="2920"/>
