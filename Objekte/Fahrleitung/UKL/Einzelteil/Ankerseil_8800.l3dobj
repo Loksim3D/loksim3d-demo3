@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OBJECT>
-	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="U.Klein" FileDoku="" FileInfo="Ankerseil 50²/nLänge 8,8m/n/nBearbeitung: U. Klein 2010" FilePicture="FL-Mast_kA_re.l3dobj.jpg" Texture="\Objekte\Fahrleitung\allqtw.bmp" TransTexture="" Transparent="TRUE" TransparentTyp="1"/>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="U.Klein" FileInfo="Ankerseil 50²/nLänge 9,0m/n/nBearbeitung: U. Klein 2010" FilePicture="FL-Mast_kA_re.l3dobj.jpg" Texture="\Objekte\Fahrleitung\allqtw.bmp" TransTexture="" Transparent="TRUE" TransparentTyp="1"/>
 	<Point>
 		<Props Normal="-1;-1;0" Vekt="-0.006;-8.8;0"/>
 	</Point>
