@@ -11,7 +11,7 @@
 		<Props Normal="0;-1;0" Vekt="0.09;-5;-0.155885"/>
 	</Point>
 	<Point>
-		<Props Normal="0;-1;0" Vekt="-0;-5;-0.18"/>
+		<Props Normal="0;-1;0" Vekt="0;-5;-0.18"/>
 	</Point>
 	<Point>
 		<Props Normal="0;-1;0" Vekt="-0.09;-5;-0.155885"/>
@@ -47,7 +47,7 @@
 		<Props Normal="0.5;0;-0.866025" Vekt="0.09;-3;-0.155885"/>
 	</Point>
 	<Point>
-		<Props Normal="-0;0;-1" Vekt="-0;-3;-0.18"/>
+		<Props Normal="0;0;-1" Vekt="0;-3;-0.18"/>
 	</Point>
 	<Point>
 		<Props Normal="-0.5;0;-0.866025" Vekt="-0.09;-3;-0.155885"/>
@@ -83,7 +83,7 @@
 		<Props Normal="0;1;0" Vekt="0.06;8;-0.103923"/>
 	</Point>
 	<Point>
-		<Props Normal="0;1;0" Vekt="-0;8;-0.12"/>
+		<Props Normal="0;1;0" Vekt="0;8;-0.12"/>
 	</Point>
 	<Point>
 		<Props Normal="0;1;0" Vekt="-0.06;8;-0.103923"/>

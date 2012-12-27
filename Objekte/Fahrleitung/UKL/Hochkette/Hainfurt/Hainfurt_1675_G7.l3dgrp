@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <GRUPPENOBJECT>
-<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="UKL-Fahrleitungsgenerator, Version 1.0.7" FileInfo="Sonderfahrleitung der Bauart Re160 der DB/nSHK-Code: SHK-Re160-5010-180-550-0--20-50-0-0--20-10-0-A1/nSpannweite: 50.1m, Systemhöhe: 1.8m/nFahrdrahthöhe über SOK: 5.50m/nTragseil, seitliche Abweichung, Stützpunkt 1: 0.00m/nTragseil, Höhenversatz, Stützpunkt 1: -0.20m/nFahrdraht, Höhenversatz, Stützpunkt 1: 0.50m/nFahrdraht, seitliche Abweichung, Stützpunkt 1: 0.00m/nTragseil, seitliche Abweichung, Stützpunkt 2: 0.00m/nTragseil, Höhenversatz, Stützpunkt 2: -0.20m/nFahrdraht, Höhenversatz, Stützpunkt 2: 0.10m/nFahrdraht, seitliche Abweichung, Stützpunkt 2: 0.00m/nTragseilwinkel: 0.00/nFahrdrahtwinkel: 0.00" FilePicture="" />
+<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="UKL-Fahrleitungsgenerator, Version 1.0.7" FileInfo="Sonderfahrleitung der Bauart Re160 der DB/nSHK-Code: SHK-Re160-4960-180-550-1010--20-50-1010-0--20-10-0-A1/nSpannweite: 49.6m, Systemhöhe: 1.8m/nFahrdrahthöhe über SOK: 5.50m/nTragseil, seitliche Abweichung, Stützpunkt 1: 10.10m/nTragseil, Höhenversatz, Stützpunkt 1: -0.20m/nFahrdraht, Höhenversatz, Stützpunkt 1: 0.50m/nFahrdraht, seitliche Abweichung, Stützpunkt 1: 10.10m/nTragseil, seitliche Abweichung, Stützpunkt 2: 0.00m/nTragseil, Höhenversatz, Stützpunkt 2: -0.20m/nFahrdraht, Höhenversatz, Stützpunkt 2: 0.10m/nFahrdraht, seitliche Abweichung, Stützpunkt 2: 0.00m/nTragseilwinkel: -11.67/nFahrdrahtwinkel: -11.67" FilePicture="" />
 <Object>
 <Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\ukl\Hochkette\Hainfurt\SHK_ET\Hainfurt_1675_G7.l3dobj"Position="0;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
 </Object>
 <Object>
-<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\ukl\Einzelteil\Iso_Keramik_7s_w.l3dobj"Position="0.000;7.435;7.000" Rotation="0.000;0.000;0.289" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\ukl\Einzelteil\Iso_Keramik_7s_w.l3dobj"Position="8.675;7.435;7.000" Rotation="-11.667;0.000;0.287" WeitSichtbar="FALSE" ZoomFaktor="1"/>
 </Object>
 <Object>
-<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\ukl\Einzelteil\Iso_Keramik_7s_w.l3dobj"Position="0.000;6.314;7.000" Rotation="0.000;0.000;0.457" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\ukl\Einzelteil\Iso_Keramik_7s_w.l3dobj"Position="8.675;6.314;7.000" Rotation="-11.667;0.000;0.462" WeitSichtbar="FALSE" ZoomFaktor="1"/>
 </Object>
 </GRUPPENOBJECT>

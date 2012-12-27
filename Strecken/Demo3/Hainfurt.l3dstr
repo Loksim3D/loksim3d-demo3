@@ -1478,6 +1478,12 @@
 					</Eigenschaften>
 				</Eintrag>
 				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelteil\Winkeleisen_90_90_600.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1674.709961" Verschiebung="3.5;7.42;0" Winkel="90;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelteil\Winkeleisen_90_90_600.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1674.680054" Verschiebung="3.5;6.32;0" Winkel="90;0;0"/>
+				</Eintrag>
+				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-4965-180-550-LK.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1675" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
@@ -2361,10 +2367,25 @@
 			<Object>
 				<Props Name="FL_1475" Offset="0;0;0" Position="0" Qualitaet="5"/>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Hainfurt\Hainfurt_1675_G7.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1675" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Hainfurt\Hainfurt_1675_G7.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1674.800049" Verschiebung="4;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Hainfurt\Hainfurt_1725_G7.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1725" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelteil\Ausleger\Stuetzrohrhaenger_0700.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1724.400024" Verschiebung="4;7.47;0" Winkel="0;-125;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelteil\Iso_Keramik_7s_s.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1724.400024" Verschiebung="3.55;7.79;0" Winkel="0;55;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelteil\Ausleger\Stuetzrohrhaenger_0700.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1724.400024" Verschiebung="4.06;6.035;0" Winkel="0;-90;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelteil\Iso_Keramik_7s_s.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1724.400024" Verschiebung="3.45;6.035;0" Winkel="0;90;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelteil\Ausleger\Klemmhalter_AL.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1724.400024" Verschiebung="4;5.6;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Hainfurt\Hainfurt_1725_G7.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1724.400024" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelausleger\Hainfurt\Hainfurt_1775_G7_01.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1774.900024" Verschiebung="0.4;0;0" Winkel="0;0;0"/>
@@ -2389,9 +2410,6 @@
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="100" Anzahl="2" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5000-180-550-LK.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1975" Verschiebung="0;0;0" Winkel="0;0;0"/>
-				</Eintrag>
-				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2175" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 			</Object>
 		</Objecte>
