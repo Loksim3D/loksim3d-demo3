@@ -1179,18 +1179,6 @@
 				</Eintrag>
 			</Object>
 			<Object>
-				<Props Name="Bahnsteig" Offset="0;0;0" Position="2004" Qualitaet="1"/>
-				<Eintrag>
-					<Props Abstand="11" Anzahl="26" Datei="\Objekte\Bahnsteige\Frieder\Seitenbahnsteig7.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="4.5;0;0" Winkel="0;0;0"/>
-				</Eintrag>
-				<Eintrag>
-					<Props Abstand="11" Anzahl="15" Datei="\Objekte\Bahnsteige\Frieder\Seitenbahnsteig7.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="286" Verschiebung="0;0;0" Winkel="0;0;0"/>
-				</Eintrag>
-				<Eintrag>
-					<Props Abstand="11" Anzahl="15" Datei="\Objekte\Bahnsteige\Frieder\Seitenbahnsteig7.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="297" Verschiebung="10;0;0" Winkel="180;0;0"/>
-				</Eintrag>
-			</Object>
-			<Object>
 				<Props Name="FL_Lehre" Offset="0;-10;0" Position="800" Qualitaet="0"/>
 				<Eintrag>
 					<Props Abstand="1" Anzahl="200" Datei="\Objekte\Fahrleitung\ukl\FL-Lehren\Re160-Lehre.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="0;5.5;0" Winkel="0;0;0"/>
@@ -1559,6 +1547,21 @@
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Spannwerke\Radspannwerk_N_B350.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1824.900024" Verschiebung="8.7;5.5;0" Winkel="182.25;0;0"/>
 				</Eintrag>
 			</Object>
+			<Object>
+				<Props Name="Bahnsteig" Offset="0;0;0" Position="2300" Qualitaet="1"/>
+				<Eintrag>
+					<Props Abstand="2.5" Anzahl="60" Datei="\Objekte\Bahnsteige\Frieder\NBS_Bahnsteige\Mitte_5m_Regenrinne.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2.75" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\Frieder\NBS_Bahnsteige\Ende_5m_Regenrinne.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="152.75" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="2.5" Anzahl="60" Datei="\Objekte\Bahnsteige\Frieder\NBS_Bahnsteige\Mittelplatte 4m50.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2.75" Verschiebung="5;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\Frieder\NBS_Bahnsteige\Mittelplatte 4m50_Anfang.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="152.75" Verschiebung="9.5;0;0" Winkel="180;0;0"/>
+				</Eintrag>
+			</Object>
 		</Objecte>
 		<Hoeheunterbrechung>
 		</Hoeheunterbrechung>
@@ -1700,6 +1703,77 @@
 				<ATB>
 				</ATB>
 			</ZURUECK>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="Hilfsgleis2 Bst"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="4.49" ParallelEnd="2300" ParallelGleis="1" ParallelStart="2180" StartPos="0" StartPunkt="0;0;0" Typ="Parallel" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
+			</Erstellung>
+			<Ausweiche>
+				<Props Abstand="-4.47" Ende="2420" KurvenWeite="120" Start="2180"/>
+			</Ausweiche>
+		</TOPOLOGIE>
+		<Objecte>
+			<Object>
+				<Props Name="Bahnsteig" Offset="0;0;0" Position="2180" Qualitaet="1"/>
+				<Eintrag>
+					<Props Abstand="2.5" Anzahl="49" Datei="\Objekte\Bahnsteige\Frieder\NBS_Bahnsteige\Mitte_5m_Regenrinne.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0.25" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\Frieder\NBS_Bahnsteige\Mittelplatte 4m50_Anfang.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2.75" Verschiebung="5;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="2.5" Anzahl="47" Datei="\Objekte\Bahnsteige\Frieder\NBS_Bahnsteige\Mittelplatte 4m50.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="5.25" Verschiebung="5;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+			</Object>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+			<VOR>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<Bahnuebergang>
+				</Bahnuebergang>
+				<RAIL>
+					<Value>
+						<Props Pos="2180" RAILVALUE="\Rails\nullRail.l3drail"/>
+					</Value>
+				</RAIL>
+				<RailQuality>
+				</RailQuality>
+				<LZB>
+				</LZB>
+				<Kilometrierung>
+				</Kilometrierung>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Ueberhoehung>
+					<Value>
+						<Props Faktor="0.6" Fest="0" MaxValue="4" Pos="2180" Typ="0"/>
+					</Value>
+				</Ueberhoehung>
+				<RailProps>
+				</RailProps>
+				<Bremswegabstand>
+				</Bremswegabstand>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</VOR>
 		</EIGENSCHAFTEN>
 	</GLEIS>
 	<GLEIS>
@@ -2232,6 +2306,30 @@
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5000-180-550-LK.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1875" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 			</Object>
+			<Object>
+				<Props Name="Bahnsteig" Offset="0;0;0" Position="2004" Qualitaet="1"/>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\Frieder\NBS_Bahnsteige\Anfang_5m_Regenrinne.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1.25" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="2.5" Anzahl="69" Datei="\Objekte\Bahnsteige\Frieder\NBS_Bahnsteige\Mitte_5m_Regenrinne.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="3.75" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\RainerZ\gelaen_150cm.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="1" Verschiebung="2;1;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\RainerZ\gelaen_150cm.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="1" Verschiebung="3.5;1;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\RainerZ\gelaen_150cm.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="1" Verschiebung="5;1;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\RainerZ\gelaen_150cm.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="1" Verschiebung="6.5;1;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\RainerZ\Durchgang_verb.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="2" Verschiebung="5;1;0" Winkel="180;0;0"/>
+				</Eintrag>
+			</Object>
 		</Objecte>
 		<Hoeheunterbrechung>
 		</Hoeheunterbrechung>
@@ -2353,12 +2451,6 @@
 		</TOPOLOGIE>
 		<Objecte>
 			<Object>
-				<Props Name="Bahnsteig" Offset="0;0;0" Position="2004" Qualitaet="1"/>
-				<Eintrag>
-					<Props Abstand="11" Anzahl="29" Datei="\Objekte\Bahnsteige\Frieder\Seitenbahnsteig7.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="11" Verschiebung="0;0;0" Winkel="180;0;0"/>
-				</Eintrag>
-			</Object>
-			<Object>
 				<Props Name="FL_Lehre" Offset="0;-10;0" Position="1800" Qualitaet="0"/>
 				<Eintrag>
 					<Props Abstand="1" Anzahl="200" Datei="\Objekte\Fahrleitung\ukl\FL-Lehren\Re160-Lehre.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="0;5.5;0" Winkel="0;0;0"/>
@@ -2410,6 +2502,15 @@
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="100" Anzahl="2" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5000-180-550-LK.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1975" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="Bahnsteig" Offset="0;0;0" Position="2004" Qualitaet="1"/>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\Frieder\NBS_Bahnsteige\Ende_5m_Regenrinne.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1.25" Verschiebung="0;0;0" Winkel="180;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="2.5" Anzahl="70" Datei="\Objekte\Bahnsteige\Frieder\NBS_Bahnsteige\Mitte_5m_Regenrinne.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="3.75" Verschiebung="0;0;0" Winkel="180;0;0"/>
 				</Eintrag>
 			</Object>
 		</Objecte>

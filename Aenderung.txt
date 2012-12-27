@@ -1,4 +1,5 @@
 2012-12-27
+* [Frieder]Bahnsteige Hainfurt Änderung abgeschlossen
 * [ukl] Bf. Hainfurt: Fahrleitung über Gleis 7 weitergebaut
 * [Frieder]Bahnsteige Hainfurt Änderung begonnen
 * [kn]  U1_M6 hinzugefügt
