@@ -265,7 +265,7 @@
 				</Signaloptionen>
 				<Haltepunkt>
 					<Value>
-						<Props File="\Signale\BVG\KlausN\Tafel\Sh7a_2.l3dgrp" Name="Platz der deutsche Einheit" Pos="7290" ToleranzMinus="10" ToleranzPlus="10" Zuglaenge="120"/>
+						<Props File="\Signale\BVG\KlausN\Tafel\Sh7a_2.l3dgrp" Name="Platz der deutschen Einheit" Pos="7290" ToleranzMinus="10" ToleranzPlus="10" Zuglaenge="120"/>
 						<ObjectProps>
 							<Lightning>
 								<Props DayLight="0" LokLight="TRUE" NightLight="80"/>
