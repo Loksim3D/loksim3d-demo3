@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<KBS>
+	<Props FileAuthor="Klaus Nickel" FileDoku="" FileInfo="/nwww.veb-verkehr.de" FilePicture=""/>
+	<Strecken>
+		<Strecke>
+			<Props Name="\Strecken\Demo3\U-Bahn\U1_M1_Waldstadt.l3dstr"/>
+		</Strecke>
+		<Strecke>
+			<Props Name="\Strecken\Demo3\U-Bahn\U1_M2_Flughafen.l3dstr"/>
+		</Strecke>
+		<Strecke>
+			<Props Name="\Strecken\Demo3\U-Bahn\U1_M3_Langendell.l3dstr"/>
+		</Strecke>
+		<Strecke>
+			<Props Name="\Strecken\Demo3\U-Bahn\U1_M4_Westend.l3dstr"/>
+		</Strecke>
+		<Strecke>
+			<Props Name="\Strecken\Demo3\U-Bahn\U1_M5_Berliner_Ring.l3dstr"/>
+		</Strecke>
+		<Strecke>
+			<Props Name="\Strecken\Demo3\U-Bahn\U1_M6_Luisenplatz.l3dstr"/>
+		</Strecke>
+		<Strecke>
+			<Props Name="\Strecken\Demo3\U-Bahn\U1_M7_Hauptbahnhof.l3dstr"/>
+		</Strecke>
+		<Strecke>
+			<Props Name="\Strecken\Demo3\U-Bahn\U1_M8_Opernplatz.l3dstr"/>
+		</Strecke>
+		<Strecke>
+			<Props Name="\Strecken\Demo3\U-Bahn\U1_M9_Lahstein.l3dstr"/>
+		</Strecke>
+	</Strecken>
+	<Verbindung>
+		<Name>
+			<Props Ende1="TRUE" Ende2="FALSE" Gleis1="Hauptgleis" Gleis2="Gleis_1" Strecke1="\Strecken\Demo3\U-Bahn\U1_M1_Waldstadt.l3dstr" Strecke2="\Strecken\Demo3\U-Bahn\U1_M2_Flughafen.l3dstr"/>
+		</Name>
+		<Name>
+			<Props Ende1="TRUE" Ende2="FALSE" Gleis1="Gleis_2" Gleis2="Gleis_2" Strecke1="\Strecken\Demo3\U-Bahn\U1_M2_Flughafen.l3dstr" Strecke2="\Strecken\Demo3\U-Bahn\U1_M3_Langendell.l3dstr"/>
+		</Name>
+		<Name>
+			<Props Ende1="TRUE" Ende2="FALSE" Gleis1="Gleis_2" Gleis2="Gleis_2" Strecke1="\Strecken\Demo3\U-Bahn\U1_M3_Langendell.l3dstr" Strecke2="\Strecken\Demo3\U-Bahn\U1_M4_Westend.l3dstr"/>
+		</Name>
+		<Name>
+			<Props Ende1="TRUE" Ende2="FALSE" Gleis1="Gleis_2" Gleis2="Gleis_2" Strecke1="\Strecken\Demo3\U-Bahn\U1_M4_Westend.l3dstr" Strecke2="\Strecken\Demo3\U-Bahn\U1_M5_Berliner_Ring.l3dstr"/>
+		</Name>
+		<Name>
+			<Props Ende1="TRUE" Ende2="FALSE" Gleis1="Gleis_2" Gleis2="Gleis_2" Strecke1="\Strecken\Demo3\U-Bahn\U1_M5_Berliner_Ring.l3dstr" Strecke2="\Strecken\Demo3\U-Bahn\U1_M6_Luisenplatz.l3dstr"/>
+		</Name>
+		<Name>
+			<Props Ende1="TRUE" Ende2="FALSE" Gleis1="Gleis_2" Gleis2="Gleis_2" Strecke1="\Strecken\Demo3\U-Bahn\U1_M6_Luisenplatz.l3dstr" Strecke2="\Strecken\Demo3\U-Bahn\U1_M7_Hauptbahnhof.l3dstr"/>
+		</Name>
+		<Name>
+			<Props Ende1="TRUE" Ende2="FALSE" Gleis1="Gleis_2" Gleis2="Gleis_2" Strecke1="\Strecken\Demo3\U-Bahn\U1_M7_Hauptbahnhof.l3dstr" Strecke2="\Strecken\Demo3\U-Bahn\U1_M8_Opernplatz.l3dstr"/>
+		</Name>
+		<Name>
+			<Props Ende1="TRUE" Ende2="FALSE" Gleis1="Gleis_2" Gleis2="Gleis_2" Strecke1="\Strecken\Demo3\U-Bahn\U1_M8_Opernplatz.l3dstr" Strecke2="\Strecken\Demo3\U-Bahn\U1_M9_Lahstein.l3dstr"/>
+		</Name>
+	</Verbindung>
+	<StartPunkt>
+		<Props Gleis="Hauptgleis" Pos="0" Richtung="FALSE" Strecke="\Strecken\Demo3\U-Bahn\U1_M1_Waldstadt.l3dstr"/>
+	</StartPunkt>
+	<WeichenStellung>
+		<Name>
+			<Props Strecke="\Strecken\Demo3\U-Bahn\U1_M2_Flughafen.l3dstr" WeichenName="W3" Zustand="1"/>
+		</Name>
+		<Name>
+			<Props Strecke="\Strecken\Demo3\U-Bahn\U1_M2_Flughafen.l3dstr" WeichenName="W2" Zustand="1"/>
+		</Name>
+	</WeichenStellung>
+</KBS>
