@@ -14,7 +14,7 @@
 		<Props Name="Mittelgleis"/>
 		<TOPOLOGIE>
 			<Erstellung>
-				<Props EndPunkt="7000" ParallelAbstand="-10" ParallelEnd="0" ParallelGleis="" ParallelStart="0" StartPos="6240" StartPunkt="0;0;0" Typ="Normal" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="90"/>
+				<Props EndPunkt="6940" ParallelAbstand="-10" ParallelEnd="0" ParallelGleis="" ParallelStart="0" StartPos="6240" StartPunkt="0;0;0" Typ="Normal" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="90"/>
 			</Erstellung>
 		</TOPOLOGIE>
 		<Objecte>
@@ -70,10 +70,13 @@
 		<Props Name="Gleis_1"/>
 		<TOPOLOGIE>
 			<Erstellung>
-				<Props EndPunkt="4800" ParallelAbstand="-2.25" ParallelEnd="7000" ParallelGleis="Mittelgleis" ParallelStart="6240" StartPos="3240" StartPunkt="0;0;0" Typ="Parallel" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="90"/>
+				<Props EndPunkt="4800" ParallelAbstand="-2.25" ParallelEnd="6940" ParallelGleis="Mittelgleis" ParallelStart="6240" StartPos="3240" StartPunkt="0;0;0" Typ="Parallel" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="90"/>
 			</Erstellung>
 			<Ausweiche>
-				<Props Abstand="-5.35" Ende="6960" KurvenWeite="160" Start="6280"/>
+				<Props Abstand="-5.35" Ende="10000" KurvenWeite="160" Start="6280"/>
+			</Ausweiche>
+			<Ausweiche>
+				<Props Abstand="5.35" Ende="10000" KurvenWeite="100" Start="6820"/>
 			</Ausweiche>
 		</TOPOLOGIE>
 		<Objecte>
@@ -146,19 +149,16 @@
 		<Props Name="Gleis_2"/>
 		<TOPOLOGIE>
 			<Erstellung>
-				<Props EndPunkt="3000" ParallelAbstand="2.25" ParallelEnd="7000" ParallelGleis="Mittelgleis" ParallelStart="6240" StartPos="2000" StartPunkt="0;0;0" Typ="Parallel" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="90"/>
+				<Props EndPunkt="3000" ParallelAbstand="2.25" ParallelEnd="6940" ParallelGleis="Mittelgleis" ParallelStart="6240" StartPos="2000" StartPunkt="0;0;0" Typ="Parallel" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="90"/>
 			</Erstellung>
 			<Ausweiche>
-				<Props Abstand="5.35" Ende="6960" KurvenWeite="160" Start="6280"/>
+				<Props Abstand="5.35" Ende="10000" KurvenWeite="160" Start="6280"/>
+			</Ausweiche>
+			<Ausweiche>
+				<Props Abstand="-5.35" Ende="10000" KurvenWeite="100" Start="6820"/>
 			</Ausweiche>
 		</TOPOLOGIE>
 		<Objecte>
-			<Object>
-				<Props Name="Bahnsteig" Offset="0;0;0" Position="6720" Qualitaet="0"/>
-				<Eintrag>
-					<Props Abstand="12" Anzahl="13" Datei="\Objekte\U-Bahn Berlin\U5\Bahnhoefe\Elsterwerdaer_Platz\Bahnsteig.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="12" Verschiebung="-1.6;0;0" Winkel="180;0;0"/>
-				</Eintrag>
-			</Object>
 		</Objecte>
 		<Hoeheunterbrechung>
 			<Landschaftsobjekt>
@@ -172,8 +172,149 @@
 				<STRECKENNAMEN>
 				</STRECKENNAMEN>
 				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="80" KMHNEIG="80" KeinHp2="FALSE" NichtImFahrplan="TRUE" Pos="6240"/>
+					</Value>
+					<Value>
+						<Props File="" KMH="40" KMHNEIG="40" KeinHp2="FALSE" NichtImFahrplan="TRUE" NurBeiHp0="TRUE" Pos="6241"/>
+					</Value>
+					<Value>
+						<Props File="" KMH="80" KMHNEIG="80" KeinHp2="FALSE" NichtImFahrplan="TRUE" Pos="6560"/>
+					</Value>
 				</HOECHSTGESCHWINDIGKEIT>
 				<SIGNAL>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="0" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\BVG\KlausN\Tafel\Fahrsperre.l3dgrp" IndusiPos2000="0" KennLimit="150" KennLimitHide="40" Pos="6885" SignalFile="\Signale\BVG\KlausN\Siemens_K140\Hauptsignal_Hp1+Zs1.l3dgrp" Tafel100="TRUE" TafelFile100="\Signale\BVG\KlausN\Mastschild_Stellwerkssignal.l3dgrp" TafelPos100="0" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<IndusiObjExtraData2000>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="20"/>
+							</Lightning>
+							<Position>
+								<Props Position="0;0;0" Rotation="0;0;0"/>
+							</Position>
+						</IndusiObjExtraData2000>
+						<ObjectProps>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="80"/>
+							</Lightning>
+							<Eigenschaften>
+								<Props Mast="&#39;TRUE&#39;" keine_Abfertigung="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+							<Position>
+								<Props Position="-2;0;-5" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+						<TafelObjExtraData100>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="80"/>
+							</Lightning>
+							<Position>
+								<Props Position="-2;-0.72;-5" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props Bahnhof_M="&#39;Bro&#39;" Bezeichnung="&#39; A&#39;" Gleis="&#39;  2&#39;" Tunnel="&#39;TRUE&#39;" kein_So3="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+						</TafelObjExtraData100>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="0" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\BVG\KlausN\Tafel\Fahrsperre.l3dgrp" IndusiPos2000="0" KennLimit="150" KennLimitHide="40" Pos="6660" SignalFile="\Signale\BVG\KlausN\Siemens_K140\Hauptsignal_Hp1+Zs1.l3dgrp" Tafel100="TRUE" TafelFile100="\Signale\BVG\KlausN\Mastschild_Stellwerkssignal.l3dgrp" TafelPos100="0" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<IndusiObjExtraData2000>
+							<Position>
+								<Props Position="0;0;0" Rotation="0;0;0"/>
+							</Position>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="20"/>
+							</Lightning>
+						</IndusiObjExtraData2000>
+						<TafelObjExtraData100>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="20"/>
+							</Lightning>
+							<Eigenschaften>
+								<Props Bahnhof_M="&#39;Bro&#39;" Bezeichnung="&#39; D&#39;" Gleis="&#39;  2&#39;" So3_rechts="&#39;TRUE&#39;" Tunnel="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+							<Position>
+								<Props Position="-2.1;-0.72;0" Rotation="0;0;0"/>
+							</Position>
+						</TafelObjExtraData100>
+						<ObjectProps>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="20"/>
+							</Lightning>
+							<Eigenschaften>
+								<Props keine_Abfertigung="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+							<Position>
+								<Props Position="-2;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\BVG\KlausN\Tafel\Fahrsperre.l3dgrp" IndusiPos2000="0" KennLimit="150" KennLimitHide="40" Pos="6240" SignalFile="\Signale\BVG\KlausN\Siemens_K140\Hauptsignal_Hp2+Zs1.l3dgrp" Tafel100="TRUE" TafelFile100="\Signale\BVG\KlausN\Mastschild_Stellwerkssignal.l3dgrp" TafelPos100="0" Typ="Kombisignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<IndusiObjExtraData2000>
+							<Position>
+								<Props Position="0;0;0" Rotation="0;0;0"/>
+							</Position>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="20"/>
+							</Lightning>
+						</IndusiObjExtraData2000>
+						<ObjectProps>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="20"/>
+							</Lightning>
+							<Eigenschaften>
+								<Props Vorsignal="&#39;TRUE&#39;" keine_Abfertigung="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+							<Position>
+								<Props Position="-2;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+						<TafelObjExtraData100>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="20"/>
+							</Lightning>
+							<Eigenschaften>
+								<Props Bahnhof_M="&#39;Bro&#39;" Bezeichnung="&#39; E&#39;" Gleis="&#39;  2&#39;" So3_rechts="&#39;TRUE&#39;" Tunnel="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+							<Position>
+								<Props Position="-2.1;-0.9;0" Rotation="0;0;0"/>
+							</Position>
+						</TafelObjExtraData100>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\BVG\KlausN\Tafel\Fahrsperre.l3dgrp" IndusiPos2000="0" KennLimit="150" KennLimitHide="40" Pos="6560" SignalFile="\Signale\BVG\KlausN\Siemens_K140\Hauptsignal_Hp2+Zs1.l3dgrp" Tafel100="TRUE" TafelFile100="\Signale\BVG\KlausN\Mastschild_Stellwerkssignal.l3dgrp" TafelPos100="0" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<IndusiObjExtraData2000>
+							<Position>
+								<Props Position="0;0;0" Rotation="0;0;0"/>
+							</Position>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="20"/>
+							</Lightning>
+						</IndusiObjExtraData2000>
+						<ObjectProps>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="20"/>
+							</Lightning>
+							<Eigenschaften>
+								<Props keine_Abfertigung="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+							<Position>
+								<Props Position="-2;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+						<TafelObjExtraData100>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="20"/>
+							</Lightning>
+							<Position>
+								<Props Position="-2.1;-0.9;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props Bahnhof_M="&#39;Bro&#39;" Bezeichnung="&#39; N&#39;" Gleis="&#39;  2&#39;" So3_rechts="&#39;TRUE&#39;" Tunnel="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+						</TafelObjExtraData100>
+					</Value>
 				</SIGNAL>
 				<Signaloptionen>
 				</Signaloptionen>
@@ -222,6 +363,39 @@
 				<HOECHSTGESCHWINDIGKEIT>
 				</HOECHSTGESCHWINDIGKEIT>
 				<SIGNAL>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="25" HomeSignal="FALSE" Hp3Bis="40" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\BVG\KlausN\Tafel\Fahrsperre.l3dgrp" IndusiPos2000="0" KennLimit="150" KennLimitHide="40" Pos="6720" SignalFile="\Signale\BVG\KlausN\Siemens_K140\Hauptsignal_Hp3+Zs1.l3dgrp" Tafel100="TRUE" TafelFile100="\Signale\BVG\KlausN\Mastschild_Stellwerkssignal.l3dgrp" TafelPos100="0" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<IndusiObjExtraData2000>
+							<Position>
+								<Props Position="0;0;0" Rotation="0;0;0"/>
+							</Position>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="80"/>
+							</Lightning>
+						</IndusiObjExtraData2000>
+						<ObjectProps>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="80"/>
+							</Lightning>
+							<Position>
+								<Props Position="2;0;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props Mast="&#39;TRUE&#39;" Zs2_vorhanden="&#39;TRUE&#39;" keine_Abfertigung="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+						<TafelObjExtraData100>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="80"/>
+							</Lightning>
+							<Eigenschaften>
+								<Props Bahnhof_M="&#39;Bro&#39;" Bezeichnung="&#39; A&#39;" Gleis="&#39;  2&#39;" Tunnel="&#39;TRUE&#39;" kein_So3="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+							<Position>
+								<Props Position="2;-1.26;0" Rotation="0;0;0"/>
+							</Position>
+						</TafelObjExtraData100>
+					</Value>
 				</SIGNAL>
 				<Signaloptionen>
 				</Signaloptionen>
@@ -268,59 +442,9 @@
 					<Value>
 						<Props File="" KMH="25" KMHNEIG="25" KeinHp2="FALSE" NichtImFahrplan="TRUE" Pos="6360"/>
 					</Value>
-				</HOECHSTGESCHWINDIGKEIT>
-				<SIGNAL>
-				</SIGNAL>
-				<Signaloptionen>
-				</Signaloptionen>
-				<Haltepunkt>
-				</Haltepunkt>
-				<Bahnuebergang>
-				</Bahnuebergang>
-				<RAIL>
-				</RAIL>
-				<RailQuality>
-				</RailQuality>
-				<LZB>
-				</LZB>
-				<Kilometrierung>
-				</Kilometrierung>
-				<IndusiExtra>
-				</IndusiExtra>
-				<Ueberhoehung>
-				</Ueberhoehung>
-				<RailProps>
-				</RailProps>
-				<Bremswegabstand>
-				</Bremswegabstand>
-				<Streckensound>
-				</Streckensound>
-				<ATB>
-				</ATB>
-			</VOR>
-		</EIGENSCHAFTEN>
-	</GLEIS>
-	<GLEIS>
-		<Props Name="BRO_1-2"/>
-		<TOPOLOGIE>
-			<Erstellung>
-				<Props EndPunkt="1000" ParallelAbstand="-10" ParallelEnd="0" ParallelGleis="" ParallelStart="0" StartPos="0" StartPunkt="0;0;0" Typ="Weiche" WeicheEnd="6590" WeicheGleis="Gleis_1" WeicheGleisPos="6580" WeicheGleisRichtung="0" WeicheName="W3" WeicheStart="6580" WeichenWinkel="7" Winkel="0"/>
-			</Erstellung>
-			<Weiche>
-				<Props Anfang="Ende" ErstellungsArt="Annaeherung" Gleis="Gleis_2" Kennung="W2" Kruemung="10" Position="0" WeichenWinkel="7" WeichenWinkelDynamisch="FALSE"/>
-			</Weiche>
-		</TOPOLOGIE>
-		<Objecte>
-		</Objecte>
-		<Hoeheunterbrechung>
-		</Hoeheunterbrechung>
-		<Landschaft>
-		</Landschaft>
-		<EIGENSCHAFTEN>
-			<VOR>
-				<STRECKENNAMEN>
-				</STRECKENNAMEN>
-				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="40" KMHNEIG="40" KeinHp2="FALSE" NichtImFahrplan="TRUE" Pos="6600"/>
+					</Value>
 				</HOECHSTGESCHWINDIGKEIT>
 				<SIGNAL>
 				</SIGNAL>
@@ -355,6 +479,91 @@
 				<STRECKENNAMEN>
 				</STRECKENNAMEN>
 				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="25" KMHNEIG="25" KeinHp2="FALSE" NichtImFahrplan="TRUE" Pos="6540"/>
+					</Value>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+				</SIGNAL>
+				<Signaloptionen>
+					<Value>
+						<Props Pos="6540" Zs13="TRUE" Zs2="TRUE" Zs2Value="7"/>
+					</Value>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<LZB>
+				</LZB>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</ZURUECK>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="BRO_1-2"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="-10" ParallelEnd="0" ParallelGleis="" ParallelStart="0" StartPos="0" StartPunkt="0;0;0" Typ="Weiche" WeicheEnd="6590" WeicheGleis="Gleis_1" WeicheGleisPos="6580" WeicheGleisRichtung="0" WeicheName="W3" WeicheStart="6580" WeichenWinkel="7" Winkel="0"/>
+			</Erstellung>
+			<Weiche>
+				<Props Anfang="Ende" ErstellungsArt="Annaeherung" Gleis="Gleis_2" Kennung="W2" Kruemung="10" Position="0" WeichenWinkel="7" WeichenWinkelDynamisch="FALSE"/>
+			</Weiche>
+		</TOPOLOGIE>
+		<Objecte>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+			<VOR>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="40" KMHNEIG="40" KeinHp2="FALSE" NichtImFahrplan="TRUE" Pos="6600"/>
+					</Value>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<Bahnuebergang>
+				</Bahnuebergang>
+				<RAIL>
+				</RAIL>
+				<RailQuality>
+				</RailQuality>
+				<LZB>
+				</LZB>
+				<Kilometrierung>
+				</Kilometrierung>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Ueberhoehung>
+				</Ueberhoehung>
+				<RailProps>
+				</RailProps>
+				<Bremswegabstand>
+				</Bremswegabstand>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</VOR>
+			<ZURUECK>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="40" KMHNEIG="40" KeinHp2="FALSE" NichtImFahrplan="TRUE" Pos="6600"/>
+					</Value>
 				</HOECHSTGESCHWINDIGKEIT>
 				<SIGNAL>
 				</SIGNAL>
@@ -397,6 +606,9 @@
 				<STRECKENNAMEN>
 				</STRECKENNAMEN>
 				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="25" KMHNEIG="25" KeinHp2="FALSE" NichtImFahrplan="TRUE" Pos="6542"/>
+					</Value>
 				</HOECHSTGESCHWINDIGKEIT>
 				<SIGNAL>
 				</SIGNAL>
@@ -431,6 +643,9 @@
 				<STRECKENNAMEN>
 				</STRECKENNAMEN>
 				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="40" KMHNEIG="40" KeinHp2="FALSE" NichtImFahrplan="TRUE" Pos="6600"/>
+					</Value>
 				</HOECHSTGESCHWINDIGKEIT>
 				<SIGNAL>
 				</SIGNAL>
@@ -474,7 +689,7 @@
 				</STRECKENNAMEN>
 				<HOECHSTGESCHWINDIGKEIT>
 					<Value>
-						<Props File="" KMH="25" KMHNEIG="25" KeinHp2="FALSE" NichtImFahrplan="FALSE" Pos="4700"/>
+						<Props File="" KMH="25" KMHNEIG="25" KeinHp2="FALSE" NichtImFahrplan="FALSE" Pos="6400"/>
 					</Value>
 				</HOECHSTGESCHWINDIGKEIT>
 				<SIGNAL>
@@ -510,10 +725,16 @@
 				<STRECKENNAMEN>
 				</STRECKENNAMEN>
 				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="25" KMHNEIG="25" KeinHp2="FALSE" NichtImFahrplan="TRUE" Pos="6600"/>
+					</Value>
 				</HOECHSTGESCHWINDIGKEIT>
 				<SIGNAL>
 				</SIGNAL>
 				<Signaloptionen>
+					<Value>
+						<Props Pos="6600" Zs13="TRUE" Zs2="TRUE" Zs2Value="5"/>
+					</Value>
 				</Signaloptionen>
 				<Haltepunkt>
 				</Haltepunkt>
@@ -538,7 +759,7 @@
 				<Props Anfang="Ende" ErstellungsArt="Annaeherung" Gleis="BRO_1-2" Kennung="W6" Kruemung="10" Position="0" WeichenWinkel="7" WeichenWinkelDynamisch="FALSE"/>
 			</Weiche>
 			<Kreuzung>
-				<Props Gleis="BRO_7-1" Gleisverlauf="0" Kennung="Kr8" KreuzungsTyp="1" PositionBis="6640" PositionVon="6610" WeichenWinkel="7" WeichenWinkelDynamisch="FALSE"/>
+				<Props Gleis="BRO_7-1" Gleisverlauf="0" Kennung="Kr8" KreuzungsTyp="2" PositionBis="6640" PositionVon="6610" WeichenWinkel="7" WeichenWinkelDynamisch="FALSE"/>
 			</Kreuzung>
 		</TOPOLOGIE>
 		<Objecte>
@@ -553,7 +774,7 @@
 				</STRECKENNAMEN>
 				<HOECHSTGESCHWINDIGKEIT>
 					<Value>
-						<Props File="" KMH="25" KMHNEIG="25" KeinHp2="FALSE" NichtImFahrplan="FALSE" Pos="4700"/>
+						<Props File="" KMH="25" KMHNEIG="25" KeinHp2="FALSE" NichtImFahrplan="FALSE" Pos="6400"/>
 					</Value>
 				</HOECHSTGESCHWINDIGKEIT>
 				<SIGNAL>
@@ -589,10 +810,16 @@
 				<STRECKENNAMEN>
 				</STRECKENNAMEN>
 				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="25" KMHNEIG="25" KeinHp2="FALSE" NichtImFahrplan="TRUE" Pos="6600"/>
+					</Value>
 				</HOECHSTGESCHWINDIGKEIT>
 				<SIGNAL>
 				</SIGNAL>
 				<Signaloptionen>
+					<Value>
+						<Props Pos="6600" Zs13="TRUE" Zs2="TRUE" Zs2Value="6"/>
+					</Value>
 				</Signaloptionen>
 				<Haltepunkt>
 				</Haltepunkt>
