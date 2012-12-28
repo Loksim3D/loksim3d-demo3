@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="FC" FileDoku="" FileInfo="Bahnsteigdach/n10m lang/nGleisabstand: 10m/ngleismittig" FilePicture=""/>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\Pfeiler1-4.l3dobj" Position="0;0.5;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\Bahnsteigdach1-4.l3dobj" Position="0;0.5;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Bahnsteiglampen\Bahnsteiglampe10b.l3dobj" Position="0;4.55;2.5" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Bahnsteiglampen\Bahnsteiglampe10b.l3dobj" Position="0;4.55;7.5" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="WetterDaten::HelligkeitProzent &#62;= 60" FixedDynamicVisibility="FALSE" Name="Bahnsteiglampen\Bahnsteiglampe10c_aus.l3dobj" Position="0;4.55;2.5" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="WetterDaten::HelligkeitProzent &#62;= 60" FixedDynamicVisibility="FALSE" Name="Bahnsteiglampen\Bahnsteiglampe10c_aus.l3dobj" Position="0;4.55;7.5" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="WetterDaten::HelligkeitProzent &#60;= 60" FixedDynamicVisibility="FALSE" Name="Bahnsteiglampen\Bahnsteiglampe10c_an.l3dobj" Position="0;4.55;2.5" Rotation="90;0;0" WeitSichtbar="TRUE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="WetterDaten::HelligkeitProzent &#60;= 60" FixedDynamicVisibility="FALSE" Name="Bahnsteiglampen\Bahnsteiglampe10c_an.l3dobj" Position="0;4.55;7.5" Rotation="90;0;0" WeitSichtbar="TRUE" ZoomFaktor="1"/>
+	</Object>
+</GRUPPENOBJECT>
