@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="FC" FileDoku="" FileInfo="Bahnsteigdach/n10m lang/nGleisabstand: 14m50/ngleismittig" FilePicture="" Texture="Bahnsteigdach1-4.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="-1;0;0" Vekt="-5.45;4.2;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;0;0" Vekt="-5.45;5;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;0;0" Vekt="5.45;5;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;0;0" Vekt="5.45;4.2;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;0;0" Vekt="-5.45;4.2;10"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;0;0" Vekt="-5.45;5;10"/>
+	</Point>
+	<Point>
+		<Props Normal="1;0;0" Vekt="5.45;5;10"/>
+	</Point>
+	<Point>
+		<Props Normal="1;0;0" Vekt="5.45;4.2;10"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="99,59;99,52;1,52;1,59"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;6;5;4" Texture="1,59;1,52;99,52;99,59"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;2;6;7" Texture="1,59;1,52;99,52;99,59"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;1;0" Texture="1,59;1,52;99,52;99,59"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;0;3;7" Texture="1,49;97,49;97,2;1,2"/>
+	</Flaeche>
+</OBJECT>

@@ -32,11 +32,11 @@
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\Frieder\NBS_Bahnsteige\Ende_5m_Regenrinne.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1.25" Verschiebung="0;0;0" Winkel="180;0;0"/>
 					<Lightning>
-						<Props DayLight="100" LokLight="TRUE" NightLight="30"/>
+						<Props DayLight="100" LokLight="TRUE" NightLight="32"/>
 					</Lightning>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="2.5" Anzahl="178" Datei="\Objekte\Bahnsteige\Frieder\NBS_Bahnsteige\Mitte_5m_Regenrinne.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="3.75" Verschiebung="0;0;0" Winkel="180;0;0"/>
+					<Props Abstand="2.5" Anzahl="51" Datei="\Objekte\Bahnsteige\Frieder\NBS_Bahnsteige\Mitte_5m_Regenrinne.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="3.75" Verschiebung="0;0;0" Winkel="180;0;0"/>
 					<Lightning>
 						<Props DayLight="100" LokLight="TRUE" NightLight="32"/>
 					</Lightning>
@@ -55,6 +55,18 @@
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="20" Anzahl="5" Datei="\Objekte\Bahnsteige\Frieder\Bahnsteiglampen\Bahnsteiglampe10.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="340" Verschiebung="-5;1;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="2.5" Anzahl="80" Datei="\Objekte\Bahnsteige\Frieder\NBS_Bahnsteige\Mitte_5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="131.25" Verschiebung="0;0;0" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="32"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="2.5" Anzahl="47" Datei="\Objekte\Bahnsteige\Frieder\NBS_Bahnsteige\Mitte_5m_Regenrinne.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="331.25" Verschiebung="0;0;0" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="32"/>
+					</Lightning>
 				</Eintrag>
 			</Object>
 			<Object>
@@ -606,7 +618,7 @@
 					</Lightning>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="2.5" Anzahl="178" Datei="\Objekte\Bahnsteige\Frieder\NBS_Bahnsteige\Mitte_5m_Regenrinne.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="3.75" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Props Abstand="2.5" Anzahl="51" Datei="\Objekte\Bahnsteige\Frieder\NBS_Bahnsteige\Mitte_5m_Regenrinne.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="3.75" Verschiebung="0;0;0" Winkel="0;0;0"/>
 					<Lightning>
 						<Props DayLight="100" LokLight="TRUE" NightLight="29"/>
 					</Lightning>
@@ -634,6 +646,18 @@
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\RainerZ\Durchgang_verb.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="445" Verschiebung="5;1;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="2.5" Anzahl="80" Datei="\Objekte\Bahnsteige\Frieder\NBS_Bahnsteige\Mitte_5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="131.25" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="32"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="2.5" Anzahl="47" Datei="\Objekte\Bahnsteige\Frieder\NBS_Bahnsteige\Mitte_5m_Regenrinne.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="331.25" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="32"/>
+					</Lightning>
 				</Eintrag>
 			</Object>
 			<Object>
@@ -1578,15 +1602,36 @@
 				<Props Name="Bahnsteig" Offset="0;0;0" Position="2300" Qualitaet="1"/>
 				<Eintrag>
 					<Props Abstand="2.5" Anzahl="60" Datei="\Objekte\Bahnsteige\Frieder\NBS_Bahnsteige\Mitte_5m_Regenrinne.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2.75" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="32"/>
+					</Lightning>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\Frieder\NBS_Bahnsteige\Ende_5m_Regenrinne.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="152.75" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="32"/>
+					</Lightning>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="2.5" Anzahl="60" Datei="\Objekte\Bahnsteige\Frieder\NBS_Bahnsteige\Mittelplatte 4m50.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2.75" Verschiebung="5;0;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="31"/>
+					</Lightning>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\Frieder\NBS_Bahnsteige\Mittelplatte 4m50_Anfang.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="152.75" Verschiebung="9.5;0;0" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="32"/>
+					</Lightning>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="Bahnsteigdach Gleis6" Offset="0;0;0" Position="2134" Qualitaet="1"/>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="16" Datei="\Objekte\Bahnsteige\Frieder\Bahnsteigdach1-4.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="9.5;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="4" Datei="\Objekte\Bahnsteige\Frieder\Bahnsteigdach1-4.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="160" Verschiebung="5;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
 				</Eintrag>
 			</Object>
 		</Objecte>
@@ -1747,12 +1792,21 @@
 				<Props Name="Bahnsteig" Offset="0;0;0" Position="2180" Qualitaet="1"/>
 				<Eintrag>
 					<Props Abstand="2.5" Anzahl="49" Datei="\Objekte\Bahnsteige\Frieder\NBS_Bahnsteige\Mitte_5m_Regenrinne.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0.25" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="32"/>
+					</Lightning>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\Frieder\NBS_Bahnsteige\Mittelplatte 4m50_Anfang.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2.75" Verschiebung="5;0;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="31"/>
+					</Lightning>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="2.5" Anzahl="47" Datei="\Objekte\Bahnsteige\Frieder\NBS_Bahnsteige\Mittelplatte 4m50.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="5.25" Verschiebung="5;0;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="31"/>
+					</Lightning>
 				</Eintrag>
 			</Object>
 		</Objecte>
@@ -2337,9 +2391,15 @@
 				<Props Name="Bahnsteig" Offset="0;0;0" Position="2004" Qualitaet="1"/>
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\Frieder\NBS_Bahnsteige\Anfang_5m_Regenrinne.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1.25" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="32"/>
+					</Lightning>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="2.5" Anzahl="69" Datei="\Objekte\Bahnsteige\Frieder\NBS_Bahnsteige\Mitte_5m_Regenrinne.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="3.75" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="32"/>
+					</Lightning>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\RainerZ\gelaen_150cm.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="1" Verschiebung="2;1;0" Winkel="0;0;0"/>
@@ -2357,7 +2417,7 @@
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\RainerZ\Durchgang_verb.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="2" Verschiebung="5;1;0" Winkel="180;0;0"/>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="20" Anzahl="3" Datei="\Objekte\Bahnsteige\Frieder\Bahnsteiglampen\Bahnsteiglampe10.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="10" Verschiebung="5;1;0" Winkel="0;0;0"/>
+					<Props Abstand="20" Anzahl="4" Datei="\Objekte\Bahnsteige\Frieder\Bahnsteiglampen\Bahnsteiglampe10.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="10" Verschiebung="5;1;0" Winkel="0;0;0"/>
 				</Eintrag>
 			</Object>
 		</Objecte>
@@ -2385,7 +2445,7 @@
 								<Props Signalnummer="&#39;12/nR6&#39;" TEXT="&#39;R6&#39;"/>
 							</Eigenschaften>
 							<Position>
-								<Props Position="0;1;0" Rotation="0;0;0"/>
+								<Props Position="0;-0.5;0" Rotation="0;0;0"/>
 							</Position>
 						</ObjectProps>
 					</Value>
@@ -2658,15 +2718,45 @@
 				<Props Name="Bahnsteig" Offset="0;0;0" Position="2004" Qualitaet="1"/>
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\Frieder\NBS_Bahnsteige\Ende_5m_Regenrinne.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1.25" Verschiebung="0;0;0" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="30"/>
+					</Lightning>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="2.5" Anzahl="178" Datei="\Objekte\Bahnsteige\Frieder\NBS_Bahnsteige\Mitte_5m_Regenrinne.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="3.75" Verschiebung="0;0;0" Winkel="180;0;0"/>
+					<Props Abstand="2.5" Anzahl="51" Datei="\Objekte\Bahnsteige\Frieder\NBS_Bahnsteige\Mitte_5m_Regenrinne.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="3.75" Verschiebung="0;0;0" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="32"/>
+					</Lightning>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\Frieder\NBS_Bahnsteige\Anfang_5m_Regenrinne.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="448.75" Verschiebung="0;0;0" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="32"/>
+					</Lightning>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="20" Anzahl="3" Datei="\Objekte\Bahnsteige\Frieder\Bahnsteiglampen\Bahnsteiglampe10.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="10" Verschiebung="-7.25;1;0" Winkel="0;0;0"/>
+					<Props Abstand="20" Anzahl="4" Datei="\Objekte\Bahnsteige\Frieder\Bahnsteiglampen\Bahnsteiglampe10.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="10" Verschiebung="-7.25;1;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="6" Datei="\Objekte\Bahnsteige\Frieder\Bahnsteigdach1-4_breit.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="130" Verschiebung="-7.25;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="20" Anzahl="5" Datei="\Objekte\Bahnsteige\Frieder\Bahnsteiglampen\Bahnsteiglampe10.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="340" Verschiebung="-5;1;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="2.5" Anzahl="80" Datei="\Objekte\Bahnsteige\Frieder\NBS_Bahnsteige\Mitte_5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="131.25" Verschiebung="0;0;0" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="32"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="2.5" Anzahl="47" Datei="\Objekte\Bahnsteige\Frieder\NBS_Bahnsteige\Mitte_5m_Regenrinne.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="331.25" Verschiebung="0;0;0" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="32"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="14" Datei="\Objekte\Bahnsteige\Frieder\Bahnsteigdach1-4.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="190" Verschiebung="-5;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
 				</Eintrag>
 			</Object>
 		</Objecte>
@@ -2873,15 +2963,33 @@
 				<Props Name="Bahnsteig" Offset="0;0;0" Position="2004" Qualitaet="1"/>
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\Frieder\NBS_Bahnsteige\Anfang_5m_Regenrinne.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1.25" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="32"/>
+					</Lightning>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="2.5" Anzahl="79" Datei="\Objekte\Bahnsteige\Frieder\NBS_Bahnsteige\Mitte_5m_Regenrinne.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="3.75" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Props Abstand="2.5" Anzahl="51" Datei="\Objekte\Bahnsteige\Frieder\NBS_Bahnsteige\Mitte_5m_Regenrinne.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="3.75" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="32"/>
+					</Lightning>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\Frieder\NBS_Bahnsteige\Mittelplatte 4m50_Anfang.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1.25" Verschiebung="5;0;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="31"/>
+					</Lightning>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="2.5" Anzahl="79" Datei="\Objekte\Bahnsteige\Frieder\NBS_Bahnsteige\Mittelplatte 4m50.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="3.75" Verschiebung="5;0;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="32"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="2.5" Anzahl="28" Datei="\Objekte\Bahnsteige\Frieder\NBS_Bahnsteige\Mitte_5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="131.25" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="32"/>
+					</Lightning>
 				</Eintrag>
 			</Object>
 		</Objecte>
@@ -3017,12 +3125,21 @@
 				<Props Name="Bahnsteig" Offset="0;0;0" Position="2200" Qualitaet="1"/>
 				<Eintrag>
 					<Props Abstand="2.5" Anzahl="42" Datei="\Objekte\Bahnsteige\Frieder\NBS_Bahnsteige\Mitte_5m_Regenrinne.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="5.25" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="33"/>
+					</Lightning>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="2.5" Anzahl="20" Datei="\Objekte\Bahnsteige\Frieder\NBS_Bahnsteige\Mittelplatte 4m50.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="5.25" Verschiebung="5;-0.01;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="33"/>
+					</Lightning>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="2.5" Anzahl="22" Datei="\Objekte\Bahnsteige\Frieder\NBS_Bahnsteige\Mittelplatte 4m50.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="55.25" Verschiebung="2.7;-0.01;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="31"/>
+					</Lightning>
 				</Eintrag>
 			</Object>
 		</Objecte>
@@ -3090,10 +3207,22 @@
 			<Object>
 				<Props Name="Bahnsteig" Offset="0;0;0" Position="2310" Qualitaet="1"/>
 				<Eintrag>
-					<Props Abstand="2.5" Anzahl="57" Datei="\Objekte\Bahnsteige\Frieder\NBS_Bahnsteige\Mitte_5m_Regenrinne.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0.25" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Props Abstand="2.5" Anzahl="10" Datei="\Objekte\Bahnsteige\Frieder\NBS_Bahnsteige\Mitte_5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0.25" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="29"/>
+					</Lightning>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\Frieder\NBS_Bahnsteige\Ende_5m_Regenrinne.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="142.75" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="29"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="2.5" Anzahl="47" Datei="\Objekte\Bahnsteige\Frieder\NBS_Bahnsteige\Mitte_5m_Regenrinne.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="25.25" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="29"/>
+					</Lightning>
 				</Eintrag>
 			</Object>
 		</Objecte>

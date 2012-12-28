@@ -1,4 +1,5 @@
 2012-12-28
+* [fc]Bahnsteigdächer, Lampen Hainfurt
 * [kn] U1_M7 bis M9 hinzugefügt
 
 2012-12-27
