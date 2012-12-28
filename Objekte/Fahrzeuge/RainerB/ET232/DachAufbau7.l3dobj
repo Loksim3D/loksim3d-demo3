@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="TRUE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="" FileInfo="" FilePicture="" Texture="DachAufbau6.BMP" TransTexture="" Transparent="FALSE" TransparentTyp="2"/>
+	<Point>
+		<Props Normal="0;1;0" Vekt="-0.4;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="-0.4;0.1;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="0.4;0.1;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="0.4;0;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="3,12;3,2;72,2;72,12"/>
+	</Flaeche>
+</OBJECT>

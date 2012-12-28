@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="FC" FileDoku="" FileInfo="Brueckenboden Beton/nGleisabstand 4,70m für SFS" FilePicture="" Texture="ET\NBS-Bruecke.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="0;-1;0" Vekt="-3.8;-0.8;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="-3.8;0.3;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="8.5;0.3;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;0" Vekt="8.5;-0.8;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;0" Vekt="-3.8;-0.8;10"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="-3.8;0.3;10"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="8.5;0.3;10"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;0" Vekt="8.5;-0.8;10"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="6.7;0.3;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="6.7;0.3;10"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="6.7;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="6.7;0;10"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="-2;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="-2;0;10"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="-2;0.3;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="-2;0.3;10"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="8.5;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="-3.8;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="8.5;0;10"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="-3.8;0;10"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;0" Vekt="6.7;-1.6;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;0" Vekt="6.7;-1.6;10"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;0" Vekt="6.7;-0.8;10"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;0" Vekt="6.7;-0.8;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;0" Vekt="-2;-0.8;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;0" Vekt="-2;-0.8;10"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;0" Vekt="-2;-1.6;10"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;0" Vekt="-2;-1.6;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;17;16;3" Texture="7,41;4,3;40,4;40,41"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="19;4;7;18" Texture="42,7;42,42;7,44;7,7"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;2;6;7" Texture="1,9;1,1;49,1;49,9"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;1;0" Texture="1,11;1,1;49,1;49,11"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="8;9;6;2" Texture="5,95;5,53;36,53;37,94"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;4;0;3" Texture="51,48;99,49;98,1;51,1"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="10;11;9;8" Texture="57,44;91,45;91,5;58,6"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="10;12;13;11" Texture="45,43;6,44;7,7;44,7"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="13;12;14;15" Texture="94,45;92,6;54,5;54,44"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="1;5;15;14" Texture="40,95;39,55;5,58;4,95"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="1;14;12;17" Texture="45,45;5,46;6,9;44,6"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="2;16;10;8" Texture="8,43;45,42;43,6;5,5"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="6;9;11;18" Texture="40,44;41,5;7,6;7,46"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="5;19;13;15" Texture="7,44;41,42;43,9;6,8"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="23;22;21;20" Texture="1,1;49,1;49,8;1,8"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="27;26;25;24" Texture="1,8;49,8;49,1;1,1"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="20;21;26;27" Texture="51,48;52,3;97,3;96,47"/>
+	</Flaeche>
+</OBJECT>

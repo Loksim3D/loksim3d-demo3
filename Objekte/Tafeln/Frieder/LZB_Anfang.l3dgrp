@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="Frieder Cramer" FileInfo="LZB Anfang/nGleismittig, verschieben" FilePicture="LZB_Anfang.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\LZB_Anfang.l3dobj" Position="0;2;-0.05" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\Tafelfuss.l3dobj" Position="-0.05;-1.2;0" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+</GRUPPENOBJECT>

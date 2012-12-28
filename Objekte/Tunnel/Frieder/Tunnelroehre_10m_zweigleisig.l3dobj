@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="FC" FileDoku="" FileInfo="Tunnelröhre zu Tunnel 1/nLänge: 10m" FilePicture="" Texture="Gebirge\Tunnelroehre.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="0;0;0" Vekt="-6.62489;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;0" Vekt="-7.089995;1.928021;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;0" Vekt="-6.884735;3.907607;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;0" Vekt="-6.036125;5.678033;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;0" Vekt="-4.655945;7.006153;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;0" Vekt="-2.925968;7.717021;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;0" Vekt="-1.074033;7.717021;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;0" Vekt="0.655945;7.006148;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;0" Vekt="2.036125;5.678046;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;0" Vekt="2.884735;3.907607;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;0" Vekt="3.089995;1.928026;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;0" Vekt="2.62489;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;0" Vekt="-6.62489;0;10"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;0" Vekt="-7.089995;1.928021;10"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;0" Vekt="-6.884735;3.907607;10"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;0" Vekt="-6.036125;5.678033;10"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;0" Vekt="-4.655945;7.006148;10"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;0" Vekt="-2.925968;7.717021;10"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;0" Vekt="-1.074033;7.717021;10"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;0" Vekt="0.655945;7.006148;10"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;0" Vekt="2.036125;5.678046;10"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;0" Vekt="2.884735;3.907607;10"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;0" Vekt="3.089995;1.928026;10"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;0" Vekt="2.62489;0;10"/>
+	</Point>
+	<Flaeche>
+		<Props Points="13;12;0;1" Texture="476,0;512,0;512,512;476,512"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="14;13;1;2" Texture="440,0;476,0;476,512;440,512"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="15;14;2;3" Texture="405,0;440,0;440,512;405,512"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="16;15;3;4" Texture="373,0;405,0;405,512;373,512"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="17;16;4;5" Texture="343,0;373,0;373,512;343,512"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="18;17;5;6" Texture="314,0;343,0;343,512;314,512"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="19;18;6;7" Texture="284,0;314,0;314,512;284,512"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="20;19;7;8" Texture="251,0;284,0;284,512;251,512"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="21;20;8;9" Texture="217,0;251,0;251,512;217,512"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="22;21;9;10" Texture="181,0;217,0;217,512;181,512"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="23;22;10;11" Texture="145,0;181,0;181,512;145,512"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="12;23;11;0" Texture="0,0;145,0;145,512;0,512"/>
+	</Flaeche>
+</OBJECT>

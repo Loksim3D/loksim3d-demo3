@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="Peter Wagner" FileInfo="Brückenpfeiler 2gleisig komplett/n4m Gleisabstand, 10m hoch&#47;lang/n30.12.2009" FilePicture="brueckenkopf_2gl.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\brueckenkopf_2gl.l3dobj" Position="0;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\br_kopf_gehweg.l3dobj" Position="1.5;0;-10" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\br_kopf_gehweg.l3dobj" Position="-7;0;-10" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Bruecken\PeterW\brueckengelaender_5m.l3dobj" Position="3;0.2;-10" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Bruecken\PeterW\brueckengelaender_5m.l3dobj" Position="3;0.2;-5" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Bruecken\PeterW\brueckengelaender_5m.l3dobj" Position="-7;0.2;-10" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Bruecken\PeterW\brueckengelaender_5m.l3dobj" Position="-7;0.2;-5" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Bruecken\PeterW\brueckengelaender_q.l3dobj" Position="2.5;0.2;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Bruecken\PeterW\brueckengelaender_q.l3dobj" Position="-7;0.2;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\blech_1m_mitte.l3dobj" Position="0;0.2;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Bruecken\Frieder\ET\Abdeckung5m.l3dobj" Position="-0.6;0.2;-5" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Bruecken\Frieder\ET\Abdeckung5m.l3dobj" Position="-4.6;0.2;-5" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+</GRUPPENOBJECT>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="" FileInfo="" FilePicture=""/>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\Steinbach\Haupthaus_unten.l3dobj" Position="0;0;0" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\Steinbach\Haupthaus_Dach.l3dobj" Position="-5;8;11" Rotation="90;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\Steinbach\Haupthaus_Kamin.l3dobj" Position="-0.5;9;-4.5" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\Steinbach\Haupthaus_Kamin.l3dobj" Position="-0.5;9;3.5" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\Steinbach\Wartehalle_unten.l3dobj" Position="0;0;-23.5" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\Steinbach\Wartehalle_Dach.l3dobj" Position="-3.5;3.9;-24" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\Steinbach\Gueterschuppen_Anbau.l3dobj" Position="-3.5;0;10" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Brightness="40" GreaterAs="FALSE" Name="ET\Steinbach\Haupthaus_unten_Nacht.l3dobj" Position="0;0;0" Rotation="0;0;0" ShowIfBrightness="TRUE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\Steinbach\Wartehalle_Kamin.l3dobj" Position="2;3;-15" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+</GRUPPENOBJECT>

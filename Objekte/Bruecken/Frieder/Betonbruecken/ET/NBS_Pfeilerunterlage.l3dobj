@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="FC" FileDoku="" FileInfo="" FilePicture="" Texture="\Objekte\Bruecken\Frieder\ET\NBS-Bruecke.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="-0.5;0;-0.5"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="-0.5;0.6;-0.5"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.5;0.6;-0.5"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.5;0;-0.5"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="-0.5;0;0.5"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="-0.5;0.6;0.5"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.5;0.6;0.5"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="0.5;0;0.5"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="52,46;52,3;97,3;97,48"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;6;5;4" Texture="53,48;54,3;98,3;97,48"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;2;6;7" Texture="53,48;53,3;97,3;97,48"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;1;0" Texture="53,47;53,3;97,3;97,47"/>
+	</Flaeche>
+</OBJECT>

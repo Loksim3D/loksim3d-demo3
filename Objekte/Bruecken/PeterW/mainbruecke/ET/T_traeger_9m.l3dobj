@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="" FileInfo="" FilePicture="" Texture="brueckenteile.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="1;1;1" Vekt="2.5;6.25;0.2"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="-6.5;6.25;0.2"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="-6.5;6.5;0.2"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="2.5;6.5;0.2"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="-6.5;6.5;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="-6.5;6.5;0.4"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="2.5;6.5;0.4"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="2.5;6.5;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="1;2;3;0" Texture="113,84;174,17;178,22;121,88"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;6;7" Texture="118,70;175,14;180,20;123,76"/>
+	</Flaeche>
+</OBJECT>

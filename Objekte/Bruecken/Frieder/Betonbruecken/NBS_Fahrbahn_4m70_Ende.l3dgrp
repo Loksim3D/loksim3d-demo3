@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="FC" FileDoku="" FileInfo="NBS Fahrbahn/nGleisabstand 4 m 70/nLänge: 10m/nin rechtes Gleis einbauen/nEndstück" FilePicture=""/>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Bruecken\Frieder\NBS_Bruecke_Mitte_ 2Gl_4m70_Abstand.l3dobj" Position="-4.7;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\Gelaender Pfosten.l3dobj" Position="-8.4;0.3;0.025" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\Gelaender Pfosten.l3dobj" Position="-8.4;0.3;2.5" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\Gelaender Pfosten.l3dobj" Position="-8.4;0.3;5" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\Gelaender Pfosten.l3dobj" Position="-8.4;0.3;7.5" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\Gelaender Pfosten.l3dobj" Position="3.7;0.3;0.025" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\Gelaender Pfosten.l3dobj" Position="3.7;0.3;2.5" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\Gelaender Pfosten.l3dobj" Position="3.7;0.3;5" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\Gelaender Pfosten.l3dobj" Position="3.7;0.3;7.5" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\Gelaender Stange 10m.l3dobj" Position="-8.4;1.48;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\Gelaender Stange 10m.l3dobj" Position="-8.4;0.97;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\Gelaender Stange 10m.l3dobj" Position="3.7;1.48;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\Gelaender Stange 10m.l3dobj" Position="3.7;0.97;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\Gelaender Pfosten.l3dobj" Position="-8.4;0.3;9.9975" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\Gelaender Pfosten.l3dobj" Position="3.7;0.3;9.9975" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+</GRUPPENOBJECT>

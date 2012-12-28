@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="Peter Wagner" FileInfo="Mainbrücke F-Niederrad/n2gleisig - 4m Gleisabstand - 10m lang/nBrückenende!/n30.12.2009" FilePicture="mainbruecke_10m_ende.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\I_traeger_7m_senkr.l3dobj" Position="2.5;-0.5;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\lochtraeger_schraeg.l3dobj" Position="2.5;-0.5;0.25" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\voll_traeger_7m_senkr.l3dobj" Position="2.5;-0.5;5" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\voll_traeger_schraeg.l3dobj" Position="3;-0.5;10.25" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\I_traeger_5m.l3dobj" Position="2.5;-0.5;0.25" Rotation="90;90;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\I_traeger_5m.l3dobj" Position="2.5;6;0.25" Rotation="90;90;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\T_traeger_9m.l3dobj" Position="0;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\I_traeger_10m.l3dobj" Position="3;6;5" Rotation="0;90;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\T_traeger_9m.l3dobj" Position="0;-6.5;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\T_traeger_9m.l3dobj" Position="0;-6.5;5" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\T_traeger_5m_diag.l3dobj" Position="3;6;0.25" Rotation="0;90;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\blech_10m_seite.l3dobj" Position="0;0.2;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Bruecken\Frieder\ET\Abdeckung11m.l3dobj" Position="-0.6;0.2;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\I_traeger_5m.l3dobj" Position="2.5;-0.5;5.25" Rotation="90;90;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\T_traeger_5m_diag.l3dobj" Position="3;-0.5;0.25" Rotation="0;90;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\T_traeger_5m_diag.l3dobj" Position="3;-0.5;5.25" Rotation="0;90;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\I_traeger_7m_senkr.l3dobj" Position="-7;-0.5;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\lochtraeger_schraeg.l3dobj" Position="-7;-0.5;0.25" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\voll_traeger_7m_senkr.l3dobj" Position="-7;-0.5;5" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\voll_traeger_schraeg.l3dobj" Position="-6.5;-0.5;10.25" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\I_traeger_5m.l3dobj" Position="-7;-0.5;0.25" Rotation="90;90;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\I_traeger_5m.l3dobj" Position="-7;6;0.25" Rotation="90;90;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\I_traeger_5m.l3dobj" Position="-7;-0.5;5.25" Rotation="90;90;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\T_traeger_5m_diag.l3dobj" Position="-7;6.75;0.25" Rotation="0;-90;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Bruecken\Frieder\ET\Abdeckung11m.l3dobj" Position="-4.6;0.2;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\blech_10m_seite.l3dobj" Position="-7.2;0.2;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\T_traeger_5m_diag.l3dobj" Position="-7;0.25;0.25" Rotation="0;-90;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\T_traeger_5m_diag.l3dobj" Position="-7;0.25;5.25" Rotation="0;-90;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\blech_5m_mitte.l3dobj" Position="0;0.2;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\blech_5m_mitte.l3dobj" Position="0;0.2;5" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Bruecken\PeterW\brueckengelaender_5m.l3dobj" Position="2.49;0.3;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Bruecken\PeterW\brueckengelaender_5m.l3dobj" Position="2.49;0.3;5" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Bruecken\PeterW\brueckengelaender_5m.l3dobj" Position="-6.49;0.3;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Bruecken\PeterW\brueckengelaender_5m.l3dobj" Position="-6.49;0.3;5" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\knotenblech.l3dobj" Position="2.49;0;5" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\knotenblech.l3dobj" Position="3.01;0;5" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\knotenblech.l3dobj" Position="-6.49;0;5" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\knotenblech.l3dobj" Position="-7.01;0;5" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+</GRUPPENOBJECT>

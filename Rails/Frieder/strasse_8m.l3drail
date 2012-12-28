@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RAIL>
+	<Props Bettungsbreite="8" FileAuthor="FC" FileDoku="" FileInfo="Straße 8m, aus veränderter Bitmap von /nAndreas Hofmann/nHöhe=0.05, Mitte Leitlinie, Seiten Trennlinie/nOriginal von Rainer Ziener" FilePicture="" Schienenbreite="0" Schienenhoehe="0" Spurbreite="0.01" Texture="\Rails\RainerZ\strasse_7m.bmp" Transparent="FALSE"/>
+	<TexSchieneOben>
+		<Props x1="0" x2="0" y1="0" y2="0"/>
+	</TexSchieneOben>
+	<TexSchieneSeite>
+		<Props x1="0" x2="0" y1="0" y2="0"/>
+	</TexSchieneSeite>
+	<TexBettung>
+		<Props x1="0" x2="127" y1="0" y2="63"/>
+	</TexBettung>
+	<Hoehe>
+		<Props Hoehe="-4;0;0"/>
+	</Hoehe>
+	<Hoehe>
+		<Props Hoehe="-3.9;0.05;0"/>
+	</Hoehe>
+	<Hoehe>
+		<Props Hoehe="3.9;0.05;0"/>
+	</Hoehe>
+	<Hoehe>
+		<Props Hoehe="4;0;0"/>
+	</Hoehe>
+</RAIL>

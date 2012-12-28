@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="" FileInfo="" FilePicture="" Texture="brueckenteile.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0;7;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.5;7;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.5;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="0;0;0.4"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="0;7;0.4"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.5;7;0.4"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="0.5;0;0.4"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;1" Vekt="0;0;0.2"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;1" Vekt="0;7;0.2"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;1" Vekt="0.5;7;0.2"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;1" Vekt="0.5;0;0.2"/>
+	</Point>
+	<Flaeche>
+		<Props Points="8;9;10;11" Texture="105,460;109,109;142,108;143,459"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;2;6;7" Texture="118,71;165,17;177,24;129,77"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;1;0" Texture="117,68;164,17;178,23;128,77"/>
+	</Flaeche>
+</OBJECT>

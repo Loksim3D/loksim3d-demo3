@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="" FileInfo="" FilePicture="" Texture="Steinbach1.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="-4;0;-10"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="-4;8;-10"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="4;8;-10"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="4;0;-10"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="-4;0;10"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="-4;8;10"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="4;8;10"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="4;0;10"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="1,384;1,195;191,195;191,384"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;6;5;4" Texture="1,384;1,195;191,195;191,384"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;2;6;7" Texture="1,191;1,1;478,1;478,191"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;1;0" Texture="1,191;1,1;478,1;478,191"/>
+	</Flaeche>
+</OBJECT>
