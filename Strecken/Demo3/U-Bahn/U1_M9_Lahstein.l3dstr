@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STRECKE>
+	<Props FileAuthor="Klaus Nickel" FileDoku="" FileInfo="/nwww.veb-verkehr.de" FilePicture=""/>
+	<DefaulRail>
+		<Props File="\Rails\RainerH\flimmerfrei\16holzschwellen_schotter_normal.l3drail"/>
+	</DefaulRail>
+	<StdTexture>
+		<Props File=""/>
+	</StdTexture>
+	<Himmelsrichtung>
+		<Props Value="0"/>
+	</Himmelsrichtung>
+	<GLEIS>
+		<Props Name="Mittelgleis"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="21460" ParallelAbstand="-10" ParallelEnd="0" ParallelGleis="" ParallelStart="0" StartPos="13400" StartPunkt="0;0;0" Typ="Normal" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="90"/>
+			</Erstellung>
+		</TOPOLOGIE>
+		<Objecte>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+			<VOR>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<Bahnuebergang>
+				</Bahnuebergang>
+				<RAIL>
+					<Value>
+						<Props Pos="6240" RAILVALUE="\Rails\U-Bahn Berlin\leer.l3drail"/>
+					</Value>
+				</RAIL>
+				<RailQuality>
+				</RailQuality>
+				<LZB>
+				</LZB>
+				<Kilometrierung>
+				</Kilometrierung>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Ueberhoehung>
+				</Ueberhoehung>
+				<RailProps>
+				</RailProps>
+				<Bremswegabstand>
+				</Bremswegabstand>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</VOR>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="Gleis_1"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="4800" ParallelAbstand="-4.5" ParallelEnd="16860" ParallelGleis="Mittelgleis" ParallelStart="13400" StartPos="3240" StartPunkt="0;0;0" Typ="Parallel" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="90"/>
+			</Erstellung>
+			<Ausweiche>
+				<Props Abstand="-6.2" Ende="30000" KurvenWeite="200" Start="16480"/>
+			</Ausweiche>
+			<Weiche>
+				<Props Anfang="Ende" ErstellungsArt="Annaeherung" Gleis="Kw_Gleis_3" Kennung="W23" Kruemung="10" Position="0" WeichenWinkel="7" WeichenWinkelDynamisch="FALSE"/>
+			</Weiche>
+		</TOPOLOGIE>
+		<Objecte>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+			<VOR>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<Bahnuebergang>
+				</Bahnuebergang>
+				<RAIL>
+				</RAIL>
+				<RailQuality>
+				</RailQuality>
+				<LZB>
+				</LZB>
+				<Kilometrierung>
+				</Kilometrierung>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Ueberhoehung>
+				</Ueberhoehung>
+				<RailProps>
+				</RailProps>
+				<Bremswegabstand>
+				</Bremswegabstand>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</VOR>
+			<ZURUECK>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<LZB>
+				</LZB>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</ZURUECK>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="Gleis_2"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="3000" ParallelAbstand="4.5" ParallelEnd="21460" ParallelGleis="Mittelgleis" ParallelStart="13400" StartPos="2000" StartPunkt="0;0;0" Typ="Parallel" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="90"/>
+			</Erstellung>
+			<Ausweiche>
+				<Props Abstand="6.2" Ende="15480" KurvenWeite="200" Start="15080"/>
+			</Ausweiche>
+		</TOPOLOGIE>
+		<Objecte>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+			<VOR>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+					<Value>
+						<Props File="\Signale\BVG\KlausN\Tafel\Sh7a_2.l3dgrp" Name="Kronberger Weg" Pos="16750" ToleranzMinus="10" ToleranzPlus="10" Zuglaenge="120"/>
+						<ObjectProps>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="80"/>
+							</Lightning>
+							<Position>
+								<Props Position="2;2;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props Nummer_oben="&#39;H&#39;" Nummer_unten="&#39;8&#39;" Tunnel="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props File="\Signale\BVG\KlausN\Tafel\Sh7a_2.l3dgrp" Name="Ziegeleimuseum" Pos="15350" ToleranzMinus="10" ToleranzPlus="10" Zuglaenge="120"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="-2;2;0" Rotation="0;0;0"/>
+							</Position>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="80"/>
+							</Lightning>
+							<Eigenschaften>
+								<Props Nummer_oben="&#39;H&#39;" Nummer_unten="&#39;8&#39;" Tunnel_links="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props File="\Signale\BVG\KlausN\Tafel\Sh7a_2.l3dgrp" Name="Lahstein" Pos="18950" ToleranzMinus="10" ToleranzPlus="10" Zuglaenge="120"/>
+						<ObjectProps>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="80"/>
+							</Lightning>
+							<Position>
+								<Props Position="2;2;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props Nummer_oben="&#39;H&#39;" Nummer_unten="&#39;8&#39;" Tunnel="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props File="\Signale\BVG\KlausN\Tafel\Sh7a_2.l3dgrp" Name="Iltenbach" Pos="20550" ToleranzMinus="10" ToleranzPlus="10" Zuglaenge="120"/>
+						<ObjectProps>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="80"/>
+							</Lightning>
+							<Position>
+								<Props Position="2;2;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props Nummer_oben="&#39;H&#39;" Nummer_unten="&#39;8&#39;" Tunnel="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props File="\Signale\BVG\KlausN\Tafel\Sh7a_2.l3dgrp" Name="Nürnberger Platz" Pos="21460" ToleranzMinus="10" ToleranzPlus="10" Zuglaenge="120"/>
+						<ObjectProps>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="80"/>
+							</Lightning>
+							<Position>
+								<Props Position="2;2;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props Nummer_oben="&#39;H&#39;" Nummer_unten="&#39;8&#39;" Tunnel="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+				</Haltepunkt>
+				<Bahnuebergang>
+				</Bahnuebergang>
+				<RAIL>
+				</RAIL>
+				<RailQuality>
+				</RailQuality>
+				<LZB>
+				</LZB>
+				<Kilometrierung>
+				</Kilometrierung>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Ueberhoehung>
+				</Ueberhoehung>
+				<RailProps>
+				</RailProps>
+				<Bremswegabstand>
+				</Bremswegabstand>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</VOR>
+			<ZURUECK>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<LZB>
+				</LZB>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</ZURUECK>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="Zi_Gleis_3"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="-4.5" ParallelEnd="16860" ParallelGleis="Gleis_1" ParallelStart="13400" StartPos="0" StartPunkt="0;0;0" Typ="Parallel" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
+			</Erstellung>
+			<Weiche>
+				<Props Anfang="Ende" ErstellungsArt="Annaeherung" Gleis="Kw_Gleis_3" Kennung="W25" Kruemung="10" Position="0" WeichenWinkel="7" WeichenWinkelDynamisch="FALSE"/>
+			</Weiche>
+		</TOPOLOGIE>
+		<Objecte>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="Zi_Schutzgleis"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="-10" ParallelEnd="0" ParallelGleis="" ParallelStart="0" StartPos="0" StartPunkt="0;0;0" Typ="Weiche" WeicheEnd="16800" WeicheGleis="Zi_Gleis_3" WeicheGleisPos="16600" WeicheGleisRichtung="1" WeicheName="W11" WeicheStart="16600" WeichenWinkel="7" Winkel="0"/>
+			</Erstellung>
+		</TOPOLOGIE>
+		<Objecte>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="Zi_Gleis_4"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="0" ParallelEnd="15110" ParallelGleis="Mittelgleis" ParallelStart="13400" StartPos="0" StartPunkt="0;0;0" Typ="Parallel" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
+			</Erstellung>
+			<Weiche>
+				<Props Anfang="Ende" ErstellungsArt="Annaeherung" Gleis="Gleis_1" Kennung="W1" Kruemung="10" Position="0" WeichenWinkel="7" WeichenWinkelDynamisch="FALSE"/>
+			</Weiche>
+		</TOPOLOGIE>
+		<Objecte>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="Zi_Gleis_5"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="4.5" ParallelEnd="16500" ParallelGleis="Gleis_1" ParallelStart="15450" StartPos="0" StartPunkt="0;0;0" Typ="Parallel" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
+			</Erstellung>
+			<Weiche>
+				<Props Anfang="Vorne" ErstellungsArt="Annaeherung" Gleis="Zi_Gleis_9" Kennung="W7" Kruemung="10" Position="0" WeichenWinkel="7" WeichenWinkelDynamisch="FALSE"/>
+			</Weiche>
+		</TOPOLOGIE>
+		<Objecte>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="Zi_Gleis_9"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="-10" ParallelEnd="0" ParallelGleis="" ParallelStart="0" StartPos="0" StartPunkt="0;0;0" Typ="Weiche" WeicheEnd="15480" WeicheGleis="Zi_Gleis_3" WeicheGleisPos="15340" WeicheGleisRichtung="0" WeicheName="W9" WeicheStart="15340" WeichenWinkel="7" Winkel="0"/>
+			</Erstellung>
+			<Kreuzung>
+				<Props Gleis="Gleis_1" Gleisverlauf="0" Kennung="Kr9" KreuzungsTyp="0" PositionBis="15400" PositionVon="15360" WeichenWinkel="7" WeichenWinkelDynamisch="FALSE"/>
+			</Kreuzung>
+			<Kreuzung>
+				<Props Gleis="Gleis_2" Gleisverlauf="0" Kennung="Kr10" KreuzungsTyp="0" PositionBis="15460" PositionVon="15460" WeichenWinkel="7" WeichenWinkelDynamisch="TRUE"/>
+			</Kreuzung>
+		</TOPOLOGIE>
+		<Objecte>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="Zi_3-2"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="-10" ParallelEnd="0" ParallelGleis="" ParallelStart="0" StartPos="0" StartPunkt="0;0;0" Typ="Weiche" WeicheEnd="15040" WeicheGleis="Zi_Gleis_3" WeicheGleisPos="15030" WeicheGleisRichtung="0" WeicheName="W3" WeicheStart="15030" WeichenWinkel="7" Winkel="0"/>
+			</Erstellung>
+			<Weiche>
+				<Props Anfang="Ende" ErstellungsArt="Annaeherung" Gleis="Gleis_2" Kennung="W2" Kruemung="10" Position="0" WeichenWinkel="7" WeichenWinkelDynamisch="FALSE"/>
+			</Weiche>
+			<Kreuzung>
+				<Props Gleis="Zi_Gleis_4" Gleisverlauf="0" Kennung="Kr4" KreuzungsTyp="1" PositionBis="15120" PositionVon="15080" WeichenWinkel="7" WeichenWinkelDynamisch="TRUE"/>
+			</Kreuzung>
+			<Kreuzung>
+				<Props Gleis="Gleis_1" Gleisverlauf="0" Kennung="Kr5" KreuzungsTyp="0" PositionBis="15090" PositionVon="15050" WeichenWinkel="7" WeichenWinkelDynamisch="TRUE"/>
+			</Kreuzung>
+		</TOPOLOGIE>
+		<Objecte>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="Kw_Gleis_3"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="-10" ParallelEnd="0" ParallelGleis="" ParallelStart="0" StartPos="0" StartPunkt="0;0;0" Typ="Weiche" WeicheEnd="17200" WeicheGleis="Gleis_2" WeicheGleisPos="16770" WeicheGleisRichtung="1" WeicheName="W22" WeicheStart="16770" WeichenWinkel="7" Winkel="0"/>
+			</Erstellung>
+			<KURVE>
+				<Props Ende="17140" SanfterWinkel="TRUE" Start="16960" Winkel="-25"/>
+			</KURVE>
+		</TOPOLOGIE>
+		<Objecte>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="Kw_3-2"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="-10" ParallelEnd="0" ParallelGleis="" ParallelStart="0" StartPos="0" StartPunkt="0;0;0" Typ="Weiche" WeicheEnd="16750" WeicheGleis="Zi_Gleis_3" WeicheGleisPos="16740" WeicheGleisRichtung="0" WeicheName="W27" WeicheStart="16740" WeichenWinkel="7" Winkel="0"/>
+			</Erstellung>
+			<Weiche>
+				<Props Anfang="Ende" ErstellungsArt="Annaeherung" Gleis="Gleis_2" Kennung="W24" Kruemung="10" Position="0" WeichenWinkel="7" WeichenWinkelDynamisch="FALSE"/>
+			</Weiche>
+			<Kreuzung>
+				<Props Gleis="Gleis_1" Gleisverlauf="0" Kennung="Kr21" KreuzungsTyp="1" PositionBis="16800" PositionVon="16760" WeichenWinkel="7" WeichenWinkelDynamisch="FALSE"/>
+			</Kreuzung>
+			<Kreuzung>
+				<Props Gleis="Kw_Gleis_3" Gleisverlauf="0" Kennung="Kr26" KreuzungsTyp="3" PositionBis="16840" PositionVon="16840" WeichenWinkel="8" WeichenWinkelDynamisch="TRUE"/>
+			</Kreuzung>
+		</TOPOLOGIE>
+		<Objecte>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="NBP_Gleis_1"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="-15.2" ParallelEnd="21460" ParallelGleis="Gleis_2" ParallelStart="21300" StartPos="21760" StartPunkt="21600;0;0" Typ="Parallel" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
+			</Erstellung>
+			<Weiche>
+				<Props Anfang="Vorne" ErstellungsArt="Annaeherung" Gleis="Gleis_2" Kennung="W41" Kruemung="10" Position="0" WeichenWinkel="7" WeichenWinkelDynamisch="FALSE"/>
+			</Weiche>
+		</TOPOLOGIE>
+		<Objecte>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+</STRECKE>
