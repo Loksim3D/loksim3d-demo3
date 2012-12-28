@@ -414,7 +414,7 @@
 						<Props Pos="2445" Value="Hainfurt"/>
 					</Value>
 					<Value>
-						<Props Pos="1170" Value="Esig Hainfurt"/>
+						<Props Pos="1310" Value="Esig Hainfurt"/>
 					</Value>
 					<Value>
 						<Props Pos="2495" Value="Zsig Hainfurt"/>
@@ -431,15 +431,15 @@
 						<Props File="" KMH="230" KMHNEIG="230" KeinHp2="FALSE" NichtImFahrplan="FALSE" Pos="0"/>
 					</Value>
 					<Value>
-						<Props File="" KMH="160" KMHNEIG="160" KeinHp2="FALSE" NichtImFahrplan="FALSE" Pos="1170"/>
+						<Props File="" KMH="160" KMHNEIG="160" KeinHp2="FALSE" NichtImFahrplan="FALSE" Pos="1310"/>
 					</Value>
 				</HOECHSTGESCHWINDIGKEIT>
 				<SIGNAL>
 					<Value>
-						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi500Bis="0" IndusiFile1000="\Signale\KS-Signale2\PZB-Magnet.l3dgrp" IndusiPos1000="0" KennLimit="150" KennLimitHide="40" Pos="170" SignalFile="\Signale\KS-Signale2\Vorsignale\KS-Vorsignal.l3dgrp" Tafel100="TRUE" Tafel200="TRUE" Tafel300="TRUE" TafelFile100="\Signale\Einheitssignale Bauform 1969\Tafeln\Vorsignalbake 100.l3dgrp" TafelFile200="\Signale\Einheitssignale Bauform 1969\Tafeln\Vorsignalbake 175.l3dgrp" TafelFile300="\Signale\Einheitssignale Bauform 1969\Tafeln\Vorsignalbake 250.l3dgrp" TafelPos100="100" TafelPos200="175" TafelPos300="250" Typ="Vorsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi500Bis="0" IndusiFile1000="\Signale\KS-Signale2\PZB-Magnet.l3dgrp" IndusiPos1000="0" KennLimit="150" KennLimitHide="40" Pos="310" SignalFile="\Signale\KS-Signale2\Vorsignale\KS-Vorsignal.l3dgrp" Tafel100="TRUE" Tafel200="TRUE" Tafel300="TRUE" TafelFile100="\Signale\Einheitssignale Bauform 1969\Tafeln\Vorsignalbake 100.l3dgrp" TafelFile200="\Signale\Einheitssignale Bauform 1969\Tafeln\Vorsignalbake 175.l3dgrp" TafelFile300="\Signale\Einheitssignale Bauform 1969\Tafeln\Vorsignalbake 250.l3dgrp" TafelPos100="100" TafelPos200="175" TafelPos300="250" Typ="Vorsignal" VSigLimit="0" Zwischensignal="FALSE"/>
 					</Value>
 					<Value>
-						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="100" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile1000="\Signale\KS-Signale2\PZB-Magnet.l3dgrp" IndusiFile2000="\Signale\KS-Signale2\PZB-Magnet.l3dgrp" IndusiFile500="\Signale\KS-Signale2\PZB-Magnet.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" IndusiPos500="250" KennLimit="100" KennLimitHide="40" Pos="1170" SignalFile="\Signale\KS-Signale2\Mehrabschnittssignale\KS-Brücken-Mehrabschnittssignale\KS-Brücken-Mehrabschnittssignal+Zs3v.l3dgrp" Typ="KombisignalKenn" VSigLimit="0" Zwischensignal="FALSE"/>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="100" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile1000="\Signale\KS-Signale2\PZB-Magnet.l3dgrp" IndusiFile2000="\Signale\KS-Signale2\PZB-Magnet.l3dgrp" IndusiFile500="\Signale\KS-Signale2\PZB-Magnet.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" IndusiPos500="250" KennLimit="100" KennLimitHide="40" Pos="1310" SignalFile="\Signale\KS-Signale2\Mehrabschnittssignale\KS-Brücken-Mehrabschnittssignale\KS-Brücken-Mehrabschnittssignal+Zs3v.l3dgrp" Typ="KombisignalKenn" VSigLimit="0" Zwischensignal="FALSE"/>
 						<ObjectProps>
 							<Eigenschaften>
 								<Props Signalnummer="&#39;12/nA&#39;" TEXT="&#39;A&#39;"/>
@@ -555,12 +555,7 @@
 						</ObjectProps>
 					</Value>
 					<Value>
-						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi500Bis="0" KennLimit="150" KennLimitHide="40" Pos="1710" SignalFile="\Signale\KS-Signale2\Sonderbauformen\Zs6-reli+Zs2-Einzelmast_hoch.l3dgrp" Typ="Sonstiges" VSigLimit="0" Zwischensignal="FALSE"/>
-						<ObjectProps>
-							<Position>
-								<Props Position="-0.2;0;0" Rotation="0;0;0"/>
-							</Position>
-						</ObjectProps>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi500Bis="0" IndusiFile1000="\Signale\KS-Signale2\PZB-Magnet.l3dgrp" IndusiPos1000="0" KennLimit="150" KennLimitHide="40" Pos="1600" SignalFile="\Signale\KS-Signale2\Vorsignale\KS-Vorsignal.l3dgrp" Tafel100="TRUE" Tafel200="TRUE" Tafel300="TRUE" TafelFile100="\Signale\Einheitssignale Bauform 1969\Tafeln\Vorsignalbake 100.l3dgrp" TafelFile200="\Signale\Einheitssignale Bauform 1969\Tafeln\Vorsignalbake 175.l3dgrp" TafelFile300="\Signale\Einheitssignale Bauform 1969\Tafeln\Vorsignalbake 250.l3dgrp" TafelPos100="100" TafelPos200="175" TafelPos300="250" Typ="Vorsignal" VSigLimit="0" Zwischensignal="FALSE"/>
 					</Value>
 				</SIGNAL>
 				<Signaloptionen>
@@ -602,7 +597,7 @@
 				<Props Abstand="-0.2" Ende="1275" KurvenWeite="100" Start="-100"/>
 			</Ausweiche>
 			<Ausweiche>
-				<Props Abstand="-5.5" Ende="2760" KurvenWeite="300" Start="1700"/>
+				<Props Abstand="-5.5" Ende="2650" KurvenWeite="250" Start="1750"/>
 			</Ausweiche>
 			<Ausweiche>
 				<Props Abstand="0.5" Ende="5600" KurvenWeite="100" Start="4000"/>
@@ -993,7 +988,7 @@
 			<VOR>
 				<STRECKENNAMEN>
 					<Value>
-						<Props Pos="1170" Value="Esig Hainfurt"/>
+						<Props Pos="1310" Value="Esig Hainfurt"/>
 					</Value>
 					<Value>
 						<Props Pos="2445" Value="Hainfurt"/>
@@ -1016,7 +1011,7 @@
 						<Props File="" KMH="230" KMHNEIG="230" KeinHp2="FALSE" NichtImFahrplan="FALSE" Pos="0"/>
 					</Value>
 					<Value>
-						<Props File="" KMH="120" KMHNEIG="120" KeinHp2="FALSE" NichtImFahrplan="FALSE" Pos="1170"/>
+						<Props File="" KMH="120" KMHNEIG="120" KeinHp2="FALSE" NichtImFahrplan="FALSE" Pos="1310"/>
 					</Value>
 					<Value>
 						<Props File="" KMH="40" KMHNEIG="40" KeinHp2="FALSE" NichtImFahrplan="FALSE" Pos="3687"/>
@@ -1027,10 +1022,10 @@
 				</HOECHSTGESCHWINDIGKEIT>
 				<SIGNAL>
 					<Value>
-						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi500Bis="0" IndusiFile1000="\Signale\KS-Signale2\PZB-Magnet.l3dgrp" IndusiPos1000="0" KennLimit="150" KennLimitHide="40" Pos="170" SignalFile="\Signale\KS-Signale2\Vorsignale\KS-Vorsignal-links+Zs3v.l3dgrp" Tafel100="TRUE" Tafel200="TRUE" Tafel300="TRUE" TafelFile100="\Signale\Einheitssignale Bauform 1969\Tafeln\Vorsignalbake 100 li.l3dgrp" TafelFile200="\Signale\Einheitssignale Bauform 1969\Tafeln\Vorsignalbake 250 li.l3dgrp" TafelFile300="\Signale\Einheitssignale Bauform 1969\Tafeln\Vorsignalbake 250 li.l3dgrp" TafelPos100="100" TafelPos200="175" TafelPos300="250" Typ="VorsignalKenn" VSigLimit="0" Zwischensignal="FALSE"/>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi500Bis="0" IndusiFile1000="\Signale\KS-Signale2\PZB-Magnet.l3dgrp" IndusiPos1000="0" KennLimit="150" KennLimitHide="40" Pos="310" SignalFile="\Signale\KS-Signale2\Vorsignale\KS-Vorsignal-links+Zs3v.l3dgrp" Tafel100="TRUE" Tafel200="TRUE" Tafel300="TRUE" TafelFile100="\Signale\Einheitssignale Bauform 1969\Tafeln\Vorsignalbake 100 li.l3dgrp" TafelFile200="\Signale\Einheitssignale Bauform 1969\Tafeln\Vorsignalbake 250 li.l3dgrp" TafelFile300="\Signale\Einheitssignale Bauform 1969\Tafeln\Vorsignalbake 250 li.l3dgrp" TafelPos100="100" TafelPos200="175" TafelPos300="250" Typ="VorsignalKenn" VSigLimit="0" Zwischensignal="FALSE"/>
 					</Value>
 					<Value>
-						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="100" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile1000="\Signale\KS-Signale2\PZB-Magnet.l3dgrp" IndusiFile2000="\Signale\KS-Signale2\PZB-Magnet.l3dgrp" IndusiFile500="\Signale\KS-Signale2\PZB-Magnet.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" IndusiPos500="250" KennLimit="120" KennLimitHide="40" Pos="1170" SignalFile="\Signale\KS-Signale2\Mehrabschnittssignale\KS-Mehrabschnittssignal-links+Zs3+Zs3v.l3dgrp" Typ="KombisignalKenn" VSigLimit="0" Zwischensignal="TRUE"/>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="100" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile1000="\Signale\KS-Signale2\PZB-Magnet.l3dgrp" IndusiFile2000="\Signale\KS-Signale2\PZB-Magnet.l3dgrp" IndusiFile500="\Signale\KS-Signale2\PZB-Magnet.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" IndusiPos500="250" KennLimit="120" KennLimitHide="40" Pos="1310" SignalFile="\Signale\KS-Signale2\Mehrabschnittssignale\KS-Mehrabschnittssignal-links+Zs3+Zs3v.l3dgrp" Typ="KombisignalKenn" VSigLimit="0" Zwischensignal="TRUE"/>
 						<ObjectProps>
 							<Eigenschaften>
 								<Props Signalnummer="&#39;12/nAA&#39;" TEXT="&#39;A&#39;"/>
@@ -1210,7 +1205,7 @@
 		<Props Name="1"/>
 		<TOPOLOGIE>
 			<Erstellung>
-				<Props EndPunkt="1000" ParallelAbstand="4" ParallelEnd="2620" ParallelGleis="2" ParallelStart="0" StartPos="0" StartPunkt="0;0;0" Typ="Parallel" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
+				<Props EndPunkt="1000" ParallelAbstand="4" ParallelEnd="2500" ParallelGleis="2" ParallelStart="0" StartPos="0" StartPunkt="0;0;0" Typ="Parallel" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
 			</Erstellung>
 			<Ausweiche>
 				<Props Abstand="0.5" Ende="2700" KurvenWeite="200" Start="1760"/>
@@ -1643,7 +1638,7 @@
 			<VOR>
 				<STRECKENNAMEN>
 					<Value>
-						<Props Pos="1170" Value="Esig Hainfurt"/>
+						<Props Pos="1310" Value="Esig Hainfurt"/>
 					</Value>
 					<Value>
 						<Props Pos="2445" Value="Hainfurt"/>
@@ -1657,7 +1652,7 @@
 						<Props File="" KMH="120" KMHNEIG="120" KeinHp2="FALSE" NichtImFahrplan="FALSE" Pos="0"/>
 					</Value>
 					<Value>
-						<Props File="" KMH="80" KMHNEIG="80" KeinHp2="FALSE" NichtImFahrplan="FALSE" Pos="1170"/>
+						<Props File="" KMH="80" KMHNEIG="80" KeinHp2="FALSE" NichtImFahrplan="FALSE" Pos="1310"/>
 					</Value>
 					<Value>
 						<Props File="" KMH="40" KMHNEIG="40" KeinHp2="FALSE" NichtImFahrplan="FALSE" Pos="2495"/>
@@ -1665,15 +1660,7 @@
 				</HOECHSTGESCHWINDIGKEIT>
 				<SIGNAL>
 					<Value>
-						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi500Bis="0" IndusiFile1000="\Signale\KS-Signale2\PZB-Magnet.l3dgrp" IndusiPos1000="0" KennLimit="150" KennLimitHide="40" Pos="170" SignalFile="\Signale\KS-Signale2\Vorsignale\KS-Vorsignal+Zs3v.l3dgrp" Tafel100="TRUE" Tafel200="TRUE" Tafel300="TRUE" TafelFile100="\Signale\Einheitssignale Bauform 1969\Tafeln\Vorsignalbake 100.l3dgrp" TafelFile200="\Signale\Einheitssignale Bauform 1969\Tafeln\Vorsignalbake 175.l3dgrp" TafelFile300="\Signale\Einheitssignale Bauform 1969\Tafeln\Vorsignalbake 250.l3dgrp" TafelPos100="100" TafelPos200="175" TafelPos300="250" Typ="VorsignalKenn" VSigLimit="0" Zwischensignal="FALSE"/>
-						<ObjectProps>
-							<Eigenschaften>
-								<Props Kennziffer="&#39;8&#39;"/>
-							</Eigenschaften>
-						</ObjectProps>
-					</Value>
-					<Value>
-						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="100" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile1000="\Signale\KS-Signale2\PZB-Magnet.l3dgrp" IndusiFile2000="\Signale\KS-Signale2\PZB-Magnet.l3dgrp" IndusiFile500="\Signale\KS-Signale2\PZB-Magnet.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" IndusiPos500="250" KennLimit="100" KennLimitHide="60" Pos="1170" SignalFile="\Signale\KS-Signale2\Mehrabschnittssignale\KS-Brücken-Mehrabschnittssignale\KS-Brücken-Mehrabschnittssignal+Zs3+Zs3v.l3dgrp" Typ="KombisignalKenn" VSigLimit="0" Zwischensignal="FALSE"/>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="100" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile1000="\Signale\KS-Signale2\PZB-Magnet.l3dgrp" IndusiFile2000="\Signale\KS-Signale2\PZB-Magnet.l3dgrp" IndusiFile500="\Signale\KS-Signale2\PZB-Magnet.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" IndusiPos500="250" KennLimit="100" KennLimitHide="60" Pos="1310" SignalFile="\Signale\KS-Signale2\Mehrabschnittssignale\KS-Brücken-Mehrabschnittssignale\KS-Brücken-Mehrabschnittssignal+Zs3+Zs3v.l3dgrp" Typ="KombisignalKenn" VSigLimit="0" Zwischensignal="FALSE"/>
 						<ObjectProps>
 							<Eigenschaften>
 								<Props Kennziffer="&#39;8&#39;" Signalnummer="&#39;12/nB&#39;" TEXT="&#39;A&#39;"/>
@@ -1693,6 +1680,14 @@
 					</Value>
 					<Value>
 						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi500Bis="0" KennLimit="150" KennLimitHide="40" Pos="2180" SignalFile="\Signale\KS-Signale2\Sperrsignale\KS-Sperrsignal-niedrig.l3dgrp" Typ="Sonstiges" VSigLimit="0" Zwischensignal="FALSE"/>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="100" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile1000="\Signale\KS-Signale2\PZB-Magnet.l3dgrp" IndusiFile2000="\Signale\KS-Signale2\PZB-Magnet.l3dgrp" IndusiFile500="\Signale\KS-Signale2\PZB-Magnet.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" IndusiPos500="250" KennLimit="100" KennLimitHide="60" Pos="290" SignalFile="\Signale\KS-Signale2\Mehrabschnittssignale\KS-Mehrabschnittssignal-gerade+Zs3+Zs3v-Zusatzlicht.l3dgrp" Typ="KombisignalKenn" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props Kennziffer="&#39;8&#39;" Signalnummer="&#39;12/nB&#39;" TEXT="&#39;A&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
 					</Value>
 				</SIGNAL>
 				<Signaloptionen>
@@ -1740,7 +1735,7 @@
 				</HOECHSTGESCHWINDIGKEIT>
 				<SIGNAL>
 					<Value>
-						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="100" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\KS-Signale2\PZB-Magnet.l3dgrp" IndusiFile500="\Signale\KS-Signale2\PZB-Magnet.l3dgrp" IndusiPos2000="0" IndusiPos500="150" KennLimit="120" KennLimitHide="10" Pos="1960" SignalFile="\Signale\KS-Signale2\Sonderbauformen\Zs2\KS-Hauptsignal-gerade+Zs2+Zs3.l3dgrp" Typ="HauptsignalKenn" VSigLimit="0" Zwischensignal="FALSE"/>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="100" Indusi500Bis="0" IndusiFile1000="\Signale\KS-Signale2\PZB-Magnet.l3dgrp" IndusiPos1000="0" KennLimit="120" KennLimitHide="10" Pos="1960" SignalFile="\Signale\KS-Signale2\Vorsignale\KS-Vorsignal.l3dgrp" Typ="VorsignalKenn" VSigLimit="0" Zwischensignal="FALSE"/>
 						<ObjectProps>
 							<Position>
 								<Props Position="-0.25;0;0" Rotation="0;0;0"/>
@@ -1752,6 +1747,17 @@
 					</Value>
 					<Value>
 						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\KS-Signale2\PZB-Magnet.l3dgrp" IndusiPos2000="0" KennLimit="150" KennLimitHide="40" Pos="2294" SignalFile="\Signale\KS-Signale2\Sperrsignale\KS-Sperrsignal-hoch.l3dgrp" Typ="Schutzsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="100" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile2000="" IndusiFile500="\Signale\KS-Signale2\PZB-Magnet.l3dgrp" IndusiPos2000="0" IndusiPos500="250" KennLimit="120" KennLimitHide="10" Pos="860" SignalFile="\Signale\KS-Signale2\Hauptsignale\KS-Hauptsignal+Zs3.l3dgrp" Typ="HauptsignalKenn" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="-0.25;0;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props Signalnummer="&#39;12/nP1&#39;" TEXT="&#39;P3&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
 					</Value>
 				</SIGNAL>
 				<Signaloptionen>
@@ -1861,7 +1867,7 @@
 		<Props Name="11"/>
 		<TOPOLOGIE>
 			<Erstellung>
-				<Props EndPunkt="1000" ParallelAbstand="-10" ParallelEnd="0" ParallelGleis="" ParallelStart="0" StartPos="0" StartPunkt="0;0;0" Typ="Weiche" WeicheEnd="2000" WeicheGleis="1" WeicheGleisPos="1475" WeicheGleisRichtung="3" WeicheName="H1" WeicheStart="0" WeichenWinkel="6" Winkel="0"/>
+				<Props EndPunkt="1000" ParallelAbstand="-10" ParallelEnd="0" ParallelGleis="" ParallelStart="0" StartPos="0" StartPunkt="0;0;0" Typ="Weiche" WeicheEnd="700" WeicheGleis="1" WeicheGleisPos="630" WeicheGleisRichtung="3" WeicheName="H1" WeicheStart="0" WeichenWinkel="6" Winkel="0"/>
 			</Erstellung>
 			<KURVE>
 				<Props Ende="2000" SanfterWinkel="TRUE" Start="0" Winkel="-16"/>
@@ -1887,9 +1893,6 @@
 					<Value>
 						<Props File="" KMH="40" KMHNEIG="40" KeinHp2="FALSE" NichtImFahrplan="FALSE" Pos="200"/>
 					</Value>
-					<Value>
-						<Props File="" KMH="100" KMHNEIG="100" KeinHp2="FALSE" NichtImFahrplan="FALSE" Pos="2000"/>
-					</Value>
 				</HOECHSTGESCHWINDIGKEIT>
 				<SIGNAL>
 					<Value>
@@ -1897,14 +1900,6 @@
 						<ObjectProps>
 							<Eigenschaften>
 								<Props Kennziffer="&#39;4&#39;" Signalnummer="&#39;12/nC&#39;" TEXT="&#39;C&#39;"/>
-							</Eigenschaften>
-						</ObjectProps>
-					</Value>
-					<Value>
-						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi500Bis="0" IndusiFile1000="\Signale\KS-Signale2\PZB-Magnet.l3dgrp" IndusiPos1000="0" KennLimit="150" KennLimitHide="40" Pos="900" SignalFile="\Signale\KS-Signale2\Vorsignale\KS-Vorsignal+Zs3v-Blech.l3dgrp" Tafel100="TRUE" Tafel200="TRUE" Tafel300="TRUE" TafelFile100="\Signale\Einheitssignale Bauform 1969\Tafeln\Vorsignalbake 100 li.l3dgrp" TafelFile200="\Signale\Einheitssignale Bauform 1969\Tafeln\Vorsignalbake 250 li.l3dgrp" TafelFile300="\Signale\Einheitssignale Bauform 1969\Tafeln\Vorsignalbake 250 li.l3dgrp" TafelPos100="100" TafelPos200="175" TafelPos300="250" Typ="VorsignalKenn" VSigLimit="0" Zwischensignal="FALSE"/>
-						<ObjectProps>
-							<Eigenschaften>
-								<Props Kennziffer="&#39;4&#39;"/>
 							</Eigenschaften>
 						</ObjectProps>
 					</Value>
@@ -2495,7 +2490,7 @@
 				</HOECHSTGESCHWINDIGKEIT>
 				<SIGNAL>
 					<Value>
-						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="100" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\KS-Signale2\PZB-Magnet.l3dgrp" IndusiFile500="\Signale\KS-Signale2\PZB-Magnet.l3dgrp" IndusiPos2000="0" IndusiPos500="150" KennLimit="100" KennLimitHide="10" Pos="1960" SignalFile="\Signale\KS-Signale2\Sonderbauformen\Zs2\KS-Hauptsignal-gerade+Zs2+Zs3.l3dgrp" Typ="HauptsignalKenn" VSigLimit="0" Zwischensignal="FALSE"/>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="100" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile1000="\Signale\KS-Signale2\PZB-Magnet.l3dgrp" IndusiFile2000="\Signale\KS-Signale2\PZB-Magnet.l3dgrp" IndusiFile500="\Signale\KS-Signale2\PZB-Magnet.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" IndusiPos500="150" KennLimit="100" KennLimitHide="10" Pos="1960" SignalFile="\Signale\KS-Signale2\Mehrabschnittssignale\KS-Mehrabschnittssignal-gerade+Zs3+Zs3v-Zusatzlicht.l3dgrp" Typ="KombisignalKenn" VSigLimit="0" Zwischensignal="FALSE"/>
 						<ObjectProps>
 							<Position>
 								<Props Position="-0.25;0;0" Rotation="0;0;0"/>
@@ -2625,13 +2620,13 @@
 				</HOECHSTGESCHWINDIGKEIT>
 				<SIGNAL>
 					<Value>
-						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="100" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\KS-Signale2\PZB-Magnet.l3dgrp" IndusiPos2000="0" KennLimit="100" KennLimitHide="10" Pos="1960" SignalFile="\Signale\KS-Signale2\Sonderbauformen\Zs2\KS-Hauptsignal-gerade+Zs2+Zs3.l3dgrp" Typ="HauptsignalKenn" VSigLimit="0" Zwischensignal="FALSE"/>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="100" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile1000="\Signale\KS-Signale2\PZB-Magnet.l3dgrp" IndusiFile2000="\Signale\KS-Signale2\PZB-Magnet.l3dgrp" IndusiFile500="\Signale\KS-Signale2\PZB-Magnet.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" IndusiPos500="150" KennLimit="100" KennLimitHide="10" Pos="1960" SignalFile="\Signale\KS-Signale2\Mehrabschnittssignale\KS-Mehrabschnittssignal-gerade+Zs3+Zs3v-Zusatzlicht.l3dgrp" Typ="KombisignalKenn" VSigLimit="0" Zwischensignal="FALSE"/>
 						<ObjectProps>
 							<Position>
-								<Props Position="0;0;0" Rotation="0;0;0"/>
+								<Props Position="-0.25;0;0" Rotation="0;0;0"/>
 							</Position>
 							<Eigenschaften>
-								<Props Signalnummer="&#39;12/nP6&#39;" TEXT="&#39;P3&#39;"/>
+								<Props Signalnummer="&#39;12/nP7&#39;" TEXT="&#39;P3&#39;"/>
 							</Eigenschaften>
 						</ObjectProps>
 					</Value>
@@ -2853,7 +2848,7 @@
 						<Props Pos="3687" Value="Asig Hainfurt"/>
 					</Value>
 					<Value>
-						<Props Pos="2495" Value="Zsig Hainfurt"/>
+						<Props Pos="2460" Value="Zsig Hainfurt"/>
 					</Value>
 					<Value>
 						<Props Pos="2445" Value="Hainfurt"/>
@@ -2867,12 +2862,12 @@
 						<Props File="" KMH="80" KMHNEIG="80" KeinHp2="FALSE" NichtImFahrplan="FALSE" Pos="3687"/>
 					</Value>
 					<Value>
-						<Props File="" KMH="60" KMHNEIG="60" KeinHp2="FALSE" NichtImFahrplan="FALSE" Pos="2495"/>
+						<Props File="" KMH="60" KMHNEIG="60" KeinHp2="FALSE" NichtImFahrplan="FALSE" Pos="2460"/>
 					</Value>
 				</HOECHSTGESCHWINDIGKEIT>
 				<SIGNAL>
 					<Value>
-						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="100" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile1000="\Signale\KS-Signale2\PZB-Magnet.l3dgrp" IndusiFile2000="\Signale\KS-Signale2\PZB-Magnet.l3dgrp" IndusiFile500="\Signale\KS-Signale2\PZB-Magnet.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" IndusiPos500="250" KennLimit="100" KennLimitHide="10" Pos="2495" SignalFile="\Signale\KS-Signale2\Sonderbauformen\Zs2\KS-Mehrabschnittssignal-gerade+Zs2v+Zs3+Zs3v.l3dgrp" Typ="KombisignalKenn" VSigLimit="0" Zwischensignal="TRUE"/>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="100" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile1000="\Signale\KS-Signale2\PZB-Magnet.l3dgrp" IndusiFile2000="\Signale\KS-Signale2\PZB-Magnet.l3dgrp" IndusiFile500="\Signale\KS-Signale2\PZB-Magnet.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" IndusiPos500="250" KennLimit="100" KennLimitHide="10" Pos="2460" SignalFile="\Signale\KS-Signale2\Sonderbauformen\Zs2\KS-Mehrabschnittssignal-gerade+Zs2v+Zs3+Zs3v.l3dgrp" Typ="KombisignalKenn" VSigLimit="0" Zwischensignal="TRUE"/>
 						<ObjectProps>
 							<Position>
 								<Props Position="-0.25;0;0" Rotation="0;0;0"/>
@@ -2946,6 +2941,34 @@
 		</EIGENSCHAFTEN>
 	</GLEIS>
 	<GLEIS>
+		<Props Name="4 BW"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="-4.5" ParallelEnd="2800" ParallelGleis="4" ParallelStart="2520" StartPos="0" StartPunkt="0;0;0" Typ="Parallel" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
+			</Erstellung>
+			<Weiche>
+				<Props Anfang="Vorne" ErstellungsArt="Annaeherung" Gleis="4" Kennung="H101" Kruemung="25" Position="0" WeichenWinkel="8" WeichenWinkelDynamisch="FALSE"/>
+			</Weiche>
+			<Kreuzung>
+				<Props Gleis="5" Gleisverlauf="0" Kennung="H102" KreuzungsTyp="0" PositionBis="2650" PositionVon="2550" WeichenWinkel="8" WeichenWinkelDynamisch="TRUE"/>
+			</Kreuzung>
+			<KURVE>
+				<Props Ende="2600" SanfterWinkel="FALSE" Start="2550" Winkel="-2"/>
+			</KURVE>
+			<KURVE>
+				<Props Ende="2650" SanfterWinkel="FALSE" Start="2600" Winkel="-10"/>
+			</KURVE>
+		</TOPOLOGIE>
+		<Objecte>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
 		<Props Name="5"/>
 		<TOPOLOGIE>
 			<Erstellung>
@@ -2957,6 +2980,9 @@
 			<Weiche>
 				<Props Anfang="Ende" ErstellungsArt="Annaeherung" Gleis="4" Kennung="H18" Kruemung="6" Position="0" WeichenWinkel="6" WeichenWinkelDynamisch="FALSE"/>
 			</Weiche>
+			<KURVE>
+				<Props Ende="2510" SanfterWinkel="FALSE" Start="2470" Winkel="6"/>
+			</KURVE>
 		</TOPOLOGIE>
 		<Objecte>
 			<Object>
@@ -3062,7 +3088,7 @@
 						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\KS-Signale2\PZB-Magnet.l3dgrp" IndusiPos2000="0" KennLimit="150" KennLimitHide="40" Pos="2195" SignalFile="\Signale\KS-Signale2\Sperrsignale\KS-Sperrsignal-hoch.l3dgrp" Typ="Schutzsignal" VSigLimit="0" Zwischensignal="FALSE"/>
 					</Value>
 					<Value>
-						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="100" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile1000="\Signale\KS-Signale2\PZB-Magnet.l3dgrp" IndusiFile2000="\Signale\KS-Signale2\PZB-Magnet.l3dgrp" IndusiFile500="\Signale\KS-Signale2\PZB-Magnet.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" IndusiPos500="250" KennLimit="100" KennLimitHide="10" Pos="2495" SignalFile="\Signale\KS-Signale2\Sonderbauformen\Zs2\KS-Mehrabschnittssignal-gerade+Zs2v+Zs3+Zs3v.l3dgrp" Typ="KombisignalKenn" VSigLimit="0" Zwischensignal="TRUE"/>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="100" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile1000="\Signale\KS-Signale2\PZB-Magnet.l3dgrp" IndusiFile2000="\Signale\KS-Signale2\PZB-Magnet.l3dgrp" IndusiFile500="\Signale\KS-Signale2\PZB-Magnet.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" IndusiPos500="250" KennLimit="100" KennLimitHide="10" Pos="2460" SignalFile="\Signale\KS-Signale2\Sonderbauformen\Zs2\KS-Mehrabschnittssignal-gerade+Zs2v+Zs3+Zs3v.l3dgrp" Typ="KombisignalKenn" VSigLimit="0" Zwischensignal="TRUE"/>
 						<ObjectProps>
 							<Position>
 								<Props Position="-0.25;0;0" Rotation="0;0;0"/>
@@ -3194,13 +3220,13 @@
 		<Props Name="5a"/>
 		<TOPOLOGIE>
 			<Erstellung>
-				<Props EndPunkt="1000" ParallelAbstand="-10" ParallelEnd="2500" ParallelGleis="4" ParallelStart="2310" StartPos="0" StartPunkt="0;0;0" Typ="Parallel" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
+				<Props EndPunkt="1000" ParallelAbstand="4.5" ParallelEnd="2520" ParallelGleis="5" ParallelStart="2310" StartPos="0" StartPunkt="0;0;0" Typ="Parallel" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
 			</Erstellung>
 			<Weiche>
 				<Props Anfang="Vorne" ErstellungsArt="Annaeherung" Gleis="5" Kennung="H15" Kruemung="6" Position="0" WeichenWinkel="6" WeichenWinkelDynamisch="FALSE"/>
 			</Weiche>
 			<Weiche>
-				<Props Anfang="Ende" ErstellungsArt="NaechsteVerbindung" Gleis="5" Kennung="H17" Kruemung="10" Position="0" WeichenWinkel="8" WeichenWinkelDynamisch="TRUE"/>
+				<Props Anfang="Ende" ErstellungsArt="NaechsteVerbindung" Gleis="4 BW" Kennung="H17" Kruemung="10" Position="0" WeichenWinkel="8" WeichenWinkelDynamisch="TRUE"/>
 			</Weiche>
 		</TOPOLOGIE>
 		<Objecte>
@@ -3281,7 +3307,7 @@
 				</HOECHSTGESCHWINDIGKEIT>
 				<SIGNAL>
 					<Value>
-						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="100" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile1000="\Signale\KS-Signale2\PZB-Magnet.l3dgrp" IndusiFile2000="\Signale\KS-Signale2\PZB-Magnet.l3dgrp" IndusiFile500="\Signale\KS-Signale2\PZB-Magnet.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" IndusiPos500="250" KennLimit="100" KennLimitHide="10" Pos="2495" SignalFile="\Signale\KS-Signale2\Sonderbauformen\Zs2\KS-Mehrabschnittssignal-gerade+Zs2v+Zs3+Zs3v.l3dgrp" Typ="KombisignalKenn" VSigLimit="0" Zwischensignal="TRUE"/>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="100" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile1000="\Signale\KS-Signale2\PZB-Magnet.l3dgrp" IndusiFile2000="\Signale\KS-Signale2\PZB-Magnet.l3dgrp" IndusiFile500="\Signale\KS-Signale2\PZB-Magnet.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" IndusiPos500="250" KennLimit="100" KennLimitHide="10" Pos="2460" SignalFile="\Signale\KS-Signale2\Sonderbauformen\Zs2\KS-Mehrabschnittssignal-gerade+Zs2v+Zs3+Zs3v.l3dgrp" Typ="KombisignalKenn" VSigLimit="0" Zwischensignal="TRUE"/>
 						<ObjectProps>
 							<Eigenschaften>
 								<Props Signalnummer="&#39;12/nR5a&#39;" TEXT="&#39;R2&#39;"/>
@@ -3333,7 +3359,7 @@
 		<Props Name="Verbinder5"/>
 		<TOPOLOGIE>
 			<Erstellung>
-				<Props EndPunkt="1000" ParallelAbstand="-10" ParallelEnd="0" ParallelGleis="" ParallelStart="0" StartPos="0" StartPunkt="0;0;0" Typ="Weiche" WeicheEnd="2770" WeicheGleis="2" WeicheGleisPos="2760" WeicheGleisRichtung="1" WeicheName="H19" WeicheStart="2760" WeichenWinkel="6" Winkel="0"/>
+				<Props EndPunkt="1000" ParallelAbstand="-10" ParallelEnd="0" ParallelGleis="" ParallelStart="0" StartPos="0" StartPunkt="0;0;0" Typ="Weiche" WeicheEnd="2770" WeicheGleis="2" WeicheGleisPos="2650" WeicheGleisRichtung="1" WeicheName="H19" WeicheStart="2760" WeichenWinkel="6" Winkel="0"/>
 			</Erstellung>
 			<Weiche>
 				<Props Anfang="Ende" ErstellungsArt="NaechsteVerbindung" Gleis="3" Kennung="H20" Kruemung="10" Position="0" WeichenWinkel="8" WeichenWinkelDynamisch="TRUE"/>
@@ -3415,7 +3441,7 @@
 		<Props Name="Verbinder6"/>
 		<TOPOLOGIE>
 			<Erstellung>
-				<Props EndPunkt="1000" ParallelAbstand="-10" ParallelEnd="0" ParallelGleis="" ParallelStart="0" StartPos="0" StartPunkt="0;0;0" Typ="Weiche" WeicheEnd="2860" WeicheGleis="3" WeicheGleisPos="2850" WeicheGleisRichtung="1" WeicheName="H21" WeicheStart="2850" WeichenWinkel="6" Winkel="0"/>
+				<Props EndPunkt="1000" ParallelAbstand="-10" ParallelEnd="0" ParallelGleis="" ParallelStart="0" StartPos="0" StartPunkt="0;0;0" Typ="Weiche" WeicheEnd="2860" WeicheGleis="3" WeicheGleisPos="2750" WeicheGleisRichtung="1" WeicheName="H21" WeicheStart="2850" WeichenWinkel="6" Winkel="0"/>
 			</Erstellung>
 			<Weiche>
 				<Props Anfang="Ende" ErstellungsArt="NaechsteVerbindung" Gleis="4" Kennung="H22" Kruemung="10" Position="0" WeichenWinkel="8" WeichenWinkelDynamisch="TRUE"/>
@@ -3494,7 +3520,7 @@
 		<Props Name="15"/>
 		<TOPOLOGIE>
 			<Erstellung>
-				<Props EndPunkt="1000" ParallelAbstand="-4.5" ParallelEnd="3730" ParallelGleis="4" ParallelStart="3010" StartPos="0" StartPunkt="0;0;0" Typ="Parallel" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
+				<Props EndPunkt="1000" ParallelAbstand="-4.5" ParallelEnd="3730" ParallelGleis="4" ParallelStart="2920" StartPos="0" StartPunkt="0;0;0" Typ="Parallel" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
 			</Erstellung>
 			<Weiche>
 				<Props Anfang="Vorne" ErstellungsArt="NaechsteVerbindung" Gleis="18" Kennung="H25" Kruemung="10" Position="0" WeichenWinkel="8" WeichenWinkelDynamisch="TRUE"/>
@@ -3619,14 +3645,14 @@
 		<Props Name="16"/>
 		<TOPOLOGIE>
 			<Erstellung>
-				<Props EndPunkt="1000" ParallelAbstand="-9" ParallelEnd="3680" ParallelGleis="4" ParallelStart="3060" StartPos="0" StartPunkt="0;0;0" Typ="Parallel" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
+				<Props EndPunkt="1000" ParallelAbstand="-9" ParallelEnd="3680" ParallelGleis="4" ParallelStart="2800" StartPos="0" StartPunkt="0;0;0" Typ="Parallel" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
 			</Erstellung>
-			<Weiche>
-				<Props Anfang="Vorne" ErstellungsArt="NaechsteVerbindung" Gleis="18" Kennung="H26" Kruemung="10" Position="0" WeichenWinkel="8" WeichenWinkelDynamisch="TRUE"/>
-			</Weiche>
 			<Weiche>
 				<Props Anfang="Ende" ErstellungsArt="NaechsteVerbindung" Gleis="18" Kennung="H29" Kruemung="10" Position="0" WeichenWinkel="8" WeichenWinkelDynamisch="TRUE"/>
 			</Weiche>
+			<Kreuzung>
+				<Props Gleis="18" Gleisverlauf="0" Kennung="H26" KreuzungsTyp="0" PositionBis="3100" PositionVon="2900" WeichenWinkel="8" WeichenWinkelDynamisch="TRUE"/>
+			</Kreuzung>
 		</TOPOLOGIE>
 		<Objecte>
 		</Objecte>
@@ -3744,7 +3770,7 @@
 		<Props Name="17"/>
 		<TOPOLOGIE>
 			<Erstellung>
-				<Props EndPunkt="1000" ParallelAbstand="-13.5" ParallelEnd="3640" ParallelGleis="4" ParallelStart="3100" StartPos="0" StartPunkt="0;0;0" Typ="Parallel" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
+				<Props EndPunkt="1000" ParallelAbstand="-13.5" ParallelEnd="3640" ParallelGleis="4" ParallelStart="3030" StartPos="0" StartPunkt="0;0;0" Typ="Parallel" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
 			</Erstellung>
 			<Weiche>
 				<Props Anfang="Vorne" ErstellungsArt="NaechsteVerbindung" Gleis="18" Kennung="H27" Kruemung="10" Position="0" WeichenWinkel="8" WeichenWinkelDynamisch="TRUE"/>
@@ -3869,7 +3895,7 @@
 		<Props Name="18"/>
 		<TOPOLOGIE>
 			<Erstellung>
-				<Props EndPunkt="1000" ParallelAbstand="-18" ParallelEnd="3570" ParallelGleis="4" ParallelStart="3170" StartPos="0" StartPunkt="0;0;0" Typ="Parallel" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
+				<Props EndPunkt="1000" ParallelAbstand="-18" ParallelEnd="3570" ParallelGleis="4" ParallelStart="2970" StartPos="0" StartPunkt="0;0;0" Typ="Parallel" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
 			</Erstellung>
 			<Weiche>
 				<Props Anfang="Vorne" ErstellungsArt="Annaeherung" Gleis="4" Kennung="H24" Kruemung="6" Position="0" WeichenWinkel="6" WeichenWinkelDynamisch="FALSE"/>
@@ -3877,6 +3903,9 @@
 			<Weiche>
 				<Props Anfang="Ende" ErstellungsArt="Annaeherung" Gleis="4" Kennung="H31" Kruemung="6" Position="0" WeichenWinkel="6" WeichenWinkelDynamisch="FALSE"/>
 			</Weiche>
+			<KURVE>
+				<Props Ende="3000" SanfterWinkel="FALSE" Start="3040" Winkel="6"/>
+			</KURVE>
 		</TOPOLOGIE>
 		<Objecte>
 		</Objecte>

@@ -1,4 +1,5 @@
 2012-12-28
+* [dto] Hainfurt Gleislayout geändert
 * [fc]Feste Fahrbahn in Modul 9a eingebaut
 * [fc]Streckenmodul "Hauptbahn9a"hinzugefügt
 * [fc]Bahnsteigdächer, Lampen Hainfurt
