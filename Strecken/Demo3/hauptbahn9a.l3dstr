@@ -478,7 +478,7 @@
 						<Props Pos="2180" RAILVALUE="\Rails\JulianG\Betonschwellen\stark befahren\16betonschwellen_schotter_grau.l3drail"/>
 					</Value>
 					<Value>
-						<Props Pos="3990" RAILVALUE="\Rails\sepelone\LHV_Beton_ohneSchwellen.l3drail"/>
+						<Props Pos="3990" RAILVALUE="\Rails\Frieder\SFS\Feste_Fahrbahn.l3drail"/>
 					</Value>
 					<Value>
 						<Props Pos="6590" RAILVALUE="\Rails\JulianG\Betonschwellen\stark befahren\16betonschwellen_schotter_grau.l3drail"/>
@@ -496,16 +496,16 @@
 						<Props Pos="1655" RAILVALUE="\Rails\JulianG\Betonschwellen\stark befahren\16betonschwellen_Schotter_dunkler2.l3drail"/>
 					</Value>
 					<Value>
-						<Props Pos="4490" RAILVALUE="\Rails\sepelone\LHV_Beton_ohneSchwellen.l3drail"/>
+						<Props Pos="4490" RAILVALUE="\Rails\Frieder\SFS\Feste_Fahrbahn.l3drail"/>
 						<Lightning>
 							<Props DayLight="13" LokLight="TRUE" NightLight="0"/>
 						</Lightning>
 					</Value>
 					<Value>
-						<Props Pos="5820" RAILVALUE="\Rails\sepelone\LHV_Beton_ohneSchwellen.l3drail"/>
+						<Props Pos="5820" RAILVALUE="\Rails\Frieder\SFS\Feste_Fahrbahn.l3drail"/>
 					</Value>
 					<Value>
-						<Props Pos="6080" RAILVALUE="\Rails\sepelone\LHV_Beton_ohneSchwellen.l3drail"/>
+						<Props Pos="6080" RAILVALUE="\Rails\Frieder\SFS\Feste_Fahrbahn.l3drail"/>
 						<Lightning>
 							<Props DayLight="11" LokLight="TRUE" NightLight="0"/>
 						</Lightning>
@@ -752,19 +752,19 @@
 						<Props Pos="2180" RAILVALUE="\Rails\JulianG\Betonschwellen\stark befahren\16betonschwellen_schotter_grau.l3drail"/>
 					</Value>
 					<Value>
-						<Props Pos="3990" RAILVALUE="\Rails\sepelone\LHV_Beton_ohneSchwellen.l3drail"/>
+						<Props Pos="3990" RAILVALUE="\Rails\Frieder\SFS\Feste_Fahrbahn.l3drail"/>
 					</Value>
 					<Value>
-						<Props Pos="4490" RAILVALUE="\Rails\sepelone\LHV_Beton_ohneSchwellen.l3drail"/>
+						<Props Pos="4490" RAILVALUE="\Rails\Frieder\SFS\Feste_Fahrbahn.l3drail"/>
 						<Lightning>
 							<Props DayLight="13" LokLight="TRUE" NightLight="0"/>
 						</Lightning>
 					</Value>
 					<Value>
-						<Props Pos="5820" RAILVALUE="\Rails\sepelone\LHV_Beton_ohneSchwellen.l3drail"/>
+						<Props Pos="5820" RAILVALUE="\Rails\Frieder\SFS\Feste_Fahrbahn.l3drail"/>
 					</Value>
 					<Value>
-						<Props Pos="6080" RAILVALUE="\Rails\sepelone\LHV_Beton_ohneSchwellen.l3drail"/>
+						<Props Pos="6080" RAILVALUE="\Rails\Frieder\SFS\Feste_Fahrbahn.l3drail"/>
 						<Lightning>
 							<Props DayLight="11" LokLight="TRUE" NightLight="0"/>
 						</Lightning>
