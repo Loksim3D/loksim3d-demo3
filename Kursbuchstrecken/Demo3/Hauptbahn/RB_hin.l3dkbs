@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<KBS>
+	<Props FileAuthor="" FileDoku="" FileInfo="" FilePicture=""/>
+	<Strecken>
+		<Strecke>
+			<Props Name="\Strecken\Demo3\Hainfurt.l3dstr"/>
+		</Strecke>
+		<Strecke>
+			<Props Name="\Strecken\Demo3\Hauptbahn1.l3dstr"/>
+		</Strecke>
+		<Strecke>
+			<Props Name="\Strecken\Demo3\Steinbach.l3dstr"/>
+		</Strecke>
+	</Strecken>
+	<Verbindung>
+		<Name>
+			<Props Ende1="TRUE" Ende2="FALSE" Gleis1="2" Gleis2="N" Strecke1="\Strecken\Demo3\Hainfurt.l3dstr" Strecke2="\Strecken\Demo3\Hauptbahn1.l3dstr"/>
+		</Name>
+		<Name>
+			<Props Ende1="TRUE" Ende2="FALSE" Gleis1="N" Gleis2="N" Strecke1="\Strecken\Demo3\Hauptbahn1.l3dstr" Strecke2="\Strecken\Demo3\Steinbach.l3dstr"/>
+		</Name>
+	</Verbindung>
+	<StartPunkt>
+		<Props Gleis="1" Pos="0" Richtung="FALSE" Strecke="\Strecken\Demo3\Hainfurt.l3dstr"/>
+	</StartPunkt>
+	<WeichenStellung>
+		<Name>
+			<Props Strecke="\Strecken\Demo3\Hainfurt.l3dstr" WeichenName="H16" Zustand="1"/>
+		</Name>
+		<Name>
+			<Props Strecke="\Strecken\Demo3\Steinbach.l3dstr" WeichenName="1" Zustand="1"/>
+		</Name>
+	</WeichenStellung>
+</KBS>
