@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="DT" FileInfo="Vorsignaltafel für Ne1 oder fehlendes Vorsignal" FilePicture="Ne2.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="rostig" Name="\Objekte\Tafeln\DToepel\einzelteile\Ne2.l3dobj" Position="2.375;0.6;-0.1" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Tafeln\DToepel\einzelteile\Ne2-rostig.l3dobj" Position="2.375;0.6;-0.1" Rotation="0;0;0" ShowOn="rostig" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Tafeln\DToepel\Einzelteile\dreieck.l3dobj" Position="2.41;1.3;-0.1" Rotation="0;0;0" ShowOn="kurz" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="ohneMast" Name="\Objekte\Tafeln\Frieder\ET\Tafelfuss.l3dobj" Position="2.58;-2.25;-0.05" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+</GRUPPENOBJECT>

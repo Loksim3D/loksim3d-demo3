@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="DT" FileInfo="Gleiswechselanzeiger (Zs6)/nAufzustellen&#47;anzubringen an Signalen bei denen nur auf das linke Gleis ausgefahren werden kann" FilePicture="Zs6.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="ohneMast" Name="\Objekte\Tafeln\Frieder\ET\Betonpfosten 2m.l3dobj" Position="2.5;-1;0" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\DToepel\einzelteile\Zs6.l3dobj" Position="2.55;-6.3;-0.05" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+</GRUPPENOBJECT>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="DToepel" FileInfo="Anzuzeigende Zahl in &#34;Zahl&#34; eintragen /n&#34;,&#34; ist möglich/n&#34;%&#34; zeigt &#34;,5&#34; an/nggf. &#34;zweistellig anwählen um die Zahl in den unteren breiteren Bereich zu verschieben" FilePicture="Lf6.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="zweistellig or nachOben" Name="\Objekte\Tafeln\DToepel\Einzelteile\Lf6-unten.l3dobj" Position="2.31;1.66;-0.15" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Tafeln\DToepel\Einzelteile\Lf6-unten.l3dobj" Position="2.31;1.6;-0.15" Rotation="0;0;0" ShowOn="zweistellig and not nachOben" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Tafeln\DToepel\Einzelteile\Lf6-oben.l3dobj" Position="2.31;1.87;-0.15" Rotation="0;0;0" ShowOn="not zweistellig and nachOben" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Tafeln\DToepel\Einzelteile\Lf6-oben.l3dobj" Position="2.31;1.93;-0.15" Rotation="0;0;0" ShowOn="zweistellig and nachOben" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="ohneFuss" Name="\Objekte\Tafeln\Frieder\ET\Tafelfuss.l3dobj" Position="2.7;-1.1;-0.12" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Tafeln\DToepel\Einzelteile\Lf6-Pfeil-links.l3dobj" Position="2.34;2.46;-0.15" Rotation="0;0;0" ShowOn="links and not zweistellig and not nachOben" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Tafeln\DToepel\Einzelteile\Lf6-Pfeil-links.l3dobj" Position="2.34;2.4;-0.15" Rotation="0;0;0" ShowOn="links and zweistellig and not nachOben" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Tafeln\DToepel\Einzelteile\Lf6-Pfeil-rechts.l3dobj" Position="2.34;2.46;-0.15" Rotation="0;0;0" ShowOn="rechts and not zweistellig and not nachOben" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Tafeln\DToepel\Einzelteile\Lf6-Pfeil-rechts.l3dobj" Position="2.34;2.4;-0.15" Rotation="0;0;0" ShowOn="rechts and zweistellig and not nachOben" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Tafeln\DToepel\Einzelteile\Lf6-Pfeil-links.l3dobj" Position="2.34;1.66;-0.15" Rotation="0;0;0" ShowOn="links and not zweistellig and nachOben" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Tafeln\DToepel\Einzelteile\Lf6-Pfeil-links.l3dobj" Position="2.34;1.7;-0.15" Rotation="0;0;0" ShowOn="links and zweistellig and nachOben" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Tafeln\DToepel\Einzelteile\Lf6-Pfeil-rechts.l3dobj" Position="2.34;1.66;-0.15" Rotation="0;0;0" ShowOn="rechts and not zweistellig and nachOben" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Tafeln\DToepel\Einzelteile\Lf6-Pfeil-rechts.l3dobj" Position="2.34;1.7;-0.15" Rotation="0;0;0" ShowOn="rechts and zweistellig and nachOben" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Font>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="16777215" DefaultText="8" Fonthoehe="0.3" GroupProperty="Zahl" Leuchtend="FALSE" Name="\Objekte\Tafeln\DToepel\Einzelteile\blechgeschwindigkeit-1-schmal-schwarz.l3dfont" Position="2.76;2.2;-0.2" Rotation="0;0;0"/>
+	</Font>
+</GRUPPENOBJECT>

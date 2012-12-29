@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FONT>
+	<Props FileAuthor="" FileInfo="" FilePicture="" Fonthoehe="60" Texture="Richtungen_Zs2+6_Zs6.bmp"/>
+	<Zeichen>
+		<Props Width="44" X="62" Y="6" Zeichen="A"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="44" X="6" Y="6" Zeichen="a"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="44" X="62" Y="6" Zeichen="B"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="44" X="6" Y="6" Zeichen="b"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="44" X="62" Y="6" Zeichen="C"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="44" X="6" Y="6" Zeichen="c"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="44" X="62" Y="6" Zeichen="D"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="44" X="6" Y="6" Zeichen="d"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="44" X="62" Y="6" Zeichen="E"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="44" X="6" Y="6" Zeichen="e"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="44" X="62" Y="6" Zeichen="F"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="44" X="6" Y="6" Zeichen="f"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="44" X="62" Y="6" Zeichen="G"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="44" X="6" Y="6" Zeichen="g"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="44" X="62" Y="6" Zeichen="H"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="44" X="6" Y="6" Zeichen="h"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="44" X="62" Y="6" Zeichen="I"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="44" X="6" Y="6" Zeichen="i"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="44" X="62" Y="6" Zeichen="J"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="44" X="6" Y="6" Zeichen="j"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="44" X="62" Y="6" Zeichen="K"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="44" X="6" Y="6" Zeichen="k"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="44" X="62" Y="6" Zeichen="L"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="44" X="6" Y="6" Zeichen="l"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="44" X="62" Y="6" Zeichen="M"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="44" X="6" Y="6" Zeichen="m"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="44" X="62" Y="6" Zeichen="N"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="44" X="6" Y="6" Zeichen="n"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="44" X="62" Y="6" Zeichen="O"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="44" X="6" Y="6" Zeichen="o"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="44" X="62" Y="6" Zeichen="P"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="44" X="6" Y="6" Zeichen="p"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="44" X="62" Y="6" Zeichen="Q"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="44" X="6" Y="6" Zeichen="q"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="44" X="62" Y="6" Zeichen="R"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="44" X="6" Y="6" Zeichen="r"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="44" X="62" Y="6" Zeichen="S"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="44" X="6" Y="6" Zeichen="s"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="44" X="62" Y="6" Zeichen="T"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="44" X="6" Y="6" Zeichen="t"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="44" X="62" Y="6" Zeichen="U"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="44" X="6" Y="6" Zeichen="u"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="44" X="62" Y="6" Zeichen="V"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="44" X="6" Y="6" Zeichen="v"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="44" X="62" Y="6" Zeichen="W"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="44" X="6" Y="6" Zeichen="w"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="44" X="62" Y="6" Zeichen="X"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="44" X="6" Y="6" Zeichen="x"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="44" X="62" Y="6" Zeichen="Y"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="44" X="6" Y="6" Zeichen="y"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="44" X="62" Y="6" Zeichen="Z"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="44" X="6" Y="6" Zeichen="z"/>
+	</Zeichen>
+</FONT>
