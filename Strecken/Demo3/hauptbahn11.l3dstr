@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STRECKE>
+	<Props FileAuthor="FC" FileDoku="" FileInfo="" FilePicture=""/>
+	<DefaulRail>
+		<Props File="\Rails\JulianG\Betonschwellen\normal\16betonschwellen_Schotter_dunkler3.l3drail"/>
+	</DefaulRail>
+	<StdTexture>
+		<Props File=""/>
+	</StdTexture>
+	<Himmelsrichtung>
+		<Props Value="0"/>
+	</Himmelsrichtung>
+	<GLEIS>
+		<Props Name="S"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="10000" ParallelAbstand="-4" ParallelEnd="10000" ParallelGleis="N" ParallelStart="0" StartPos="0" StartPunkt="0;0;0" Typ="Normal" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
+			</Erstellung>
+			<KURVE>
+				<Props Ende="2500" SanfterWinkel="TRUE" Start="0" Winkel="10"/>
+			</KURVE>
+			<KURVE>
+				<Props Ende="10000" SanfterWinkel="TRUE" Start="7500" Winkel="-6"/>
+			</KURVE>
+		</TOPOLOGIE>
+		<Objecte>
+			<Object>
+				<Props Name="Bahnsteig" Offset="0;0;0" Position="4862" Qualitaet="1"/>
+				<Eintrag>
+					<Props Abstand="11" Anzahl="25" Datei="\Objekte\Bahnsteige\Frieder\Seitenbahnsteig7.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="11" Verschiebung="0;0;0" Winkel="180;0;0"/>
+				</Eintrag>
+			</Object>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+			<Landschaftsobjekt>
+				<Props Abstand="20" Name="Schotter" Polygon="TRUE" Position="0" Scale="0.17378" Texture="TRUE" TextureFile="\Texturen\juliang\Schotter_Dunkler3.bmp" Zwischenpunkte="TRUE"/>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="TRUE" Position="0" Verschiebung="3"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="0" Verschiebung="-3"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="10000" Verschiebung="-3"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="TRUE" Position="10000" Verschiebung="3"/>
+				</Landschaftsobjekt>
+			</Landschaftsobjekt>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+			<VOR>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="160" KMHNEIG="160" KeinHp2="FALSE" NichtImFahrplan="TRUE" Pos="0"/>
+					</Value>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<Bahnuebergang>
+				</Bahnuebergang>
+				<RAIL>
+				</RAIL>
+				<RailQuality>
+				</RailQuality>
+				<LZB>
+				</LZB>
+				<Kilometrierung>
+				</Kilometrierung>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Ueberhoehung>
+				</Ueberhoehung>
+				<RailProps>
+				</RailProps>
+				<Bremswegabstand>
+				</Bremswegabstand>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</VOR>
+			<ZURUECK>
+				<STRECKENNAMEN>
+					<Value>
+						<Props Pos="4870" Value="Bad Amstedt"/>
+					</Value>
+					<Value>
+						<Props Pos="4840" Value="Asig"/>
+					</Value>
+					<Value>
+						<Props Pos="6840" Value="Sbk"/>
+					</Value>
+					<Value>
+						<Props Pos="5840" Value="Esig"/>
+					</Value>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="160" KMHNEIG="160" KeinHp2="FALSE" NichtImFahrplan="TRUE" Pos="10000"/>
+					</Value>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="100" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile2000="\Objekte\Signale\IndusiMagnet.l3dgrp" IndusiFile500="\Objekte\Signale\IndusiMagnet.l3dgrp" IndusiPos2000="0" IndusiPos500="250" KennLimit="100" KennLimitHide="40" Pos="4840" SignalFile="\Signale\Einheitssignale Bauform 1969\Haupt-Sperrsignale\Haupt-Sperrsignal.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi500Bis="0" IndusiFile1000="\Objekte\Signale\IndusiMagnet.l3dgrp" IndusiPos1000="0" KennLimit="150" KennLimitHide="40" Pos="7840" SignalFile="\Signale\Einheitssignale Bauform 1969\Vorsignale\Vorsignal_Strecke.l3dgrp" Tafel100="TRUE" Tafel200="TRUE" Tafel300="TRUE" TafelFile100="\Signale\Einheitssignale Bauform 1969\Tafeln\Vorsignalbake 100.l3dgrp" TafelFile200="\Signale\Einheitssignale Bauform 1969\Tafeln\Vorsignalbake 175.l3dgrp" TafelFile300="\Signale\Einheitssignale Bauform 1969\Tafeln\Vorsignalbake 175.l3dgrp" TafelPos100="100" TafelPos200="175" TafelPos300="250" Typ="Vorsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="100" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile1000="\Objekte\Signale\IndusiMagnet.l3dgrp" IndusiFile2000="\Objekte\Signale\IndusiMagnet.l3dgrp" IndusiFile500="\Objekte\Signale\IndusiMagnet.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" IndusiPos500="250" KennLimit="100" KennLimitHide="40" Pos="5840" SignalFile="\Signale\Einheitssignale Bauform 1969\Hauptsignale\Hauptsignal+Vorsignal_Strecke.l3dgrp" Typ="Kombisignal" VSigLimit="0" Zwischensignal="FALSE"/>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="100" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile1000="\Objekte\Signale\IndusiMagnet.l3dgrp" IndusiFile2000="\Objekte\Signale\IndusiMagnet.l3dgrp" IndusiFile500="\Objekte\Signale\IndusiMagnet.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" IndusiPos500="250" KennLimit="100" KennLimitHide="40" Pos="6840" SignalFile="\Signale\Einheitssignale Bauform 1969\Blocksignale\Selbstblocksignal+Vorsignal_Strecke.l3dgrp" Typ="Kombisignal" VSigLimit="0" Zwischensignal="FALSE"/>
+					</Value>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+					<Value>
+						<Props File="\Objekte\Tafeln\Frieder\Ne5-FC.l3dgrp" Name="Bad Amstedt" Pos="4870" ToleranzMinus="250" ToleranzPlus="25" Zuglaenge="250"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="2.2;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+				</Haltepunkt>
+				<LZB>
+				</LZB>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</ZURUECK>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="N"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="10000" ParallelAbstand="4" ParallelEnd="10000" ParallelGleis="S" ParallelStart="0" StartPos="0" StartPunkt="0;0;0" Typ="Parallel" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
+			</Erstellung>
+			<Ausweiche>
+				<Props Abstand="10.5" Ende="5980" KurvenWeite="700" Start="4050"/>
+			</Ausweiche>
+		</TOPOLOGIE>
+		<Objecte>
+			<Object>
+				<Props Name="Bahnsteig" Offset="0;0;0" Position="4862" Qualitaet="1"/>
+				<Eintrag>
+					<Props Abstand="11" Anzahl="25" Datei="\Objekte\Bahnsteige\Frieder\Seitenbahnsteig7.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="11" Verschiebung="0;0;0" Winkel="180;0;0"/>
+				</Eintrag>
+			</Object>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+			<Landschaftsobjekt>
+				<Props Abstand="20" Name="Schotter" Polygon="TRUE" Position="0" Scale="0.17378" Texture="TRUE" TextureFile="\Texturen\juliang\Schotter_Dunkler3.bmp" Zwischenpunkte="TRUE"/>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="0" Verschiebung="3"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="TRUE" Position="0" Verschiebung="-3"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="TRUE" Position="10000" Verschiebung="-3"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="10000" Verschiebung="3"/>
+				</Landschaftsobjekt>
+			</Landschaftsobjekt>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+			<VOR>
+				<STRECKENNAMEN>
+					<Value>
+						<Props Pos="5130" Value="Bad Amstedt"/>
+					</Value>
+					<Value>
+						<Props Pos="5160" Value="Asig"/>
+					</Value>
+					<Value>
+						<Props Pos="4160" Value="Esig"/>
+					</Value>
+					<Value>
+						<Props Pos="3160" Value="Sbk"/>
+					</Value>
+					<Value>
+						<Props Pos="7820" Value="Sbk"/>
+					</Value>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="160" KMHNEIG="160" KeinHp2="FALSE" NichtImFahrplan="TRUE" Pos="0"/>
+					</Value>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="100" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile2000="\Objekte\Signale\IndusiMagnet.l3dgrp" IndusiFile500="\Objekte\Signale\IndusiMagnet.l3dgrp" IndusiPos2000="0" IndusiPos500="250" KennLimit="100" KennLimitHide="40" Pos="5160" SignalFile="\Signale\Einheitssignale Bauform 1969\Haupt-Sperrsignale\Haupt-Sperrsignal.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="100" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile1000="\Objekte\Signale\IndusiMagnet.l3dgrp" IndusiFile2000="\Objekte\Signale\IndusiMagnet.l3dgrp" IndusiFile500="\Objekte\Signale\IndusiMagnet.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" IndusiPos500="250" KennLimit="100" KennLimitHide="40" Pos="4160" SignalFile="\Signale\Einheitssignale Bauform 1969\Hauptsignale\Hauptsignal+Vorsignal_Strecke.l3dgrp" Typ="Kombisignal" VSigLimit="0" Zwischensignal="FALSE"/>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="100" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile1000="\Objekte\Signale\IndusiMagnet.l3dgrp" IndusiFile2000="\Objekte\Signale\IndusiMagnet.l3dgrp" IndusiFile500="\Objekte\Signale\IndusiMagnet.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" IndusiPos500="250" KennLimit="100" KennLimitHide="40" Pos="3160" SignalFile="\Signale\Einheitssignale Bauform 1969\Blocksignale\Selbstblocksignal+Vorsignal_Strecke.l3dgrp" Typ="Kombisignal" VSigLimit="0" Zwischensignal="FALSE"/>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi500Bis="0" IndusiFile1000="\Objekte\Signale\IndusiMagnet.l3dgrp" IndusiPos1000="0" KennLimit="150" KennLimitHide="40" Pos="2160" SignalFile="\Signale\Einheitssignale Bauform 1969\Vorsignale\Vorsignal_Strecke.l3dgrp" Tafel100="TRUE" Tafel200="TRUE" Tafel300="TRUE" TafelFile100="\Signale\Einheitssignale Bauform 1969\Tafeln\Vorsignalbake 100.l3dgrp" TafelFile200="\Signale\Einheitssignale Bauform 1969\Tafeln\Vorsignalbake 175.l3dgrp" TafelFile300="\Signale\Einheitssignale Bauform 1969\Tafeln\Vorsignalbake 175.l3dgrp" TafelPos100="100" TafelPos200="175" TafelPos300="250" Typ="Vorsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi500Bis="0" IndusiFile1000="\Objekte\Signale\IndusiMagnet.l3dgrp" IndusiPos1000="0" KennLimit="150" KennLimitHide="40" Pos="6820" SignalFile="\Signale\Einheitssignale Bauform 1969\Vorsignale\Vorsignal_Strecke.l3dgrp" Tafel100="TRUE" Tafel200="TRUE" Tafel300="TRUE" TafelFile100="\Signale\Einheitssignale Bauform 1969\Tafeln\Vorsignalbake 100.l3dgrp" TafelFile200="\Signale\Einheitssignale Bauform 1969\Tafeln\Vorsignalbake 175.l3dgrp" TafelFile300="\Signale\Einheitssignale Bauform 1969\Tafeln\Vorsignalbake 175.l3dgrp" TafelPos100="100" TafelPos200="175" TafelPos300="250" Typ="Vorsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="100" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile2000="\Objekte\Signale\IndusiMagnet.l3dgrp" IndusiFile500="\Objekte\Signale\IndusiMagnet.l3dgrp" IndusiPos2000="0" IndusiPos500="250" KennLimit="100" KennLimitHide="40" Pos="7820" SignalFile="\Signale\Einheitssignale Bauform 1969\Blocksignale\Selbstblocksignal_Strecke.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+					</Value>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+					<Value>
+						<Props File="\Objekte\Tafeln\Frieder\Ne5-FC.l3dgrp" Name="Bad Amstedt" Pos="5130" ToleranzMinus="250" ToleranzPlus="25" Zuglaenge="250"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="2.2;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+				</Haltepunkt>
+				<Bahnuebergang>
+				</Bahnuebergang>
+				<RAIL>
+				</RAIL>
+				<RailQuality>
+				</RailQuality>
+				<LZB>
+				</LZB>
+				<Kilometrierung>
+				</Kilometrierung>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Ueberhoehung>
+				</Ueberhoehung>
+				<RailProps>
+				</RailProps>
+				<Bremswegabstand>
+				</Bremswegabstand>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</VOR>
+			<ZURUECK>
+				<STRECKENNAMEN>
+					<Value>
+						<Props Pos="5840" Value="Esig"/>
+					</Value>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="160" KMHNEIG="160" KeinHp2="FALSE" NichtImFahrplan="TRUE" Pos="10000"/>
+					</Value>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="100" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile1000="\Objekte\Signale\IndusiMagnet.l3dgrp" IndusiFile2000="\Objekte\Signale\IndusiMagnet.l3dgrp" IndusiFile500="\Objekte\Signale\IndusiMagnet.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" IndusiPos500="250" KennLimit="100" KennLimitHide="40" Pos="5840" SignalFile="\Signale\Einheitssignale Bauform 1969\Hauptsignale\Hauptsignal+Vorsignal_Strecke_li.l3dgrp" Typ="Kombisignal" VSigLimit="0" Zwischensignal="FALSE"/>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi500Bis="0" IndusiFile1000="\Objekte\Signale\IndusiMagnet.l3dgrp" IndusiPos1000="0" KennLimit="150" KennLimitHide="40" Pos="6840" SignalFile="\Signale\Einheitssignale Bauform 1969\Vorsignale\Vorsignal_Strecke_li.l3dgrp" Tafel100="TRUE" Tafel200="TRUE" Tafel300="TRUE" TafelFile100="\Signale\Einheitssignale Bauform 1969\Tafeln\Vorsignalbake 100 li.l3dgrp" TafelFile200="\Signale\Einheitssignale Bauform 1969\Tafeln\Vorsignalbake 175 li.l3dgrp" TafelFile300="\Signale\Einheitssignale Bauform 1969\Tafeln\Vorsignalbake 175 li.l3dgrp" TafelPos100="100" TafelPos200="175" TafelPos300="250" Typ="Vorsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+					</Value>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<LZB>
+				</LZB>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</ZURUECK>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="Mitte"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="-10" ParallelEnd="5280" ParallelGleis="N" ParallelStart="4740" StartPos="0" StartPunkt="0;0;0" Typ="Parallel" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
+			</Erstellung>
+			<Weiche>
+				<Props Anfang="Vorne" ErstellungsArt="Annaeherung" Gleis="N" Kennung="BA1" Kruemung="6" Position="0" WeichenWinkel="6" WeichenWinkelDynamisch="FALSE"/>
+			</Weiche>
+			<Weiche>
+				<Props Anfang="Ende" ErstellungsArt="Annaeherung" Gleis="N" Kennung="BA6" Kruemung="6" Position="0" WeichenWinkel="6" WeichenWinkelDynamisch="FALSE"/>
+			</Weiche>
+		</TOPOLOGIE>
+		<Objecte>
+			<Object>
+				<Props Name="Bahnsteig" Offset="0;0;0" Position="4862" Qualitaet="1"/>
+				<Eintrag>
+					<Props Abstand="11" Anzahl="25" Datei="\Objekte\Bahnsteige\Frieder\Seitenbahnsteig7.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+			</Object>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+			<VOR>
+				<STRECKENNAMEN>
+					<Value>
+						<Props Pos="5130" Value="Bad Amstedt"/>
+					</Value>
+					<Value>
+						<Props Pos="5160" Value="Asig"/>
+					</Value>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="40" KMHNEIG="40" KeinHp2="FALSE" NichtImFahrplan="FALSE" Pos="4605"/>
+					</Value>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="100" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile2000="\Objekte\Signale\IndusiMagnet.l3dgrp" IndusiFile500="\Objekte\Signale\IndusiMagnet.l3dgrp" IndusiPos2000="0" IndusiPos500="250" KennLimit="100" KennLimitHide="40" Pos="5160" SignalFile="\Signale\Frieder\1969\Haupt-Sperrsignal_mit_Zs6.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+					</Value>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+					<Value>
+						<Props File="\Objekte\Tafeln\Frieder\Ne5-FC.l3dgrp" Name="Bad Amstedt" Pos="5130" ToleranzMinus="250" ToleranzPlus="25" Zuglaenge="250"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="2.2;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+				</Haltepunkt>
+				<Bahnuebergang>
+				</Bahnuebergang>
+				<RAIL>
+				</RAIL>
+				<RailQuality>
+				</RailQuality>
+				<LZB>
+				</LZB>
+				<Kilometrierung>
+				</Kilometrierung>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Ueberhoehung>
+				</Ueberhoehung>
+				<RailProps>
+				</RailProps>
+				<Bremswegabstand>
+				</Bremswegabstand>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</VOR>
+			<ZURUECK>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="40" KMHNEIG="40" KeinHp2="FALSE" NichtImFahrplan="FALSE" Pos="5416"/>
+					</Value>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="100" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile2000="\Objekte\Signale\IndusiMagnet.l3dgrp" IndusiFile500="\Objekte\Signale\IndusiMagnet.l3dgrp" IndusiPos2000="0" IndusiPos500="250" KennLimit="100" KennLimitHide="40" Pos="4840" SignalFile="\Signale\Frieder\1969\Haupt-Sperrsignal_mit_Zs6.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+					</Value>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+					<Value>
+						<Props File="\Objekte\Tafeln\Frieder\Ne5-FC.l3dgrp" Name="Bad Amstedt" Pos="4870" ToleranzMinus="250" ToleranzPlus="25" Zuglaenge="250"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="2.2;-2;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+				</Haltepunkt>
+				<LZB>
+				</LZB>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</ZURUECK>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="Verbinder1"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="-10" ParallelEnd="0" ParallelGleis="" ParallelStart="0" StartPos="0" StartPunkt="0;0;0" Typ="Weiche" WeicheEnd="10" WeicheGleis="Mitte" WeicheGleisPos="4740" WeicheGleisRichtung="2" WeicheName="BA3" WeicheStart="0" WeichenWinkel="6" Winkel="0"/>
+			</Erstellung>
+			<Weiche>
+				<Props Anfang="Ende" ErstellungsArt="NaechsteVerbindung" Gleis="S" Kennung="BA2" Kruemung="6" Position="0" WeichenWinkel="6" WeichenWinkelDynamisch="TRUE"/>
+			</Weiche>
+		</TOPOLOGIE>
+		<Objecte>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+			<VOR>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="40" KMHNEIG="40" KeinHp2="FALSE" NichtImFahrplan="TRUE" Pos="0"/>
+					</Value>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<Bahnuebergang>
+				</Bahnuebergang>
+				<RAIL>
+				</RAIL>
+				<RailQuality>
+				</RailQuality>
+				<LZB>
+				</LZB>
+				<Kilometrierung>
+				</Kilometrierung>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Ueberhoehung>
+				</Ueberhoehung>
+				<RailProps>
+				</RailProps>
+				<Bremswegabstand>
+				</Bremswegabstand>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</VOR>
+			<ZURUECK>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="40" KMHNEIG="40" KeinHp2="FALSE" NichtImFahrplan="FALSE" Pos="42"/>
+					</Value>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<LZB>
+				</LZB>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</ZURUECK>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="Verbinder2"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="-10" ParallelEnd="0" ParallelGleis="" ParallelStart="0" StartPos="0" StartPunkt="0;0;0" Typ="Weiche" WeicheEnd="10" WeicheGleis="Mitte" WeicheGleisPos="5260" WeicheGleisRichtung="1" WeicheName="BA4" WeicheStart="0" WeichenWinkel="6" Winkel="0"/>
+			</Erstellung>
+			<Weiche>
+				<Props Anfang="Ende" ErstellungsArt="NaechsteVerbindung" Gleis="S" Kennung="BA5" Kruemung="6" Position="0" WeichenWinkel="6" WeichenWinkelDynamisch="TRUE"/>
+			</Weiche>
+		</TOPOLOGIE>
+		<Objecte>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+			<VOR>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="40" KMHNEIG="40" KeinHp2="FALSE" NichtImFahrplan="TRUE" Pos="0"/>
+					</Value>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<Bahnuebergang>
+				</Bahnuebergang>
+				<RAIL>
+				</RAIL>
+				<RailQuality>
+				</RailQuality>
+				<LZB>
+				</LZB>
+				<Kilometrierung>
+				</Kilometrierung>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Ueberhoehung>
+				</Ueberhoehung>
+				<RailProps>
+				</RailProps>
+				<Bremswegabstand>
+				</Bremswegabstand>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</VOR>
+			<ZURUECK>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="40" KMHNEIG="40" KeinHp2="FALSE" NichtImFahrplan="FALSE" Pos="43"/>
+					</Value>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<LZB>
+				</LZB>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</ZURUECK>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+</STRECKE>

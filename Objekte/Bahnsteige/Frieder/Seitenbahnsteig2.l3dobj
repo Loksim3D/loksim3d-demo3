@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<OBJECT>
+	<Props TransparentTyp="0" Beleuchtet="FALSE" Transparent="FALSE" FilePicture="Seitenbahnsteig.l3dobj.jpg" FileAuthor="FC" FileInfo="Seitenbahnsteig für Hauptbahn/nBreite 6m/nLänge 11m/nHöhe 1m" Drawrueckseiten="FALSE" TransTexture="" Texture="ET\Seitenbahnsteig.bmp"/>
+	<Point>
+		<Props Normal="-1;0;0" Vekt="1.52;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;0;0" Vekt="1.52;1;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="6;1;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="6;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;0;0" Vekt="1.52;0;11"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;0;0" Vekt="1.52;1;11"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="6;1;11"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="6;0;11"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="1.8;1;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="1.8;1;11"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="1.8;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="1.8;0;11"/>
+	</Point>
+	<Flaeche>
+		<Props Points="8;2;3;10" Texture="56,86;172,110;173,178;57,176"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;6;9;11" Texture="8,167;10,105;133,83;133,171"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;2;6;7" Texture="0,156;3,119;676,119;679,165"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;1;0" Texture="2,61;0,14;695,14;693,61"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="8;9;6;2" Texture="0,249;1,63;693,64;693,251"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="1;5;9;8" Texture="1,0;695,0;695,11;0,14"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="0;1;8;10" Texture="2,61;1,15;59,14;60,61"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="11;9;5;4" Texture="1,61;1,15;60,15;60,61"/>
+	</Flaeche>
+</OBJECT>

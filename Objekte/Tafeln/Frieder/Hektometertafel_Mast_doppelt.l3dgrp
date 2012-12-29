@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="FC" FileInfo="Hektometertafel am Mast doppelt/nfür Kilometerangaben &#60; 100" FilePicture="Hektometertafel ohne Fuss.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\Hektometertafel2.l3dobj" Position="0;2;-0.1" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\Hektometertafel2.l3dobj" Position="0;2;0.1" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Font>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="0" DefaultText="65/n6" Fonthoehe="0.35" GroupProperty="KILOMETER" Leuchtend="FALSE" Name="\Objekte\Tafeln\Hektometer.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0;2.4;-0.11" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="0" DefaultText="65/n6" Fonthoehe="0.35" GroupProperty="KILOMETER" Leuchtend="FALSE" Name="\Objekte\Tafeln\Hektometer.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0;2.4;0.11" Rotation="180;0;0" Vertikal="FALSE"/>
+	</Font>
+</GRUPPENOBJECT>

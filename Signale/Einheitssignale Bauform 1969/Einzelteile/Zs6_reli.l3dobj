@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="TRUE" Drawrueckseiten="FALSE" FileAuthor="" FileInfo="" FilePicture="" Texture="\Signale\Einheitssignale Bauform 1969\Einzelteile\Gleiswechsel.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="2"/>
+	<Point>
+		<Props Normal="1;1;1" Vekt="-0.18;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.18;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.18;-0.45;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="-0.18;-0.45;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="8,8;49,8;49,65;8,65"/>
+	</Flaeche>
+</OBJECT>

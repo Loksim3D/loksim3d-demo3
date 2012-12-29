@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="DT" FileInfo="Ende der bei Hp2 oder Zs3 begonnenen Geschwindigkeitsbeschränkung (Zs10)" FilePicture="Zs10.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Variante1 or Variante2 or Variante3" Name="\Objekte\Tafeln\DToepel\einzelteile\Zs10.l3dobj" Position="0;0;0" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Tafeln\Frieder\ET\Tafelfuss.l3dobj" Position="2.68;-1.5;0.05" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Tafeln\DToepel\einzelteile\Zs10a.l3dobj" Position="0;0;0" Rotation="0;0;0" ShowOn="Variante1" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Tafeln\DToepel\einzelteile\Zs10b.l3dobj" Position="0;0;0" Rotation="0;0;0" ShowOn="Variante2" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Tafeln\DToepel\einzelteile\Zs10c.l3dobj" Position="0;0;0" Rotation="0;0;0" ShowOn="Variante3" ZoomFaktor="1"/>
+	</Object>
+</GRUPPENOBJECT>

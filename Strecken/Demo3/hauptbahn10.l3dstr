@@ -1,0 +1,897 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STRECKE>
+	<Props FileAuthor="" FileDoku="" FileInfo="" FilePicture=""/>
+	<DefaulRail>
+		<Props File="\Rails\JulianG\Betonschwellen\normal\16betonschwellen_Schotter_dunkler3.l3drail"/>
+	</DefaulRail>
+	<StdTexture>
+		<Props File=""/>
+	</StdTexture>
+	<Himmelsrichtung>
+		<Props Value="0"/>
+	</Himmelsrichtung>
+	<GLEIS>
+		<Props Name="Gleis N"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="4600" ParallelAbstand="-10" ParallelEnd="0" ParallelGleis="" ParallelStart="0" StartPos="0" StartPunkt="0;0;0" Typ="Normal" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
+			</Erstellung>
+			<KURVE>
+				<Props Ende="1200" SanfterWinkel="FALSE" Start="200" Winkel="-12"/>
+			</KURVE>
+			<KURVE>
+				<Props Ende="4400" SanfterWinkel="FALSE" Start="3200" Winkel="24"/>
+			</KURVE>
+		</TOPOLOGIE>
+		<Objecte>
+			<Object>
+				<Props Name="2450 Bahnsteig" Offset="0.5;0;0" Position="2425" Qualitaet="0"/>
+				<Eintrag>
+					<Props Abstand="11" Anzahl="25" Datei="\Objekte\Bahnsteige\Frieder\Seitenbahnsteig2.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+			</Object>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+			<Landschaftsobjekt>
+				<Props Abstand="20" Name="Schotter" Polygon="TRUE" Position="0" Scale="0.17378" Texture="TRUE" TextureFile="\Texturen\juliang\Schotter_Dunkler3.bmp" Zwischenpunkte="TRUE"/>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="0" Verschiebung="3"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="0" Verschiebung="-3"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="4600" Verschiebung="-3"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="4600" Verschiebung="3"/>
+				</Landschaftsobjekt>
+			</Landschaftsobjekt>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+			<VOR>
+				<STRECKENNAMEN>
+					<Value>
+						<Props Pos="300" Value="Sbk 101"/>
+					</Value>
+					<Value>
+						<Props Pos="1300" Value="Esig"/>
+					</Value>
+					<Value>
+						<Props Pos="2700" Value="Asig"/>
+					</Value>
+					<Value>
+						<Props Pos="3700" Value="Sbk 103"/>
+					</Value>
+					<Value>
+						<Props Pos="2900" Value="¥"/>
+					</Value>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile1000="\Signale\KS_Saalbahn\PZB\Indusimagnet2XS.l3dgrp" IndusiFile2000="\Signale\KS_Saalbahn\PZB\Indusimagnet2XS.l3dgrp" IndusiFile500="\Signale\KS_Saalbahn\PZB\Indusimagnet1XS.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" IndusiPos500="250" KennLimit="150" KennLimitHide="40" Pos="300" SignalFile="\Signale\Einheitssignale Bauform 1969\Blocksignale\Selbstblocksignal+Vorsignal_Strecke.l3dgrp" Typ="Kombisignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props TEXT="&#39;101&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile1000="\Signale\KS_Saalbahn\PZB\Indusimagnet2XS.l3dgrp" IndusiFile2000="\Signale\KS_Saalbahn\PZB\Indusimagnet2XS.l3dgrp" IndusiFile500="\Signale\KS_Saalbahn\PZB\Indusimagnet1XS.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" IndusiPos500="250" KennLimit="150" KennLimitHide="40" Pos="1300" SignalFile="\Signale\Einheitssignale Bauform 1969\Hauptsignale\Hauptsignal+Vorsignal.l3dgrp" Typ="Kombisignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="0.9;0;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props TEXT="&#39;A&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile1000="\Signale\KS_Saalbahn\PZB\Indusimagnet2XS.l3dgrp" IndusiFile2000="\Signale\KS_Saalbahn\PZB\Indusimagnet2XS.l3dgrp" IndusiFile500="\Signale\KS_Saalbahn\PZB\Indusimagnet1XS.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" IndusiPos500="250" KennLimit="150" KennLimitHide="40" Pos="2700" SignalFile="\Signale\Einheitssignale Bauform 1969\Haupt-Sperrsignale\Haupt-Sperrsignal_hoch+Vorsignal.l3dgrp" Typ="Kombisignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="0.9;0;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props TEXT="&#39;N2&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\KS_Saalbahn\PZB\Indusimagnet2XS.l3dgrp" IndusiFile500="\Signale\KS_Saalbahn\PZB\Indusimagnet1XS.l3dgrp" IndusiPos2000="0" IndusiPos500="250" KennLimit="150" KennLimitHide="40" Pos="3700" SignalFile="\Signale\Einheitssignale Bauform 1969\Blocksignale\Selbstblocksignal_Strecke.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props TEXT="&#39;103&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+					<Value>
+						<Props File="" Name="START GLEIS N" Pos="0" ToleranzMinus="25" ToleranzPlus="25" Zuglaenge="0"/>
+					</Value>
+					<Value>
+						<Props File="" Name="BAHNSTEIG" Pos="2650" ToleranzMinus="100" ToleranzPlus="50" Zuglaenge="0"/>
+					</Value>
+					<Value>
+						<Props File="" Name="ENDE GLEIS N" Pos="4600" ToleranzMinus="25" ToleranzPlus="25" Zuglaenge="0"/>
+					</Value>
+				</Haltepunkt>
+				<Bahnuebergang>
+				</Bahnuebergang>
+				<RAIL>
+				</RAIL>
+				<RailQuality>
+				</RailQuality>
+				<LZB>
+				</LZB>
+				<Kilometrierung>
+				</Kilometrierung>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Ueberhoehung>
+				</Ueberhoehung>
+				<RailProps>
+				</RailProps>
+				<Bremswegabstand>
+				</Bremswegabstand>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</VOR>
+			<ZURUECK>
+				<STRECKENNAMEN>
+					<Value>
+						<Props Pos="1850" Value="Asig"/>
+					</Value>
+					<Value>
+						<Props Pos="3200" Value="Esig"/>
+					</Value>
+					<Value>
+						<Props Pos="1350" Value="¥"/>
+					</Value>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\KS_Saalbahn\PZB\Indusimagnet2XS.l3dgrp" IndusiFile500="\Signale\KS_Saalbahn\PZB\Indusimagnet1XS.l3dgrp" IndusiPos2000="0" IndusiPos500="250" KennLimit="150" KennLimitHide="40" Pos="1850" SignalFile="\Signale\Einheitssignale Bauform 1969\Haupt-Sperrsignale\Haupt-Sperrsignal_hoch.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="0;0;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props TEXT="&#39;P2&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi500Bis="0" IndusiFile1000="\Signale\KS_Saalbahn\PZB\Indusimagnet2XS.l3dgrp" IndusiPos1000="0" KennLimit="150" KennLimitHide="40" Pos="1700" SignalFile="\Signale\JulianG\HV-69-mod\Vr_Zl_Zs6.l3dgrp" Typ="Vorsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="0;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile1000="\Signale\KS_Saalbahn\PZB\Indusimagnet2XS.l3dgrp" IndusiFile2000="\Signale\KS_Saalbahn\PZB\Indusimagnet2XS.l3dgrp" IndusiFile500="\Signale\KS_Saalbahn\PZB\Indusimagnet1XS.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" IndusiPos500="250" KennLimit="150" KennLimitHide="40" Pos="3200" SignalFile="\Signale\Einheitssignale Bauform 1969\Hauptsignale\Hauptsignal+Vorsignal.l3dgrp" Typ="Kombisignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="-5.6;0;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props TEXT="&#39;FF&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi500Bis="0" IndusiFile1000="\Signale\KS_Saalbahn\PZB\Indusimagnet2XS.l3dgrp" IndusiPos1000="0" KennLimit="150" KennLimitHide="40" Pos="4200" SignalFile="\Signale\Einheitssignale Bauform 1969\Vorsignale\Vorsignal.l3dgrp" Tafel100="TRUE" Tafel200="TRUE" Tafel300="TRUE" TafelFile100="\Objekte\Tafeln\DToepel\Ne3\Ne3-normal-1.l3dgrp" TafelFile200="\Objekte\Tafeln\DToepel\Ne3\Ne3-normal-2.l3dgrp" TafelFile300="\Objekte\Tafeln\DToepel\Ne3\Ne3-normal-3.l3dgrp" TafelPos100="100" TafelPos200="175" TafelPos300="250" Typ="Vorsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="-5.6;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+						<TafelObjExtraData100>
+							<Position>
+								<Props Position="-5.5;0;0" Rotation="0;0;0"/>
+							</Position>
+						</TafelObjExtraData100>
+						<TafelObjExtraData200>
+							<Position>
+								<Props Position="-5.5;0;0" Rotation="0;0;0"/>
+							</Position>
+						</TafelObjExtraData200>
+						<TafelObjExtraData300>
+							<Position>
+								<Props Position="-5.5;0;0" Rotation="0;0;0"/>
+							</Position>
+						</TafelObjExtraData300>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi500Bis="0" KennLimit="150" KennLimitHide="40" Pos="2410" SignalFile="\Signale\JulianG\Sonstiges\Fahrtanzeiger_Einzelmast.l3dgrp" Typ="Vorsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="-6;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+				</SIGNAL>
+				<Signaloptionen>
+					<Value>
+						<Props Pos="1400" VSigAus="TRUE" Zs6="TRUE"/>
+					</Value>
+				</Signaloptionen>
+				<Haltepunkt>
+					<Value>
+						<Props File="" Name="ENDE" Pos="0" ToleranzMinus="25" ToleranzPlus="25" Zuglaenge="0"/>
+					</Value>
+				</Haltepunkt>
+				<LZB>
+				</LZB>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</ZURUECK>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="Gleis S"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="-4" ParallelEnd="4600" ParallelGleis="Gleis N" ParallelStart="0" StartPos="0" StartPunkt="0;0;0" Typ="Parallel" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
+			</Erstellung>
+			<Ausweiche>
+				<Props Abstand="-1" Ende="4600" KurvenWeite="1100" Start="200"/>
+			</Ausweiche>
+			<Ausweiche>
+				<Props Abstand="1" Ende="4600" KurvenWeite="1200" Start="3200"/>
+			</Ausweiche>
+		</TOPOLOGIE>
+		<Objecte>
+			<Object>
+				<Props Name="2450 Bahnsteig" Offset="-0.5;0;11" Position="2425" Qualitaet="0"/>
+				<Eintrag>
+					<Props Abstand="11" Anzahl="25" Datei="\Objekte\Bahnsteige\Frieder\Seitenbahnsteig2.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" Winkel="180;0;0"/>
+				</Eintrag>
+			</Object>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+			<Landschaftsobjekt>
+				<Props Abstand="20" Name="Schotter" Polygon="TRUE" Position="0" Scale="0.17378" Texture="TRUE" TextureFile="\Texturen\juliang\Schotter_Dunkler3.bmp" Zwischenpunkte="TRUE"/>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="0" Verschiebung="3"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="0" Verschiebung="-3"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="4600" Verschiebung="-3"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="4600" Verschiebung="3"/>
+				</Landschaftsobjekt>
+			</Landschaftsobjekt>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+			<VOR>
+				<STRECKENNAMEN>
+					<Value>
+						<Props Pos="1300" Value="Esig"/>
+					</Value>
+					<Value>
+						<Props Pos="2700" Value="Asig"/>
+					</Value>
+					<Value>
+						<Props Pos="3000" Value="¥"/>
+					</Value>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile1000="\Signale\KS_Saalbahn\PZB\Indusimagnet2XS.l3dgrp" IndusiFile2000="\Signale\KS_Saalbahn\PZB\Indusimagnet2XS.l3dgrp" IndusiFile500="\Signale\KS_Saalbahn\PZB\Indusimagnet1XS.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" IndusiPos500="250" KennLimit="150" KennLimitHide="40" Pos="1300" SignalFile="\Signale\Einheitssignale Bauform 1969\Hauptsignale\Hauptsignal+Vorsignal.l3dgrp" Typ="Kombisignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="-5.6;0;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props TEXT="&#39;AA&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi500Bis="0" IndusiFile1000="\Signale\KS_Saalbahn\PZB\Indusimagnet2XS.l3dgrp" IndusiPos1000="0" KennLimit="150" KennLimitHide="40" Pos="300" SignalFile="\Signale\Einheitssignale Bauform 1969\Vorsignale\Vorsignal.l3dgrp" Tafel100="TRUE" Tafel200="TRUE" Tafel300="TRUE" TafelFile100="\Objekte\Tafeln\DToepel\Ne3\Ne3-normal-1.l3dgrp" TafelFile200="\Objekte\Tafeln\DToepel\Ne3\Ne3-normal-2.l3dgrp" TafelFile300="\Objekte\Tafeln\DToepel\Ne3\Ne3-normal-3.l3dgrp" TafelPos100="100" TafelPos200="175" TafelPos300="250" Typ="Vorsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="-5.6;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+						<TafelObjExtraData100>
+							<Position>
+								<Props Position="-5.5;0;0" Rotation="0;0;0"/>
+							</Position>
+						</TafelObjExtraData100>
+						<TafelObjExtraData200>
+							<Position>
+								<Props Position="-5.5;0;0" Rotation="0;0;0"/>
+							</Position>
+						</TafelObjExtraData200>
+						<TafelObjExtraData300>
+							<Position>
+								<Props Position="-5.5;0;0" Rotation="0;0;0"/>
+							</Position>
+						</TafelObjExtraData300>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile1000="\Signale\KS_Saalbahn\PZB\Indusimagnet2XS.l3dgrp" IndusiFile2000="\Signale\KS_Saalbahn\PZB\Indusimagnet2XS.l3dgrp" IndusiFile500="\Signale\KS_Saalbahn\PZB\Indusimagnet1XS.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" IndusiPos500="250" KennLimit="150" KennLimitHide="40" Pos="2700" SignalFile="\Signale\Einheitssignale Bauform 1969\Haupt-Sperrsignale\Haupt-Sperrsignal_hoch.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="0.2;0;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props TEXT="&#39;N1&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi500Bis="0" KennLimit="150" KennLimitHide="40" Pos="2900" SignalFile="\Signale\JulianG\HV-69-mod\Zs6_Einzelmast.l3dgrp" Typ="Sonstiges" VSigLimit="0" Zwischensignal="FALSE"/>
+					</Value>
+				</SIGNAL>
+				<Signaloptionen>
+					<Value>
+						<Props Pos="3000" VSigAus="TRUE" Zs6="TRUE"/>
+					</Value>
+				</Signaloptionen>
+				<Haltepunkt>
+					<Value>
+						<Props File="" Name="ENDE GLEIS S" Pos="4600" ToleranzMinus="25" ToleranzPlus="25" Zuglaenge="0"/>
+					</Value>
+				</Haltepunkt>
+				<Bahnuebergang>
+				</Bahnuebergang>
+				<RAIL>
+				</RAIL>
+				<RailQuality>
+				</RailQuality>
+				<LZB>
+				</LZB>
+				<Kilometrierung>
+				</Kilometrierung>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Ueberhoehung>
+				</Ueberhoehung>
+				<RailProps>
+				</RailProps>
+				<Bremswegabstand>
+				</Bremswegabstand>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</VOR>
+			<ZURUECK>
+				<STRECKENNAMEN>
+					<Value>
+						<Props Pos="4200" Value="Sbk 104"/>
+					</Value>
+					<Value>
+						<Props Pos="3200" Value="Esig"/>
+					</Value>
+					<Value>
+						<Props Pos="1700" Value="Asig"/>
+					</Value>
+					<Value>
+						<Props Pos="700" Value="Sbk 102"/>
+					</Value>
+					<Value>
+						<Props Pos="1350" Value="¥"/>
+					</Value>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="160" KMHNEIG="160" KeinHp2="FALSE" NichtImFahrplan="TRUE" Pos="1350"/>
+					</Value>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile1000="\Signale\KS_Saalbahn\PZB\Indusimagnet2XS.l3dgrp" IndusiFile2000="\Signale\KS_Saalbahn\PZB\Indusimagnet2XS.l3dgrp" IndusiFile500="\Signale\KS_Saalbahn\PZB\Indusimagnet1XS.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" IndusiPos500="250" KennLimit="150" KennLimitHide="40" Pos="4200" SignalFile="\Signale\Einheitssignale Bauform 1969\Blocksignale\Selbstblocksignal+Vorsignal_Strecke.l3dgrp" Typ="Kombisignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props TEXT="&#39;104&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile1000="\Signale\KS_Saalbahn\PZB\Indusimagnet2XS.l3dgrp" IndusiFile2000="\Signale\KS_Saalbahn\PZB\Indusimagnet2XS.l3dgrp" IndusiFile500="\Signale\KS_Saalbahn\PZB\Indusimagnet1XS.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" IndusiPos500="250" KennLimit="150" KennLimitHide="40" Pos="3200" SignalFile="\Signale\Einheitssignale Bauform 1969\Hauptsignale\Hauptsignal+Vorsignal.l3dgrp" Typ="Kombisignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="0.9;0;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props TEXT="&#39;F&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile1000="\Signale\KS_Saalbahn\PZB\Indusimagnet2XS.l3dgrp" IndusiFile2000="\Signale\KS_Saalbahn\PZB\Indusimagnet2XS.l3dgrp" IndusiFile500="\Signale\KS_Saalbahn\PZB\Indusimagnet1XS.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" IndusiPos500="250" KennLimit="150" KennLimitHide="40" Pos="1700" SignalFile="\Signale\Einheitssignale Bauform 1969\Haupt-Sperrsignale\Haupt-Sperrsignal_hoch+Vorsignal.l3dgrp" Typ="Kombisignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="0.9;0;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props TEXT="&#39;P1&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\KS_Saalbahn\PZB\Indusimagnet2XS.l3dgrp" IndusiFile500="\Signale\KS_Saalbahn\PZB\Indusimagnet1XS.l3dgrp" IndusiPos2000="0" IndusiPos500="250" KennLimit="150" KennLimitHide="40" Pos="700" SignalFile="\Signale\Einheitssignale Bauform 1969\Blocksignale\Selbstblocksignal_Strecke.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props TEXT="&#39;102&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi500Bis="0" KennLimit="150" KennLimitHide="40" Pos="2750" SignalFile="\Objekte\Tafeln\DToepel\Zs10\Zs10.l3dgrp" Typ="Sonstiges" VSigLimit="0" Zwischensignal="FALSE"/>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi500Bis="0" KennLimit="150" KennLimitHide="40" Pos="2410" SignalFile="\Signale\JulianG\Sonstiges\Fahrtanzeiger_Einzelmast.l3dgrp" Typ="Vorsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="1;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+					<Value>
+						<Props File="" Name="GLEIS S ENDE" Pos="4600" ToleranzMinus="25" ToleranzPlus="25" Zuglaenge="0"/>
+					</Value>
+					<Value>
+						<Props File="" Name="ENDE" Pos="0" ToleranzMinus="25" ToleranzPlus="25" Zuglaenge="0"/>
+					</Value>
+				</Haltepunkt>
+				<LZB>
+				</LZB>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</ZURUECK>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="Gleis 3"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="6" ParallelEnd="2315" ParallelGleis="Gleis N" ParallelStart="1837" StartPos="0" StartPunkt="0;0;0" Typ="Parallel" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
+			</Erstellung>
+			<Weiche>
+				<Props Anfang="Vorne" ErstellungsArt="Annaeherung" Gleis="Gleis N" Kennung="12-3" Kruemung="10" Position="0" WeichenWinkel="6" WeichenWinkelDynamisch="FALSE"/>
+			</Weiche>
+			<Weiche>
+				<Props Anfang="Ende" ErstellungsArt="Annaeherung" Gleis="Gleis N" Kennung="12-4" Kruemung="10" Position="0" WeichenWinkel="6" WeichenWinkelDynamisch="FALSE"/>
+			</Weiche>
+		</TOPOLOGIE>
+		<Objecte>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+			<Landschaftsobjekt>
+				<Props Abstand="20" Name="Schotter" Polygon="TRUE" Position="1750" Scale="0.17378" Texture="TRUE" TextureFile="\Texturen\juliang\Schotter_Dunkler3.bmp" Zwischenpunkte="TRUE"/>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="0" Verschiebung="3"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="0" Verschiebung="-3"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="700" Verschiebung="-3"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="700" Verschiebung="3"/>
+				</Landschaftsobjekt>
+			</Landschaftsobjekt>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+			<VOR>
+				<STRECKENNAMEN>
+					<Value>
+						<Props Pos="2300" Value="Zsig"/>
+					</Value>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="40" KMHNEIG="40" KeinHp2="FALSE" NichtImFahrplan="TRUE" Pos="1755"/>
+					</Value>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="60" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile1000="\Signale\KS_Saalbahn\PZB\Indusimagnet2XS.l3dgrp" IndusiFile2000="\Signale\KS_Saalbahn\PZB\Indusimagnet2XS.l3dgrp" IndusiFile500="\Signale\KS_Saalbahn\PZB\Indusimagnet1XS.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" IndusiPos500="250" KennLimit="150" KennLimitHide="40" Pos="2300" SignalFile="\Signale\Einheitssignale Bauform 1969\Haupt-Sperrsignale\Haupt-Sperrsignal_hoch+Vorsignalwdh.l3dgrp" Typ="Kombisignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props TEXT="&#39;R3&#39;"/>
+							</Eigenschaften>
+							<Position>
+								<Props Position="0.9;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<Bahnuebergang>
+				</Bahnuebergang>
+				<RAIL>
+				</RAIL>
+				<RailQuality>
+				</RailQuality>
+				<LZB>
+				</LZB>
+				<Kilometrierung>
+				</Kilometrierung>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Ueberhoehung>
+				</Ueberhoehung>
+				<RailProps>
+				</RailProps>
+				<Bremswegabstand>
+				</Bremswegabstand>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</VOR>
+			<ZURUECK>
+				<STRECKENNAMEN>
+					<Value>
+						<Props Pos="1850" Value="Asig"/>
+					</Value>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="40" KMHNEIG="40" KeinHp2="FALSE" NichtImFahrplan="TRUE" Pos="2387"/>
+					</Value>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="60" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\KS_Saalbahn\PZB\Indusimagnet2XS.l3dgrp" IndusiFile500="\Signale\KS_Saalbahn\PZB\Indusimagnet1XS.l3dgrp" IndusiPos2000="0" IndusiPos500="250" KennLimit="150" KennLimitHide="40" Pos="1850" SignalFile="\Signale\Einheitssignale Bauform 1969\Haupt-Sperrsignale\Haupt-Sperrsignal_hoch.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="0;0;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props TEXT="&#39;P3&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+					<Value>
+						<Props File="" Name="Ü-Gleis" Pos="1900" ToleranzMinus="100" ToleranzPlus="50" Zuglaenge="0"/>
+					</Value>
+				</Haltepunkt>
+				<LZB>
+				</LZB>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</ZURUECK>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="Hgl Nebenstrecke"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="-10" ParallelEnd="0" ParallelGleis="" ParallelStart="0" StartPos="0" StartPunkt="0;0;0" Typ="Weiche" WeicheEnd="1200" WeicheGleis="Gleis S" WeicheGleisPos="2950" WeicheGleisRichtung="1" WeicheName="12-7" WeicheStart="0" WeichenWinkel="6" Winkel="0"/>
+			</Erstellung>
+			<KURVE>
+				<Props Ende="1000" SanfterWinkel="FALSE" Start="300" Winkel="-24"/>
+			</KURVE>
+		</TOPOLOGIE>
+		<Objecte>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+			<Landschaftsobjekt>
+				<Props Abstand="20" Name="Schotter" Polygon="TRUE" Position="0" Scale="0.17378" Texture="TRUE" TextureFile="\Texturen\juliang\Schotter_Dunkler3.bmp" Zwischenpunkte="TRUE"/>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="0" Verschiebung="3"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="0" Verschiebung="-3"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="1200" Verschiebung="-3"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="1200" Verschiebung="3"/>
+				</Landschaftsobjekt>
+			</Landschaftsobjekt>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+			<ZURUECK>
+				<STRECKENNAMEN>
+					<Value>
+						<Props Pos="110" Value="Esig"/>
+					</Value>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="40" KMHNEIG="40" KeinHp2="FALSE" NichtImFahrplan="FALSE" Pos="110"/>
+					</Value>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile1000="\Signale\KS_Saalbahn\PZB\Indusimagnet2XS.l3dgrp" IndusiFile2000="\Signale\KS_Saalbahn\PZB\Indusimagnet2XS.l3dgrp" IndusiFile500="\Signale\KS_Saalbahn\PZB\Indusimagnet1XS.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" IndusiPos500="250" KennLimit="150" KennLimitHide="40" Pos="110" SignalFile="\Signale\Einheitssignale Bauform 1969\Hauptsignale\Hauptsignal+Vorsignal.l3dgrp" Typ="Kombisignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="0.9;0;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props TEXT="&#39;G&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi500Bis="0" IndusiFile1000="\Signale\KS_Saalbahn\PZB\Indusimagnet2XS.l3dgrp" IndusiPos1000="0" KennLimit="150" KennLimitHide="40" Pos="810" SignalFile="\Signale\Einheitssignale Bauform 1969\Vorsignale\Vorsignal.l3dgrp" Tafel100="TRUE" Tafel200="TRUE" Tafel300="TRUE" TafelFile100="\Objekte\Tafeln\DToepel\Ne3\Ne3-normal-1.l3dgrp" TafelFile200="\Objekte\Tafeln\DToepel\Ne3\Ne3-normal-2.l3dgrp" TafelFile300="\Objekte\Tafeln\DToepel\Ne3\Ne3-normal-3.l3dgrp" TafelPos100="100" TafelPos200="175" TafelPos300="250" Typ="Vorsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="0.9;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<LZB>
+				</LZB>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</ZURUECK>
+			<VOR>
+				<STRECKENNAMEN>
+					<Value>
+						<Props Pos="0" Value="¥"/>
+					</Value>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="40" KMHNEIG="40" KeinHp2="FALSE" NichtImFahrplan="FALSE" Pos="0"/>
+					</Value>
+					<Value>
+						<Props File="\Objekte\Tafeln\DToepel\Lf\Lf7.l3dgrp" KMH="80" KMHNEIG="80" KeinHp2="FALSE" NichtImFahrplan="FALSE" Pos="200"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props Zahl="&#39;8&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+				</SIGNAL>
+				<Signaloptionen>
+					<Value>
+						<Props Pos="0" VSigAus="TRUE"/>
+					</Value>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<Bahnuebergang>
+				</Bahnuebergang>
+				<RAIL>
+				</RAIL>
+				<RailQuality>
+				</RailQuality>
+				<LZB>
+				</LZB>
+				<Kilometrierung>
+				</Kilometrierung>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Ueberhoehung>
+				</Ueberhoehung>
+				<RailProps>
+				</RailProps>
+				<Bremswegabstand>
+				</Bremswegabstand>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</VOR>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="Verbinder 1"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="-10" ParallelEnd="0" ParallelGleis="" ParallelStart="0" StartPos="0" StartPunkt="0;0;0" Typ="Weiche" WeicheEnd="20" WeicheGleis="Gleis S" WeicheGleisPos="1500" WeicheGleisRichtung="0" WeicheName="12-1" WeicheStart="0" WeichenWinkel="6" Winkel="0"/>
+			</Erstellung>
+			<Weiche>
+				<Props Anfang="Ende" ErstellungsArt="Annaeherung" Gleis="Gleis N" Kennung="12-2" Kruemung="10" Position="0" WeichenWinkel="6" WeichenWinkelDynamisch="FALSE"/>
+			</Weiche>
+		</TOPOLOGIE>
+		<Objecte>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+			<VOR>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="40" KMHNEIG="40" KeinHp2="FALSE" NichtImFahrplan="TRUE" Pos="0"/>
+					</Value>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<Bahnuebergang>
+				</Bahnuebergang>
+				<RAIL>
+				</RAIL>
+				<RailQuality>
+				</RailQuality>
+				<LZB>
+				</LZB>
+				<Kilometrierung>
+				</Kilometrierung>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Ueberhoehung>
+				</Ueberhoehung>
+				<RailProps>
+				</RailProps>
+				<Bremswegabstand>
+				</Bremswegabstand>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</VOR>
+			<ZURUECK>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="40" KMHNEIG="40" KeinHp2="FALSE" NichtImFahrplan="TRUE" Pos="42"/>
+					</Value>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<LZB>
+				</LZB>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</ZURUECK>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="Verbinder 2"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="-10" ParallelEnd="0" ParallelGleis="" ParallelStart="0" StartPos="0" StartPunkt="0;0;0" Typ="Weiche" WeicheEnd="20" WeicheGleis="Gleis N" WeicheGleisPos="2800" WeicheGleisRichtung="1" WeicheName="12-5" WeicheStart="0" WeichenWinkel="6" Winkel="0"/>
+			</Erstellung>
+			<Weiche>
+				<Props Anfang="Ende" ErstellungsArt="Annaeherung" Gleis="Gleis S" Kennung="12-6" Kruemung="10" Position="0" WeichenWinkel="6" WeichenWinkelDynamisch="FALSE"/>
+			</Weiche>
+		</TOPOLOGIE>
+		<Objecte>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+			<VOR>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="40" KMHNEIG="40" KeinHp2="FALSE" NichtImFahrplan="TRUE" Pos="0"/>
+					</Value>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<Bahnuebergang>
+				</Bahnuebergang>
+				<RAIL>
+				</RAIL>
+				<RailQuality>
+				</RailQuality>
+				<LZB>
+				</LZB>
+				<Kilometrierung>
+				</Kilometrierung>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Ueberhoehung>
+				</Ueberhoehung>
+				<RailProps>
+				</RailProps>
+				<Bremswegabstand>
+				</Bremswegabstand>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</VOR>
+			<ZURUECK>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="40" KMHNEIG="40" KeinHp2="FALSE" NichtImFahrplan="TRUE" Pos="42"/>
+					</Value>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<LZB>
+				</LZB>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</ZURUECK>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+</STRECKE>
