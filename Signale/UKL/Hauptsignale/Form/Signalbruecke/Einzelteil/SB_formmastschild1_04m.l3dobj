@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="Uwe Klein" FileInfo="Quelle: Hauptsignal 1-fluegelig mit/nGasbeleuchtung von Anderas Zimmermann" FilePicture="" Texture="\Signale\AndreasZ\Formsignale\Einzelteile\formmastschild1.bmp" TransTexture="" Transparent="TRUE" TransparentTyp="1"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="-0.1;4.617;-0.05"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.1;4.617;-0.05"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.1;7.917;-0.05"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="-0.1;7.917;-0.05"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;3;2;1" Texture="67,351;67,3;85,3;85,351"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="105,351;133,351;133,4;105,4"/>
+	</Flaeche>
+</OBJECT>

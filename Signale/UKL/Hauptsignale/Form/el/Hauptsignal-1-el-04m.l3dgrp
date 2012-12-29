@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="Uwe Klein" FileInfo="Hauptsignal Hp0&#47;Hp1, Ersatzsignal zuschaltbar/nGittermast Höhe: 4m; Elektrische Lampen nur während /nder Beleuchtungzeit an/nGleisabstand (ab Gleismitte) eintragen:/n2,2m Bhf; 3.1m freie Strecke/n/nOriginal:        (c) by Sebastian Leonow/nBearbeitung: (c) by Andreas Zimmermann, 03.10.2004/nBearbeitung: (c) Uwe Klein 2009" FilePicture="Hauptsignal-1-el-04m.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\UKL\Hauptsignale\Form\Einzelteil\Gittermast_04m.l3dobj" Position="0.126;-2;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\UKL\Zusatzsignale\Einzelteil\ersatzsignal_alt.l3dobj" Position="0.126;1.92;-0.2" Rotation="0;0;0" ShowOn="Ersatzsignal" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Hp1" Name="\Signale\AndreasZ\Formsignale\Einzelteile\Fluegel.l3dobj" Position="0.126;4.48;-0.05" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\AndreasZ\Formsignale\Einzelteile\Fluegel.l3dobj" Position="0.126;4.48;-0.05" Rotation="0;45;0" ShowOn="Hp1" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Hp1" Name="\Signale\AndreasZ\Formsignale\Einzelteile\hauptblende.l3dobj" Position="0.25;3.84;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\AndreasZ\Formsignale\Einzelteile\hauptblendeHp1.l3dobj" Position="0.24;4.06;0" Rotation="0;0;0" ShowOn="Hp1" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Brightness="70" GreaterAs="FALSE" HideOn="Hp1" Name="\Signale\UKL\Hauptsignale\Form\Einzelteil\formrot.l3dobj" Position="0.42;4.09;-0.05" Rotation="0;0;0" ShowIfBrightness="TRUE" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Brightness="70" GreaterAs="FALSE" Name="\Signale\UKL\Hauptsignale\Form\Einzelteil\formgruen.l3dobj" Position="0.42;4.09;-0.05" Rotation="0;0;0" ShowIfBrightness="TRUE" ShowOn="Hp1" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Hp1" Name="\Signale\UKL\Hauptsignale\Form\Einzelteil\mechhaupt1Hp0_04m_H.l3dobj" Position="0.06;-4;-0.05" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\UKL\Hauptsignale\Form\Einzelteil\mechhaupt1Hp1_04m_H.l3dobj" Position="0.06;-4;-0.05" Rotation="0;0;0" ShowOn="Hp1" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einzelteile\kasten1.l3dobj" Position="0.126;-0.2;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\AndreasZ\Formsignale\Einzelteile\e-lampe.l3dobj" Position="0.536;4.2;0.03" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\AndreasZ\Formsignale\Einzelteile\halterung.l3dobj" Position="0.536;4.15;0.15" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Hp1" Name="\Signale\Einzelteile\hauptblendehinten.l3dobj" Position="0.22;3.79;0.27" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einzelteile\hauptblendehintenHp1.l3dobj" Position="0.286;3.95;0.27" Rotation="0;0;0" ShowOn="Hp1" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\UKL\Hauptsignale\Form\Signalbruecke\Einzelteil\SB_formmastschild1_04m.l3dobj" Position="0.126;-3.7;-0.05" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\AndreasZ\Formsignale\Einzelteile\Sockel.l3dobj" Position="-0.074;-2.9;-0.03" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Brightness="70" GreaterAs="FALSE" Name="\Signale\AndreasZ\Formsignale\Einzelteile\weiss.l3dobj" Position="0.606;4.28;0.1" Rotation="180;0;0" ShowIfBrightness="TRUE" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\AndreasZ\Formsignale\Einzelteile\signalnummer.l3dobj" Position="0.131;1.54;-0.15" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\UKL\Hauptsignale\Form\Einzelteil\Umlenkrolle.l3dobj" Position="0.266;4.75;0.116" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\einzelteile\blendeklein.l3dobj" Position="0.086;2.24;-0.2" Rotation="0;0;0" ShowOn="Ersatzsignal" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\einzelteile\blendeklein.l3dobj" Position="-0.039;2.05;-0.2" Rotation="0;0;0" ShowOn="Ersatzsignal" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\einzelteile\blendeklein.l3dobj" Position="0.206;2.05;-0.2" Rotation="0;0;0" ShowOn="Ersatzsignal" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\einzelteile\weiss.l3dobj" Position="0.08;2.25;-0.12" Rotation="0;0;0" ShowOn="Zs1 and Ersatzsignal" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\einzelteile\weiss.l3dobj" Position="-0.045;2.07;-0.12" Rotation="0;0;0" ShowOn="Zs1 and Ersatzsignal" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\einzelteile\weiss.l3dobj" Position="0.2;2.07;-0.12" Rotation="0;0;0" ShowOn="Zs1 and Ersatzsignal" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\UKL\Hauptsignale\Form\Einzelteil\halterung_200.l3dobj" Position="0;1.93;0" Rotation="0;0;0" ShowOn="Ersatzsignal" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Font>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="0" DefaultText="A" Fonthoehe="0.23" GroupProperty="Signalnummer" Leuchtend="FALSE" Name="\Fonts\UKL\Berlin_Email.l3dfont" Position="0.131;1.69;-0.16" Rotation="0;0;0"/>
+	</Font>
+</GRUPPENOBJECT>

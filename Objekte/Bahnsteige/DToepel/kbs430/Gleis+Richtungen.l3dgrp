@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="" FileInfo="" FilePicture=""/>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Bahnsteige\skircher\Einzelteile\Metallmast 3m.l3dobj" Position="-4;0.8;-0.025" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Bahnsteige\RainerZ\Bahnsteignr.l3dobj" Position="-3.85;0.7;0" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Bahnsteige\RainerZ\Bahnsteignr.l3dobj" Position="-3.4;0.7;0" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Bahnsteige\skircher\Einzelteile\Schild-Halterung.l3dobj" Position="-4;3.83;0.035" Rotation="90;0;90" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Achtung-Zugfahrten.l3dobj" Position="-4.185;2.5;-0.04" Rotation="0;0;0" ShowOn="AchtungZugfahrten" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Achtung-Zugfahrten.l3dobj" Position="-3.743;2.5;0.06" Rotation="180;0;0" ShowOn="AchtungZugfahrten" ZoomFaktor="1"/>
+	</Object>
+	<Font>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="16777215" DefaultText="2" Fonthoehe="0.3" GroupProperty="GleisNr" Leuchtend="FALSE" Name="\Signale\KS-Signale2\Einzelteile\Blechgeschwindigkeit.l3dfont" Position="-3.2;3.6;-0.02" Rotation="0;0;0"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="16777215" DefaultText="2" Fonthoehe="0.3" GroupProperty="GleisNr" Leuchtend="FALSE" Name="\Signale\KS-Signale2\Einzelteile\Blechgeschwindigkeit.l3dfont" Position="-3.2;3.6;0.04" Rotation="180;0;0"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="Richtung/nXXXXXXX/nWarburg(Westf)" Fonthoehe="0.055" GroupProperty="Richtung1" Leuchtend="FALSE" Name="\Fonts\ArialNarrow.l3dfont" Position="-3.82;3.77;-0.02" Rotation="0;0;0"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="Richtung/nXXXXXXX/nWarburg(Westf)" Fonthoehe="0.055" GroupProperty="Richtung1" Leuchtend="FALSE" Name="\Fonts\ArialNarrow.l3dfont" Position="-3.48;3.77;0.04" Rotation="180;0;0"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="Hofgeismar/nKorbach/nWolfhagen" Fonthoehe="0.055" GroupProperty="Richtung2" Leuchtend="FALSE" Name="\Fonts\ArialNarrow.l3dfont" Position="-3.82;3.605;-0.02" Rotation="0;0;0"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="Hofgeismar/nKorbach/nWolfhagen" Fonthoehe="0.055" GroupProperty="Richtung2" Leuchtend="FALSE" Name="\Fonts\ArialNarrow.l3dfont" Position="-3.48;3.605;0.04" Rotation="180;0;0"/>
+	</Font>
+</GRUPPENOBJECT>

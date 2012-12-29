@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="" FileInfo="" FilePicture=""/>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="ohneFuss" Name="\Objekte\Tafeln\Frieder\ET\Betonpfosten 2m.l3dobj" Position="2.45;0;-0.05" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Tafeln\Frieder\ET\Betonpfosten 2m.l3dobj" Position="2.45;0.5;-0.05" Rotation="0;0;0" ShowOn="not ohneFuss and (geradeaus or links or rechts) " WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Tafeln\DToepel\einzelteile\El6.l3dobj" Position="2.52;2;-0.1" Rotation="0;225;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Tafeln\DToepel\einzelteile\El_15kv.l3dobj" Position="2.52;1.15;-0.1" Rotation="0;-45;0" ShowOn="AC" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Tafeln\DToepel\einzelteile\El_dc.l3dobj" Position="2.52;1.15;-0.1" Rotation="0;-45;0" ShowOn="DC" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Tafeln\Pfeil-für-ELTafeln.l3dobj" Position="2.27;2.4;-0.1" Rotation="0;0;0" ShowOn="rechts" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Tafeln\Pfeil-für-ELTafeln.l3dobj" Position="2.77;2.6;-0.1" Rotation="0;180;0" ShowOn="links" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Tafeln\Pfeil-für-ELTafeln.l3dobj" Position="2.625;2.4;-0.1" Rotation="0;90;0" ShowOn="geradeaus" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+</GRUPPENOBJECT>

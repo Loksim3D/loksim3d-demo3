@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<OBJECT>
+	<Props TransparentTyp="0" Beleuchtet="FALSE" Transparent="FALSE" FilePicture="" FileAuthor="" FileInfo="" Drawrueckseiten="TRUE" TransTexture="" Texture="Schild-Halterung.bmp"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0;1;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.04;1;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.04;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="0;0;0.04"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="0;1;0.04"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.04;1;0.04"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="0.04;0;0.04"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="0,282;0,0;26,0;26,282"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;6;5;4" Texture="0,279;0,0;27,0;26,279"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;2;6;7" Texture="0,281;0,0;26,0;26,281"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;1;0" Texture="0,280;0,0;25,0;25,280"/>
+	</Flaeche>
+</OBJECT>

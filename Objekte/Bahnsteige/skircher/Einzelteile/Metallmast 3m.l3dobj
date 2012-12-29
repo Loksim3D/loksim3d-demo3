@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<OBJECT>
+	<Props Beleuchtet="FALSE" Transparent="FALSE" FilePicture="" FileAuthor="" FileInfo="" Drawrueckseiten="TRUE" Texture="Schild.bmp"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0;3;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.07;3;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.07;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="0;0;0.07"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="0;3;0.07"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.07;3;0.07"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="0.07;0;0.07"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="168,537;165,370;207,376;211,533"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;6;5;4" Texture="169,534;166,372;206,378;211,535"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;2;6;7" Texture="167,536;164,372;204,378;209,537"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;1;0" Texture="166,537;169,374;207,377;207,537"/>
+	</Flaeche>
+</OBJECT>

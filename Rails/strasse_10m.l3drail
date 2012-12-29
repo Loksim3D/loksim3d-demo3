@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<RAIL>
+	<Props Transparent="FALSE" Spurbreite="0" Schienenbreite="0" FilePicture="" FileAuthor="Andreas Hofmann (hofmann@loksim.de)" FileInfo="Standardgleis" Schienenhoehe="0" Bettungsbreite="10" Texture="strasse_10m-markiert.bmp"/>
+	<TexSchieneOben>
+		<Props y1="0" x1="0" y2="0" x2="0"/>
+	</TexSchieneOben>
+	<TexSchieneSeite>
+		<Props y1="0" x1="0" y2="0" x2="0"/>
+	</TexSchieneSeite>
+	<TexBettung>
+		<Props y1="0" x1="0" y2="63" x2="127"/>
+	</TexBettung>
+	<Hoehe>
+		<Props Hoehe="-5;0;0"/>
+	</Hoehe>
+	<Hoehe>
+		<Props Hoehe="-4.7;0.3;0"/>
+	</Hoehe>
+	<Hoehe>
+		<Props Hoehe="4.7;0.3;0"/>
+	</Hoehe>
+	<Hoehe>
+		<Props Hoehe="5;0;0"/>
+	</Hoehe>
+</RAIL>
