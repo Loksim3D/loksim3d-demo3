@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="" FileInfo="" FilePicture="" Texture="Schirm-Hp.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="-0.1;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="-0.08;0.1;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0.08;0.1;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0.1;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0.04;0.09;-0.8"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="-0.04;0.09;-0.8"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0.07;0;-0.8"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="-0.07;0;-0.8"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;7;5;1" Texture="58,65;67,102;95,102;92,62"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="1;5;4;2" Texture="68,72;104,72;103,107;85,106"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;6;4;2" Texture="66,57;81,47;96,75;75,88"/>
+	</Flaeche>
+</OBJECT>

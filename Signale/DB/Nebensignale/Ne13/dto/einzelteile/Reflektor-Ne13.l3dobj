@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="" FileInfo="" FilePicture="" Texture="Mastschild-So18.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="0;0.2;-0.2" Vekt="-0.276;-0.046;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;-0.1" Vekt="-0.276;0.046;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;-0.1" Vekt="0.276;0.046;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0.2;-0.2" Vekt="0.276;-0.046;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0.2;-0.2" Vekt="-0.2576;-0.0644;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;-0.1" Vekt="-0.2576;0.0644;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;-0.1" Vekt="0.2576;0.0644;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0.2;-0.2" Vekt="0.2576;-0.0644;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="4;0;1;5;6;2;3;7" Texture="8,36;1,39;20,30;29,26;20,17;30,12;10,22;1,27"/>
+	</Flaeche>
+</OBJECT>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="TRUE" Drawrueckseiten="FALSE" FileAuthor="" FileInfo="" FilePicture="" Texture="signallichter.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="2"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="-0.02;-0.02;-0.04"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="-0.02;0.02;-0.04"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.02;0.02;-0.04"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.02;-0.02;-0.04"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="-0.02;-0.02;-0.04"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="-0.02;0.02;-0.04"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.02;0.02;-0.04"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="0.02;-0.02;-0.04"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="42,97;42,84;55,84;55,97"/>
+	</Flaeche>
+</OBJECT>

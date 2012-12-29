@@ -1,6 +1,6 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <GRUPPENOBJECT>
-	<Props FileAuthor="DToepel" FileInfo="Nebenbahnsignal/nZeigt Hp0, Hp1 oder Hp2" FilePicture="Hauptsignal.l3dgrp.jpg"/>
+	<Props FileAuthor="DToepel" FileDoku="" FileInfo="Nebenbahnsignal/nZeigt Hp0, Hp1 oder Hp2" FilePicture="Hauptsignal.l3dgrp.jpg"/>
 	<Object>
 		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Mast1969_460cm.l3dobj" Position="2.25;0.2;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
 	</Object>
@@ -35,25 +35,25 @@
 		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Sockel_Hp-Vr.l3dobj" Position="1.97;0;-0.15" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
 	</Object>
 	<Object>
-		<Props BlinkIntervall="0" Name="\Signale\DToepel\einzelteile\Nebenbahn1969\Schirm-Hp1.l3dobj" Position="2.25;4.4;-0.15" Rotation="0;0;0" ShowOn="ohneHp2" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+		<Props BlinkIntervall="0" Name="einzelteile\Schirm-Hp1.l3dobj" Position="2.25;4.4;-0.15" Rotation="0;0;0" ShowOn="ohneHp2" WeitSichtbar="FALSE" ZoomFaktor="1"/>
 	</Object>
 	<Object>
-		<Props BlinkIntervall="0" HideOn="ohneHp2" Name="\Signale\DToepel\einzelteile\Nebenbahn1969\Schirm-Hp2.l3dobj" Position="2.25;4.4;-0.15" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+		<Props BlinkIntervall="0" HideOn="ohneHp2" Name="einzelteile\Schirm-Hp2.l3dobj" Position="2.25;4.4;-0.15" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
 	</Object>
 	<Object>
-		<Props BlinkIntervall="0" Name="\Signale\DToepel\einzelteile\Nebenbahn1969\Schute.l3dobj" Position="2.25;5.35;-0.15" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+		<Props BlinkIntervall="0" Name="einzelteile\Schute.l3dobj" Position="2.25;5.35;-0.15" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
 	</Object>
 	<Object>
-		<Props BlinkIntervall="0" Name="\Signale\DToepel\einzelteile\Nebenbahn1969\Schute.l3dobj" Position="2.25;5.1;-0.15" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+		<Props BlinkIntervall="0" Name="einzelteile\Schute.l3dobj" Position="2.25;5.1;-0.15" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
 	</Object>
 	<Object>
-		<Props BlinkIntervall="0" HideOn="ohneHp2" Name="\Signale\DToepel\einzelteile\Nebenbahn1969\Schute.l3dobj" Position="2.25;4.585;-0.15" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+		<Props BlinkIntervall="0" HideOn="ohneHp2" Name="einzelteile\Schute.l3dobj" Position="2.25;4.585;-0.15" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
 	</Object>
 	<Object>
 		<Props BlinkIntervall="0" Name="\Signale\KS-Signale\Einzelteile\Ungültigkeitskreuz.l3dobj" Position="1.85;4.5;-0.2" Rotation="0;0;0" ShowOn="ungueltig" WeitSichtbar="FALSE" ZoomFaktor="1"/>
 	</Object>
 	<Object>
-		<Props BlinkIntervall="0" Name="\Signale\DToepel\einzelteile\Lampen\1969-weiss.l3dobj" Position="2.17;4.52;-0.2" Rotation="0;0;0" ShowOn="Kennlicht" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+		<Props BlinkIntervall="0" Name="\Signale\DB\Hauptsignal\1969\dto\Lampen\1969-weiss.l3dobj" Position="2.17;4.52;-0.2" Rotation="0;0;0" ShowOn="Kennlicht" WeitSichtbar="FALSE" ZoomFaktor="1"/>
 	</Object>
 	<Object>
 		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\scheinweiss.l3dobj" Position="2.25;4.6;-0.15" Rotation="0;0;0" ShowOn="Kennlicht" WeitSichtbar="TRUE" ZoomFaktor="130"/>

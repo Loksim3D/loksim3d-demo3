@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="" FileInfo="" FilePicture="" Texture="Schirm-Hp.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="2"/>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="-0.224;1.2;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0.224;1.2;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="0.224;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="-0.224;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="-0.224;0;0.06"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.224;0;0.06"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="-0.224;1.2;0.06"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.224;1.2;0.06"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="119,3;199,6;201,230;120,230"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="0;3;2;1" Texture="401,10;402,207;339,208;335,11"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="0;3;4;6" Texture="244,7;244,218;239,217;238,6"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;5;2;1" Texture="246,10;244,202;239,203;241,9"/>
+	</Flaeche>
+</OBJECT>
