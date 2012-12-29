@@ -1,4 +1,6 @@
 2012-12-29
+* [ukl] Bf Hainfurt: nördl. Bahnhofskopf kompl. geändert, teilweise Fahrleitung angepasst,
+                     Signalstandorte ESig angepasst.
 * [FC] Streckenabschnitt 1 der Hauptbahn hinzugefügt, erster Porbefahrplan für die Hauptbahn
 * [dto] Tafelset und probeweise Gleispläne, Vorschlag für Hainfurt Nord (erster Bf el. Nebenbahn)
 * [ukl] Mit dem Fahrleitungsbau Bf Hainfurt Gl. 4/5 begonnen
