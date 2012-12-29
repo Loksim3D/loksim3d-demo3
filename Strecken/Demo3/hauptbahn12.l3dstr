@@ -39,9 +39,6 @@
 					<Props Abstand="10" Anzahl="35" Datei="\Objekte\Bahnsteige\Frieder\Seitenbahnsteig4.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="11" Verschiebung="0;0;0" Winkel="180;0;0"/>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="10" Anzahl="35" Datei="\Objekte\Bahnsteige\Frieder\Seitenbahnsteig4.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="-12;0;0" Winkel="0;0;0"/>
-				</Eintrag>
-				<Eintrag>
 					<Props Abstand="10" Anzahl="15" Datei="\Objekte\Bahnsteige\Frieder\Seitenbahnsteig4.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="211" Verschiebung="14;0;0" Winkel="180;0;0"/>
 				</Eintrag>
 			</Object>
@@ -379,10 +376,16 @@
 				<Props EndPunkt="1000" ParallelAbstand="-4" ParallelEnd="5000" ParallelGleis="Gleis S (2)" ParallelStart="0" StartPos="0" StartPunkt="0;0;0" Typ="Parallel" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
 			</Erstellung>
 			<Ausweiche>
-				<Props Abstand="-8" Ende="2500" KurvenWeite="200" Start="1750"/>
+				<Props Abstand="-8" Ende="2500" KurvenWeite="200" Start="1830"/>
 			</Ausweiche>
 		</TOPOLOGIE>
 		<Objecte>
+			<Object>
+				<Props Name="Bahnsteig" Offset="0;0;0" Position="1950" Qualitaet="1"/>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="35" Datei="\Objekte\Bahnsteige\Frieder\Seitenbahnsteig4.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+			</Object>
 		</Objecte>
 		<Hoeheunterbrechung>
 			<Landschaftsobjekt>
@@ -498,7 +501,7 @@
 						</ObjectProps>
 					</Value>
 					<Value>
-						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiFile500="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiPos2000="0" IndusiPos500="250" KennLimit="150" KennLimitHide="40" Pos="1950" SignalFile="\Signale\Einheitssignale Bauform 1969\Haupt-Sperrsignale\Haupt-Sperrsignal.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiFile500="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiPos2000="0" IndusiPos500="250" KennLimit="150" KennLimitHide="40" Pos="1948.5" SignalFile="\Signale\Einheitssignale Bauform 1969\Haupt-Sperrsignale\Haupt-Sperrsignal.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
 						<ObjectProps>
 							<Position>
 								<Props Position="-0.25;0;0" Rotation="0;0;0"/>
@@ -678,9 +681,9 @@
 		</TOPOLOGIE>
 		<Objecte>
 			<Object>
-				<Props Name="Bahnhof" Offset="0;0;0" Position="2000" Qualitaet="5"/>
+				<Props Name="Bahnhof" Offset="0;0;0" Position="2100" Qualitaet="5"/>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Haeuser\Frieder\Bahnhof\EG_Budenheim.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="5;0.8;0" Winkel="180;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Haeuser\Frieder\Bahnhof\EG_Steinbach.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="10;0.8;0" Winkel="180;0;0"/>
 				</Eintrag>
 			</Object>
 		</Objecte>
@@ -788,7 +791,7 @@
 		<Props Name="Gleis 4"/>
 		<TOPOLOGIE>
 			<Erstellung>
-				<Props EndPunkt="1000" ParallelAbstand="-4" ParallelEnd="2600" ParallelGleis="Gleis N (3)" ParallelStart="1650" StartPos="0" StartPunkt="0;0;0" Typ="Parallel" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
+				<Props EndPunkt="1000" ParallelAbstand="-4" ParallelEnd="2610" ParallelGleis="Gleis N (3)" ParallelStart="1650" StartPos="0" StartPunkt="0;0;0" Typ="Parallel" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
 			</Erstellung>
 			<Weiche>
 				<Props Anfang="Ende" ErstellungsArt="Annaeherung" Gleis="Gleis N (3)" Kennung="W15" Kruemung="15" Position="0" WeichenWinkel="6" WeichenWinkelDynamisch="FALSE"/>

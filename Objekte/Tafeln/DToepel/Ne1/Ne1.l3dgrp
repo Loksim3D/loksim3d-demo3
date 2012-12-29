@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="DT" FileInfo="Trapeztafel (Ne1) mit optischem Signal &#34;Kommen&#34; (Zp11)/nZp11 blinkt abwechselnd lang und kurz bei Hp1" FilePicture="Ne1+Zp11.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Tafeln\DToepel\einzelteile\Ne1-Tafel-rostig.l3dobj" Position="0;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Tafeln\Frieder\ET\Betonpfosten 2m.l3dobj" Position="3.05;-0.2;0.01" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+</GRUPPENOBJECT>

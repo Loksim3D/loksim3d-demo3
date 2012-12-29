@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="DT" FileInfo="Ne3, normal, 1 Streifen, + Dreieck" FilePicture="Ne3.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="rostig" Name="\Objekte\Tafeln\DToepel\Einzelteile\Ne3-leer.l3dobj" Position="2.5;1;0.01" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Tafeln\DToepel\Einzelteile\Ne3-leer-rostig.l3dobj" Position="2.5;1;0.01" Rotation="0;0;0" ShowOn="rostig" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="ohneReflektor" Name="\Objekte\Tafeln\DToepel\Einzelteile\Ne3-Balken-Weiss.l3dobj" Position="2.5;1.9;0" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Tafeln\DToepel\Einzelteile\Ne3-Balken-Schwarz.l3dobj" Position="2.5;1.6;0" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Tafeln\Frieder\ET\Tafelfuss.l3dobj" Position="2.7;-1.5;0.1" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Tafeln\DToepel\Einzelteile\dreieck.l3dobj" Position="2.52;2.55;0.05" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+</GRUPPENOBJECT>

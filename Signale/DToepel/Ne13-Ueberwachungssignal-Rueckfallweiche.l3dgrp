@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="Andreas Peter" FileInfo="Sperrsignal hoch, für Gleisabstände ab 4,5 m/n/n(c) Andreas Peter ; November 2004/n/nEDIT DToepel:/n/nZu Überwachungssignal für Rückfallweiche umgebaut" FilePicture="Sperrsignal-Rueckfallweiche.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" Name="einzelteile\Sperrsignal-Rueckfallweiche.l3dobj" Position="2.25;3.72;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Schute_Sh.l3dobj" Position="2.115;4.16;-0.08" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Schute_Sh.l3dobj" Position="2.295;4.16;-0.08" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\weiss.l3dobj" Position="2.24;4.18;-0.01" Rotation="0;0;0" ShowOn="Sh1" WeitSichtbar="TRUE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\scheinweiss.l3dobj" Position="2.285;4.12;-0.09" Rotation="0;0;0" ShowOn="Sh1" WeitSichtbar="TRUE" ZoomFaktor="120"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Sperrsignal-nieder_Sockel.l3dobj" Position="2.05;0.02;-0.2" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Rundmast.l3dobj" Position="2.25;0.3;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="einzelteile\Mastschilder\Mastschild-Ne13.l3dobj" Position="2.25;2.5;-0.1" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Rundmast-Sprosse.l3dobj" Position="2.25;0.8;0.05" Rotation="-90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Rundmast-Sprosse.l3dobj" Position="2.25;1.9;0.05" Rotation="-90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Rundmast-Sprosse.l3dobj" Position="2.25;2.8;0.05" Rotation="-90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Rundmast_Aussteifung.l3dobj" Position="2.25;0.2;0" Rotation="45;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Rundmast_Aussteifung.l3dobj" Position="2.25;0.2;0" Rotation="-45;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="einzelteile\Mastschilder\Reflektor-Ne13.l3dobj" Position="2.25;3.94;-0.1" Rotation="0;0;0" WeitSichtbar="TRUE" ZoomFaktor="1"/>
+	</Object>
+</GRUPPENOBJECT>

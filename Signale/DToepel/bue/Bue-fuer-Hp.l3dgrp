@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="Markus niessen" FileInfo="Bahnübergang- Überwachungssignal/nmit Kreisschild" FilePicture="Bü-Überwachungssignal_Mk_kreis.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einzelteile\blende_bue.l3dobj" Position="2.18;4.25;-0.1" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0.67" Name="\Signale\Einzelteile\scheinweiss.l3dobj" Position="2.25;4.2;-0.1" Rotation="0;0;0" ShowOn="Bue1" ZoomFaktor="200"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\DToepel\einzelteile\kreisschild.l3dobj" Position="2.25;3;-0.1" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\DToepel\einzelteile\Bue-Signalschirm.l3dobj" Position="2;3.4;-0.11" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0.67" Name="\Signale\BUe-Ueberwachungssignal\UdoMM\weiss.l3dobj" Position="2.18;4.25;-0.1" Rotation="0;0;0" ShowOn="Bue1" ZoomFaktor="7"/>
+	</Object>
+</GRUPPENOBJECT>

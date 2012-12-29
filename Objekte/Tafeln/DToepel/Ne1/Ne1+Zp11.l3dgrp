@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="DT" FileInfo="Trapeztafel (Ne1) mit optischem Signal &#34;Kommen&#34; (Zp11)/nZp11 blinkt abwechselnd lang und kurz bei Hp1" FilePicture="Ne1+Zp11.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="rostig" Name="\Objekte\Tafeln\DToepel\einzelteile\Ne1-Tafel+Zp11.l3dobj" Position="0;0;0" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="1.5" HideOn="Hp0" Name="\Objekte\Tafeln\DToepel\einzelteile\weiss.l3dobj" Position="3.055;2.2;0.1" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0.5" HideOn="Hp0" Name="\Objekte\Tafeln\DToepel\einzelteile\weiss.l3dobj" Position="3.055;2.2;0.1" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0.5" HideOn="Hp0" Name="\Signale\Einzelteile\scheinweiss.l3dobj" Position="3.13;2.14;-0.05" Rotation="0;0;0" ZoomFaktor="150"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="1.5" HideOn="Hp0" Name="\Signale\Einzelteile\scheinweiss.l3dobj" Position="3.13;2.14;-0.05" Rotation="0;0;0" ZoomFaktor="150"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Tafeln\DToepel\einzelteile\Ne1-Tafel-rostig+Zp11.l3dobj" Position="0;0;0" Rotation="0;0;0" ShowOn="rostig" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\DToepel\einzelteile\blendemittel.l3dobj" Position="3.06;2.2;0" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Tafeln\Frieder\ET\Betonpfosten 2m.l3dobj" Position="3.05;-0.2;0.01" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+</GRUPPENOBJECT>

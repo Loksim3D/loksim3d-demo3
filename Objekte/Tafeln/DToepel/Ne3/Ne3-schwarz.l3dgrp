@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="DT" FileInfo="Ne3, normal, ungueltig, schwarz" FilePicture="Ne3.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Tafeln\DToepel\Einzelteile\Ne3-schwarz.l3dobj" Position="2.5;1;0.01" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Tafeln\Frieder\ET\Tafelfuss.l3dobj" Position="2.7;-1.5;0.1" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+</GRUPPENOBJECT>

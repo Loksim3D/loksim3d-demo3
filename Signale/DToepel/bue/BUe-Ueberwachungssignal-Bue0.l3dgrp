@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="Sebastian Kircher &#47; Modifiziert von Udo Michelmann" FileInfo="Bü-Überwachungssignal V1.1/n/n03. 07. 2003 - 16.12.2005/n/nModifikation: einfacher Mastschild ohne Zusatztafel/n/nDateiname ohne Sonderzeichen 12.11.2005 &#47; UdoMM/nBlinkintervall 0,7s + Vergrößerung 10x 16.12.2005 &#47; UdoMM" FilePicture="BUe-Ueberwachungssignal.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\BUe-Ueberwachungssignal\UdoMM\Signalmast.l3dobj" Position="2;0;0.02" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\DToepel\einzelteile\Bue0-Signalschirm.l3dobj" Position="2.02;3.4;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+</GRUPPENOBJECT>

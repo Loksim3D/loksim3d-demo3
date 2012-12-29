@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="Sebastian Kircher &#47; Modifiziert von Udo Michelmann" FileDoku="" FileInfo="Bü-Überwachungssignal V1.1/n/n03. 07. 2003 - 16.12.2005/n/nModifikation: einfacher Mastschild ohne Zusatztafel/n/nDateiname ohne Sonderzeichen 12.11.2005 &#47; UdoMM/nBlinkintervall 0,7s + Vergrößerung 10x 16.12.2005 &#47; UdoMM" FilePicture="BUe-Ueberwachungssignal.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\DToepel\einzelteile\Bue-Signalmast.l3dobj" Position="2;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\DToepel\einzelteile\Bue-Signalschirm2.l3dobj" Position="1.95;3.26;-0.03" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\BUe-Ueberwachungssignal\UdoMM\weiss.l3dobj" Position="2.18;4.25;0" Rotation="0;0;0" ShowOn="Bue1" WeitSichtbar="FALSE" ZoomFaktor="7"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Tafeln\DToepel\Einzelteile\dreieck.l3dobj" Position="2.05;0.6;-0.1" Rotation="0;0;0" ShowOn="kurz" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\DToepel\einzelteile\Nebenbahn1969\Schute.l3dobj" Position="2.25;4.17;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\DToepel\einzelteile\kreisschild.l3dobj" Position="2.25;2.7;0" Rotation="0;0;0" ShowOn="Wiederholer" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+</GRUPPENOBJECT>

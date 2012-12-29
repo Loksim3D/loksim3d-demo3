@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="DToepel" FileInfo="Anzuzeigende Zahl in &#34;Zahl&#34; eintragen /n&#34;,&#34; ist möglich/n&#34;%&#34; zeigt &#34;,5&#34; an/nggf. &#34;zweistellig anwählen um die Zahl in den unteren breiteren Bereich zu verschieben/n/n&#34;Wiederholer&#34; schaltet die beiden Lampen weg" FilePicture="Lf1.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Tafeln\DToepel\Einzelteile\Lf1-oben.l3dobj" Position="2.15;0.64;-0.15" Rotation="0;0;0" ShowOn="not zweistellig" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Tafeln\DToepel\Einzelteile\Lf1-oben.l3dobj" Position="2.15;0.7;-0.15" Rotation="0;0;0" ShowOn="zweistellig" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="ohneFuss" Name="\Objekte\Tafeln\Frieder\ET\Tafelfuss.l3dobj" Position="2.55;-2.3;-0.12" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Wiederholer" Name="\Objekte\Tafeln\DToepel\Einzelteile\Lf1-Lampe.l3dobj" Position="2.58;0.75;-5" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Wiederholer" Name="\Objekte\Tafeln\DToepel\Einzelteile\Lf1-Lampe.l3dobj" Position="2.88;0.225;-5" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Brightness="90" GreaterAs="FALSE" HideOn="Wiederholer or LichtAn" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\1969-gelb.l3dobj" Position="2.66;0.89;-5.04" Rotation="0;0;0" ShowIfBrightness="TRUE" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Brightness="90" GreaterAs="FALSE" HideOn="Wiederholer or LichtAn" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\1969-gelb.l3dobj" Position="2.96;0.37;-5.04" Rotation="0;0;0" ShowIfBrightness="TRUE" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Brightness="90" GreaterAs="FALSE" HideOn="Wiederholer or LichtAn" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\scheingelb.l3dobj" Position="2.75;0.96;-5.06" Rotation="0;0;0" ShowIfBrightness="TRUE" WeitSichtbar="FALSE" ZoomFaktor="100"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Brightness="90" GreaterAs="FALSE" HideOn="Wiederholer or LichtAn" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\scheingelb.l3dobj" Position="3.05;0.44;-5.06" Rotation="0;0;0" ShowIfBrightness="TRUE" WeitSichtbar="FALSE" ZoomFaktor="100"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Tafeln\DToepel\Einzelteile\Lf1-Pfeil-links.l3dobj" Position="2.23;0.45;-0.15" Rotation="0;0;0" ShowOn="links and not zweistellig" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Tafeln\DToepel\Einzelteile\Lf1-Pfeil-links.l3dobj" Position="2.23;0.5;-0.15" Rotation="0;0;0" ShowOn="links and zweistellig" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Tafeln\DToepel\Einzelteile\Lf1-Pfeil-rechts.l3dobj" Position="2.23;0.45;-0.15" Rotation="0;0;0" ShowOn="rechts and not zweistellig" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Tafeln\DToepel\Einzelteile\Lf1-Pfeil-rechts.l3dobj" Position="2.23;0.5;-0.15" Rotation="0;0;0" ShowOn="rechts and zweistellig" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\1969-gelb.l3dobj" Position="2.66;0.89;-5.04" Rotation="0;0;0" ShowOn="LichtAn and not Wiederholer" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\1969-gelb.l3dobj" Position="2.96;0.37;-5.04" Rotation="0;0;0" ShowOn="LichtAn and not Wiederholer" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\scheingelb.l3dobj" Position="2.75;0.96;-5.06" Rotation="0;0;0" ShowOn="LichtAn and not Wiederholer" WeitSichtbar="FALSE" ZoomFaktor="100"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Brightness="70" GreaterAs="FALSE" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\scheingelb.l3dobj" Position="3.05;0.44;-5.06" Rotation="0;0;0" ShowIfBrightness="TRUE" ShowOn="LichtAn and not Wiederholer" WeitSichtbar="FALSE" ZoomFaktor="100"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="ohneFuss or Wiederholer" Name="\Objekte\Tafeln\Frieder\ET\Tafelfuss.l3dobj" Position="2.84;-2.5;-5.12" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Font>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="16777215" DefaultText="0" Fonthoehe="0.33" GroupProperty="Zahl" Leuchtend="FALSE" Name="\Objekte\Tafeln\DToepel\Einzelteile\blechgeschwindigkeit-1-schmal-schwarz.l3dfont" Position="2.61;0.95;-0.2" Rotation="0;0;0"/>
+	</Font>
+</GRUPPENOBJECT>

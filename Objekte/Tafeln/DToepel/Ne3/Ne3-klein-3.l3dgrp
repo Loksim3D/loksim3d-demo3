@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="DT" FileDoku="" FileInfo="Ne3, klein, 3 Streifen" FilePicture="Ne3.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Tafeln\DToepel\Einzelteile\Ne3-quadrat-3.l3dobj" Position="1.7;0.1;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Tafeln\DToepel\Einzelteile\Ne3-quadrat-3-reflektor.l3dobj" Position="1.7;0.1;-0.02" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Tafeln\Frieder\ET\Tafelfuss.l3dobj" Position="1.95;-2.75;0.05" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Tafeln\DToepel\Einzelteile\dreieck.l3dobj" Position="1.8;0.77;0.05" Rotation="0;0;0" ShowOn="kurz" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+</GRUPPENOBJECT>

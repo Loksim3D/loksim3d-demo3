@@ -1,4 +1,5 @@
 2012-12-29
+* [dto] Tafelset und probeweise Gleispläne
 * [ukl] Mit dem Fahrleitungsbau Bf Hainfurt Gl. 4/5 begonnen
 
 2012-12-28

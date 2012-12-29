@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="" FileInfo="" FilePicture="" Texture="Mastschild-bue.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="-0.06;0;-0.05"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.06;0;-0.05"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.06;-1.7;-0.05"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="-0.06;-1.7;-0.05"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="4,12;16,12;14,191;2,192"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="0;3;2;1" Texture="7,30;6,44;12,51;13,34"/>
+	</Flaeche>
+</OBJECT>

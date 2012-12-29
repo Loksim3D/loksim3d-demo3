@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="DT" FileInfo="Schneepflugtafel (Ne7&#47;So7)" FilePicture="Ne7.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Tafeln\Frieder\ET\Tafelfuss.l3dobj" Position="2.9;-1.1;-0.05" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="rostig or So7" Name="\Objekte\Tafeln\DToepel\Einzelteile\Ne7-PfeilO.l3dobj" Position="2.95;2.1;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="rostig or So7" Name="\Objekte\Tafeln\DToepel\Einzelteile\Ne7-PfeilU.l3dobj" Position="2.95;2.1;0" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Tafeln\DToepel\Einzelteile\Ne7-PfeilO-rostig.l3dobj" Position="2.95;2.1;0" Rotation="0;0;0" ShowOn="rostig and not So7" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Tafeln\DToepel\Einzelteile\Ne7-PfeilU-rostig.l3dobj" Position="2.95;2.1;0" Rotation="180;0;0" ShowOn="rostig and not So7" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Tafeln\DToepel\Einzelteile\So7-PfeilO.l3dobj" Position="2.95;2.1;0" Rotation="0;0;0" ShowOn="So7 and not rostig" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Tafeln\DToepel\Einzelteile\So7-PfeilU.l3dobj" Position="2.95;2.1;0" Rotation="180;0;0" ShowOn="So7 and not rostig" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Tafeln\DToepel\Einzelteile\So7-PfeilO-rostig.l3dobj" Position="2.95;2.1;0" Rotation="0;0;0" ShowOn="rostig and So7" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Tafeln\DToepel\Einzelteile\So7-PfeilU-rostig.l3dobj" Position="2.95;2.1;0" Rotation="180;0;0" ShowOn="rostig and So7" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+</GRUPPENOBJECT>

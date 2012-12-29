@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="DToepel" FileInfo="Lf3 - Endscheibe" FilePicture="Lf3.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Tafeln\DToepel\Einzelteile\Lf3.l3dobj" Position="2.66;2.1;-0.15" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="ohneFuss" Name="\Objekte\Tafeln\Frieder\ET\Tafelfuss.l3dobj" Position="2.6;-1.1;-0.12" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+</GRUPPENOBJECT>

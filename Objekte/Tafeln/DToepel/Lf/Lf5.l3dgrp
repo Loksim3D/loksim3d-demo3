@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="DToepel" FileDoku="" FileInfo="Lf5 - Anfangtafel" FilePicture="Lf5.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Tafeln\DToepel\Einzelteile\Lf5.l3dobj" Position="2.745;1.89;-0.12" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="ohneFuss" Name="\Objekte\Tafeln\Frieder\ET\Tafelfuss.l3dobj" Position="2.7;-1.1;-0.05" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+</GRUPPENOBJECT>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="" FileInfo="" FilePicture="" Texture="Sperrsignal-Rueckfallweiche.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="-0.315;0.13;-0.087"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;0;-1" Vekt="-0.315;0.37;-0.087"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;-1" Vekt="-0.15;0.53;-0.087"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;-1" Vekt="0.15;0.53;-0.087"/>
+	</Point>
+	<Point>
+		<Props Normal="1;0;-1" Vekt="0.315;0.37;-0.087"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.315;0.13;-0.087"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="-0.315;0.13;0.087"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;0;1" Vekt="-0.315;0.37;0.087"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;1" Vekt="-0.15;0.53;0.087"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;1" Vekt="0.15;0.53;0.087"/>
+	</Point>
+	<Point>
+		<Props Normal="1;0;1" Vekt="0.315;0.37;0.087"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="0.315;0.13;0.087"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3;4;5" Texture="5,203;5,149;43,108;111,108;152,148;154,201"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="6;11;10;9;8;7" Texture="110,80;6,90;6,49;34,14;83,7;109,35"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="0;6;7;1" Texture="126,107;164,106;161,59;124,61"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="1;7;8;2" Texture="126,102;163,98;160,62;125,63"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="2;8;9;3" Texture="125,63;161,61;163,100;126,100"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;9;10;4" Texture="125,64;162,62;163,101;126,103"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;10;11;5" Texture="124,63;161,61;164,104;126,106"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="0;5;11;6" Texture="15,48;13,83;32,81;32,48"/>
+	</Flaeche>
+</OBJECT>

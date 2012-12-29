@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="DT" FileDoku="" FileInfo="Schachbretttafel (Ne4)" FilePicture="Ne4.jpg" Texture="schachbrett2x4.bmp" TransTexture="" Transparent="TRUE" TransparentTyp="1"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="1.8;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="1.8;1.5;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="2.2;1.5;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="2.2;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="1.8;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="1.8;1.5;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="2.2;1.5;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="2.2;0;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="0,128;0,0;64,0;64,128"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;6;5;4" Texture="64,128;64,0;128,0;128,128"/>
+	</Flaeche>
+</OBJECT>

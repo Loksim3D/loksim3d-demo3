@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<OBJECT>
+	<Props TransparentTyp="1" Beleuchtet="FALSE" Transparent="TRUE" FilePicture="" FileAuthor="" FileInfo="" Drawrueckseiten="TRUE" TransTexture="" Texture="Ungültigkeitskreuz.bmp"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0;0.8;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.8;0.8;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.8;0;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="2,372;2,0;418,0;418,371"/>
+	</Flaeche>
+</OBJECT>

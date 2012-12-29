@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="Andreas Peter" FileInfo="Einfahrtsignal bzw. Blocksignal/nAbstand zur Gleisachse: 2.20 m/n/n(c) Andreas Peter ; Oktober 2004" FilePicture="Hauptsignal.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Mast1969_460cm.l3dobj" Position="2.25;0.2;0" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="ungueltig" Name="\Signale\DToepel\einzelteile\Mastschilder\Mastschild-bue.l3dobj" Position="2.25;3.5;0" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\1969-gelb.l3dobj" Position="2.17;4.52;-0.2" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0.8" Name="\Signale\DToepel\einzelteile\Lampen\1969-weiss.l3dobj" Position="2.17;5.25;-0.2" Rotation="0;0;0" ShowOn="Bue1 and not immerBue0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Schaltkasten.l3dobj" Position="2;0.6;-0.35" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\DToepel\einzelteile\Lampen\gelb-fern.l3dobj" Position="2.25;4.6;0.1" Rotation="0;0;0" ZoomFaktor="160"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0.8" Name="\Signale\DToepel\einzelteile\Lampen\weiss-fern.l3dobj" Position="2.25;5.325;0.1" Rotation="0;0;0" ShowOn="Bue1 and not immerBue0" ZoomFaktor="180"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Sockel_Hp-Vr.l3dobj" Position="1.97;0;-0.15" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="immerBue0" Name="\Signale\DToepel\einzelteile\Nebenbahn1969\Schute.l3dobj" Position="2.25;5.35;-0.15" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\DToepel\einzelteile\Nebenbahn1969\Schute.l3dobj" Position="2.25;4.585;-0.15" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\KS-Signale\Einzelteile\Ungültigkeitskreuz.l3dobj" Position="1.85;4.5;-0.2" Rotation="0;0;0" ShowOn="ungueltig" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\DToepel\einzelteile\kreisschild.l3dobj" Position="2.25;3.72;0" Rotation="0;0;0" ShowOn="Wiederholer" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="immerBue0" Name="\Signale\DToepel\einzelteile\Nebenbahn1969\Schirm-Bue.l3dobj" Position="2.25;4.4;-0.15" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\DToepel\einzelteile\Nebenbahn1969\Schirm-Bue0.l3dobj" Position="2.25;4.4;-0.15" Rotation="0;0;0" ShowOn="immerBue0" ZoomFaktor="1"/>
+	</Object>
+</GRUPPENOBJECT>

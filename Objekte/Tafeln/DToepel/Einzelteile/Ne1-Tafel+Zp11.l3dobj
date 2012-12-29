@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="" FileInfo="" FilePicture="" Texture="Ne1-Tafel.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="2"/>
+	<Point>
+		<Props Normal="0;1;-0.7" Vekt="2.75;-0.75;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;-0.3" Vekt="2.75;2.25;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;-0.3" Vekt="3.5;2.25;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;-0.7" Vekt="3.5;-0.75;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="2.75;-0.75;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="2.75;2.25;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="3.5;2.25;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="3.5;-0.75;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="0,256;0,0;63,0;63,256"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;6;5;4" Texture="65,255;63,0;127,0;127,255"/>
+	</Flaeche>
+</OBJECT>

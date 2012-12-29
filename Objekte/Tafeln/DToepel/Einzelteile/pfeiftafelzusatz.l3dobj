@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="" FileInfo="" FilePicture="" Texture="pfeiftafelzusatz.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="0;1;0" Vekt="-0.21;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="-0.21;0.165;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="0.21;0.165;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="0.21;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="-0.21;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="-0.21;0.165;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="0.21;0.165;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="0.21;0;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="2,46;2,1;86,1;86,46"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;6;5;4" Texture="32,4;33,2;27,1;27,4"/>
+	</Flaeche>
+</OBJECT>

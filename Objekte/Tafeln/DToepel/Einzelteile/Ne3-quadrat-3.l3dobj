@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="" FileInfo="" FilePicture="" Texture="Ne3-quadrat-3.bmp" TransTexture="" Transparent="TRUE" TransparentTyp="1"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0;0.7;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.6;0.7;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.6;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="0;0.7;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.6;0.7;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="0.6;0;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="0,120;0,0;101,0;101,120"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;6;5;4" Texture="0,270;0,150;100,150;100,270"/>
+	</Flaeche>
+</OBJECT>

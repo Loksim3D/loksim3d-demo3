@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="DT" FileDoku="" FileInfo="Verschiedene Schachbretttafeln (Ne4), einstellbar" FilePicture="Ne4.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Ne4Klein or PfeilRechts or PfeilLinks" Name="\Objekte\Tafeln\DToepel\einzelteile\schachbrett2x4.l3dobj" Position="0.55;0.5;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="PfeilLinks or PfeilRechts or not Ne4Klein" Name="\Objekte\Tafeln\DToepel\einzelteile\schachbrett3x2.l3dobj" Position="2.53;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Tafeln\DToepel\einzelteile\schachbrett3x2-re-li.l3dobj" Position="2.53;0;0" Rotation="0;0;0" ShowOn="PfeilLinks" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Tafeln\DToepel\einzelteile\schachbrett3x2-li-re.l3dobj" Position="2.53;0;0" Rotation="0;0;0" ShowOn="PfeilRechts" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Ne4Klein or PfeilRechts or PfeilLinks" Name="\Objekte\Tafeln\Frieder\ET\Tafelfuss.l3dobj" Position="2.5;-1.6;0.03" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="PfeilLinks or PfeilRechts or not Ne4Klein" Name="\Objekte\Tafeln\Frieder\ET\Tafelfuss.l3dobj" Position="2.5;-2.8;0.03" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Tafeln\Frieder\ET\Tafelfuss.l3dobj" Position="2.5;-2.6;0.03" Rotation="0;0;0" ShowOn="PfeilLinks or PfeilRechts" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+</GRUPPENOBJECT>

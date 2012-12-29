@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="DToepel" FileInfo="Anzuzeigende Zahl in &#34;Zahl&#34; eintragen /n&#34;,&#34; ist möglich/n&#34;%&#34; zeigt &#34;,5&#34; an/nggf. &#34;zweistellig anwählen um die Zahl in den unteren breiteren Bereich zu verschieben" FilePicture="Zs3v.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="zweistellig or nachOben" Name="\Signale\DToepel\einzelteile\KS-Zs3v-Blech.l3dobj" Position="2.18;2.56;-0.15" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\DToepel\einzelteile\KS-Zs3v-Blech.l3dobj" Position="2.18;2.5;-0.15" Rotation="0;0;0" ShowOn="zweistellig and not nachOben" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\DToepel\einzelteile\KS-Zs3v-BlechO.l3dobj" Position="2.18;2.74;-0.15" Rotation="0;0;0" ShowOn="zweistellig and nachOben" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\DToepel\einzelteile\KS-Zs3v-BlechO.l3dobj" Position="2.18;2.7;-0.15" Rotation="0;0;0" ShowOn="not zweistellig and nachOben" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="ohneFuss" Name="\Objekte\Tafeln\Frieder\ET\Tafelfuss.l3dobj" Position="2.59;-1.1;-0.12" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Font>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="16777215" DefaultText="" Fonthoehe="0.35" GroupProperty="Zahl" Leuchtend="FALSE" Name="\Objekte\Tafeln\DToepel\Einzelteile\blechgeschwindigkeit-1-schmal-gelb.l3dfont" Position="2.64;2.2;-0.2" Rotation="0;0;0"/>
+	</Font>
+</GRUPPENOBJECT>

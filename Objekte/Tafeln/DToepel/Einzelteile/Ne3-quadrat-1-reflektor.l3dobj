@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="TRUE" Drawrueckseiten="FALSE" FileAuthor="" FileInfo="" FilePicture="" Texture="Ne3-quadrat-1-reflektor.bmp" TransTexture="" Transparent="TRUE" TransparentTyp="1"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0;0.7;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.6;0.7;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.6;0;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="0,120;0,0;101,0;101,120"/>
+	</Flaeche>
+</OBJECT>

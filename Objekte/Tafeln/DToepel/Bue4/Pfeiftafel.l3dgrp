@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="Rainer Ziener" FileDoku="" FileInfo="Lf7 der DB (Tafel in Kaatschen gemessen)/nAlle x- u. z-Vektoren 0 gesetzt, alle y=1/nSchild steht 2m von Gleismitte und hat /nStahlrohr" FilePicture=""/>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="vorHaltepunkt" Name="\Objekte\Strassenschilder\RainerZ\Rohr3m.l3dobj" Position="2;-1.15;0.05" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Strassenschilder\RainerZ\Rohr3m.l3dobj" Position="2;-1;0.05" Rotation="0;0;0" ShowOn="vorHaltepunkt" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="verschmutzt" Name="\Objekte\Tafeln\DToepel\einzelteile\Bue4a.l3dobj" Position="2;1.825;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Tafeln\DToepel\einzelteile\Bue4b.l3dobj" Position="2;1.825;0" Rotation="0;0;0" ShowOn="verschmutzt" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Tafeln\DToepel\einzelteile\pfeiftafelzusatz.l3dobj" Position="2;2.15;0" Rotation="0;0;0" ShowOn="vorHaltepunkt" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+</GRUPPENOBJECT>

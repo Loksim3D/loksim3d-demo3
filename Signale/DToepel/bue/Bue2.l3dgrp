@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="Frieder Cramer" FileInfo="Bü2 für Bahnübergänge/n(Überwachungssignal erwarten)/nmit Bü-Ankündigungstafel/nKilometerangabe ist/nfrei editierbar" FilePicture="Bue2mitAnk.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Tafeln\Frieder\ET\Tafelfuss.l3dobj" Position="2.2;-1.1;0" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Tafeln\Frieder\ET\Bue2.l3dobj" Position="2.1;1;-0.01" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+</GRUPPENOBJECT>

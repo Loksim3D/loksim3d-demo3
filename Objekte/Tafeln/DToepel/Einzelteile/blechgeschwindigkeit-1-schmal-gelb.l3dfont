@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FONT>
+	<Props FileAuthor="" FileDoku="" FileInfo="" FilePicture="" Fonthoehe="66" Texture="blechgeschwindigkeit-1-schmal-gelb.bmp"/>
+	<Zeichen>
+		<Props Width="40" X="4" Y="5" Zeichen="0"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="25" X="56" Y="5" Zeichen="1"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="40" X="89" Y="5" Zeichen="2"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="40" X="141" Y="5" Zeichen="3"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="40" X="4" Y="76" Zeichen="4"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="39" X="56" Y="76" Zeichen="5"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="39" X="108" Y="76" Zeichen="6"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="40" X="160" Y="76" Zeichen="7"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="40" X="4" Y="147" Zeichen="8"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="40" X="56" Y="147" Zeichen="9"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="25" X="110" Y="150" Zeichen="%"/>
+	</Zeichen>
+</FONT>
