@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="Rainer Ziener" FileDoku="" FileInfo="KS-Signal/nMehrabschnittsignalschirm mit Zs7" FilePicture="" Texture="Schirm_KS_Zs7_Sh1_ZL.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="-0.32;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="-0.32;1.25;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.32;1.25;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.32;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="-0.32;0;0.1"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="-0.32;1.25;0.1"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.32;1.25;0.1"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="0.32;0;0.1"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="1,502;1,6;255,6;255,502"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;2;6;7" Texture="256,502;256,6;296,6;296,502"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;1;0" Texture="296,502;296,6;256,6;256,502"/>
+	</Flaeche>
+</OBJECT>

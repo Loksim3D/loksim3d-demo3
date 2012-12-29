@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="Rainer Ziener" FileDoku="" FileInfo="KS-Signal/nVorsignalschirm, nur Ks1 und Ks2/nOriginal RainerZ" FilePicture="" Texture="Schirm_Vsig.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="-0.32;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="-0.32;1;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.32;1;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.32;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="-0.32;0;0.1"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="-0.32;1;0.1"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.32;1;0.1"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="0.32;0;0.1"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="1,502;1,105;255,105;255,502"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;2;6;7" Texture="256,502;256,105;296,105;296,502"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;1;0" Texture="296,502;296,105;256,105;256,502"/>
+	</Flaeche>
+</OBJECT>

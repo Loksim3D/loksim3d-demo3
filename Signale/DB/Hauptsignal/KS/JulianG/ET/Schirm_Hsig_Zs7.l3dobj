@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="Rainer Ziener" FileDoku="" FileInfo="KS-Signal/nHauptsignal/nNur Hp0 und Ks1" FilePicture="" Texture="Schirm_Hsig_Zs7.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="-0.32;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="-0.32;1.25;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.32;1.25;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.32;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="-0.32;0;0.15"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="-0.32;1.22;0.15"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.32;1.22;0.15"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="0.32;0;0.15"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="1,502;1,6;255,6;255,502"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;6;5;4" Texture="256,502;256,6;510,6;510,502"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;2;6;7" Texture="318,371;317,52;389,53;397,370"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;1;0" Texture="292,370;292,35;369,35;366,369"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="1;5;6;2" Texture="262,96;263,49;497,53;495,101"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;4;0;3" Texture="264,108;500,116;499,69;264,64"/>
+	</Flaeche>
+</OBJECT>
