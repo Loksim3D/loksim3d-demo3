@@ -1,4 +1,5 @@
 2012-12-29
+* [jgu] Signalschirme für dto gebaut und in neue Ordnerstruktur gelegt
 * [ukl] Bf Hainfurt: nördl. Bahnhofskopf kompl. geändert, teilweise Fahrleitung angepasst,
                      Signalstandorte ESig angepasst.
 * [FC] Streckenabschnitt 1 der Hauptbahn hinzugefügt, erster Porbefahrplan für die Hauptbahn
