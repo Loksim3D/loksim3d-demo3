@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<OBJECT>
+	<Props TransparentTyp="0" Beleuchtet="FALSE" Transparent="FALSE" FilePicture="" FileAuthor="" FileInfo="" Drawrueckseiten="FALSE" TransTexture="" Texture="UF1_ges500_256.bmp"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0;0.3;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.05;0.3;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.05;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="0;0;0.05"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="0;0.3;0.05"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.05;0.3;0.05"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="0.05;0;0.05"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="161,216;159,205;169,207;170,214"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;6;5;4" Texture="160,212;159,206;169,208;170,215"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;2;6;7" Texture="159,215;160,207;166,206;171,217"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;1;0" Texture="160,214;160,206;168,208;170,215"/>
+	</Flaeche>
+</OBJECT>

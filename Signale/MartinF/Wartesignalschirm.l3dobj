@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="TRUE" Drawrueckseiten="FALSE" FileAuthor="" FileInfo="" FilePicture="" Texture="\Signale\Einzelteile\Wartesignalschirm.bmp" TransTexture="" Transparent="TRUE" TransparentTyp="1"/>
+	<Point>
+		<Props Normal="-1;0;-1" Vekt="-0.13;4.1325;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;0;-1" Vekt="0.13;4.1325;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.5655;4.9155;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="-0.5655;4.9155;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="57,261;89,261;148,161;0,161"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="0;3;2;1" Texture="57,123;0,21;149,21;91,123"/>
+	</Flaeche>
+</OBJECT>

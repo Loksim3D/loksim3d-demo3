@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="Martin Finken" FileInfo=" Wartesignal niedrig" FilePicture="Wartesignal.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" Name="Wartesignalschirm.l3dobj" Position="0;-0.2;-0.01" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="wartesignalmast.l3dobj" Position="0;0;0" Rotation="-90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+</GRUPPENOBJECT>

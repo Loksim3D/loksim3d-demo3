@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<OBJECT>
+	<Props TransparentTyp="0" Beleuchtet="FALSE" Transparent="FALSE" FilePicture="" FileAuthor="Rainer Ziener" FileInfo="Treppe, 3.2m breit/nfür Bahnsteigunterführungen" Drawrueckseiten="TRUE" TransTexture="" Texture="Beton2.bmp"/>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="0.4;0.2;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="0.4;0.2;-3.2"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;0;1" Vekt="0.4;0.4;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;0;-1" Vekt="0.4;0.4;-3.2"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="0.8;0.4;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="0.8;0.4;-3.2"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="0.8;0.6;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0.8;0.6;-3.2"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="1.2;0.6;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="1.2;0.6;-3.2"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="1.2;0.8;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="1.2;0.8;-3.2"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="1.6;0.8;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="1.6;0.8;-3.2"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="1.6;1;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="1.6;1;-3.2"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="2;1;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="2;1;-3.2"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="2;1.2;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="2;1.2;-3.2"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="2.4;1.2;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="2.4;1.2;-3.2"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="2.4;1.4;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="2.4;1.4;-3.2"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="3.2;1.4;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="3.2;1.4;-3.2"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;2;3;1" Texture="1,30;1,1;100,1;100,30"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="2;4;5;3" Texture="1,30;1,1;100,1;100,30"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;6;7;5" Texture="1,30;1,1;100,1;100,30"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="6;8;9;7" Texture="1,30;1,1;100,1;100,30"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="8;10;11;9" Texture="1,30;1,1;100,1;100,30"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="10;12;13;11" Texture="1,30;1,1;100,1;100,30"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="12;14;15;13" Texture="1,30;1,1;100,1;100,30"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="14;16;17;15" Texture="1,30;1,1;100,1;100,30"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="16;18;19;17" Texture="1,30;1,1;100,1;100,30"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="18;20;21;19" Texture="1,30;1,1;100,1;100,30"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="20;22;23;21" Texture="1,30;1,1;100,1;100,30"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="22;23;25;24" Texture="1,90;1,1;100,1;100,90"/>
+	</Flaeche>
+</OBJECT>

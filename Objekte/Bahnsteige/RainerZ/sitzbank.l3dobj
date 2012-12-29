@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<OBJECT>
+	<Props TransparentTyp="1" Beleuchtet="FALSE" Transparent="TRUE" FilePicture="" FileAuthor="Rainer Ziener" FileInfo="Bank aus Verzeichnis von /nRainer Hübner, Bitmap anders/ngefärbt" Drawrueckseiten="TRUE" TransTexture="" Texture="sitzbank.bmp"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0;0.4;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="3;0.4;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="3;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="0;0;1"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="0;0.4;1"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="3;0.4;1"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="3;0;1"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0;0.8;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0;0.8;1"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0;0.8;0.5"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="3;0.8;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="3;0.8;0.5"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="3;0.8;1"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0;0.4;0.5"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="3;0.4;0.5"/>
+	</Point>
+	<Flaeche>
+		<Props Points="10;12;15;14" Texture="0,0;137,0;137,30;0,30"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="14;15;6;5" Texture="0,30;137,30;137,60;0,60"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="5;6;7;4" Texture="0,61;137,61;137,83;0,83"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="14;15;2;1" Texture="0,30;137,30;137,60;0,60"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="2;1;0;3" Texture="0,61;137,61;137,83;0,83"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="9;8;0;4" Texture="138,28;197,28;197,82;138,82"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="13;11;3;7" Texture="138,28;197,28;197,82;138,82"/>
+	</Flaeche>
+</OBJECT>

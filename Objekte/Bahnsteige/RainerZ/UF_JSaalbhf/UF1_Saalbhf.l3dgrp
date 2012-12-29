@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<GRUPPENOBJECT>
+	<Props FilePicture="" FileAuthor="Rainer Ziener" FileInfo="Unterführung Jena Saalbahnhof,/nzum Bahnsteig 1"/>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="UF1_koerper_a.l3dobj" Position="0;0;0"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="\Objekte\Bahnsteige\RainerZ\UF_Cbg\unterfcbg2.l3dobj" Position="0.1;0;0"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="UF1_koerper_i.l3dobj" Position="0;0;0"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="UF1_da.l3dobj" Position="-0.2;2.44;-0.2"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="UF1_eing.l3dobj" Position="0;0;-0.02"/>
+	</Object>
+	<Object>
+		<Props Rotation="90;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="\Objekte\Bahnsteige\RainerZ\Treppen_3m.l3dobj" Position="3.25;-1.35;3"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Anzeige.l3dobj" Position="0.15;2.9;0"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Stuetze.l3dobj" Position="2.85;2.69;0.1"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Stuetze.l3dobj" Position="2.05;2.69;0.1"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Stuetze.l3dobj" Position="1.25;2.69;0.1"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Stuetze.l3dobj" Position="0.45;2.69;0.1"/>
+	</Object>
+</GRUPPENOBJECT>

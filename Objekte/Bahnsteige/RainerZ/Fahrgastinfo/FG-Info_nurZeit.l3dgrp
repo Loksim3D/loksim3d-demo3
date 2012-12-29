@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="Rainer Ziener" FileInfo="Fahrgastinfo /nZeitanzeige einzeln/nliegt bei y=3.62, z=0/n&#34;Zeit&#34; etwas vergrößert, für Rückseite/nmit 180° Drehung aufstellen" FilePicture=""/>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="0" DynamicVisibility="Simulation::ZeitInSekunden &#62;= 00:00 &#38;&#38; Simulation::ZeitInSekunden &#60; 01:00 || Simulation::ZeitInSekunden &#62;= 10:00 &#38;&#38; Simulation::ZeitInSekunden &#60; 11:00 || Simulation::ZeitInSekunden &#62;= 20:00 &#38;&#38; Simulation::ZeitInSekunden &#60; 21:00" FixedDynamicVisibility="FALSE" Fonthoehe="0.085" GroupProperty="" Leuchtend="TRUE" Name="\Fonts\RainerZ\FGI_UCB.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.005;3.62;0" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="1" DynamicVisibility="Simulation::ZeitInSekunden &#62;= 10:00 &#38;&#38; Simulation::ZeitInSekunden &#60; 20:00" FixedDynamicVisibility="FALSE" Fonthoehe="0.085" GroupProperty="" Leuchtend="TRUE" Name="\Fonts\RainerZ\FGI_UCB.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="-0.075;3.62;0" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="2" DynamicVisibility="Simulation::ZeitInSekunden &#62;= 20:00 &#38;&#38; Simulation::ZeitInSekunden &#60;= 23:59" FixedDynamicVisibility="FALSE" Fonthoehe="0.085" GroupProperty="" Leuchtend="TRUE" Name="\Fonts\RainerZ\FGI_UCB.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="-0.075;3.62;0" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="1" DynamicVisibility="Simulation::ZeitInSekunden &#62;= 01:00 &#38;&#38; Simulation::ZeitInSekunden &#60; 02:00 || Simulation::ZeitInSekunden &#62;= 11:00 &#38;&#38; Simulation::ZeitInSekunden &#60; 12:00 || Simulation::ZeitInSekunden &#62;= 21:00 &#38;&#38; Simulation::ZeitInSekunden &#60; 22:00" FixedDynamicVisibility="FALSE" Fonthoehe="0.085" GroupProperty="" Leuchtend="TRUE" Name="\Fonts\RainerZ\FGI_UCB.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.005;3.62;0" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="2" DynamicVisibility="Simulation::ZeitInSekunden &#62;= 02:00 &#38;&#38; Simulation::ZeitInSekunden &#60; 03:00 || Simulation::ZeitInSekunden &#62;= 12:00 &#38;&#38; Simulation::ZeitInSekunden &#60; 13:00 || Simulation::ZeitInSekunden &#62;= 22:00 &#38;&#38; Simulation::ZeitInSekunden &#60; 23:00" FixedDynamicVisibility="FALSE" Fonthoehe="0.085" GroupProperty="" Leuchtend="TRUE" Name="\Fonts\RainerZ\FGI_UCB.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.005;3.62;0" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="3" DynamicVisibility="Simulation::ZeitInSekunden &#62;= 03:00 &#38;&#38; Simulation::ZeitInSekunden &#60; 04:00 || Simulation::ZeitInSekunden &#62;= 13:00 &#38;&#38; Simulation::ZeitInSekunden &#60; 14:00 || Simulation::ZeitInSekunden &#62;= 23:00 &#38;&#38; Simulation::ZeitInSekunden &#60;= 23:59" FixedDynamicVisibility="FALSE" Fonthoehe="0.085" GroupProperty="" Leuchtend="TRUE" Name="\Fonts\RainerZ\FGI_UCB.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.005;3.62;0" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="4" DynamicVisibility="Simulation::ZeitInSekunden &#62;= 04:00 &#38;&#38; Simulation::ZeitInSekunden &#60; 05:00 || Simulation::ZeitInSekunden &#62;= 14:00 &#38;&#38; Simulation::ZeitInSekunden &#60; 15:00" FixedDynamicVisibility="FALSE" Fonthoehe="0.085" GroupProperty="" Leuchtend="TRUE" Name="\Fonts\RainerZ\FGI_UCB.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.005;3.62;0" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="5" DynamicVisibility="Simulation::ZeitInSekunden &#62;= 05:00 &#38;&#38; Simulation::ZeitInSekunden &#60; 06:00 || Simulation::ZeitInSekunden &#62;= 15:00 &#38;&#38; Simulation::ZeitInSekunden &#60; 16:00" FixedDynamicVisibility="FALSE" Fonthoehe="0.085" GroupProperty="" Leuchtend="TRUE" Name="\Fonts\RainerZ\FGI_UCB.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.005;3.62;0" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="6" DynamicVisibility="Simulation::ZeitInSekunden &#62;= 06:00 &#38;&#38; Simulation::ZeitInSekunden &#60; 07:00 || Simulation::ZeitInSekunden &#62;= 16:00 &#38;&#38; Simulation::ZeitInSekunden &#60; 17:00" FixedDynamicVisibility="FALSE" Fonthoehe="0.085" GroupProperty="" Leuchtend="TRUE" Name="\Fonts\RainerZ\FGI_UCB.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.005;3.62;0" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="7" DynamicVisibility="Simulation::ZeitInSekunden &#62;= 07:00 &#38;&#38; Simulation::ZeitInSekunden &#60; 08:00 || Simulation::ZeitInSekunden &#62;= 17:00 &#38;&#38; Simulation::ZeitInSekunden &#60; 18:00" FixedDynamicVisibility="FALSE" Fonthoehe="0.085" GroupProperty="" Leuchtend="TRUE" Name="\Fonts\RainerZ\FGI_UCB.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.005;3.62;0" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="8" DynamicVisibility="Simulation::ZeitInSekunden &#62;= 08:00 &#38;&#38; Simulation::ZeitInSekunden &#60; 09:00 || Simulation::ZeitInSekunden &#62;= 18:00 &#38;&#38; Simulation::ZeitInSekunden &#60; 19:00" FixedDynamicVisibility="FALSE" Fonthoehe="0.085" GroupProperty="" Leuchtend="TRUE" Name="\Fonts\RainerZ\FGI_UCB.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.005;3.62;0" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="9" DynamicVisibility="Simulation::ZeitInSekunden &#62;= 09:00 &#38;&#38; Simulation::ZeitInSekunden &#60; 10:00 || Simulation::ZeitInSekunden &#62;= 19:00 &#38;&#38; Simulation::ZeitInSekunden &#60; 20:00" FixedDynamicVisibility="FALSE" Fonthoehe="0.085" GroupProperty="" Leuchtend="TRUE" Name="\Fonts\RainerZ\FGI_UCB.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.005;3.62;0" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 0 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 600" FixedDynamicVisibility="FALSE" Fonthoehe="0.085" GroupProperty="" Leuchtend="TRUE" Name="\Fonts\RainerZ\FGI_UCB.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.13;3.62;0" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="1" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 600 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 1200" FixedDynamicVisibility="FALSE" Fonthoehe="0.085" GroupProperty="" Leuchtend="TRUE" Name="\Fonts\RainerZ\FGI_UCB.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.13;3.62;0" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 0 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 60 || Simulation::ZeitInSekunden % 3600 &#62;= 600 &#38;&#38; Simulation::ZeitInSekunden % 3600  &#60; 660" FixedDynamicVisibility="FALSE" Fonthoehe="0.085" GroupProperty="" Leuchtend="TRUE" Name="\Fonts\RainerZ\FGI_UCB.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.21;3.62;0" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 1200 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 1260 || Simulation::ZeitInSekunden % 3600 &#62;= 1800 &#38;&#38; Simulation::ZeitInSekunden % 3600  &#60; 1860" FixedDynamicVisibility="FALSE" Fonthoehe="0.085" GroupProperty="" Leuchtend="TRUE" Name="\Fonts\RainerZ\FGI_UCB.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.21;3.62;0" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 2400 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 2460 || Simulation::ZeitInSekunden % 3600 &#62;= 3000 &#38;&#38; Simulation::ZeitInSekunden % 3600  &#60; 3060" FixedDynamicVisibility="FALSE" Fonthoehe="0.085" GroupProperty="" Leuchtend="TRUE" Name="\Fonts\RainerZ\FGI_UCB.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.21;3.62;0" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="1" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 60 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 120 || Simulation::ZeitInSekunden % 3600 &#62;= 660 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 720 " FixedDynamicVisibility="FALSE" Fonthoehe="0.085" GroupProperty="" Leuchtend="TRUE" Name="\Fonts\RainerZ\FGI_UCB.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.21;3.62;0" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="1" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 1260 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 1320 || Simulation::ZeitInSekunden % 3600 &#62;= 1860 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 1920 " FixedDynamicVisibility="FALSE" Fonthoehe="0.085" GroupProperty="" Leuchtend="TRUE" Name="\Fonts\RainerZ\FGI_UCB.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.21;3.62;0" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="1" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 2460 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 2520 || Simulation::ZeitInSekunden % 3600 &#62;= 3060 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 3120 " FixedDynamicVisibility="FALSE" Fonthoehe="0.085" GroupProperty="" Leuchtend="TRUE" Name="\Fonts\RainerZ\FGI_UCB.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.21;3.62;0" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="2" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 120 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 180 || Simulation::ZeitInSekunden % 3600 &#62;= 720 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 780 " FixedDynamicVisibility="FALSE" Fonthoehe="0.085" GroupProperty="" Leuchtend="TRUE" Name="\Fonts\RainerZ\FGI_UCB.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.21;3.62;0" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="2" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 1320 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 1380 || Simulation::ZeitInSekunden % 3600 &#62;= 1920 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 1980 " FixedDynamicVisibility="FALSE" Fonthoehe="0.085" GroupProperty="" Leuchtend="TRUE" Name="\Fonts\RainerZ\FGI_UCB.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.21;3.62;0" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="2" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 2520 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 2580 || Simulation::ZeitInSekunden % 3600 &#62;= 3120 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 3180 " FixedDynamicVisibility="FALSE" Fonthoehe="0.085" GroupProperty="" Leuchtend="TRUE" Name="\Fonts\RainerZ\FGI_UCB.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.21;3.62;0" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="3" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 180 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 240 || Simulation::ZeitInSekunden % 3600 &#62;= 780 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 840" FixedDynamicVisibility="FALSE" Fonthoehe="0.085" GroupProperty="" Leuchtend="TRUE" Name="\Fonts\RainerZ\FGI_UCB.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.21;3.62;0" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="3" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 1380 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 1440 || Simulation::ZeitInSekunden % 3600 &#62;= 1980 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 2040" FixedDynamicVisibility="FALSE" Fonthoehe="0.085" GroupProperty="" Leuchtend="TRUE" Name="\Fonts\RainerZ\FGI_UCB.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.21;3.62;0" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="3" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 2580 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 2640 || Simulation::ZeitInSekunden % 3600 &#62;= 3180 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 3240" FixedDynamicVisibility="FALSE" Fonthoehe="0.085" GroupProperty="" Leuchtend="TRUE" Name="\Fonts\RainerZ\FGI_UCB.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.21;3.62;0" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="4" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 240 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 300 || Simulation::ZeitInSekunden % 3600 &#62;= 840 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 900" FixedDynamicVisibility="FALSE" Fonthoehe="0.085" GroupProperty="" Leuchtend="TRUE" Name="\Fonts\RainerZ\FGI_UCB.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.21;3.62;0" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="4" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 1440 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 1500 || Simulation::ZeitInSekunden % 3600 &#62;= 2040 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 2100" FixedDynamicVisibility="FALSE" Fonthoehe="0.085" GroupProperty="" Leuchtend="TRUE" Name="\Fonts\RainerZ\FGI_UCB.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.21;3.62;0" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="4" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 2640 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 2700 || Simulation::ZeitInSekunden % 3600 &#62;= 3240 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 3300" FixedDynamicVisibility="FALSE" Fonthoehe="0.085" GroupProperty="" Leuchtend="TRUE" Name="\Fonts\RainerZ\FGI_UCB.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.21;3.62;0" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="5" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 300 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 360 || Simulation::ZeitInSekunden % 3600 &#62;= 900 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 960 " FixedDynamicVisibility="FALSE" Fonthoehe="0.085" GroupProperty="" Leuchtend="TRUE" Name="\Fonts\RainerZ\FGI_UCB.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.21;3.62;0" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="5" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 1500 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 1560 || Simulation::ZeitInSekunden % 3600 &#62;= 2100 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 2160 " FixedDynamicVisibility="FALSE" Fonthoehe="0.085" GroupProperty="" Leuchtend="TRUE" Name="\Fonts\RainerZ\FGI_UCB.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.21;3.62;0" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="5" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 2700 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 2760 || Simulation::ZeitInSekunden % 3600 &#62;= 3300 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 3360 " FixedDynamicVisibility="FALSE" Fonthoehe="0.085" GroupProperty="" Leuchtend="TRUE" Name="\Fonts\RainerZ\FGI_UCB.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.21;3.62;0" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="6" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 360 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 420 || Simulation::ZeitInSekunden % 3600 &#62;= 960 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 1020 " FixedDynamicVisibility="FALSE" Fonthoehe="0.085" GroupProperty="" Leuchtend="TRUE" Name="\Fonts\RainerZ\FGI_UCB.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.21;3.62;0" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="6" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 1560 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 1620 || Simulation::ZeitInSekunden % 3600 &#62;= 2160 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 2220 " FixedDynamicVisibility="FALSE" Fonthoehe="0.085" GroupProperty="" Leuchtend="TRUE" Name="\Fonts\RainerZ\FGI_UCB.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.21;3.62;0" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="6" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 2760 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 2820 || Simulation::ZeitInSekunden % 3600 &#62;= 3360 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 3420 " FixedDynamicVisibility="FALSE" Fonthoehe="0.085" GroupProperty="" Leuchtend="TRUE" Name="\Fonts\RainerZ\FGI_UCB.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.21;3.62;0" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="7" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 420 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 480 || Simulation::ZeitInSekunden % 3600 &#62;= 1020 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 1080 " FixedDynamicVisibility="FALSE" Fonthoehe="0.085" GroupProperty="" Leuchtend="TRUE" Name="\Fonts\RainerZ\FGI_UCB.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.21;3.62;0" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="7" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 1620 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 1680 || Simulation::ZeitInSekunden % 3600 &#62;= 2220 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 2280 " FixedDynamicVisibility="FALSE" Fonthoehe="0.085" GroupProperty="" Leuchtend="TRUE" Name="\Fonts\RainerZ\FGI_UCB.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.21;3.62;0" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="7" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 2820 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 2880 || Simulation::ZeitInSekunden % 3600 &#62;= 3420 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 3480 " FixedDynamicVisibility="FALSE" Fonthoehe="0.085" GroupProperty="" Leuchtend="TRUE" Name="\Fonts\RainerZ\FGI_UCB.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.21;3.62;0" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="8" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 480 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 540 || Simulation::ZeitInSekunden % 3600 &#62;= 1080 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 1140" FixedDynamicVisibility="FALSE" Fonthoehe="0.085" GroupProperty="" Leuchtend="TRUE" Name="\Fonts\RainerZ\FGI_UCB.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.21;3.62;0" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="8" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 1680 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 1740 || Simulation::ZeitInSekunden % 3600 &#62;= 2280 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 2340" FixedDynamicVisibility="FALSE" Fonthoehe="0.085" GroupProperty="" Leuchtend="TRUE" Name="\Fonts\RainerZ\FGI_UCB.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.21;3.62;0" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="8" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 2880 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 2940 || Simulation::ZeitInSekunden % 3600 &#62;= 3480 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 3540" FixedDynamicVisibility="FALSE" Fonthoehe="0.085" GroupProperty="" Leuchtend="TRUE" Name="\Fonts\RainerZ\FGI_UCB.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.21;3.62;0" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="9" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 540 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 600 || Simulation::ZeitInSekunden % 3600 &#62;= 1140 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 1200" FixedDynamicVisibility="FALSE" Fonthoehe="0.085" GroupProperty="" Leuchtend="TRUE" Name="\Fonts\RainerZ\FGI_UCB.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.21;3.62;0" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="9" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 1740 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 1800 || Simulation::ZeitInSekunden % 3600 &#62;= 2340 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 2400" FixedDynamicVisibility="FALSE" Fonthoehe="0.085" GroupProperty="" Leuchtend="TRUE" Name="\Fonts\RainerZ\FGI_UCB.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.21;3.62;0" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="9" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 2940 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 3000 || Simulation::ZeitInSekunden % 3600 &#62;= 3540 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 3600" FixedDynamicVisibility="FALSE" Fonthoehe="0.085" GroupProperty="" Leuchtend="TRUE" Name="\Fonts\RainerZ\FGI_UCB.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.21;3.62;0" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="2" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 1200 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 1800" FixedDynamicVisibility="FALSE" Fonthoehe="0.085" GroupProperty="" Leuchtend="TRUE" Name="\Fonts\RainerZ\FGI_UCB.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.13;3.62;0" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="3" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 1800 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 2400" FixedDynamicVisibility="FALSE" Fonthoehe="0.085" GroupProperty="" Leuchtend="TRUE" Name="\Fonts\RainerZ\FGI_UCB.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.13;3.62;0" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="4" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 2400 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 3000" FixedDynamicVisibility="FALSE" Fonthoehe="0.085" GroupProperty="" Leuchtend="TRUE" Name="\Fonts\RainerZ\FGI_UCB.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.13;3.62;0" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="5" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 3000 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 3600" FixedDynamicVisibility="FALSE" Fonthoehe="0.085" GroupProperty="" Leuchtend="TRUE" Name="\Fonts\RainerZ\FGI_UCB.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.13;3.62;0" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="z" Fonthoehe="0.085" GroupProperty="" Leuchtend="TRUE" Name="\Fonts\RainerZ\FGI_UCB.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="-0.29;3.62;0" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="u" Fonthoehe="0.085" GroupProperty="" Leuchtend="TRUE" Name="\Fonts\RainerZ\FGI_UCB.l3dfont" NormBottomLeft="-1;-1;-1" NormBottomRight="1;-1;-1" NormTopLeft="-1;1;-1" NormTopRight="1;1;-1" Position="0.37;3.62;0" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="0" DynamicVisibility="Simulation::ZeitInSekunden &#62;= 0:00 &#38;&#38; Simulation::ZeitInSekunden &#60; 10:00" FixedDynamicVisibility="FALSE" Fonthoehe="0.085" GroupProperty="" Leuchtend="TRUE" Name="\Fonts\RainerZ\FGI_UCB.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="-0.075;3.62;0" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText=":" Fonthoehe="0.085" GroupProperty="" Leuchtend="TRUE" Name="\Fonts\RainerZ\FGI_UCB.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.068;3.62;0" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+</GRUPPENOBJECT>

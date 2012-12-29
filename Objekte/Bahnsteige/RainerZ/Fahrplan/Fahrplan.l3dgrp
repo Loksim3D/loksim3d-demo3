@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<GRUPPENOBJECT>
+	<Props FilePicture="" FileAuthor="Rainer Ziener" FileInfo="Info-Kasten/nFotografiert auf Jena Saalbahnhof"/>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="\Objekte\Strassenschilder\RainerZ\Betonsaeule2m.l3dobj" Position="0;0;0"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="\Objekte\Strassenschilder\RainerZ\Betonsaeule2m.l3dobj" Position="0;0;2.96"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Fahrplan.l3dobj" Position="0;0;0.105"/>
+	</Object>
+</GRUPPENOBJECT>

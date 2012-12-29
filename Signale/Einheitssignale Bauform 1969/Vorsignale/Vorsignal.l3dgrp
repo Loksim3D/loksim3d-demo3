@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="Andreas Peter" FileInfo="Vorsignal /n2.2 m Abstand zur Gleisachse/n/n(c) Andreas Peter ; Oktober 2004/n" FilePicture="Vorsignal.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Schirm_Vr.l3dobj" Position="1.75;4.2;-0.4" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Mast1969_460cm.l3dobj" Position="2.25;0.2;0" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Korb.l3dobj" Position="2.25;4;0.85" Rotation="180;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\1969-gelb.l3dobj" Position="1.86;4.4;-0.45" Rotation="0;0;0" ShowOn="Vr0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\1969-gelb.l3dobj" Position="2.35;4.92;-0.45" Rotation="0;0;0" ShowOn="Vr0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\1969-gruen.l3dobj" Position="2.02;4.4;-0.45" Rotation="0;0;0" ShowOn="Vr1" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\1969-gruen.l3dobj" Position="2.51;4.92;-0.45" Rotation="0;0;0" ShowOn="Vr1" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\1969-gelb.l3dobj" Position="1.86;4.4;-0.45" Rotation="0;0;0" ShowOn="Vr2" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\1969-gruen.l3dobj" Position="2.51;4.92;-0.45" Rotation="0;0;0" ShowOn="Vr2" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Vr-Tafel.l3dobj" Position="2;0.7;-0.2" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Schaltkasten.l3dobj" Position="2.5;0.5;0.62" Rotation="180;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\scheingelb.l3dobj" Position="1.95;4.48;-0.43" Rotation="0;0;0" ShowOn="Vr0" ZoomFaktor="180"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\scheingelb.l3dobj" Position="2.44;5;-0.43" Rotation="0;0;0" ShowOn="Vr0" ZoomFaktor="180"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\scheingruen.l3dobj" Position="2.1;4.48;-0.43" Rotation="0;0;0" ShowOn="Vr1" ZoomFaktor="180"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\scheingruen.l3dobj" Position="2.59;5;-0.43" Rotation="0;0;0" ShowOn="Vr1" ZoomFaktor="180"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\scheingelb.l3dobj" Position="1.95;4.48;-0.43" Rotation="0;0;0" ShowOn="Vr2" ZoomFaktor="180"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\scheingruen.l3dobj" Position="2.59;5;-0.43" Rotation="0;0;0" ShowOn="Vr2" ZoomFaktor="180"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Schute_Vr.l3dobj" Position="1.92;4.58;-0.4" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Schute_Vr.l3dobj" Position="2.42;5.1;-0.4" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Halterung_SchirmVr.l3dobj" Position="2.25;4.65;0" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Halterung_Tafel.l3dobj" Position="2.25;0.8;-0.18" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Halterung_Tafel.l3dobj" Position="2.25;1.3;-0.18" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Sockel_Hp-Vr.l3dobj" Position="1.98;0;-0.15" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+</GRUPPENOBJECT>

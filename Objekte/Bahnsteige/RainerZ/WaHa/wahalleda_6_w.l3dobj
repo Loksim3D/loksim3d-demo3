@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="TRUE" Drawrueckseiten="FALSE" FileAuthor="" FileInfo="" FilePicture="" Texture="waha.bmp" TransTexture="" Transparent="TRUE" TransparentTyp="1"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="-0.05;2.2;-0.05"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="-0.05;2.35;-0.05"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="6.05;2.35;-0.05"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="6.05;2.2;-0.05"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="-0.05;2.2;1.8"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="-0.05;2.35;1.8"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="6.05;2.35;1.8"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="6.05;2.2;1.8"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="348,45;348,45;348,45;348,45"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;6;5;4" Texture="348,45;348,45;348,45;348,45"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;2;6;7" Texture="348,45;348,45;348,45;348,45"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;1;0" Texture="348,45;348,45;348,45;348,45"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="1;5;6;2" Texture="348,45;348,45;348,45;348,45"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;4;0;3" Texture="474,1;474,150;479,150;479,1"/>
+	</Flaeche>
+</OBJECT>

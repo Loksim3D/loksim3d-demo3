@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<OBJECT>
+	<Props TransparentTyp="0" Beleuchtet="FALSE" Transparent="FALSE" FilePicture="" FileAuthor="" FileInfo="" Drawrueckseiten="TRUE" TransTexture="" Texture="rohr_blau2.bmp"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0;4.2;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.12;4.2;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.12;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="0;0;0.02"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="0;4.2;0.02"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.12;4.2;0.02"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="0.12;0;0.02"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="1,199;1,1;6,1;6,199"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;6;5;4" Texture="1,199;1,1;6,1;6,19"/>
+	</Flaeche>
+</OBJECT>

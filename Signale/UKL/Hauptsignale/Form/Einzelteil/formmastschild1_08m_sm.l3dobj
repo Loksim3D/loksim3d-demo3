@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="" FileInfo="" FilePicture="" Texture="\Signale\AndreasZ\Formsignale\Einzelteile\formmastschild1.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="2"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="-0.05;3.045;-0.05"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.05;3.045;-0.05"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.05;7.917;-0.05"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="-0.05;7.917;-0.05"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;3;2;1" Texture="67,502;67,3;85,3;85,502"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="105,503;133,502;133,4;105,4"/>
+	</Flaeche>
+</OBJECT>

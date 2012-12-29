@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<OBJECT>
+	<Props TransparentTyp="0" Beleuchtet="FALSE" Transparent="FALSE" FilePicture="" FileAuthor="Rainer Ziener" FileInfo="Träger für Plakatwand" Drawrueckseiten="FALSE" TransTexture="" Texture="saeule_bl.bmp"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="-0.09;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="-0.09;3;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.09;3;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.09;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="-0.09;0;0.05"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="-0.09;3;0.05"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.09;3;0.05"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="0.09;0;0.05"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="1,9;1,1;9,1;9,9"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;6;5;4" Texture="1,9;1,1;9,1;9,9"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;2;6;7" Texture="1,9;1,1;9,1;9,9"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;1;0" Texture="1,9;1,1;9,1;9,9"/>
+	</Flaeche>
+</OBJECT>

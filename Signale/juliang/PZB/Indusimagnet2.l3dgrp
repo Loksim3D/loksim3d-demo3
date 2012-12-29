@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="Oliver Geppert" FileInfo="Fotorealistischer Magnet/n(c) 2004 Oliver Geppert/nwww.Mieterwehr.de.vu" FilePicture="Indusimagnet3.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" Name="\signale\juliang\et\Indusimagnet2.l3dobj" Position="0.8;0.2;-0.75" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+</GRUPPENOBJECT>

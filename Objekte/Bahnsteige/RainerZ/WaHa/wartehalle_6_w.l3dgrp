@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="Rainer Ziener" FileInfo="Gläserne Wartehalle (ABS Camburg)/nmit 6m Breite, verschneit/n" FilePicture=""/>
+	<Object>
+		<Props BlinkIntervall="0" Name="wahalle_6.l3dobj" Position="0;0;0" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="wahalleda_6_w.l3dobj" Position="0;0;0" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Bahnsteige\RainerZ\ABS_Bank.l3dobj" Position="3;0;0.2" Rotation="270;0;0" ZoomFaktor="1"/>
+	</Object>
+</GRUPPENOBJECT>

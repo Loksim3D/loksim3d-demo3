@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<GRUPPENOBJECT>
+	<Props FilePicture="" FileAuthor="Rainer Ziener" FileInfo="Mach's mit. Werbetafel"/>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Saeule_blau.l3dobj" Position="0;0;0"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Saeule_blau.l3dobj" Position="0;0;3.7"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Werb1.l3dobj" Position="0;0;0.05"/>
+	</Object>
+</GRUPPENOBJECT>

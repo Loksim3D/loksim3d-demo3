@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<OBJECT>
+	<Props Beleuchtet="FALSE" Transparent="TRUE" FilePicture="" FileAuthor="" FileInfo="" Drawrueckseiten="TRUE" Texture="bahnstuhr3.bmp"/>
+	<Point>
+		<Props Normal="0;1;0" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="0;0.5;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="0.5;0.5;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="0.5;0;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="0,68;0,0;70,0;70,68"/>
+	</Flaeche>
+</OBJECT>

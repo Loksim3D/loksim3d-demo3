@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<OBJECT>
+	<Props Beleuchtet="FALSE" Transparent="FALSE" FilePicture="" FileAuthor="" FileInfo="" Drawrueckseiten="TRUE" Texture="Betonpfosten 2m.bmp"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0;2;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.1;2;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.1;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="0;0;0.1"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="0;2;0.1"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.1;2;0.1"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="0.1;0;0.1"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="34,347;28,104;41,108;47,352"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;6;5;4" Texture="35,353;26,101;40,100;49,355"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;2;6;7" Texture="33,350;27,104;39,103;46,351"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;1;0" Texture="34,352;27,107;41,107;47,352"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="1;5;6;2" Texture="36,102;40,136;33,134;30,102"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;3;0;4" Texture="33,149;29,108;38,110;38,143"/>
+	</Flaeche>
+</OBJECT>
