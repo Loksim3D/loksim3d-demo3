@@ -39,7 +39,7 @@
 					<Props Abstand="20" Anzahl="4" Datei="\Objekte\Bahnsteige\Frieder\Bahnsteiglampen\Bahnsteiglampe10.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="10" Verschiebung="-5;1;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="10" Anzahl="20" Datei="\Objekte\Bahnsteige\Frieder\Bahnsteigdach1-4.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="130" Verschiebung="-5;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Props Abstand="10" Anzahl="24" Datei="\Objekte\Bahnsteige\Frieder\ET\Bahnsteigdach1-4_halb.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="100" Verschiebung="0;0.5;0" WeitSichtbar="TRUE" Winkel="180;0;0"/>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="20" Anzahl="5" Datei="\Objekte\Bahnsteige\Frieder\Bahnsteiglampen\Bahnsteiglampe10.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="340" Verschiebung="-5;1;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
@@ -605,6 +605,9 @@
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\RainerZ\Durchgang_verb.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="445" Verschiebung="5;1;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="24" Datei="\Objekte\Bahnsteige\Frieder\Bahnsteigdach1-4_halb.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="90" Verschiebung="0;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
 				</Eintrag>
 			</Object>
 			<Object>
@@ -2551,6 +2554,12 @@
 				<Eintrag>
 					<Props Abstand="10" Anzahl="4" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig_Mittelplatte 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="260.5" Verschiebung="-2.5;0;0" Winkel="180;0;0"/>
 				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="24" Datei="\Objekte\Bahnsteige\Frieder\Bahnsteigdach1-4_halb.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="100" Verschiebung="0;0;0" WeitSichtbar="TRUE" Winkel="180;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="9.98" Anzahl="2" Datei="\Objekte\Bahnsteige\Frieder\ET\Bahnsteigdach1-4_Mitte.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="280" Verschiebung="-3;0.5;0" WeitSichtbar="TRUE" Winkel="180;0;0"/>
+				</Eintrag>
 			</Object>
 		</Objecte>
 		<Hoeheunterbrechung>
@@ -2794,6 +2803,12 @@
 				<Eintrag>
 					<Props Abstand="10" Anzahl="19" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="10" Datei="\Objekte\Bahnsteige\Frieder\Bahnsteigdach1-4_halb.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="90" Verschiebung="0;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="10" Datei="\Objekte\Bahnsteige\Frieder\ET\Bahnsteigdach1-4_Mitte.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="90" Verschiebung="5;0.5;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+				</Eintrag>
 			</Object>
 		</Objecte>
 		<Hoeheunterbrechung>
@@ -2929,6 +2944,15 @@
 				<Eintrag>
 					<Props Abstand="9.98" Anzahl="12" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
+				<Eintrag>
+					<Props Abstand="9.98" Anzahl="6" Datei="\Objekte\Bahnsteige\Frieder\Bahnsteigdach1-4_halb.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="4" Verschiebung="0;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="9.98" Anzahl="8" Datei="\Objekte\Bahnsteige\Frieder\ET\Bahnsteigdach1-4_Mitte.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="4" Verschiebung="4;0.5;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="9.98" Anzahl="5" Datei="\Objekte\Bahnsteige\Frieder\ET\Bahnsteigdach1-4_halb.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="64" Verschiebung="0;0.5;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+				</Eintrag>
 			</Object>
 		</Objecte>
 		<Hoeheunterbrechung>
@@ -3013,6 +3037,9 @@
 				<Props Name="Bahnsteig" Offset="0;0;0" Position="2304" Qualitaet="1"/>
 				<Eintrag>
 					<Props Abstand="10" Anzahl="15" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0.5" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="3" Datei="\Objekte\Bahnsteige\Frieder\ET\Bahnsteigdach1-4_halb.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0;0.5;0" Winkel="0;0;0"/>
 				</Eintrag>
 			</Object>
 		</Objecte>
