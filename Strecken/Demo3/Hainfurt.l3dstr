@@ -32,7 +32,7 @@
 				<Eintrag>
 					<Props Abstand="10" Anzahl="45" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="10" Verschiebung="0;0;0" Winkel="180;0;0"/>
 					<Lightning>
-						<Props DayLight="100" LokLight="TRUE" NightLight="32"/>
+						<Props DayLight="100" LokLight="TRUE" NightLight="30"/>
 					</Lightning>
 				</Eintrag>
 				<Eintrag>
@@ -40,6 +40,9 @@
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="10" Anzahl="24" Datei="\Objekte\Bahnsteige\Frieder\ET\Bahnsteigdach1-4_halb.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="100" Verschiebung="0;0.5;0" WeitSichtbar="TRUE" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="20"/>
+					</Lightning>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="20" Anzahl="5" Datei="\Objekte\Bahnsteige\Frieder\Bahnsteiglampen\Bahnsteiglampe10.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="340" Verschiebung="-5;1;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
@@ -481,6 +484,15 @@
 					<Value>
 						<Props Pos="4100" RAILVALUE="\Rails\JulianG\Betonschwellen\stark befahren\16betonschwellen_Schotter_dunkler2.l3drail"/>
 					</Value>
+					<Value>
+						<Props Pos="2004" RAILVALUE="\Rails\JulianG\Betonschwellen\stark befahren\16betonschwellen_schotter_grau.l3drail"/>
+						<Lightning>
+							<Props DayLight="100" LokLight="TRUE" NightLight="20"/>
+						</Lightning>
+					</Value>
+					<Value>
+						<Props Pos="2454" RAILVALUE="\Rails\JulianG\Betonschwellen\stark befahren\16betonschwellen_schotter_grau.l3drail"/>
+					</Value>
 				</RAIL>
 				<RailQuality>
 					<Value>
@@ -597,17 +609,26 @@
 				<Eintrag>
 					<Props Abstand="10" Anzahl="45" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" Winkel="0;0;0"/>
 					<Lightning>
-						<Props DayLight="100" LokLight="TRUE" NightLight="33"/>
+						<Props DayLight="100" LokLight="TRUE" NightLight="30"/>
 					</Lightning>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="10" Anzahl="24" Datei="\Objekte\Bahnsteige\Frieder\Bahnsteigdach1-4_halb.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="90" Verschiebung="0;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="20"/>
+					</Lightning>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\Frieder\Demo3\Absperrung1.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1" Verschiebung="0;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="20"/>
+					</Lightning>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\Frieder\Demo3\Absperrung5.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="449" Verschiebung="0.2;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="20"/>
+					</Lightning>
 				</Eintrag>
 			</Object>
 			<Object>
@@ -1030,6 +1051,15 @@
 					</Value>
 					<Value>
 						<Props Pos="0" RAILVALUE="\Rails\JulianG\Betonschwellen\stark befahren\16betonschwellen_schotter_grau.l3drail"/>
+					</Value>
+					<Value>
+						<Props Pos="2004" RAILVALUE="\Rails\JulianG\Betonschwellen\stark befahren\16betonschwellen_schotter_grau.l3drail"/>
+						<Lightning>
+							<Props DayLight="100" LokLight="TRUE" NightLight="20"/>
+						</Lightning>
+					</Value>
+					<Value>
+						<Props Pos="2454" RAILVALUE="\Rails\JulianG\Betonschwellen\stark befahren\16betonschwellen_schotter_grau.l3drail"/>
 					</Value>
 					<Value>
 						<Props Pos="4100" RAILVALUE="\Rails\JulianG\Betonschwellen\stark befahren\16betonschwellen_Schotter_dunkler2.l3drail"/>
@@ -1550,17 +1580,20 @@
 				<Eintrag>
 					<Props Abstand="10" Anzahl="15" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="-0.1" Verschiebung="0;0;0" Winkel="0;0;0"/>
 					<Lightning>
-						<Props DayLight="100" LokLight="TRUE" NightLight="32"/>
+						<Props DayLight="100" LokLight="TRUE" NightLight="30"/>
 					</Lightning>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="10" Anzahl="15" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig_Mittelplatte 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="-0.1" Verschiebung="4.99;0;0" Winkel="0;0;0"/>
 					<Lightning>
-						<Props DayLight="100" LokLight="TRUE" NightLight="32"/>
+						<Props DayLight="100" LokLight="TRUE" NightLight="30"/>
 					</Lightning>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\Frieder\Demo3\Absperrung4.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="149" Verschiebung="0;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="24"/>
+					</Lightning>
 				</Eintrag>
 			</Object>
 		</Objecte>
@@ -1639,6 +1672,15 @@
 				<Bahnuebergang>
 				</Bahnuebergang>
 				<RAIL>
+					<Value>
+						<Props Pos="2004" RAILVALUE="\Rails\JulianG\Betonschwellen\stark befahren\16betonschwellen_Schotter_dunkler2.l3drail"/>
+						<Lightning>
+							<Props DayLight="100" LokLight="TRUE" NightLight="20"/>
+						</Lightning>
+					</Value>
+					<Value>
+						<Props Pos="2454" RAILVALUE="\Rails\JulianG\Betonschwellen\stark befahren\16betonschwellen_Schotter_dunkler2.l3drail"/>
+					</Value>
 				</RAIL>
 				<RailQuality>
 				</RailQuality>
@@ -1733,13 +1775,13 @@
 				<Eintrag>
 					<Props Abstand="9.99" Anzahl="12" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" Winkel="0;0;0"/>
 					<Lightning>
-						<Props DayLight="100" LokLight="TRUE" NightLight="32"/>
+						<Props DayLight="100" LokLight="TRUE" NightLight="30"/>
 					</Lightning>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="9.99" Anzahl="12" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig_Mittelplatte 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="4.99;0;0" Winkel="0;0;0"/>
 					<Lightning>
-						<Props DayLight="100" LokLight="TRUE" NightLight="32"/>
+						<Props DayLight="100" LokLight="TRUE" NightLight="30"/>
 					</Lightning>
 				</Eintrag>
 				<Eintrag>
@@ -2269,7 +2311,7 @@
 				<Eintrag>
 					<Props Abstand="10" Anzahl="18" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" Winkel="0;0;0"/>
 					<Lightning>
-						<Props DayLight="100" LokLight="TRUE" NightLight="32"/>
+						<Props DayLight="100" LokLight="TRUE" NightLight="30"/>
 					</Lightning>
 				</Eintrag>
 				<Eintrag>
@@ -2277,9 +2319,15 @@
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="10" Anzahl="9" Datei="\Objekte\Bahnsteige\Frieder\Bahnsteigdach1-4_halb.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="90" Verschiebung="0;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="20"/>
+					</Lightning>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\Frieder\Demo3\Absperrung1.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="1" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="20"/>
+					</Lightning>
 				</Eintrag>
 			</Object>
 		</Objecte>
@@ -2327,6 +2375,12 @@
 				<Bahnuebergang>
 				</Bahnuebergang>
 				<RAIL>
+					<Value>
+						<Props Pos="2004" RAILVALUE="\Rails\JulianG\Betonschwellen\stark befahren\16betonschwellen_Schotter_dunkler2.l3drail"/>
+						<Lightning>
+							<Props DayLight="100" LokLight="TRUE" NightLight="20"/>
+						</Lightning>
+					</Value>
 				</RAIL>
 				<RailQuality>
 				</RailQuality>
@@ -2409,12 +2463,21 @@
 				<Props Name="Bahnsteig" Offset="0;0;0" Position="2004" Qualitaet="1"/>
 				<Eintrag>
 					<Props Abstand="10" Anzahl="18" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="10" Verschiebung="0;0;0" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="30"/>
+					</Lightning>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="10" Anzahl="10" Datei="\Objekte\Bahnsteige\Frieder\ET\Bahnsteigdach1-4_halb.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="100" Verschiebung="0;0.5;0" WeitSichtbar="TRUE" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="20"/>
+					</Lightning>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="10" Anzahl="10" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig_Mittelplatte 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="176" Verschiebung="-3;0;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="30"/>
+					</Lightning>
 				</Eintrag>
 			</Object>
 			<Object>
@@ -2542,32 +2605,38 @@
 				<Eintrag>
 					<Props Abstand="10" Anzahl="42" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="10.5" Verschiebung="0;0;0" Winkel="180;0;0"/>
 					<Lightning>
-						<Props DayLight="100" LokLight="TRUE" NightLight="36"/>
+						<Props DayLight="100" LokLight="TRUE" NightLight="30"/>
 					</Lightning>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="10" Anzahl="7" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig_Mittelplatte 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="20.5" Verschiebung="-3;0;0" Winkel="180;0;0"/>
 					<Lightning>
-						<Props DayLight="100" LokLight="TRUE" NightLight="34"/>
+						<Props DayLight="100" LokLight="TRUE" NightLight="30"/>
 					</Lightning>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="10" Anzahl="17" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig_Mittelplatte 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="90.5" Verschiebung="-5;0;0" Winkel="180;0;0"/>
 					<Lightning>
-						<Props DayLight="100" LokLight="TRUE" NightLight="33"/>
+						<Props DayLight="100" LokLight="TRUE" NightLight="30"/>
 					</Lightning>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="10" Anzahl="4" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig_Mittelplatte 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="260.5" Verschiebung="-2.5;0;0" Winkel="180;0;0"/>
 					<Lightning>
-						<Props DayLight="100" LokLight="TRUE" NightLight="33"/>
+						<Props DayLight="100" LokLight="TRUE" NightLight="30"/>
 					</Lightning>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="10" Anzahl="24" Datei="\Objekte\Bahnsteige\Frieder\Bahnsteigdach1-4_halb.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="100" Verschiebung="0;0;0" WeitSichtbar="TRUE" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="20"/>
+					</Lightning>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="9.98" Anzahl="2" Datei="\Objekte\Bahnsteige\Frieder\ET\Bahnsteigdach1-4_Mitte.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="280" Verschiebung="-3;0.5;0" WeitSichtbar="TRUE" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="20"/>
+					</Lightning>
 				</Eintrag>
 			</Object>
 		</Objecte>
@@ -2812,17 +2881,26 @@
 				<Eintrag>
 					<Props Abstand="10" Anzahl="19" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" Winkel="0;0;0"/>
 					<Lightning>
-						<Props DayLight="100" LokLight="TRUE" NightLight="33"/>
+						<Props DayLight="100" LokLight="TRUE" NightLight="30"/>
 					</Lightning>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="10" Anzahl="10" Datei="\Objekte\Bahnsteige\Frieder\Bahnsteigdach1-4_halb.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="90" Verschiebung="0;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="20"/>
+					</Lightning>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="10" Anzahl="10" Datei="\Objekte\Bahnsteige\Frieder\ET\Bahnsteigdach1-4_Mitte.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="90" Verschiebung="5;0.5;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="20"/>
+					</Lightning>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\Frieder\Demo3\Absperrung3.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1" Verschiebung="-0.1;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="20"/>
+					</Lightning>
 				</Eintrag>
 			</Object>
 		</Objecte>
@@ -2959,17 +3037,26 @@
 				<Eintrag>
 					<Props Abstand="9.98" Anzahl="12" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" Winkel="0;0;0"/>
 					<Lightning>
-						<Props DayLight="100" LokLight="TRUE" NightLight="35"/>
+						<Props DayLight="100" LokLight="TRUE" NightLight="30"/>
 					</Lightning>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="9.98" Anzahl="6" Datei="\Objekte\Bahnsteige\Frieder\Bahnsteigdach1-4_halb.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="4" Verschiebung="0;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="20"/>
+					</Lightning>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="9.98" Anzahl="8" Datei="\Objekte\Bahnsteige\Frieder\ET\Bahnsteigdach1-4_Mitte.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="4" Verschiebung="4;0.5;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="20"/>
+					</Lightning>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="9.98" Anzahl="5" Datei="\Objekte\Bahnsteige\Frieder\ET\Bahnsteigdach1-4_halb.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="64" Verschiebung="0;0.5;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="20"/>
+					</Lightning>
 				</Eintrag>
 			</Object>
 		</Objecte>
@@ -3056,14 +3143,20 @@
 				<Eintrag>
 					<Props Abstand="10" Anzahl="12" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0.5" Verschiebung="0;0;0" Winkel="0;0;0"/>
 					<Lightning>
-						<Props DayLight="100" LokLight="TRUE" NightLight="33"/>
+						<Props DayLight="100" LokLight="TRUE" NightLight="30"/>
 					</Lightning>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="10" Anzahl="3" Datei="\Objekte\Bahnsteige\Frieder\ET\Bahnsteigdach1-4_halb.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0;0.5;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="20"/>
+					</Lightning>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\Frieder\Demo3\Absperrung2.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="119" Verschiebung="0;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="30"/>
+					</Lightning>
 				</Eintrag>
 			</Object>
 		</Objecte>
