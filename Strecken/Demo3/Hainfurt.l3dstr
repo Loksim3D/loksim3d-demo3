@@ -1563,9 +1563,6 @@
 			<Object>
 				<Props Name="Bahnsteigdach Gleis6" Offset="0;0;0" Position="2134" Qualitaet="1"/>
 				<Eintrag>
-					<Props Abstand="10" Anzahl="16" Datei="\Objekte\Bahnsteige\Frieder\Bahnsteigdach1-4.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="9.5;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
-				</Eintrag>
-				<Eintrag>
 					<Props Abstand="10" Anzahl="4" Datei="\Objekte\Bahnsteige\Frieder\Bahnsteigdach1-4.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="160" Verschiebung="5;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
 				</Eintrag>
 			</Object>
@@ -1747,6 +1744,9 @@
 					<Lightning>
 						<Props DayLight="100" LokLight="TRUE" NightLight="32"/>
 					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="18" Datei="\Objekte\Bahnsteige\Frieder\Bahnsteigdach1-4_halb.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
 				</Eintrag>
 			</Object>
 		</Objecte>
@@ -2290,6 +2290,9 @@
 				<Eintrag>
 					<Props Abstand="20" Anzahl="4" Datei="\Objekte\Bahnsteige\Frieder\Bahnsteiglampen\Bahnsteiglampe10.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="10" Verschiebung="5;1;0" Winkel="0;0;0"/>
 				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="9" Datei="\Objekte\Bahnsteige\Frieder\Bahnsteigdach1-4_halb.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="90" Verschiebung="0;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+				</Eintrag>
 			</Object>
 		</Objecte>
 		<Hoeheunterbrechung>
@@ -2418,6 +2421,9 @@
 				<Props Name="Bahnsteig" Offset="0;0;0" Position="2004" Qualitaet="1"/>
 				<Eintrag>
 					<Props Abstand="10" Anzahl="18" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="10" Verschiebung="0;0;0" Winkel="180;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="24" Datei="\Objekte\Bahnsteige\Frieder\ET\Bahnsteigdach1-4_halb.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="100" Verschiebung="0;0.5;0" WeitSichtbar="TRUE" Winkel="180;0;0"/>
 				</Eintrag>
 			</Object>
 			<Object>
