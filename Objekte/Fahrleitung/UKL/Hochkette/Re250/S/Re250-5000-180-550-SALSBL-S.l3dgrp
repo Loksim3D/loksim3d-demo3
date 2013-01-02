@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <GRUPPENOBJECT>
-<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="UKL-Fahrleitungsgenerator, Version 1.0.7" FileInfo="Fahrleitung der Bauart Re250 der DB/nSpannweite: 50.0m, Systemhöhe: 1.8m/nFahrdrahthöhe über SOK: 5.50m/nStreckentrennung, Teilstück: -SALSBL" FilePicture="" />
+<Props FileAuthor="UKL-Fahrleitungsgenerator, Version 1.0.7" FileInfo="Fahrleitung der Bauart Re250 der DB/nSpannweite: 50.0m, Systemhöhe: 1.8m/nFahrdrahthöhe über SOK: 5.50m/nStreckentrennung, Teilstück: -SALSBL" FilePicture="" />
 <Object>
 <Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\ukl\Hochkette\Re250\S\ET\Re250-5000-180-550-SALSBL-S.l3dobj"Position="0;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
 </Object>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="Rainer Ziener - FC" FileDoku="" FileInfo="Anfang ohne Regenrinne/nLänge: 2,50m/nBreite: 5m/n/nUrsprung:/nBahnsteig Jena-Paradies/n(Haltepunkt ICE Berlin-München,/n06&#47;2005 eingeweiht)/n2011 mit neuer Bitmap/nAnfang Bahnsteig 1" FilePicture="" Texture="\Objekte\Bahnsteige\RainerZ\BS_UJP\Bahnst_UJP1.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="0;1;0" Vekt="1.68;1;-1.255"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="1.68;1;1.255"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="5;1;1.255"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="5;1;-1.255"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;0" Vekt="1.68;0.7;-1.255"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;0" Vekt="1.68;0.7;1.255"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;0;0" Vekt="2.2;0.7;1.255"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;0;0" Vekt="2.2;0.7;-1.255"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;0" Vekt="2.2;-0.01;-1.255"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;0" Vekt="2.2;-0.01;1.255"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;0" Vekt="5;-0.01;1.255"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;0" Vekt="5;-0.01;-1.255"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="507,201;507,393;199,393;199,201"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="5;1;0;4" Texture="7,506;7,476;313,476;313,506"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="6;7;8;9" Texture="28,212;28,3;1,3;1,212"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;4;0;3;11;8" Texture="387,486;369,486;369,472;509,472;509,511;387,511"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="6;9;10;2;1;5" Texture="387,483;387,511;509,511;509,472;369,472;369,483"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;7;6;5" Texture="373,505;370,474;501,476;503,504"/>
+	</Flaeche>
+</OBJECT>

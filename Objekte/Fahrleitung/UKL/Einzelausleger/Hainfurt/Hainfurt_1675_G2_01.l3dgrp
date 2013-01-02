@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <GRUPPENOBJECT>
-	<Props FileAuthor="U.Klein" FileDoku="" FileInfo="Sonderausleger Bf. Hainfurt, km 1,675, Gl. 2/n/nOriginal Bitmap von Frieder Cramer/nBearbeitung: U. Klein 2012" FilePicture="Flachmast_Re100-140-550-K-SR.l3dgrp.jpg"/>
+	<Props FileAuthor="U.Klein" FileDoku="" FileInfo="Sonderausleger Bf. Hainfurt, km 1,675, Gl. 2/nNull 1,6m, FD 5,5m &#47;SH 1,4m = TS -0,4m/n/nOriginal Bitmap von Frieder Cramer/nBearbeitung: U. Klein 2012" FilePicture="Flachmast_Re100-140-550-K-SR.l3dgrp.jpg"/>
 	<Object>
 		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\ukl\Einzelteil\Ausleger\Hainfurt\Hainfurt_1675_G2_01.l3dobj" Position="0;5.5;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
 	</Object>

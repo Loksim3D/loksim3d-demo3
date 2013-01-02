@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="Rainer Ziener - FC" FileDoku="" FileInfo="Mittelplatte/nLänge: 2,50m/nBreite: 4,50m/n/nUrsprung:/nBahnsteig Jena-Paradies/n(Haltepunkt ICE Berlin-München,/n06&#47;2005 eingeweiht)/nMittelstück/n2011 mit neuer Bitmap" FilePicture="" Texture="\Objekte\Bahnsteige\RainerZ\BS_UJP\Bahnst_UJP2.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="0;1;0" Vekt="0;1;-1.255"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="0;1;1.255"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="4.5;1;1.255"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="4.5;1;-1.255"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="387,9;387,202;51,202;51,9"/>
+	</Flaeche>
+</OBJECT>

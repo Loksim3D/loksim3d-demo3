@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OBJECT>
-<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="UKL-Fahrleitungsgenerator, Version 1.0.6" FileInfo="Fahrleitung der Bauart Re250 der DB/nSpannweite: 50.0m, Systemhöhe: 1.8m/nFahrdrahthöhe über SOK: 5.50m/nStreckentrennung, Teilstück: -ASAL/nRadspanner nebeneinander/nAbstand des Abspannmastes von der Gleismitte: 3.50m" FilePicture="" Texture="\Objekte\Fahrleitung\allqtw.bmp" TransTexture="" Transparent="TRUE" TransparentTyp="1"/>
+<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="UKL-Fahrleitungsgenerator, Version 1.0.7" FileInfo="Fahrleitung der Bauart Re250 der DB/nSpannweite: 50.0m, Systemhöhe: 1.8m/nFahrdrahthöhe über SOK: 5.50m/nStreckentrennung, Teilstück: -ASAL/nRadspanner nebeneinander/nAbstand des Abspannmastes von der Gleismitte: 3.50m" FilePicture="" Texture="\Objekte\Fahrleitung\allqtw.bmp" TransTexture="" Transparent="TRUE" TransparentTyp="1"/>
 <Point>
 <Props Normal="1;1;1" Vekt="3.213;6.720;0.670"/>
 </Point>
