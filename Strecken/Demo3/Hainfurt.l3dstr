@@ -589,25 +589,13 @@
 					</Lightning>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="447" Anzahl="2" Datei="\Objekte\Bahnsteige\RainerZ\gelaen_150cm.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="1" Verschiebung="2;1;0" Winkel="0;0;0"/>
-				</Eintrag>
-				<Eintrag>
-					<Props Abstand="447" Anzahl="2" Datei="\Objekte\Bahnsteige\RainerZ\gelaen_150cm.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="1" Verschiebung="3.5;1;0" Winkel="0;0;0"/>
-				</Eintrag>
-				<Eintrag>
-					<Props Abstand="447" Anzahl="2" Datei="\Objekte\Bahnsteige\RainerZ\gelaen_150cm.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="1" Verschiebung="5;1;0" Winkel="0;0;0"/>
-				</Eintrag>
-				<Eintrag>
-					<Props Abstand="447" Anzahl="2" Datei="\Objekte\Bahnsteige\RainerZ\gelaen_150cm.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="1" Verschiebung="6.5;1;0" Winkel="0;0;0"/>
-				</Eintrag>
-				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\RainerZ\Durchgang_verb.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="2" Verschiebung="5;1;0" Winkel="180;0;0"/>
-				</Eintrag>
-				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\RainerZ\Durchgang_verb.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="445" Verschiebung="5;1;0" Winkel="0;0;0"/>
-				</Eintrag>
-				<Eintrag>
 					<Props Abstand="10" Anzahl="24" Datei="\Objekte\Bahnsteige\Frieder\Bahnsteigdach1-4_halb.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="90" Verschiebung="0;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\Frieder\Demo3\Absperrung1.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1" Verschiebung="0;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\Frieder\Demo3\Absperrung2.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="449" Verschiebung="0;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
 				</Eintrag>
 			</Object>
 			<Object>
@@ -1560,12 +1548,6 @@
 					</Lightning>
 				</Eintrag>
 			</Object>
-			<Object>
-				<Props Name="Bahnsteigdach Gleis6" Offset="0;0;0" Position="2134" Qualitaet="1"/>
-				<Eintrag>
-					<Props Abstand="10" Anzahl="4" Datei="\Objekte\Bahnsteige\Frieder\Bahnsteigdach1-4.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="160" Verschiebung="5;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
-				</Eintrag>
-			</Object>
 		</Objecte>
 		<Hoeheunterbrechung>
 		</Hoeheunterbrechung>
@@ -1747,6 +1729,9 @@
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="10" Anzahl="18" Datei="\Objekte\Bahnsteige\Frieder\Bahnsteigdach1-4_halb.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="18" Datei="\Objekte\Bahnsteige\Frieder\ET\Bahnsteigdach1-4_halb.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="10" Verschiebung="10;0.5;0" WeitSichtbar="TRUE" Winkel="180;0;0"/>
 				</Eintrag>
 			</Object>
 		</Objecte>
@@ -2273,25 +2258,13 @@
 					</Lightning>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\RainerZ\gelaen_150cm.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="1" Verschiebung="2;1;0" Winkel="0;0;0"/>
-				</Eintrag>
-				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\RainerZ\gelaen_150cm.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="1" Verschiebung="3.5;1;0" Winkel="0;0;0"/>
-				</Eintrag>
-				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\RainerZ\gelaen_150cm.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="1" Verschiebung="5;1;0" Winkel="0;0;0"/>
-				</Eintrag>
-				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\RainerZ\gelaen_150cm.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="1" Verschiebung="6.5;1;0" Winkel="0;0;0"/>
-				</Eintrag>
-				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\RainerZ\Durchgang_verb.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="2" Verschiebung="5;1;0" Winkel="180;0;0"/>
-				</Eintrag>
-				<Eintrag>
 					<Props Abstand="20" Anzahl="4" Datei="\Objekte\Bahnsteige\Frieder\Bahnsteiglampen\Bahnsteiglampe10.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="10" Verschiebung="5;1;0" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="10" Anzahl="9" Datei="\Objekte\Bahnsteige\Frieder\Bahnsteigdach1-4_halb.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="90" Verschiebung="0;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\Frieder\Demo3\Absperrung1.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="1" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 			</Object>
 		</Objecte>
@@ -2423,7 +2396,10 @@
 					<Props Abstand="10" Anzahl="18" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="10" Verschiebung="0;0;0" Winkel="180;0;0"/>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="10" Anzahl="24" Datei="\Objekte\Bahnsteige\Frieder\ET\Bahnsteigdach1-4_halb.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="100" Verschiebung="0;0.5;0" WeitSichtbar="TRUE" Winkel="180;0;0"/>
+					<Props Abstand="10" Anzahl="10" Datei="\Objekte\Bahnsteige\Frieder\ET\Bahnsteigdach1-4_halb.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="100" Verschiebung="0;0.5;0" WeitSichtbar="TRUE" Winkel="180;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="10" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig_Mittelplatte 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="176" Verschiebung="-3;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 			</Object>
 			<Object>
@@ -2546,10 +2522,10 @@
 			<Object>
 				<Props Name="Bahnsteig" Offset="0;0;0" Position="2004" Qualitaet="1"/>
 				<Eintrag>
-					<Props Abstand="20" Anzahl="3" Datei="\Objekte\Bahnsteige\Frieder\Bahnsteiglampen\Bahnsteiglampe10.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="10" Verschiebung="-7.25;1;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Props Abstand="20" Anzahl="3" Datei="\Objekte\Bahnsteige\Frieder\Bahnsteiglampen\Bahnsteiglampe10.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="10" Verschiebung="-5;1;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="10" Anzahl="45" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="10.5" Verschiebung="0;0;0" Winkel="180;0;0"/>
+					<Props Abstand="10" Anzahl="42" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="10.5" Verschiebung="0;0;0" Winkel="180;0;0"/>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="10" Anzahl="7" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig_Mittelplatte 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="20.5" Verschiebung="-3;0;0" Winkel="180;0;0"/>
@@ -2664,7 +2640,7 @@
 						<Props Pos="2460" Value="Zsig Hainfurt"/>
 					</Value>
 					<Value>
-						<Props Pos="2445" Value="Hainfurt"/>
+						<Props Pos="2415" Value="Hainfurt"/>
 					</Value>
 				</STRECKENNAMEN>
 				<HOECHSTGESCHWINDIGKEIT>
@@ -2717,7 +2693,7 @@
 				</Signaloptionen>
 				<Haltepunkt>
 					<Value>
-						<Props File="\Objekte\Tafeln\Frieder\Ne5-FC.l3dgrp" Name="Hainfurt" Pos="2445" ToleranzMinus="400" ToleranzPlus="25" Zuglaenge="400"/>
+						<Props File="\Objekte\Tafeln\Frieder\Ne5-FC.l3dgrp" Name="Hainfurt" Pos="2415" ToleranzMinus="400" ToleranzPlus="25" Zuglaenge="400"/>
 						<ObjectProps>
 							<Position>
 								<Props Position="2.2;-2;0" Rotation="0;0;0"/>
@@ -2814,6 +2790,9 @@
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="10" Anzahl="10" Datei="\Objekte\Bahnsteige\Frieder\ET\Bahnsteigdach1-4_Mitte.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="90" Verschiebung="5;0.5;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\Frieder\Demo3\Absperrung3.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1" Verschiebung="-0.1;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
 				</Eintrag>
 			</Object>
 		</Objecte>
@@ -3042,10 +3021,13 @@
 			<Object>
 				<Props Name="Bahnsteig" Offset="0;0;0" Position="2304" Qualitaet="1"/>
 				<Eintrag>
-					<Props Abstand="10" Anzahl="15" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0.5" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Props Abstand="10" Anzahl="12" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0.5" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="10" Anzahl="3" Datei="\Objekte\Bahnsteige\Frieder\ET\Bahnsteigdach1-4_halb.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0;0.5;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\Frieder\Demo3\Absperrung2.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="119" Verschiebung="0;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
 				</Eintrag>
 			</Object>
 		</Objecte>
@@ -3094,7 +3076,7 @@
 			<VOR>
 				<STRECKENNAMEN>
 					<Value>
-						<Props Pos="2445" Value="Hainfurt"/>
+						<Props Pos="2415" Value="Hainfurt"/>
 					</Value>
 				</STRECKENNAMEN>
 				<HOECHSTGESCHWINDIGKEIT>
@@ -3119,7 +3101,7 @@
 				</Signaloptionen>
 				<Haltepunkt>
 					<Value>
-						<Props File="\Objekte\Tafeln\Frieder\Ne5-FC.l3dgrp" Name="Hainfurt" Pos="2445" ToleranzMinus="150" ToleranzPlus="25" Zuglaenge="150"/>
+						<Props File="\Objekte\Tafeln\Frieder\Ne5-FC.l3dgrp" Name="Hainfurt" Pos="2415" ToleranzMinus="150" ToleranzPlus="25" Zuglaenge="150"/>
 						<ObjectProps>
 							<Position>
 								<Props Position="2.5;0;0" Rotation="0;0;0"/>

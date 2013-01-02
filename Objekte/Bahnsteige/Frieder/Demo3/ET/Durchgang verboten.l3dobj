@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="" FileDoku="" FileInfo="" FilePicture="" Texture="\Objekte\Bahnsteige\Frieder\Bahnsteiglampen\Bahnsteiglampe6.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="2"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="-0.3;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="-0.3;0.6;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.3;0.6;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.3;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="-0.3;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="-0.3;0.6;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.3;0.6;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="0.3;0;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="281,198;281,0;479,0;479,198"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;6;5;4" Texture="81,198;81,0;279,0;279,198"/>
+	</Flaeche>
+</OBJECT>
