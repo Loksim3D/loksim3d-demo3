@@ -44,6 +44,18 @@
 				<Eintrag>
 					<Props Abstand="20" Anzahl="5" Datei="\Objekte\Bahnsteige\Frieder\Bahnsteiglampen\Bahnsteiglampe10.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="340" Verschiebung="-5;1;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
 				</Eintrag>
+				<Eintrag>
+					<Props Abstand="410" Anzahl="2" Datei="\Objekte\Bahnsteige\RainerZ\Bahnsteigschild.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="9.9" Verschiebung="-5;1;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props TEXT="&#39;Hainfurt&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="410" Anzahl="2" Datei="\Objekte\Bahnsteige\RainerZ\Bahnsteigschild.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="10.1" Verschiebung="-5;1;0" WeitSichtbar="TRUE" Winkel="180;0;0"/>
+					<Eigenschaften>
+						<Props TEXT="&#39;Hainfurt&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
 			</Object>
 			<Object>
 				<Props Name="FL_0020" Offset="0;0;0" Position="0" Qualitaet="5"/>
@@ -585,7 +597,7 @@
 				<Eintrag>
 					<Props Abstand="10" Anzahl="45" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" Winkel="0;0;0"/>
 					<Lightning>
-						<Props DayLight="100" LokLight="TRUE" NightLight="29"/>
+						<Props DayLight="100" LokLight="TRUE" NightLight="33"/>
 					</Lightning>
 				</Eintrag>
 				<Eintrag>
@@ -595,7 +607,7 @@
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\Frieder\Demo3\Absperrung1.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1" Verschiebung="0;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\Frieder\Demo3\Absperrung2.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="449" Verschiebung="0;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\Frieder\Demo3\Absperrung5.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="449" Verschiebung="0.2;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
 				</Eintrag>
 			</Object>
 			<Object>
@@ -1546,6 +1558,9 @@
 					<Lightning>
 						<Props DayLight="100" LokLight="TRUE" NightLight="32"/>
 					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\Frieder\Demo3\Absperrung4.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="149" Verschiebung="0;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
 				</Eintrag>
 			</Object>
 		</Objecte>
@@ -2526,15 +2541,27 @@
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="10" Anzahl="42" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="10.5" Verschiebung="0;0;0" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="36"/>
+					</Lightning>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="10" Anzahl="7" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig_Mittelplatte 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="20.5" Verschiebung="-3;0;0" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="34"/>
+					</Lightning>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="10" Anzahl="17" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig_Mittelplatte 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="90.5" Verschiebung="-5;0;0" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="33"/>
+					</Lightning>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="10" Anzahl="4" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig_Mittelplatte 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="260.5" Verschiebung="-2.5;0;0" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="33"/>
+					</Lightning>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="10" Anzahl="24" Datei="\Objekte\Bahnsteige\Frieder\Bahnsteigdach1-4_halb.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="100" Verschiebung="0;0;0" WeitSichtbar="TRUE" Winkel="180;0;0"/>
@@ -2784,6 +2811,9 @@
 				<Props Name="Bahnsteig" Offset="0;0;0" Position="2004" Qualitaet="1"/>
 				<Eintrag>
 					<Props Abstand="10" Anzahl="19" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="33"/>
+					</Lightning>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="10" Anzahl="10" Datei="\Objekte\Bahnsteige\Frieder\Bahnsteigdach1-4_halb.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="90" Verschiebung="0;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
@@ -2928,6 +2958,9 @@
 				<Props Name="Bahnsteig" Offset="0;0;0" Position="2190" Qualitaet="1"/>
 				<Eintrag>
 					<Props Abstand="9.98" Anzahl="12" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="35"/>
+					</Lightning>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="9.98" Anzahl="6" Datei="\Objekte\Bahnsteige\Frieder\Bahnsteigdach1-4_halb.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="4" Verschiebung="0;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
@@ -3022,6 +3055,9 @@
 				<Props Name="Bahnsteig" Offset="0;0;0" Position="2304" Qualitaet="1"/>
 				<Eintrag>
 					<Props Abstand="10" Anzahl="12" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0.5" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="33"/>
+					</Lightning>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="10" Anzahl="3" Datei="\Objekte\Bahnsteige\Frieder\ET\Bahnsteigdach1-4_halb.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0;0.5;0" Winkel="0;0;0"/>
