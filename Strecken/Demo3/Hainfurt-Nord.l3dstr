@@ -359,6 +359,9 @@
 		<EIGENSCHAFTEN>
 			<VOR>
 				<STRECKENNAMEN>
+					<Value>
+						<Props Pos="2450" Value="Hainfurt Nord"/>
+					</Value>
 				</STRECKENNAMEN>
 				<HOECHSTGESCHWINDIGKEIT>
 					<Value>
@@ -402,6 +405,14 @@
 				<Signaloptionen>
 				</Signaloptionen>
 				<Haltepunkt>
+					<Value>
+						<Props File="\Objekte\Tafeln\Frieder\Ne5-FC.l3dgrp" Name="Hainfurt Nord" Pos="2450" ToleranzMinus="100" ToleranzPlus="25" Zuglaenge="1000"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="2.5;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
 				</Haltepunkt>
 				<Bahnuebergang>
 				</Bahnuebergang>

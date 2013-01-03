@@ -1,3 +1,6 @@
+2013-01-03
+* [FC] Fahrplan Hainfurt - Hainfurt Nord
+
 2013-01-02
 * [ukl] Bf Hainfurt an der FL weitergearbeitet
 
