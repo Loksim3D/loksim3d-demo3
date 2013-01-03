@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="U.Klein" FileDoku="" FileInfo="Betonmast für Doppel-Ausleger/nAbstand Mastmitte &#47; Gleismitte 3,5m/nAbstand Sockelkante &#47; Gleismitte 3,3m/n/nBearbeitung: U.Klein 2012" FilePicture="Betonmast_Re250-180-530-SPA.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\ukl\Einzelteil\Rundmaste\FC\Betonmast_080_D.l3dobj" Position="3.5;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\UKL\Einzelteil\Vierkantrohr_VZ_80_50_800.l3dobj" Position="3.345;7.615;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\UKL\Einzelteil\Vierkantrohr_VZ_80_50_800.l3dobj" Position="3.32;5.8;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+</GRUPPENOBJECT>

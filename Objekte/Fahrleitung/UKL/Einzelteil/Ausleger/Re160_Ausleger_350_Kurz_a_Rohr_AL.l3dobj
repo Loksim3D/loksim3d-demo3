@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OBJECT>
-	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="U.Klein" FileDoku="" FileInfo="Ausleger Kurz AL, Bauart a für Re160 mit Spitzenrohr/nGerade Strecke und Bogenaussen /nMit Fahrdrahthöhe einfügen/nSystemhöhe: 1,8m/nMastabstand zur Gleismitte 3,4m/n/nOriginal Bitmap von Frieder Cramer/nBearbeitung: U. Klein 2012" FilePicture="FL-Mast_kA_re.l3dobj.jpg" Texture="Ausleger_Re_AL.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="2"/>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="U.Klein" FileDoku="" FileInfo="Ausleger Kurz AL, Bauart a für Re160 mit Spitzenrohr/nGerade Strecke und Bogenaussen /nMit Fahrdrahthöhe einfügen/nSystemhöhe: 1,8m/nMastabstand zur Gleismitte 3,5m/n/nOriginal Bitmap von Frieder Cramer/nBearbeitung: U. Klein 2012" FilePicture="FL-Mast_kA_re.l3dobj.jpg" Texture="Ausleger_Re_AL.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="2"/>
 	<Point>
 		<Props Normal="0;-1;0" Vekt="-0.15;0.29;0"/>
 	</Point>
@@ -8,10 +8,10 @@
 		<Props Normal="0;1;0" Vekt="-0.15;2.2;0"/>
 	</Point>
 	<Point>
-		<Props Normal="0;1;0" Vekt="3.4;2.2;0"/>
+		<Props Normal="0;1;0" Vekt="3.5;2.2;0"/>
 	</Point>
 	<Point>
-		<Props Normal="0;-1;0" Vekt="3.4;0.29;0"/>
+		<Props Normal="0;-1;0" Vekt="3.5;0.29;0"/>
 	</Point>
 	<Point>
 		<Props Normal="0;-1;0" Vekt="0.08;2.1;0"/>
@@ -20,10 +20,10 @@
 		<Props Normal="0;1;0" Vekt="-0.12;2.2;0"/>
 	</Point>
 	<Point>
-		<Props Normal="0;1;0" Vekt="3.4;2.2;0"/>
+		<Props Normal="0;1;0" Vekt="3.5;2.2;0"/>
 	</Point>
 	<Point>
-		<Props Normal="0;-1;0" Vekt="3.4;2.1;0"/>
+		<Props Normal="0;-1;0" Vekt="3.5;2.1;0"/>
 	</Point>
 	<Point>
 		<Props Normal="0;-1;0" Vekt="-0.15;0.63;0"/>
@@ -32,10 +32,10 @@
 		<Props Normal="0;1;0" Vekt="-0.15;0.73;0"/>
 	</Point>
 	<Point>
-		<Props Normal="0;1;0" Vekt="2.67;0.73;0"/>
+		<Props Normal="0;1;0" Vekt="2.73;0.73;0"/>
 	</Point>
 	<Point>
-		<Props Normal="0;-1;0" Vekt="2.67;0.63;0"/>
+		<Props Normal="0;-1;0" Vekt="2.73;0.63;0"/>
 	</Point>
 	<Flaeche>
 		<Props Points="0;1;2;3" Texture="50,235;50,16;420,16;420,235"/>

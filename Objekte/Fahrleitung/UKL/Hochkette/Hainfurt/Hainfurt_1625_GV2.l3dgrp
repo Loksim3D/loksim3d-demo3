@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="UKL-Fahrleitungsgenerator, Version 1.0.7" FileInfo="Sonderfahrleitung der Bauart Re100 der DB/nSHK-Code: SHK-Re100-3015-160-550--160--20-10--160-0-0-0--40-A1/nSpannweite: 30.2m, Systemhöhe: 1.6m/nFahrdrahthöhe über SOK: 5.50m/nTragseil, seitliche Abweichung, Stützpunkt 1: -1.60m/nTragseil, Höhenversatz, Stützpunkt 1: -0.20m/nFahrdraht, Höhenversatz, Stützpunkt 1: 0.10m/nFahrdraht, seitliche Abweichung, Stützpunkt 1: -1.60m/nTragseil, seitliche Abweichung, Stützpunkt 2: 0.00m/nTragseil, Höhenversatz, Stützpunkt 2: 0.00m/nFahrdraht, Höhenversatz, Stützpunkt 2: 0.00m/nFahrdraht, seitliche Abweichung, Stützpunkt 2: -0.40m/nTragseilwinkel: 3.04/nFahrdrahtwinkel: 2.28" FilePicture="" />
+<Object>
+<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\ukl\Hochkette\Hainfurt\SHK_ET\Hainfurt_1625_GV2.l3dobj"Position="0;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+</Object>
+<Object>
+<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\ukl\Einzelteil\Iso_Keramik_7s_w.l3dobj"Position="-1.229;7.316;7.000" Rotation="3.041;0.000;-0.373" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+</Object>
+<Object>
+<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\ukl\Einzelteil\Iso_Keramik_7s_w.l3dobj"Position="-1.321;5.947;7.000" Rotation="2.280;0.000;0.190" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+</Object>
+</GRUPPENOBJECT>
