@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="Michael Buhmann" FileInfo="" FilePicture="" Texture="Prellbock_neu.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0;0.5;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.45;0.5;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.45;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="0;0;0.05"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="0;0.5;0.05"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.45;0.5;0.05"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="0.45;0;0.05"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="117,176;117,151;137,151;137,176"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;6;5;4" Texture="194,86;195,97;210,97;209,87"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;2;6;7" Texture="21,49;21,5;26,5;26,49"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;1;0" Texture="26,49;26,4;21,4;21,49"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="1;5;6;2" Texture="22,4;26,4;26,48;22,48"/>
+	</Flaeche>
+</OBJECT>

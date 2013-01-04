@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="Michael Buhmann" FileInfo="Modifiziertes Objekt von  Andreas Peter, /nPrellbock Bauart Rawie/nmit Einzelbohlen, Neuzustand/nAusführung der Signaltafeln/nüber Eigenschaften/n/n(c) Andreas Peter ; Mai 2005/nMit neuen Texturen von /nMichael Buhmann im Oktober 2006/n/nerstellt mit Loksim-Editor 2.41" FilePicture="Prellbock-R1.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile_prellbock\Prellbock-Seite.l3dobj" Position="-0.755;0.3;0" Rotation="90;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile_prellbock\Prellbock-Seite.l3dobj" Position="0.755;0.3;0" Rotation="90;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile_prellbock\Prellbock-Strebe1.l3dobj" Position="0;0.4;-0.1" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile_prellbock\Prellbock-Strebe1.l3dobj" Position="0;1.2;-0.9" Rotation="0;0;-35" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile_prellbock\Prellbock-Strebe1.l3dobj" Position="0;0.4;-2.2" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile_prellbock\Prellbock-Strebe2.l3dobj" Position="0;0.4;-1.5" Rotation="45;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile_prellbock\Prellbock-Strebe2.l3dobj" Position="0;0.4;-1.5" Rotation="-45;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile_prellbock\Prellbock-Seite.l3dobj" Position="0.685;0.3;0" Rotation="90;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile_prellbock\Prellbock-Seite.l3dobj" Position="-0.685;0.3;0" Rotation="90;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile_prellbock\Prellbock-Bohle1-li.l3dobj" Position="0.95;1.1;-0.2" Rotation="180;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile_prellbock\Prellbock-Bohle1-re.l3dobj" Position="-0.5;1.1;-0.2" Rotation="180;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Sh2" Name="Einzelteile_prellbock\Prellbock-Sh0.l3dobj" Position="0.45;1.6;-0.3" Rotation="180;0;0" ShowOn="Sh0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Sh0" Name="Einzelteile_prellbock\Prellbock-Sh2.l3dobj" Position="0.3;1.6;-0.3" Rotation="180;0;0" ShowOn="Sh2" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile_prellbock\Prellbock-Fuellstueck.l3dobj" Position="0.685;0.4;0" Rotation="0;0;-40" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile_prellbock\Prellbock-Fuellstueck.l3dobj" Position="-0.755;0.4;0" Rotation="0;0;-40" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile_prellbock\Prellbock-Fuellstueck.l3dobj" Position="0.685;0.4;-2.5" Rotation="0;0;60" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile_prellbock\Prellbock-Fuellstueck.l3dobj" Position="0.685;0.9;-1.7" Rotation="0;0;60" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile_prellbock\Prellbock-Fuellstueck.l3dobj" Position="-0.755;0.9;-1.7" Rotation="0;0;60" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile_prellbock\Prellbock-Fuellstueck.l3dobj" Position="-0.755;0.4;-2.5" Rotation="0;0;60" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile_prellbock\Prellbock-Scheibenhalter.l3dobj" Position="-0.755;1.55;-0.31" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+</GRUPPENOBJECT>

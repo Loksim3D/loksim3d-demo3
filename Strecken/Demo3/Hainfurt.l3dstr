@@ -77,6 +77,30 @@
 						<Props TEXT="&#39;Hainfurt&#39;"/>
 					</Eigenschaften>
 				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\RainerZ\BahnstNr_Abschn_mH.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="92" Verschiebung="-3;1.2;0" Winkel="180;0;0"/>
+					<Eigenschaften>
+						<Props Abschnitt="&#39;A&#39;" Bahnsteignummer="&#39;2&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\RainerZ\BahnstNr_Abschn_mH.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="170" Verschiebung="-3;1.2;0" Winkel="180;0;0"/>
+					<Eigenschaften>
+						<Props Abschnitt="&#39;B&#39;" Bahnsteignummer="&#39;2&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\RainerZ\BahnstNr_Abschn_mH.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="250" Verschiebung="-3;1.2;0" Winkel="180;0;0"/>
+					<Eigenschaften>
+						<Props Abschnitt="&#39;C&#39;" Bahnsteignummer="&#39;2&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\RainerZ\BahnstNr_Abschn_mH.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="328" Verschiebung="-3;1.2;0" Winkel="180;0;0"/>
+					<Eigenschaften>
+						<Props Abschnitt="&#39;D&#39;" Bahnsteignummer="&#39;2&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
 			</Object>
 			<Object>
 				<Props Name="FL_0020" Offset="0;0;0" Position="0" Qualitaet="5"/>
@@ -659,6 +683,30 @@
 					<Lightning>
 						<Props DayLight="100" LokLight="TRUE" NightLight="20"/>
 					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\RainerZ\BahnstNr_Abschn_mH.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="92" Verschiebung="3;1.2;0" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props Abschnitt="&#39;A&#39;" Bahnsteignummer="&#39;3&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\RainerZ\BahnstNr_Abschn_mH.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="170" Verschiebung="3;1.2;0" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props Abschnitt="&#39;B&#39;" Bahnsteignummer="&#39;3&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\RainerZ\BahnstNr_Abschn_mH.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="250" Verschiebung="3;1.2;0" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props Abschnitt="&#39;C&#39;" Bahnsteignummer="&#39;3&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\RainerZ\BahnstNr_Abschn_mH.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="328" Verschiebung="3;1.2;0" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props Abschnitt="&#39;D&#39;" Bahnsteignummer="&#39;3&#39;"/>
+					</Eigenschaften>
 				</Eintrag>
 			</Object>
 			<Object>
@@ -1305,6 +1353,18 @@
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\RainerZ\Bahnsteigschild.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="70" Verschiebung="4.9;1;0" WeitSichtbar="TRUE" Winkel="90;0;0"/>
 					<Eigenschaften>
 						<Props TEXT="&#39;Hainfurt&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\RainerZ\BahnstNr_Abschn_mH.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="-20" Verschiebung="3;1.2;0" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props Abschnitt="&#39;C&#39;" Bahnsteignummer="&#39;1&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\RainerZ\BahnstNr_Abschn_mH.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="58" Verschiebung="3;1.2;0" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props Abschnitt="&#39;D&#39;" Bahnsteignummer="&#39;1&#39;"/>
 					</Eigenschaften>
 				</Eintrag>
 			</Object>
@@ -2521,6 +2581,24 @@
 						<Props TEXT="&#39;Hainfurt&#39;"/>
 					</Eigenschaften>
 				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\RainerZ\BahnstNr_Abschn_mH.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="88" Verschiebung="3;1.2;0" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props Abschnitt="&#39;A&#39;" Bahnsteignummer="&#39;6&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\RainerZ\BahnstNr_Abschn_mH.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="150" Verschiebung="3;1.2;0" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props Abschnitt="&#39;B&#39;" Bahnsteignummer="&#39;6&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\RainerZ\Bahnsteigschild.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="50" Verschiebung="5.1;1;0" WeitSichtbar="TRUE" Winkel="270;0;0"/>
+					<Eigenschaften>
+						<Props TEXT="&#39;Hainfurt&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
 			</Object>
 			<Object>
 				<Props Name="FL_1575" Offset="0;0;0" Position="0" Qualitaet="5"/>
@@ -2701,6 +2779,18 @@
 						<Props DayLight="100" LokLight="TRUE" NightLight="30"/>
 					</Lightning>
 				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\RainerZ\BahnstNr_Abschn_mH.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="88" Verschiebung="-3;1.2;0" Winkel="180;0;0"/>
+					<Eigenschaften>
+						<Props Abschnitt="&#39;A&#39;" Bahnsteignummer="&#39;7&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\RainerZ\BahnstNr_Abschn_mH.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="150" Verschiebung="-3;1.2;0" Winkel="180;0;0"/>
+					<Eigenschaften>
+						<Props Abschnitt="&#39;B&#39;" Bahnsteignummer="&#39;7&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
 			</Object>
 			<Object>
 				<Props Name="FL_1575" Offset="0;0;0" Position="0" Qualitaet="5"/>
@@ -2733,6 +2823,15 @@
 				<Props Name="Gleismitte" Offset="0;0.37;0" Position="2700" Qualitaet="0"/>
 				<Eintrag>
 					<Props Abstand="1" Anzahl="200" Datei="\Objekte\Accessoirs\UKL\Absteckstange.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="0;3.5;0" Winkel="0;0;0"/>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="Prellbock" Offset="0;0;0" Position="2173" Qualitaet="0"/>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Standard\MichaelB\Prellbock\Prellbock-Bauart_Rawie.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" Winkel="180;0;0"/>
+					<Eigenschaften>
+						<Props Sh2="&#39;TRUE&#39;"/>
+					</Eigenschaften>
 				</Eintrag>
 			</Object>
 		</Objecte>
@@ -2882,7 +2981,7 @@
 					</Lightning>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="9.98" Anzahl="2" Datei="\Objekte\Bahnsteige\Frieder\ET\Bahnsteigdach1-4_Mitte.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="280" Verschiebung="-3;0.5;0" WeitSichtbar="TRUE" Winkel="180;0;0"/>
+					<Props Abstand="10" Anzahl="2" Datei="\Objekte\Bahnsteige\Frieder\ET\Bahnsteigdach1-4_Mitte.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="280" Verschiebung="-3;0.5;0" WeitSichtbar="TRUE" Winkel="180;0;0"/>
 					<Lightning>
 						<Props DayLight="100" LokLight="TRUE" NightLight="20"/>
 					</Lightning>
@@ -2924,6 +3023,30 @@
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\RainerZ\Bahnsteigschild-mH.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="300" Verschiebung="-5;1;0" WeitSichtbar="TRUE" Winkel="90;0;0"/>
 					<Eigenschaften>
 						<Props TEXT="&#39;Hainfurt&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\RainerZ\BahnstNr_Abschn_mH.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="92" Verschiebung="-3;1.2;0" Winkel="180;0;0"/>
+					<Eigenschaften>
+						<Props Abschnitt="&#39;A&#39;" Bahnsteignummer="&#39;4&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\RainerZ\BahnstNr_Abschn_mH.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="170" Verschiebung="-3;1.2;0" Winkel="180;0;0"/>
+					<Eigenschaften>
+						<Props Abschnitt="&#39;B&#39;" Bahnsteignummer="&#39;4&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\RainerZ\BahnstNr_Abschn_mH.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="250" Verschiebung="-3;1.2;0" Winkel="180;0;0"/>
+					<Eigenschaften>
+						<Props Abschnitt="&#39;C&#39;" Bahnsteignummer="&#39;4&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\RainerZ\BahnstNr_Abschn_mH.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="328" Verschiebung="-3;1.2;0" Winkel="180;0;0"/>
+					<Eigenschaften>
+						<Props Abschnitt="&#39;D&#39;" Bahnsteignummer="&#39;4&#39;"/>
 					</Eigenschaften>
 				</Eintrag>
 			</Object>
@@ -3179,7 +3302,7 @@
 					</Lightning>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="10" Anzahl="10" Datei="\Objekte\Bahnsteige\Frieder\ET\Bahnsteigdach1-4_Mitte.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="90" Verschiebung="5;0.5;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Props Abstand="10" Anzahl="13" Datei="\Objekte\Bahnsteige\Frieder\ET\Bahnsteigdach1-4_Mitte.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="90" Verschiebung="5;0.5;0" WeitSichtbar="TRUE" Winkel="0;0.6;0"/>
 					<Lightning>
 						<Props DayLight="100" LokLight="TRUE" NightLight="20"/>
 					</Lightning>
@@ -3189,6 +3312,18 @@
 					<Lightning>
 						<Props DayLight="100" LokLight="TRUE" NightLight="20"/>
 					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\RainerZ\BahnstNr_Abschn_mH.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="92" Verschiebung="3;1.2;0" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props Abschnitt="&#39;A&#39;" Bahnsteignummer="&#39;5&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\RainerZ\BahnstNr_Abschn_mH.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="170" Verschiebung="3;1.2;0" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props Abschnitt="&#39;B&#39;" Bahnsteignummer="&#39;5&#39;"/>
+					</Eigenschaften>
 				</Eintrag>
 			</Object>
 		</Objecte>
@@ -3445,6 +3580,18 @@
 					<Lightning>
 						<Props DayLight="100" LokLight="TRUE" NightLight="30"/>
 					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\RainerZ\BahnstNr_Abschn_mH.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="-50" Verschiebung="3;1.2;0" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props Abschnitt="&#39;C&#39;" Bahnsteignummer="&#39;5&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\RainerZ\BahnstNr_Abschn_mH.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="28" Verschiebung="3;1.2;0" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props Abschnitt="&#39;D&#39;" Bahnsteignummer="&#39;5&#39;"/>
+					</Eigenschaften>
 				</Eintrag>
 			</Object>
 		</Objecte>

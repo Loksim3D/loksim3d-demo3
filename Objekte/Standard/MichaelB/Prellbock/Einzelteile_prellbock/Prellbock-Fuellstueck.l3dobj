@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="Michael Buhmann" FileInfo="ET zum neuwertigem Prellbock Rawie" FilePicture="" Texture="Prellbock_neu.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0;1.3;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.07;1.3;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.07;0;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="137,78;86,48;89,44;139,75"/>
+	</Flaeche>
+</OBJECT>
