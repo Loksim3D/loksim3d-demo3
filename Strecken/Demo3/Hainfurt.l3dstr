@@ -1914,7 +1914,7 @@
 				</Signaloptionen>
 				<Haltepunkt>
 					<Value>
-						<Props File="\Objekte\Tafeln\Frieder\Ne5-FC.l3dgrp" Name="Hainfurt" Pos="2300" ToleranzMinus="250" ToleranzPlus="2" Zuglaenge="150"/>
+						<Props File="\Objekte\Tafeln\Frieder\Ne5-FC.l3dgrp" Name="Hainfurt" Pos="2300" ToleranzMinus="250" ToleranzPlus="100" Zuglaenge="150"/>
 						<ObjectProps>
 							<Position>
 								<Props Position="2.2;-2;0" Rotation="0;0;0"/>
