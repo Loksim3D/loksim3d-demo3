@@ -1,6 +1,7 @@
 2013-01-05
 *[fc] Fahrpläne bearbeitet
       Frühalt Hainfurt Gleis 1
+      Zs13 funktioniert nicht richtig, im Moment keine Ahnhung, wie        man das lösen kann
       Baumobjekte nach Jareszeiten angefangen
 
 2013-01-03
