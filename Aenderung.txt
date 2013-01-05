@@ -1,3 +1,8 @@
+2013-01-05
+*[fc] Fahrpläne bearbeitet
+      Frühalt Hainfurt Gleis 1
+      Baumobjekte nach Jareszeiten angefangen
+
 2013-01-03
 * [ukl] Bf Hainfurt an der FL weitergearbeitet
 * [FC] Fahrplan Hainfurt - Hainfurt Nord

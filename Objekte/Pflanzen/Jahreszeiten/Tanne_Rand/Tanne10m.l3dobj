@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="TRUE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="" FileDoku="" FileInfo="" FilePicture="" Texture="\Objekte\Pflanzen\Jahreszeiten\Texturen\Tanne1.png" TransTexture="" Transparent="FALSE" TransparentTyp="2"/>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="-3.55;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="-3.55;9.5;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="3.55;9.5;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="3.55;0;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="0,475;0,0;355,0;355,475"/>
+	</Flaeche>
+</OBJECT>

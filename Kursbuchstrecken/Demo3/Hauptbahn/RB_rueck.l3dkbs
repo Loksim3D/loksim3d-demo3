@@ -27,7 +27,7 @@
 		</Name>
 	</Verbindung>
 	<StartPunkt>
-		<Props Gleis="1" Pos="0" Richtung="FALSE" Strecke="\Strecken\Demo3\Hainfurt.l3dstr"/>
+		<Props Gleis="1" Pos="6000" Richtung="TRUE" Strecke="\Strecken\Demo3\Steinbach.l3dstr"/>
 	</StartPunkt>
 	<WeichenStellung>
 		<Name>
@@ -35,6 +35,21 @@
 		</Name>
 		<Name>
 			<Props Strecke="\Strecken\Demo3\Steinbach.l3dstr" WeichenName="1" Zustand="1"/>
+		</Name>
+		<Name>
+			<Props Strecke="\Strecken\Demo3\Steinbach.l3dstr" WeichenName="4" Zustand="1"/>
+		</Name>
+		<Name>
+			<Props Strecke="\Strecken\Demo3\Steinbach.l3dstr" WeichenName="3" Zustand="1"/>
+		</Name>
+		<Name>
+			<Props Strecke="\Strecken\Demo3\Steinbach.l3dstr" WeichenName="2" Zustand="1"/>
+		</Name>
+		<Name>
+			<Props Strecke="\Strecken\Demo3\Hainfurt.l3dstr" WeichenName="H20" Zustand="1"/>
+		</Name>
+		<Name>
+			<Props Strecke="\Strecken\Demo3\Hainfurt.l3dstr" WeichenName="H19" Zustand="1"/>
 		</Name>
 	</WeichenStellung>
 </KBS>
