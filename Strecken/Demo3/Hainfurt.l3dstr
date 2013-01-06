@@ -451,6 +451,69 @@
 		<Hoeheunterbrechung>
 		</Hoeheunterbrechung>
 		<Landschaft>
+			<Landschaftsobjekt>
+				<Props Abstand="20" Name="Trasse0" Polygon="TRUE" Position="0" Scale="0.190546" Texture="TRUE" TextureFile="\Texturen\juliang\Schotter_Beton_Grau.bmp" Zwischenpunkte="TRUE"/>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="0" Verschiebung="2.5"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="2004" Verschiebung="2.5"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="TRUE" Position="2004" Verschiebung="-2.5"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="TRUE" Position="0" Verschiebung="-2.5"/>
+				</Landschaftsobjekt>
+			</Landschaftsobjekt>
+			<Landschaftsobjekt>
+				<Props Abstand="20" Name="Trasse2004" Polygon="TRUE" Position="2004" Scale="0.190546" Texture="TRUE" TextureFile="\Texturen\juliang\Schotter_Beton_Grau.bmp" Zwischenpunkte="TRUE"/>
+				<Lightning>
+					<Props DayLight="100" LokLight="TRUE" NightLight="19"/>
+				</Lightning>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="0" Verschiebung="2.5"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="450" Verschiebung="2.5"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="TRUE" Position="450" Verschiebung="-2.5"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="TRUE" Position="0" Verschiebung="-2.5"/>
+				</Landschaftsobjekt>
+			</Landschaftsobjekt>
+			<Landschaftsobjekt>
+				<Props Abstand="20" Name="Trasse2454" Polygon="TRUE" Position="2454" Scale="0.190546" Texture="TRUE" TextureFile="\Texturen\juliang\Schotter_Beton_Grau.bmp" Zwischenpunkte="TRUE"/>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="0" Verschiebung="2.5"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="1646" Verschiebung="2.5"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="TRUE" Position="1646" Verschiebung="-2.5"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="TRUE" Position="0" Verschiebung="-2.5"/>
+				</Landschaftsobjekt>
+			</Landschaftsobjekt>
+			<Landschaftsobjekt>
+				<Props Abstand="20" Name="Trasse4100" Polygon="TRUE" Position="4100" Scale="0.190546" Texture="TRUE" TextureFile="\Texturen\juliang\Schotter_Variante_1.bmp" Zwischenpunkte="TRUE"/>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="0" Verschiebung="2.5"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="1400" Verschiebung="2.5"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="1400" Verschiebung="-6.5"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="0" Verschiebung="-6.5"/>
+				</Landschaftsobjekt>
+			</Landschaftsobjekt>
 		</Landschaft>
 		<EIGENSCHAFTEN>
 			<VOR>
@@ -1057,10 +1120,97 @@
 					<Props Abstand="1" Anzahl="200" Datei="\Objekte\Accessoirs\UKL\Absteckstange.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="0;3.5;0" Winkel="0;0;0"/>
 				</Eintrag>
 			</Object>
+			<Object>
+				<Props Name="Bruecke5060" Offset="0;0;0" Position="5060" Qualitaet="2"/>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bruecken\Frieder\Betonbruecken\01Brueckenmodul.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="-23;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props Pfeiler="&#39;TRUE&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bruecken\Frieder\Betonbruecken\01Brueckenmodul.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="-13;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props Pfeiler="&#39;TRUE&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bruecken\Frieder\Betonbruecken\01Brueckenmodul.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="-3;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props Stromschutz1="&#39;TRUE&#39;" Stromschutz2="&#39;TRUE&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bruecken\Frieder\Betonbruecken\01Brueckenmodul.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="7;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props Pfeiler="&#39;TRUE&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bruecken\Frieder\Betonbruecken\01Brueckenmodul.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="17;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props Pfeiler="&#39;TRUE&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bruecken\Frieder\Betonbruecken\01Brueckenmodul.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="27;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props Pfeiler="&#39;TRUE&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+			</Object>
 		</Objecte>
 		<Hoeheunterbrechung>
 		</Hoeheunterbrechung>
 		<Landschaft>
+			<Landschaftsobjekt>
+				<Props Abstand="20" Name="Trasse0" Polygon="TRUE" Position="0" Scale="0.190546" Texture="TRUE" TextureFile="\Texturen\juliang\Schotter_Beton_Grau.bmp" Zwischenpunkte="TRUE"/>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="TRUE" Position="0" Verschiebung="2.5"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="TRUE" Position="2004" Verschiebung="2.5"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="2004" Verschiebung="-2.5"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="0" Verschiebung="-2.5"/>
+				</Landschaftsobjekt>
+			</Landschaftsobjekt>
+			<Landschaftsobjekt>
+				<Props Abstand="20" Name="Trasse2004" Polygon="TRUE" Position="2004" Scale="0.190546" Texture="TRUE" TextureFile="\Texturen\juliang\Schotter_Beton_Grau.bmp" Zwischenpunkte="TRUE"/>
+				<Lightning>
+					<Props DayLight="100" LokLight="TRUE" NightLight="19"/>
+				</Lightning>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="TRUE" Position="0" Verschiebung="2.5"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="TRUE" Position="450" Verschiebung="2.5"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="450" Verschiebung="-2.5"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="0" Verschiebung="-2.5"/>
+				</Landschaftsobjekt>
+			</Landschaftsobjekt>
+			<Landschaftsobjekt>
+				<Props Abstand="20" Name="Trasse2454" Polygon="TRUE" Position="2454" Scale="0.190546" Texture="TRUE" TextureFile="\Texturen\juliang\Schotter_Beton_Grau.bmp" Zwischenpunkte="TRUE"/>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="TRUE" Position="0" Verschiebung="2.5"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="TRUE" Position="1646" Verschiebung="2.5"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="1646" Verschiebung="-2.5"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="0" Verschiebung="-2.5"/>
+				</Landschaftsobjekt>
+			</Landschaftsobjekt>
 		</Landschaft>
 		<EIGENSCHAFTEN>
 			<VOR>
@@ -1777,6 +1927,21 @@
 		<Hoeheunterbrechung>
 		</Hoeheunterbrechung>
 		<Landschaft>
+			<Landschaftsobjekt>
+				<Props Abstand="20" Name="Trasse0" Polygon="TRUE" Position="0" Scale="0.190546" Texture="TRUE" TextureFile="\Texturen\juliang\Schotter_Variante_1.bmp" Zwischenpunkte="TRUE"/>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="0" Verschiebung="2.5"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="2004" Verschiebung="2.5"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="TRUE" Position="2004" Verschiebung="-2.5"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="TRUE" Position="0" Verschiebung="-2.5"/>
+				</Landschaftsobjekt>
+			</Landschaftsobjekt>
 		</Landschaft>
 		<EIGENSCHAFTEN>
 			<VOR>

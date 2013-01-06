@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="FC" FileDoku="" FileInfo="Brückenmodul/nBreite: 10m/nTiefe: 8m/nDurchfahrtshöhe: 8m/nPfeiler und Stromschutz schaltbar" FilePicture="01Brueckenmodul.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\Untergurt.l3dobj" Position="0;8;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\Untergurt.l3dobj" Position="5;8;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\Fahrbahn.l3dobj" Position="0;9;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\Fahrbahn.l3dobj" Position="5;9;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\Gelaender.l3dobj" Position="0;10;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\Gelaender.l3dobj" Position="5;10;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\Zwischenpfeiler_8m_schmal.l3dobj" Position="5;0;-2" Rotation="0;0;0" ShowOn="Pfeiler" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\Zwischenpfeiler_8m_schmal.l3dobj" Position="5;0;2" Rotation="0;0;0" ShowOn="Pfeiler" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\Stromschutz.l3dobj" Position="0;10;-6" Rotation="0;0;0" ShowOn="Stromschutz1" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\Stromschutz.l3dobj" Position="5;10;-6" Rotation="0;0;0" ShowOn="Stromschutz2" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\Stromschutz.l3dobj" Position="5;10;6" Rotation="180;0;0" ShowOn="Stromschutz1" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\Stromschutz.l3dobj" Position="10;10;6" Rotation="180;0;0" ShowOn="Stromschutz2" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+</GRUPPENOBJECT>
