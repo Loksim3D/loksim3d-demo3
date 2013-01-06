@@ -1,0 +1,901 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="" FileDoku="" FileInfo="Bearbeitet mit GroupObjects" FilePicture=""/>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\2Fenster8x6H3.l3dobj" Position="0;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\2Fenster8x6H3.l3dobj" Position="0;6;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\1Fenster4x6H3.l3dobj" Position="-4;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Rundbau.l3dobj" Position="-4;0;3" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Tuer4x8H3.l3dobj" Position="8;0;-1" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Treppenhaus4x8H3.l3dobj" Position="8;6;-1" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Treppenhaus4x8H3.l3dobj" Position="8;9;-1" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\2Fenster8x6H3.l3dobj" Position="12;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\2Fenster8x6H3.l3dobj" Position="12;6;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\1Fenster4x6H3.l3dobj" Position="20;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\1Fenster4x6H3.l3dobj" Position="20;6;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Tuer4x6H3.l3dobj" Position="24;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Treppenhaus4x6H3.l3dobj" Position="24;6;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Treppenhaus4x6H3.l3dobj" Position="28;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Treppenhaus4x6H3.l3dobj" Position="28;6;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\1Fenster4x6H3.l3dobj" Position="36;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Rundbau.l3dobj" Position="40;0;3" Rotation="-180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Dachaufbau4x8H1.l3dobj" Position="8;12;-1" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Dachplatt8x6.l3dobj" Position="0;9;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Dachplatte20x6.l3dobj" Position="12.3;9;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Dachplatt8x6Mitte.l3dobj" Position="32;3;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Rundbau_Dachplatte.l3dobj" Position="40;3;3" Rotation="-180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Rundbau_Dachplatte.l3dobj" Position="-4;3;3" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Dachplatt4x6Mitte.l3dobj" Position="-4;3;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="WetterDaten::HelligkeitProzent &#60; 40" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\1Fenster4x6H3_Nacht.l3dobj" Position="-4;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="WetterDaten::HelligkeitProzent &#60; 40 &#38;&#38; Sonstige::Zufall % 100 &#60; 60 " FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\1Fenster4x6H3_Nacht.l3dobj" Position="0;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="WetterDaten::HelligkeitProzent &#60; 40 &#38;&#38; Sonstige::Zufall % 100 &#60; 60 " FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\1Fenster4x6H3_Nacht.l3dobj" Position="0;6;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="WetterDaten::HelligkeitProzent &#60; 40 &#38;&#38; Sonstige::Zufall % 100 &#60; 60 " FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\1Fenster4x6H3_Nacht.l3dobj" Position="4;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="WetterDaten::HelligkeitProzent &#60; 40 &#38;&#38; Sonstige::Zufall % 100 &#60; 60 " FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\1Fenster4x6H3_Nacht.l3dobj" Position="4;6;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="WetterDaten::HelligkeitProzent &#60; 40" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Tuer4x8H3_Nacht.l3dobj" Position="8;0;-1" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Treppenhaus4x8H3_Nacht.l3dobj" Position="8;6;-1" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Treppenhaus4x8H3_Nacht.l3dobj" Position="8;9;-1" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="WetterDaten::HelligkeitProzent &#60; 40 &#38;&#38; Sonstige::Zufall % 100 &#60; 60 " FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\1Fenster4x6H3_Nacht.l3dobj" Position="12;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="WetterDaten::HelligkeitProzent &#60; 40 &#38;&#38; Sonstige::Zufall % 100 &#60; 60 " FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\1Fenster4x6H3_Nacht.l3dobj" Position="12;6;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="WetterDaten::HelligkeitProzent &#60; 40 &#38;&#38; Sonstige::Zufall % 100 &#60; 60 " FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\1Fenster4x6H3_Nacht.l3dobj" Position="16;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="WetterDaten::HelligkeitProzent &#60; 40 &#38;&#38; Sonstige::Zufall % 100 &#60; 60 " FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\1Fenster4x6H3_Nacht.l3dobj" Position="16;6;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="WetterDaten::HelligkeitProzent &#60; 40 &#38;&#38; Sonstige::Zufall % 100 &#60; 60 " FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\1Fenster4x6H3_Nacht.l3dobj" Position="20;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="WetterDaten::HelligkeitProzent &#60; 40 &#38;&#38; Sonstige::Zufall % 100 &#60; 60 " FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\1Fenster4x6H3_Nacht.l3dobj" Position="20;6;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="WetterDaten::HelligkeitProzent &#60; 40 &#38;&#38; Sonstige::Zufall % 100 &#60; 60 " FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Tuer4x6H3_Nacht.l3dobj" Position="24;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="WetterDaten::HelligkeitProzent &#60; 40 &#38;&#38; Sonstige::Zufall % 100 &#60; 60 " FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Treppenhaus4x6H3_Nacht.l3dobj" Position="24;6;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="WetterDaten::HelligkeitProzent &#60; 40 &#38;&#38; Sonstige::Zufall % 100 &#60; 60 " FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Treppenhaus4x6H3_Nacht.l3dobj" Position="28;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="WetterDaten::HelligkeitProzent &#60; 40 &#38;&#38; Sonstige::Zufall % 100 &#60; 60 " FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Treppenhaus4x6H3_Nacht.l3dobj" Position="28;6;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="WetterDaten::HelligkeitProzent &#60; 40" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\1Fenster4x6H3_Nacht.l3dobj" Position="36;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Rundbau_Nacht.l3dobj" Position="-4;0;3" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="WetterDaten::HelligkeitProzent &#60; 40" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Rundbau_Nacht.l3dobj" Position="40;0;3" Rotation="-180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Ziffernblatt.l3dobj" Position="7.99;10.5;1" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 0 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 60" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 60 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 120" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;-6;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 120 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 180" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;-12;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 180 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 240" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;-18;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 240 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 300" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;-24;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 300 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 360" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;-30;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 360 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 420" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;-36;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 420 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 480" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;-42;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 480 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 540" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;-48;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 540 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 600" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;-54;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 600 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 660" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;-60;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 660 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 720" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;-66;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 720 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 780" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;-72;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 780 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 840" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;-78;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 840 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 900" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;-84;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 900 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 960" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;-90;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 960 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 1020" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;-96;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 1020 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 1080" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;-102;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 1080 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 1140" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;-108;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 1140 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 1200" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;-114;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 1200 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 1260" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;-120;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 1260 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 1320" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;-126;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 1320 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 1380" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;-132;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 1380 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 1440" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;-138;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 1440 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 1500" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;-144;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 1500 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 1560" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;-150;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 1560 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 1620" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;-156;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 1620 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 1680" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;-162;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 1680 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 1740" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;-168;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 1740 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 1800" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;-174;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 1800 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 1860" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;180;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 1860 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 1920" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;174;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 1920 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 1980" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;168;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 1980 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 2040" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;162;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 2040 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 2100" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;156;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 2100 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 2160" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;150;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 2160 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 2220" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;144;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 2220 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 2280" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;138;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 2280 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 2340" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;132;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 2340 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 2400" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;126;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 2400 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 2460" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;120;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 2460 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 2520" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;114;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 2520 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 2580" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;108;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 2580 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 2640" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;102;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 2640 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 2700" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;96;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 2700 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 2760" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;90;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 2760 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 2820" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;84;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 2820 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 2880" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;78;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 2880 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 2940" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;72;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 2940 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 3000" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;66;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 3000 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 3060" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;60;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 3060 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 3120" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;54;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 3120 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 3180" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;48;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 3180 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 3240" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;42;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 3240 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 3300" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;36;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 3300 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 3360" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;30;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 3360 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 3420" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;24;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 3420 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 3480" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;18;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 3480 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 3540" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;12;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 3540 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 3600" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;6;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 0 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 720" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 720 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 1440" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;-6;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 1440 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 2160" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;-12;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 2160 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 2880" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;-18;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 2880 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 3600" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;-24;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 3600 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 4320" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;-30;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 4320 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 5040" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;-36;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 5040 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 5760" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;-42;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 5760 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 6480" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;-48;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 6480 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 7200" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;-54;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 7200 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 7920" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;-60;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 7920 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 8640" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;-66;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 8640 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 9360" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;-72;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 9360 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 10080" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;-78;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 10080 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 10800" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;-84;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 10800 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 11520" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;-90;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 11520 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 12240" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;-96;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 12240 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 12960" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;-102;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 12960 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 13680" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;-108;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 13680 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 14400" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;-114;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 14400 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 15120" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;-120;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 15120 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 15840" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;-126;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 15840 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 16560" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;-132;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 16560 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 17280" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;-138;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 17280 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 18000" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;-144;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 18000 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 18720" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;-150;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 18720 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 19440" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;-156;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 19440 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 20160" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;-162;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 20160 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 20880" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;-168;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 20880 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 21600" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;-174;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 21600 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 22320" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;180;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 22320 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 23040" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;174;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 23040 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 23760" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;168;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 23760 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 24480" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;162;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 24480 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 25200" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;156;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 25200 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 25920" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;150;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 25920 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 26640" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;144;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 26640 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 27360" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;138;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 26640 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 27360" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;132;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 27360 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 28080" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;126;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 28080 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 28800" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;120;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 28800 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 29520" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;114;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 29520 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 30240" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;108;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 30240 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 30960" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;102;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 30960 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 31680" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;96;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 31680 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 32400" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;90;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 32400 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 33120" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;84;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 33120 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 33840" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;78;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 33840 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 34560" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;72;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 34560 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 35280" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;66;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 35280 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 36000" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;60;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 36000 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 36720" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;54;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 36720 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 37440" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;48;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 37440 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 38160" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;42;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 38160 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 38880" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;36;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 38880 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 39600" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;30;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 39600 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 40320" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;24;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 40320 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 41040" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;18;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 41040 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 41760" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;12;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 41760 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 42480" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;6;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 42480 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 43200" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="7.99;10.5;1" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Ziffernblatt.l3dobj" Position="12.02;10.5;1" Rotation="-90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 0 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 60" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 60 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 120" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;-6;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 120 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 180" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;-12;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 180 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 240" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;-18;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 240 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 300" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;-24;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 300 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 360" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;-30;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 360 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 420" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;-36;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 420 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 480" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;-42;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 480 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 540" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;-48;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 540 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 600" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;-54;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 600 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 660" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;-60;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 660 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 720" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;-66;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 720 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 780" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;-72;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 780 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 840" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;-78;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 840 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 900" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;-84;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 900 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 960" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;-90;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 960 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 1020" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;-96;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 1020 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 1080" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;-102;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 1080 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 1140" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;-108;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 1140 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 1200" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;-114;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 1200 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 1260" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;-120;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 1260 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 1320" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;-126;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 1320 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 1380" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;-132;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 1380 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 1440" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;-138;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 1440 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 1500" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;-144;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 1500 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 1560" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;-150;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 1560 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 1620" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;-156;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 1620 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 1680" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;-162;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 1680 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 1740" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;-168;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 1740 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 1800" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;-174;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 1800 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 1860" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;180;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 1860 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 1920" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;174;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 1920 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 1980" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;168;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 1980 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 2040" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;162;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 2040 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 2100" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;156;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 2100 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 2160" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;150;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 2160 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 2220" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;144;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 2220 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 2280" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;138;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 2280 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 2340" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;132;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 2340 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 2400" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;126;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 2400 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 2460" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;120;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 2460 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 2520" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;114;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 2520 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 2580" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;108;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 2580 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 2640" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;102;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 2640 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 2700" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;96;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 2700 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 2760" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;90;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 2760 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 2820" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;84;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 2820 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 2880" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;78;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 2880 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 2940" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;72;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 2940 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 3000" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;66;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 3000 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 3060" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;60;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 3060 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 3120" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;54;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 3120 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 3180" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;48;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 3180 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 3240" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;42;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 3240 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 3300" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;36;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 3300 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 3360" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;30;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 3360 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 3420" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;24;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 3420 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 3480" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;18;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 3480 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 3540" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;12;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 3600 &#62;= 3540 &#38;&#38; Simulation::ZeitInSekunden % 3600 &#60; 3600" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Minutenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;6;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 0 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 720" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 720 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 1440" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;-6;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 1440 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 2160" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;-12;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 2160 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 2880" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;-18;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 2880 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 3600" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;-24;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 3600 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 4320" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;-30;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 4320 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 5040" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;-36;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 5040 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 5760" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;-42;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 5760 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 6480" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;-48;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 6480 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 7200" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;-54;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 7200 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 7920" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;-60;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 7920 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 8640" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;-66;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 8640 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 9360" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;-72;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 9360 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 10080" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;-78;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 10080 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 10800" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;-84;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 10800 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 11520" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;-90;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 11520 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 12240" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;-96;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 12240 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 12960" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;-102;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 12960 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 13680" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;-108;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 13680 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 14400" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;-114;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 14400 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 15120" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;-120;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 15120 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 15840" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;-126;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 15840 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 16560" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;-132;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 16560 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 17280" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;-138;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 17280 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 18000" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;-144;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 18000 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 18720" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;-150;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 18720 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 19440" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;-156;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 19440 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 20160" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;-162;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 20160 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 20880" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;-168;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 20880 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 21600" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;-174;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 21600 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 22320" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;180;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 22320 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 23040" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;174;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 23040 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 23760" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;168;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 23760 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 24480" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;162;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 24480 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 25200" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;156;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 25200 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 25920" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;150;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 25920 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 26640" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;144;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 26640 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 27360" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;138;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 26640 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 27360" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;132;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 27360 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 28080" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;126;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 28080 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 28800" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;120;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 28800 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 29520" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;114;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 29520 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 30240" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;108;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 30240 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 30960" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;102;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 30960 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 31680" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;96;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 31680 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 32400" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;90;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 32400 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 33120" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;84;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 33120 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 33840" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;78;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 33840 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 34560" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;72;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 34560 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 35280" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;66;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 35280 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 36000" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;60;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 36000 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 36720" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;54;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 36720 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 37440" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;48;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 37440 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 38160" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;42;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 38160 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 38880" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;36;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 38880 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 39600" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;30;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 39600 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 40320" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;24;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 40320 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 41040" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;18;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 41040 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 41760" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;12;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 41760 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 42480" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;6;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="Simulation::ZeitInSekunden % 43200 &#62;= 42480 &#38;&#38; Simulation::ZeitInSekunden % 43200 &#60; 43200" FixedDynamicVisibility="FALSE" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\Stundenzeiger.l3dobj" Position="12.02;10.5;1" Rotation="-90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\ohne_Fenster4x6H3.l3dobj" Position="0;3;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\ohne_Fenster4x6H3.l3dobj" Position="4;3;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\ohne_Fenster4x8H3.l3dobj" Position="8;3;-1" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\ohne_Fenster4x6H3.l3dobj" Position="12;3;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\ohne_Fenster4x6H3.l3dobj" Position="16;3;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\ohne_Fenster4x6H3.l3dobj" Position="20;3;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\ohne_Fenster4x6H3.l3dobj" Position="24;3;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Haeuser\Frieder\Module\Einzelteile\Orange\ohne_Fenster4x6H3.l3dobj" Position="28;3;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="0" DefaultText="HAINFURT" Fonthoehe="0.7" GroupProperty="" Leuchtend="FALSE" Name="\Fonts\AndreasZ\DIN 1451.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="-0.01;9;1.5" Rotation="90;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="0" DefaultText="HAINFURT" Fonthoehe="0.7" GroupProperty="" Leuchtend="FALSE" Name="\Fonts\AndreasZ\DIN 1451.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="32.009998;9;1.5" Rotation="-90;0;0" Vertikal="FALSE"/>
+	</Font>
+</GRUPPENOBJECT>

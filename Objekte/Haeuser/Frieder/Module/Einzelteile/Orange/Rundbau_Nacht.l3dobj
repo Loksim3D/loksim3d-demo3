@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="TRUE" Drawrueckseiten="FALSE" FileAuthor="" FileDoku="" FileInfo="/nErstellt mit L3D ObjectCreator, Version 2.1" FilePicture="" Texture="\Objekte\Haeuser\Frieder\Module\Einzelteile\02Modul_Textur3Nacht.png" TransTexture="" Transparent="TRUE" TransparentTyp="1"/>
+	<Point>
+		<Props Normal="0;1;0" Vekt="0;0;-3.01"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="-1.769238;0;-2.43514"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="-2.86268;0;-0.930141"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="-2.86268;0;0.930141"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="-1.769238;0;2.43514"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="0;0;3.01"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="0;3;-3.01"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="-1.769238;3;-2.43514"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="-2.86268;3;-0.930141"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="-2.86268;3;0.930141"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="-1.769238;3;2.43514"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="0;3;3.01"/>
+	</Point>
+	<Flaeche>
+		<Props Points="7;6;0;1" Texture="1,76;194,76;194,224;1,224"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="8;7;1;2" Texture="1,76;194,76;194,224;1,224"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="9;8;2;3" Texture="1,76;194,76;194,224;1,224"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="10;9;3;4" Texture="1,76;194,76;194,224;1,224"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="11;10;4;5" Texture="1,76;194,76;194,224;1,224"/>
+	</Flaeche>
+</OBJECT>

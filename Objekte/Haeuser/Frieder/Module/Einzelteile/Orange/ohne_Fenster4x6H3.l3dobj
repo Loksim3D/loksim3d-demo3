@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="Frieder Cramer" FileDoku="" FileInfo="ohne Fenster/nPlattenbauweise/nH: 3m; B: 4m; L: 6m" FilePicture="" Texture="\Objekte\Haeuser\Frieder\Module\Einzelteile\02Modul_Textur3.png" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="0;1;0" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="0;3;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="4;3;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="4;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="0;0;6"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="0;3;6"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="4;3;6"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="4;0;6"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="192,510;192,366;380,366;380,510"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;6;5;4" Texture="381,510;381,366;193,366;193,510"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;2;6;7" Texture="1,511;1,366;382,366;382,511"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;1;0" Texture="1,511;1,366;382,366;382,511"/>
+	</Flaeche>
+</OBJECT>

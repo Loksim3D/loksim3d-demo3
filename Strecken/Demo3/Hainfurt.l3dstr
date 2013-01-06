@@ -1369,6 +1369,12 @@
 				</Eintrag>
 			</Object>
 			<Object>
+				<Props Name="EG" Offset="0;0;0" Position="2240" Qualitaet="3"/>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Haeuser\Demo3\EG\Hainfurt.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="10;1;0" WeitSichtbar="TRUE" Winkel="90;0;0"/>
+				</Eintrag>
+			</Object>
+			<Object>
 				<Props Name="FL-N_0050" Offset="0;0;0" Position="50" Qualitaet="5"/>
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re160\Gittermast_Re160-180-550-La.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" Winkel="0;0;0"/>

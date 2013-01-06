@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="" FileDoku="" FileInfo="" FilePicture="" Texture="\Objekte\Haeuser\Frieder\Module\Einzelteile\Ziffernblatt.png" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="0;-1;0" Vekt="0.03;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;0" Vekt="0.03;0.5;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;0" Vekt="-0.03;0.5;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;0" Vekt="-0.03;0;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="3;2;1;0" Texture="102,16;102,12;100,12;100,16"/>
+	</Flaeche>
+</OBJECT>

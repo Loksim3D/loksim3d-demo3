@@ -1,4 +1,5 @@
 2013-01-06
+* [fc] neues EG Hainfurt eingesetzt
 + Anmerkung [fc] aber die Gleiswechselanzeiger zeigen in die falsche Richtung, oder?
 * [dto] Hauptbahn01 Üst/Awanst eingefügt. KBS/FPL für Gegengleis
 

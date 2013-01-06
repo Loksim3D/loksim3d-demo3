@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="Frieder Cramer" FileDoku="" FileInfo="Dachgeschoß/nPlattenbauweise/nH: 1.5m; B: 8m; L: 6m" FilePicture="" Texture="\Objekte\Haeuser\Frieder\Module\Einzelteile\02Modul_Textur3.png" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="0;1;0" Vekt="0.5;0;0.5"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="0.5;1;0.5"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="3.5;1;0.5"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="3.5;0;0.5"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="0.5;0;7.5"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="0.5;1;7.5"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="3.5;1;7.5"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="3.5;0;7.5"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="-0.3;1;-0.3"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="-0.3;1;8.3"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="4.3;1;8.3"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="4.3;1;-0.3"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="-0.3;1.1;-0.3"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="-0.3;1.1;8.3"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="4.3;1.1;8.3"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="4.3;1.1;-0.3"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="439,1;511,1;511,193;439,193"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;6;5;4" Texture="440,1;511,1;511,193;439,193"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;2;6;7" Texture="439,1;511,1;511,381;439,381"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;1;0" Texture="439,1;511,1;511,381;439,381"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="11;10;9;8" Texture="1,1;1,1;1,1;1,1"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="12;13;14;15" Texture="385,511;385,384;511,384;511,511"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="9;13;12;8" Texture="0,0;0,0;0,0;0,0"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="10;14;13;9" Texture="0,0;0,0;0,0;0,0"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="11;15;14;10" Texture="0,0;0,0;0,0;0,0"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="8;12;15;11" Texture="0,0;0,0;0,0;0,0"/>
+	</Flaeche>
+</OBJECT>
