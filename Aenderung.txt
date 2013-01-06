@@ -1,8 +1,11 @@
+2013-01-06
+* [dto] Hauptbahn01 Üst/Awanst eingefügt. KBS/FPL für Gegengleis
+
 2013-01-05
-*[fc] Fahrpläne bearbeitet
-      Frühalt Hainfurt Gleis 1
-      Zs13 funktioniert nicht richtig, im Moment keine Ahnhung, wie        man das lösen kann
-      Baumobjekte nach Jareszeiten angefangen
+* [fc] Fahrpläne bearbeitet
+       Frühalt Hainfurt Gleis 1
+       Zs13 funktioniert nicht richtig, im Moment keine Ahnhung, wie        man das lösen kann
+       Baumobjekte nach Jareszeiten angefangen
 
 2013-01-03
 * [ukl] Bf Hainfurt an der FL weitergearbeitet
