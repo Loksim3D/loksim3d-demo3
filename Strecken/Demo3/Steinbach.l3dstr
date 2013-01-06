@@ -806,6 +806,9 @@
 					<Value>
 						<Props Pos="1800" Value="Abzw. Steinbach"/>
 					</Value>
+					<Value>
+						<Props Pos="15" Value="Sbk 114"/>
+					</Value>
 				</STRECKENNAMEN>
 				<HOECHSTGESCHWINDIGKEIT>
 					<Value>
@@ -831,6 +834,33 @@
 								<Props Position="2.5;0;0" Rotation="0;0;0"/>
 							</Position>
 						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="100" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile2000="\Objekte\Signale\IndusiMagnet.l3dgrp" IndusiFile500="\Objekte\Signale\IndusiMagnet.l3dgrp" IndusiPos2000="0" IndusiPos500="250" KennLimit="100" KennLimitHide="40" Pos="15" SignalFile="\Signale\KS-Signale2\Hauptsignale\KS-Hauptsignal.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props Signalnummer="&#39;114&#39;" TEXT="&#39;105&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="100" Indusi500Bis="0" IndusiFile1000="\Objekte\Signale\IndusiMagnet.l3dgrp" IndusiPos1000="0" KennLimit="100" KennLimitHide="40" Pos="1215" SignalFile="\Signale\KS-Signale2\Vorsignale\KS-Vorsignal.l3dgrp" Tafel100="TRUE" Tafel200="TRUE" Tafel300="TRUE" TafelFile100="\Signale\Einheitssignale Bauform 1969\Tafeln\Vorsignalbake 100.l3dgrp" TafelFile200="\Signale\Einheitssignale Bauform 1969\Tafeln\Vorsignalbake 175.l3dgrp" TafelFile300="\Signale\Einheitssignale Bauform 1969\Tafeln\Vorsignalbake 250.l3dgrp" TafelPos100="100" TafelPos200="175" TafelPos300="250" Typ="Vorsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<TafelObjExtraData200>
+							<Position>
+								<Props Position="-0.3;0;0" Rotation="0;0;0"/>
+							</Position>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+						</TafelObjExtraData200>
+						<TafelObjExtraData300>
+							<Position>
+								<Props Position="-0.3;0;0" Rotation="0;0;0"/>
+							</Position>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+						</TafelObjExtraData300>
 					</Value>
 				</SIGNAL>
 				<Signaloptionen>
@@ -1088,7 +1118,7 @@
 			<VOR>
 				<STRECKENNAMEN>
 					<Value>
-						<Props Pos="2070" Value="Esig 50"/>
+						<Props Pos="2070" Value="Esig E50"/>
 					</Value>
 					<Value>
 						<Props Pos="3125" Value="Asig"/>
@@ -1370,7 +1400,7 @@
 				<STRECKENNAMEN>
 					<Props Copy="2" Richtung="VOR"/>
 					<Value>
-						<Props Pos="2070" Value="Esig 50"/>
+						<Props Pos="2070" Value="Esig E50"/>
 					</Value>
 					<Value>
 						<Props Pos="2875" Value="Steinbach"/>

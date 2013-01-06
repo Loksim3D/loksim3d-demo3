@@ -176,6 +176,9 @@
 				<STRECKENNAMEN>
 					<Props Copy="S" Richtung="ZURUECK"/>
 					<Value>
+						<Props Pos="15" Value="Sbk 100"/>
+					</Value>
+					<Value>
 						<Props Pos="2200" Value="Üst Awanst Rehrdt"/>
 					</Value>
 					<Value>
@@ -183,6 +186,9 @@
 					</Value>
 					<Value>
 						<Props Pos="3760" Value="Sbk 110"/>
+					</Value>
+					<Value>
+						<Props Pos="4715" Value="&#60;Sbk 112&#62;"/>
 					</Value>
 				</STRECKENNAMEN>
 				<HOECHSTGESCHWINDIGKEIT>
@@ -212,6 +218,28 @@
 					</Value>
 					<Value>
 						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="100" Indusi500Bis="0" IndusiFile1000="\Objekte\Signale\IndusiMagnet.l3dgrp" IndusiPos1000="0" KennLimit="100" KennLimitHide="40" Pos="3760" SignalFile="\Signale\KS-Signale2\Vorsignale\KS-Vorsignal-links.l3dgrp" Tafel100="TRUE" Tafel200="TRUE" Tafel300="TRUE" TafelFile100="\Signale\Einheitssignale Bauform 1969\Tafeln\Vorsignalbake 100 li.l3dgrp" TafelFile200="\Signale\Einheitssignale Bauform 1969\Tafeln\Vorsignalbake 175 li.l3dgrp" TafelFile300="\Signale\Einheitssignale Bauform 1969\Tafeln\Vorsignalbake 250 li.l3dgrp" TafelPos100="100" TafelPos200="175" TafelPos300="250" Typ="Vorsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="100" Indusi500Bis="0" IndusiFile1000="\Objekte\Signale\IndusiMagnet.l3dgrp" IndusiPos1000="0" KennLimit="100" KennLimitHide="40" Pos="5715" SignalFile="\Signale\KS-Signale2\Vorsignale\KS-Vorsignal-links.l3dgrp" Tafel100="TRUE" Tafel200="TRUE" Tafel300="TRUE" TafelFile100="\Signale\Einheitssignale Bauform 1969\Tafeln\Vorsignalbake 100 li.l3dgrp" TafelFile200="\Signale\Einheitssignale Bauform 1969\Tafeln\Vorsignalbake 175 li.l3dgrp" TafelFile300="\Signale\Einheitssignale Bauform 1969\Tafeln\Vorsignalbake 250 li.l3dgrp" TafelPos100="100" TafelPos200="175" TafelPos300="250" Typ="Vorsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="100" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile2000="\Objekte\Signale\IndusiMagnet.l3dgrp" IndusiFile500="\Objekte\Signale\IndusiMagnet.l3dgrp" IndusiPos2000="0" IndusiPos500="250" KennLimit="100" KennLimitHide="40" Pos="4715" SignalFile="\Signale\KS-Signale2\Hauptsignale\KS-Hauptsignal-links.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<TafelObjExtraData100>
+							<Eigenschaften>
+								<Props ohneMast="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+							<Position>
+								<Props Position="-4.6;4.75;-0.3" Rotation="0;0;0"/>
+							</Position>
+						</TafelObjExtraData100>
+						<ObjectProps>
+							<Position>
+								<Props Position="0;0;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props Signalnummer="&#39;112&#39;" TEXT="&#39;103&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
 					</Value>
 				</SIGNAL>
 				<Signaloptionen>
@@ -381,6 +409,12 @@
 					<Value>
 						<Props Pos="3760" Value="Sbk 110"/>
 					</Value>
+					<Value>
+						<Props Pos="4715" Value="&#60;Sbk 112&#62;"/>
+					</Value>
+					<Value>
+						<Props Pos="15" Value="Sbk 100"/>
+					</Value>
 				</STRECKENNAMEN>
 				<HOECHSTGESCHWINDIGKEIT>
 					<Value>
@@ -397,7 +431,7 @@
 						</ObjectProps>
 					</Value>
 					<Value>
-						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="100" Indusi500Bis="0" IndusiFile1000="\Objekte\Signale\IndusiMagnet.l3dgrp" IndusiPos1000="0" KennLimit="100" KennLimitHide="40" Pos="5060" SignalFile="\Signale\KS-Signale2\Vorsignale\KS-Vorsignal+Zs3v.l3dgrp" Tafel100="TRUE" Tafel200="TRUE" Tafel300="TRUE" TafelFile100="\Signale\Einheitssignale Bauform 1969\Tafeln\Vorsignalbake 100.l3dgrp" TafelFile200="\Signale\Einheitssignale Bauform 1969\Tafeln\Vorsignalbake 175.l3dgrp" TafelFile300="\Signale\Einheitssignale Bauform 1969\Tafeln\Vorsignalbake 250.l3dgrp" TafelPos100="100" TafelPos200="175" TafelPos300="250" Typ="Vorsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="100" Indusi500Bis="0" IndusiFile1000="\Objekte\Signale\IndusiMagnet.l3dgrp" IndusiPos1000="0" KennLimit="100" KennLimitHide="40" Pos="5060" SignalFile="\Signale\KS-Signale2\Vorsignale\KS-Vorsignal.l3dgrp" Tafel100="TRUE" Tafel200="TRUE" Tafel300="TRUE" TafelFile100="\Signale\Einheitssignale Bauform 1969\Tafeln\Vorsignalbake 100.l3dgrp" TafelFile200="\Signale\Einheitssignale Bauform 1969\Tafeln\Vorsignalbake 175.l3dgrp" TafelFile300="\Signale\Einheitssignale Bauform 1969\Tafeln\Vorsignalbake 250.l3dgrp" TafelPos100="100" TafelPos200="175" TafelPos300="250" Typ="Vorsignal" VSigLimit="0" Zwischensignal="FALSE"/>
 					</Value>
 					<Value>
 						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="100" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile1000="\Objekte\Signale\IndusiMagnet.l3dgrp" IndusiFile2000="\Objekte\Signale\IndusiMagnet.l3dgrp" IndusiFile500="\Objekte\Signale\IndusiMagnet.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" IndusiPos500="250" KennLimit="100" KennLimitHide="40" Pos="3760" SignalFile="\Signale\KS-Signale2\Mehrabschnittssignale\KS-Mehrabschnittssignal+Zs3v.l3dgrp" Typ="KombisignalKenn" VSigLimit="0" Zwischensignal="FALSE"/>
@@ -406,6 +440,17 @@
 								<Props Signalnummer="&#39;102&#39;" TEXT="&#39;101&#39;"/>
 							</Eigenschaften>
 						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="100" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile2000="\Objekte\Signale\IndusiMagnet.l3dgrp" IndusiFile500="\Objekte\Signale\IndusiMagnet.l3dgrp" IndusiPos2000="0" IndusiPos500="250" KennLimit="100" KennLimitHide="40" Pos="15" SignalFile="\Signale\KS-Signale2\Hauptsignale\KS-Hauptsignal.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props Signalnummer="&#39;100&#39;" TEXT="&#39;105&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="100" Indusi500Bis="0" IndusiFile1000="\Objekte\Signale\IndusiMagnet.l3dgrp" IndusiPos1000="0" KennLimit="100" KennLimitHide="40" Pos="1315" SignalFile="\Signale\KS-Signale2\Vorsignale\KS-Vorsignal.l3dgrp" Tafel100="TRUE" Tafel200="TRUE" Tafel300="TRUE" TafelFile100="\Signale\Einheitssignale Bauform 1969\Tafeln\Vorsignalbake 100.l3dgrp" TafelFile200="\Signale\Einheitssignale Bauform 1969\Tafeln\Vorsignalbake 175.l3dgrp" TafelFile300="\Signale\Einheitssignale Bauform 1969\Tafeln\Vorsignalbake 250.l3dgrp" TafelPos100="100" TafelPos200="175" TafelPos300="250" Typ="Vorsignal" VSigLimit="0" Zwischensignal="FALSE"/>
 					</Value>
 				</SIGNAL>
 				<Signaloptionen>
@@ -429,15 +474,24 @@
 			<Erstellung>
 				<Props EndPunkt="1000" ParallelAbstand="-7" ParallelEnd="4000" ParallelGleis="S" ParallelStart="2050" StartPos="0" StartPunkt="0;0;0" Typ="Parallel" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
 			</Erstellung>
+			<STEIGUNG>
+				<Props Ende="3700" Promille="6" SanfterWinkel="FALSE" Start="3000"/>
+			</STEIGUNG>
+			<KURVE>
+				<Props Ende="3500" SanfterWinkel="FALSE" Start="2900" Winkel="-4"/>
+			</KURVE>
+			<KURVE>
+				<Props Ende="3500" SanfterWinkel="TRUE" Start="3300" Winkel="-60"/>
+			</KURVE>
 		</TOPOLOGIE>
 		<Objecte>
 			<Object>
 				<Props Name="Trapeztafel" Offset="0;0;0" Position="2850" Qualitaet="0"/>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="D:\Loksim3D\Objekte\Tafeln\DToepel\Ne1\Ne1.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="100" Verschiebung="0;0;0" Winkel="180;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="D:\Loksim3D\Objekte\Tafeln\DToepel\Ne1\Ne1.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="50" Verschiebung="0;0;0" Winkel="180;0;0"/>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="D:\Loksim3D\Objekte\Tafeln\DToepel\Ne2\Ne2.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="500" Verschiebung="0;0;0" Winkel="180;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="D:\Loksim3D\Objekte\Tafeln\DToepel\Ne2\Ne2.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="450" Verschiebung="0;0;0" Winkel="180;0;0"/>
 				</Eintrag>
 			</Object>
 		</Objecte>
