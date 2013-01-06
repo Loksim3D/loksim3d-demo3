@@ -1,6 +1,7 @@
 2013-01-06
 * [fc] neues EG Hainfurt eingesetzt
 + Anmerkung [fc] aber die Gleiswechselanzeiger zeigen in die falsche Richtung, oder?
+  * ja, der zeigt nach rechts. Natürlich sollte er nach links zeigen. Muss er aber kurioserweise nicht. Selbst DB baut die vereinzelt verkehrtherum ein. Ist nur probeweise drin, können wir aber behalten, wenn wir uns die Besonderheit leisten wollen.
 * [dto] Hauptbahn01 Üst/Awanst eingefügt. KBS/FPL für Gegengleis
 
 2013-01-05
