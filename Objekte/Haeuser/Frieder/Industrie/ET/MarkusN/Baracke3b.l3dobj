@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="" FileInfo="" FilePicture="" Texture="Baracke3b.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="-1;0;0" Vekt="0;0;12.5"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;0;0" Vekt="0;6.5;12.5"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;0;0" Vekt="0;3.55;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;0;0" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;0;0" Vekt="0;3.55;25"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;0;0" Vekt="0;0;25"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;0;0" Vekt="0;3.55;12.5"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;6;2;3" Texture="1,261;1,109;499,109;499,261"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="5;4;6;0" Texture="499,261;499,109;1,109;1,261"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="6;1;2" Texture="1,109;1,1;499,109"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;1;6" Texture="499,109;1,1;1,109"/>
+	</Flaeche>
+</OBJECT>
