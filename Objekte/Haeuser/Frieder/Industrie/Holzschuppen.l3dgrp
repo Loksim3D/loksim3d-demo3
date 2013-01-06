@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="Frieder Cramer" FileInfo="Holzschuuppen/n22.5m x 25m" FilePicture="Holzschuppen.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\MarkusN\Baracke3b.l3dobj" Position="0;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\MarkusN\Baracke1b.l3dobj" Position="0;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\MarkusN\Baracke2b.l3dobj" Position="7.5;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\MarkusN\Baracke1b.l3dobj" Position="15;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\MarkusN\Baracke3b.l3dobj" Position="22.5;0;25" Rotation="-180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\MarkusN\Baracke1b.l3dobj" Position="7.5;0;25" Rotation="-180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\MarkusN\Baracke2b.l3dobj" Position="15;0;25" Rotation="-180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\MarkusN\Baracke1b.l3dobj" Position="22.5;0;25" Rotation="-180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\MarkusN\Baracke4b.l3dobj" Position="0;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\MarkusN\Baracke4b.l3dobj" Position="7.5;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\MarkusN\Baracke4b.l3dobj" Position="15;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\MarkusN\Baracke4b.l3dobj" Position="7.5;0;25" Rotation="-180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\MarkusN\Baracke4b.l3dobj" Position="15;0;25" Rotation="-180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\MarkusN\Baracke4b.l3dobj" Position="22.5;0;25" Rotation="-180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+</GRUPPENOBJECT>
