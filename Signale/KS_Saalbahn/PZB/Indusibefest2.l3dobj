@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="Rainer Ziener" FileInfo="Befestigungslaschen für PZB-Magnet/n(Siemens)" FilePicture="" Texture="Indusimagnet_S.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="-0.32;-0.03;-0.04"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="-0.32;0.022;-0.04"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.12;0.022;-0.04"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.12;-0.03;-0.04"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="-0.32;-0.03;0.04"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="-0.32;0.022;0.04"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.12;0.022;0.04"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="0.12;-0.03;0.04"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="176,236;173,216;248,216;249,236"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;6;5;4" Texture="178,237;174,215;250,213;249,237"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;2;6;7" Texture="175,237;172,214;249,214;251,234"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;1;0" Texture="174,238;171,215;248,212;250,236"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="1;5;6;2" Texture="174,236;172,216;250,215;252,237"/>
+	</Flaeche>
+</OBJECT>

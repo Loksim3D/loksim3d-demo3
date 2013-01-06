@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="Rainer Ziener" FileInfo="PZB-Magnet/nBauart Siemens 2011/nAnschlusskasten/n" FilePicture="Indusimagnet3.l3dobj.jpg" Texture="Indusimagnet_S.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="0.08;0.08;-0.0925"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0.08;0.165;-0.0925"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.12;0.185;-0.0925"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.18;0.08;-0.0925"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="0.08;0.08;0.0925"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.12;0.185;0.0925"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="0.18;0.08;0.0925"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="0.08;0.165;0.0925"/>
+	</Point>
+	<Point>
+		<Props Normal="1;0;1" Vekt="0.18;0.11;0.0925"/>
+	</Point>
+	<Point>
+		<Props Normal="1;0;-1" Vekt="0.18;0.11;-0.0925"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;9;3" Texture="41,167;45,146;75,145;119,153;75,167"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;6;8;5;7" Texture="70,144;94,138;94,164;43,169;47,146"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="9;2;5;8" Texture="3,173;3,78;188,78;188,173"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="1;7;5;2" Texture="31,167;159,165;159,140;40,142"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="0;3;6;4" Texture="150,168;43,166;45,144;151,138"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;9;8;6" Texture="30,116;28,84;163,83;165,116"/>
+	</Flaeche>
+</OBJECT>
