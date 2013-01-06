@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="Rainer Ziener" FileInfo="PZB-Magnet, Mittelteil/nBauart Siemens 2011/nDargestellt: 1000&#47;2000 Hz (Länge 0.65m)/n" FilePicture="Indusimagnet3.l3dobj.jpg" Texture="Indusimagnet_S.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="-0.064;0.185;-0.22"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="-0.064;0.095;-0.22"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="-0.064;0.095;0.22"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="-0.064;0.185;0.22"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.064;0.185;-0.22"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="0.064;0.095;0.22"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.064;0.095;-0.22"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.064;0.185;0.22"/>
+	</Point>
+	<Flaeche>
+		<Props Points="3;2;5;7" Texture="72,144;79,166;45,165;46,141"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="1;0;4;6" Texture="47,171;46,145;77,143;73,169"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="1;6;5;2" Texture="79,165;74,143;42,140;44,165"/>
+	</Flaeche>
+</OBJECT>

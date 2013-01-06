@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="Rainer Ziener" FileInfo="PZB-Magnet /nBauart Siemens 2011/nfür 1000&#47;2000 Hz, Länge 0.65m, Breite 0.17m/nMontage im Loksim: y=0m (ohne Kurve)/nMagnet liegt 0.035m über Schienenkopf, /nMitte Magnet 0.255m von Mitte Schienenkopf" FilePicture="Indusimagnet3.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" Name="Indusianschraub.l3dobj" Position="0.972;0.2;-0.19" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Indusianschraub.l3dobj" Position="0.972;0.2;0.19" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Indusibefest2.l3dobj" Position="0.972;0.2;-0.19" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Indusibefest2.l3dobj" Position="0.972;0.2;0.19" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Indusimagnet2x_OT.l3dobj" Position="0.9725;0.2;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Indusimagnet2x_MT.l3dobj" Position="0.9725;0.2;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Indusimagnet2x_ST.l3dobj" Position="0.9725;0.2;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Indusimagnet2x_ST.l3dobj" Position="0.9725;0.2;0" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="IndusimagnetKasten.l3dobj" Position="0.943;0.22;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+</GRUPPENOBJECT>
