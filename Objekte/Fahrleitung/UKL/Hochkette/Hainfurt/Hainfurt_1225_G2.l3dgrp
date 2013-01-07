@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="ukl" FileDoku="" FileInfo="Sonderhochkette Bf. Hainfurt, km 1,225, Gl.2" FilePicture=""/>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\SHK-Re160-5000-180-550-355-50-50-315--40-50-50--85-OB1-OB2.l3dobj" Position="0;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\ukl\Einzelteil\Iso_Keramik_7s_w.l3dobj" Position="2.374;6.37;10" Rotation="-4.5;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\ukl\Einzelteil\Iso_Keramik_7s_w.l3dobj" Position="2.782;7.887;10" Rotation="-4.5;0;2" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+</GRUPPENOBJECT>

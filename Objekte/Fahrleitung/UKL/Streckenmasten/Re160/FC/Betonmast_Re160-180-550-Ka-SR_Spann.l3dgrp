@@ -11,10 +11,10 @@
 		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\UKL\Einzelteil\Iso_Keramik_6s_s.l3dobj" Position="2.75;7.65;0" Rotation="0;90;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
 	</Object>
 	<Object>
-		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\UKL\Einzelteil\Iso_Keramik_6s_s.l3dobj" Position="2.8;6.075;0" Rotation="0;62;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\UKL\Einzelteil\Iso_Keramik_6s_s.l3dobj" Position="2.8;6.135;0" Rotation="0;62.5;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
 	</Object>
 	<Object>
-		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\UKL\Einzelteil\Ausleger\Oese_Seitenrohr_AL.l3dobj" Position="2.56;6.235;0" Rotation="0;-32;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\UKL\Einzelteil\Ausleger\Oese_Seitenrohr_AL.l3dobj" Position="2.685;6.23;0" Rotation="0;-32;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
 	</Object>
 	<Object>
 		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\UKL\Einzelteil\Ausleger\Seitenhalter.l3dobj" Position="0.4;5.5;0" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
