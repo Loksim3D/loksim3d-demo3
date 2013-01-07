@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FPL>
+	<Props BremsArt="O" BremsStellung="R" FileAuthor="FC" FileDoku="" FileInfo=" RB Hainfurt Nord - Hainfurt" FilePicture="RB ab Hainfurt.l3dfpl.jpg" KBS="\Kursbuchstrecken\Demo3\Nebenbahn E\RB nach Hainfurt.l3dkbs" WetterDatei="\Normal\sky_default.l3dsky" Zeiten="05:00:00;06:00:00;07:00:00;08:00:00;09:00:00;10:00:00;11:00:00;12:00:00;13:00:00;14:00:00;15:00:00;16:00:00;17:00:00;18:00:00;19:00:00;20:00:00;21:00:00;22:00:00;23:00:00" ZugArt="PerszugOhneSchaffner" ZugGewicht="124" ZugLaenge="106" ZugLimit="120"/>
+	<PneuBremse>
+		<Props PneuBremseHoheabbremsung="1" PneuBremseMaxGKraft="92" PneuBremseMaxPKraft="133" PneuBremseMaxRKraft="158" PneuBremseStartGKraft="105.800003" PneuBremseStartPKraft="152.949997" PneuBremseStartRKraft="181.699997" PneuBremseVollKmh="30" PneuBremseimmeraktiv="0" PneuHaltebremseVorhanden="0" PneuHaltebremseabkmh="0" PneuSchnellbremseVorhanden="0"/>
+	</PneuBremse>
+	<MgBremse>
+		<Props MgBremseLinAnteil="0" MgBremseMaxKraft="0" MgBremseMinKmh="0" MgBremseQuadAnteil="6" MgBremseStartKraft="0" MgBremseTretAnteil="-10" MgZBSAuslkmh="0"/>
+	</MgBremse>
+	<Haltestellen>
+		<Halt>
+			<Props Abfahrt="0" Ankunft="86340" Bedarfshalt="FALSE" Betriebshalt="FALSE" DistanzSoundVorBedarfsHalt="0" DistanzSoundVorHalt="0" Haltdauer="60" Haltepunkt="FALSE" Name="Hainfurt Nord" SignalVorAusfahrt="-1" SignalVorEinfahrt="-1" SoundAbfahrt="" SoundAnkunft="" SoundAnsage="" SoundHalt="" SoundVorBedarfsHalt="" SoundVorHalt="" Tueren="FALSE" Zugfolgestelle="FALSE"/>
+		</Halt>
+		<Halt>
+			<Props Abfahrt="420" Ankunft="360" Bedarfshalt="FALSE" Betriebshalt="FALSE" DistanzSoundVorBedarfsHalt="0" DistanzSoundVorHalt="0" Haltdauer="60" Haltepunkt="TRUE" Name="Hainfurt |--" SignalVorAusfahrt="-1" SignalVorEinfahrt="-1" SoundAbfahrt="" SoundAnkunft="" SoundAnsage="" SoundHalt="" SoundVorBedarfsHalt="" SoundVorHalt="" Tueren="FALSE" Zugfolgestelle="FALSE"/>
+		</Halt>
+	</Haltestellen>
+</FPL>

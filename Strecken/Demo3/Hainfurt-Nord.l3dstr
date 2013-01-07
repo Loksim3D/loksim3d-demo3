@@ -14,16 +14,13 @@
 		<Props Name="Gleis 2"/>
 		<TOPOLOGIE>
 			<Erstellung>
-				<Props EndPunkt="4000" ParallelAbstand="2" ParallelEnd="4000" ParallelGleis="" ParallelStart="0" StartPos="0" StartPunkt="0;0;0" Typ="Normal" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
+				<Props EndPunkt="4000" ParallelAbstand="2" ParallelEnd="4000" ParallelGleis="" ParallelStart="0" StartPos="0" StartPunkt="0;0;0" Typ="Normal" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="64"/>
 			</Erstellung>
-			<KURVE>
-				<Props Ende="1500" SanfterWinkel="FALSE" Start="800" Winkel="-30"/>
-			</KURVE>
 			<KURVE>
 				<Props Ende="1950" SanfterWinkel="FALSE" Start="1500" Winkel="60"/>
 			</KURVE>
 			<KURVE>
-				<Props Ende="600" SanfterWinkel="FALSE" Start="100" Winkel="-60"/>
+				<Props Ende="1500" SanfterWinkel="FALSE" Start="0" Winkel="-75"/>
 			</KURVE>
 		</TOPOLOGIE>
 		<Objecte>
@@ -130,6 +127,9 @@
 								<Props Position="0.92;0.8;0.2" Rotation="0;0;0"/>
 							</Position>
 						</TafelObjExtraData>
+					</Value>
+					<Value>
+						<Props File="" KMH="100" KMHNEIG="100" KeinHp2="FALSE" NichtImFahrplan="TRUE" Pos="0"/>
 					</Value>
 				</HOECHSTGESCHWINDIGKEIT>
 				<SIGNAL>
@@ -243,8 +243,20 @@
 			</VOR>
 			<ZURUECK>
 				<STRECKENNAMEN>
+					<Value>
+						<Props Pos="2215" Value="Asig"/>
+					</Value>
+					<Value>
+						<Props Pos="2235" Value="Hainfurt Nord"/>
+					</Value>
 				</STRECKENNAMEN>
 				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="80" KMHNEIG="80" KeinHp2="FALSE" NichtImFahrplan="FALSE" Pos="3000"/>
+					</Value>
+					<Value>
+						<Props File="" KMH="100" KMHNEIG="100" KeinHp2="FALSE" NichtImFahrplan="FALSE" Pos="1860"/>
+					</Value>
 				</HOECHSTGESCHWINDIGKEIT>
 				<SIGNAL>
 					<Value>
@@ -307,6 +319,14 @@
 				<Signaloptionen>
 				</Signaloptionen>
 				<Haltepunkt>
+					<Value>
+						<Props File="\Objekte\Tafeln\Frieder\Ne5-FC.l3dgrp" Name="Hainfurt Nord" Pos="2235" ToleranzMinus="100" ToleranzPlus="25" Zuglaenge="1000"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="2;-1.5;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
 				</Haltepunkt>
 				<LZB>
 				</LZB>
