@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="Frieder Cramer" FileDoku="" FileInfo="Absperrgitter/npassend zu Banhsteig 8" FilePicture="" Texture="\Objekte\Bruecken\Frieder\Betonbruecken\ET\Betonbruecke1.bmp" TransTexture="" Transparent="TRUE" TransparentTyp="1"/>
+	<Point>
+		<Props Normal="0;1;0" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="0;0;3"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="0;1.1;3"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="0;1.1;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="0;1.1;6"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="0;0;6"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;3;2;1" Texture="1,32;1,1;94,1;94,32"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;1;2" Texture="95,1;95,32;2,32;2,1"/>
+	</Flaeche>
+</OBJECT>

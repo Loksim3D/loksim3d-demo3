@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="" FileDoku="" FileInfo="" FilePicture="" Texture="\Objekte\Bahnsteige\Frieder\Bahnsteigabgang\AbgangS1.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="0;1;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0;1;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="2.8;1;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="2.8;1;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="0;0;6"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="0;1;6"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="2.8;1;6"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="2.8;0;6"/>
+	</Point>
+	<Flaeche>
+		<Props Points="4;5;6;7" Texture="144,87;159,87;159,84;144,84"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;6;2;3" Texture="130,150;130,91;81,91;81,150"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="0;1;5;4" Texture="130,150;130,91;81,91;81,150"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="0;4;7;3" Texture="279,149;141,149;141,91;279,91"/>
+	</Flaeche>
+</OBJECT>
