@@ -112,7 +112,7 @@
 				</HOECHSTGESCHWINDIGKEIT>
 				<SIGNAL>
 					<Value>
-						<Props HP0Warsch="0" HP2Limit="50" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="100" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile1000="\Objekte\Signale\IndusiMagnet.l3dgrp" IndusiFile2000="\Objekte\Signale\IndusiMagnet.l3dgrp" IndusiFile500="\Objekte\Signale\IndusiMagnet.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" IndusiPos500="250" KennLimit="100" KennLimitHide="40" Pos="1890" SignalFile="\Signale\KS-Signale2\Sonderbauformen\Zs6\KS-Bk-Mehrabschnittssignal+Zs3+Zs6-lire.l3dgrp" Typ="Kombisignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<Props HP0Warsch="0" HP2Limit="50" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="100" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile1000="\Objekte\Signale\IndusiMagnet.l3dgrp" IndusiFile2000="\Objekte\Signale\IndusiMagnet.l3dgrp" IndusiFile500="\Objekte\Signale\IndusiMagnet.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" IndusiPos500="250" KennLimit="100" KennLimitHide="40" Pos="1890" SignalFile="\Signale\KS-Signale2\Sonderbauformen\Zs6\KS-Bk-Mehrabschnittssignal+Zs3+Zs6-reli.l3dgrp" Typ="Kombisignal" VSigLimit="0" Zwischensignal="FALSE"/>
 						<ObjectProps>
 							<Eigenschaften>
 								<Props Signalnummer="&#39;101&#39;" TEXT="&#39;101&#39;"/>
