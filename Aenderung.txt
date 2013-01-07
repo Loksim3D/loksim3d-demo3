@@ -1,5 +1,5 @@
 2013-01-07
-* [ukl] Bf Hainfurt FL Verbindung 3 eingebaut
+* [ukl] Bf Hainfurt FL Verbindung 3 und 4 eingebaut
 
 2013-01-06
 * [fc] neues EG Hainfurt eingesetzt
