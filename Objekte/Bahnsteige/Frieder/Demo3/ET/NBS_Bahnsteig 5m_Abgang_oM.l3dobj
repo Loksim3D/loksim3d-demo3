@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="FC" FileDoku="" FileInfo="NBS-Bahnsteig - Abgang/nLänge:20m/nBreite: 1,50m - 5m" FilePicture="NBS_Bahnsteig 4m.l3dobj.jpg" Texture="\Objekte\Bahnsteige\Frieder\Demo3\Texturen\NBS-Bahnsteig.png" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="0;1;0" Vekt="1.5;0.99;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="1.5;0.99;10"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="5;0.99;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;0" Vekt="1.5;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;0" Vekt="1.5;0;10"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;0" Vekt="5;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="5;0.99;7"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="2.2;0.99;7"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="1.5;0.99;7"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="2.2;0.99;10"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;0" Vekt="1.5;0;20"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="1.5;0.99;20"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="5;0.99;20"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;0" Vekt="5;0;20"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="1.5;0.99;13"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="5;0.99;13"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="2.2;0.99;13"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;8;6;2" Texture="340,209;0,209;0,455;340,455"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="0;2;5;3" Texture="1,112;82,112;82,1;1,1"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;1;0;3" Texture="1,1;1,112;511,112;511,1"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="8;1;9;7" Texture="340,209;512,209;512,259;340,259"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="10;11;1;4" Texture="1,1;1,112;512,112;512,0"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="11;10;13;12" Texture="1,112;1,1;82,1;82,112"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="11;12;15;14" Texture="512,209;512,455;170,455;170,209"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="1;14;16;9" Texture="170,209;0,209;0,259;170,259"/>
+	</Flaeche>
+</OBJECT>

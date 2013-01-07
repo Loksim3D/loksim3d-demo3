@@ -30,7 +30,7 @@
 			<Object>
 				<Props Name="Bahnsteig" Offset="0;0;0" Position="2004" Qualitaet="1"/>
 				<Eintrag>
-					<Props Abstand="10" Anzahl="20" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="10" Verschiebung="0;0;0" Winkel="180;0;0"/>
+					<Props Abstand="10" Anzahl="10" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="10" Verschiebung="0;0;0" Winkel="180;0;0"/>
 					<Lightning>
 						<Props DayLight="100" LokLight="TRUE" NightLight="30"/>
 					</Lightning>
@@ -102,7 +102,19 @@
 					</Eigenschaften>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="10" Anzahl="23" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="230" Verschiebung="0;0;0" Winkel="180;0;0"/>
+					<Props Abstand="10" Anzahl="8" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="130" Verschiebung="0;0;0" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="30"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="8" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="230" Verschiebung="0;0;0" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="30"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="13" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="330" Verschiebung="0;0;0" Winkel="180;0;0"/>
 					<Lightning>
 						<Props DayLight="100" LokLight="TRUE" NightLight="30"/>
 					</Lightning>
@@ -736,7 +748,7 @@
 			<Object>
 				<Props Name="Bahnsteig" Offset="0;0;0" Position="2004" Qualitaet="1"/>
 				<Eintrag>
-					<Props Abstand="10" Anzahl="20" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Props Abstand="10" Anzahl="10" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" Winkel="0;0;0"/>
 					<Lightning>
 						<Props DayLight="100" LokLight="TRUE" NightLight="30"/>
 					</Lightning>
@@ -784,16 +796,31 @@
 					</Eigenschaften>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="10" Anzahl="23" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="220" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Props Abstand="100" Anzahl="3" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig10m_Abgang.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="100" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="30"/>
+					</Lightning>
+					<Eigenschaften>
+						<Props TEXT="&#39;Zu den Gleisen 1 4 5 6 7&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="8" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="120" Verschiebung="0;0;0" Winkel="0;0;0"/>
 					<Lightning>
 						<Props DayLight="100" LokLight="TRUE" NightLight="30"/>
 					</Lightning>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig10m_Abgang.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="200" Verschiebung="0;0;0" Winkel="0;0;0"/>
-					<Eigenschaften>
-						<Props TEXT="&#39;Zu den Gleisen 1 4 5 6 7&#39;"/>
-					</Eigenschaften>
+					<Props Abstand="10" Anzahl="8" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="220" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="30"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="13" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="320" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="30"/>
+					</Lightning>
 				</Eintrag>
 			</Object>
 			<Object>
@@ -1500,7 +1527,7 @@
 			<Object>
 				<Props Name="Bahnsteig" Offset="0;0;0" Position="2300" Qualitaet="1"/>
 				<Eintrag>
-					<Props Abstand="10" Anzahl="15" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig_Mittelplatte 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="-0.1" Verschiebung="4.99;0;0" Winkel="0;0;0"/>
+					<Props Abstand="10" Anzahl="13" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="29.9" Verschiebung="10;0;0" Winkel="180;0;0"/>
 					<Lightning>
 						<Props DayLight="100" LokLight="TRUE" NightLight="30"/>
 					</Lightning>
@@ -1521,7 +1548,7 @@
 					<Props Abstand="20" Anzahl="4" Datei="\Objekte\Bahnsteige\Frieder\Bahnsteiglampen\Bahnsteiglampe10.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="70" Verschiebung="5;1;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="10" Anzahl="15" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="-0.1" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Props Abstand="10" Anzahl="13" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="19.9" Verschiebung="0;0;0" Winkel="0;0;0"/>
 					<Lightning>
 						<Props DayLight="100" LokLight="TRUE" NightLight="30"/>
 					</Lightning>
@@ -1551,6 +1578,15 @@
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\RainerZ\BahnstNr_Abschn_mH.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="58" Verschiebung="3;1.2;0" Winkel="0;0;0"/>
 					<Eigenschaften>
 						<Props Abschnitt="&#39;D&#39;" Bahnsteignummer="&#39;1&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig10m_Abgang3.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="-0.1" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="30"/>
+					</Lightning>
+					<Eigenschaften>
+						<Props TEXT="&#39;Zu den Gleisen 2 bis 5&#39;"/>
 					</Eigenschaften>
 				</Eintrag>
 			</Object>
@@ -2786,7 +2822,7 @@
 			<Object>
 				<Props DynamicVisibility="18" FixedDynamicVisibility="FALSE" Name="Bahnsteig" Offset="0;0;0" Position="2004" Qualitaet="1"/>
 				<Eintrag>
-					<Props Abstand="10" Anzahl="18" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Props Abstand="10" Anzahl="10" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" Winkel="0;0;0"/>
 					<Lightning>
 						<Props DayLight="100" LokLight="TRUE" NightLight="30"/>
 					</Lightning>
@@ -2847,6 +2883,21 @@
 					<Eigenschaften>
 						<Props TEXT="&#39;Hainfurt&#39;"/>
 					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig10m_Abgang.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="96" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="30"/>
+					</Lightning>
+					<Eigenschaften>
+						<Props TEXT="&#39;Zu den Gleisen 2 bis 5&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="7" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="110" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="30"/>
+					</Lightning>
 				</Eintrag>
 			</Object>
 			<Object>
@@ -3011,7 +3062,7 @@
 			<Object>
 				<Props Name="Bahnsteig" Offset="0;0;0" Position="2004" Qualitaet="1"/>
 				<Eintrag>
-					<Props Abstand="10" Anzahl="18" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="10" Verschiebung="0;0;0" Winkel="180;0;0"/>
+					<Props Abstand="10" Anzahl="10" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="10" Verschiebung="0;0;0" Winkel="180;0;0"/>
 					<Lightning>
 						<Props DayLight="100" LokLight="TRUE" NightLight="30"/>
 					</Lightning>
@@ -3039,6 +3090,12 @@
 					<Eigenschaften>
 						<Props Abschnitt="&#39;B&#39;" Bahnsteignummer="&#39;7&#39;"/>
 					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="6" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="126" Verschiebung="0;0;0" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="30"/>
+					</Lightning>
 				</Eintrag>
 			</Object>
 			<Object>
@@ -3200,25 +3257,13 @@
 					<Props Abstand="20" Anzahl="3" Datei="\Objekte\Bahnsteige\Frieder\Bahnsteiglampen\Bahnsteiglampe10.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="10" Verschiebung="-5;1;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="10" Anzahl="42" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="10.5" Verschiebung="0;0;0" Winkel="180;0;0"/>
+					<Props Abstand="10" Anzahl="10" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="10" Verschiebung="0;0;0" Winkel="180;0;0"/>
 					<Lightning>
 						<Props DayLight="100" LokLight="TRUE" NightLight="30"/>
 					</Lightning>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="10" Anzahl="7" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig_Mittelplatte 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="20.5" Verschiebung="-3;0;0" Winkel="180;0;0"/>
-					<Lightning>
-						<Props DayLight="100" LokLight="TRUE" NightLight="30"/>
-					</Lightning>
-				</Eintrag>
-				<Eintrag>
-					<Props Abstand="10" Anzahl="17" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig_Mittelplatte 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="90.5" Verschiebung="-5;0;0" Winkel="180;0;0"/>
-					<Lightning>
-						<Props DayLight="100" LokLight="TRUE" NightLight="30"/>
-					</Lightning>
-				</Eintrag>
-				<Eintrag>
-					<Props Abstand="10" Anzahl="4" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig_Mittelplatte 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="260.5" Verschiebung="-2.5;0;0" Winkel="180;0;0"/>
+					<Props Abstand="10" Anzahl="9" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig_Mittelplatte 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="20" Verschiebung="-3;0;0" Winkel="180;0;0"/>
 					<Lightning>
 						<Props DayLight="100" LokLight="TRUE" NightLight="30"/>
 					</Lightning>
@@ -3296,6 +3341,78 @@
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\RainerZ\BahnstNr_Abschn_mH.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="328" Verschiebung="-3;1.2;0" Winkel="180;0;0"/>
 					<Eigenschaften>
 						<Props Abschnitt="&#39;D&#39;" Bahnsteignummer="&#39;4&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="100" Anzahl="2" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig10m_Abgang2.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="100" Verschiebung="-10;0;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="30"/>
+					</Lightning>
+					<Eigenschaften>
+						<Props TEXT="&#39;Zu den Gleisen 1 2 3 6 7&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="8" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="130" Verschiebung="0;0;0" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="30"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="8" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="230" Verschiebung="0;0;0" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="30"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="10" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="330" Verschiebung="0;0;0" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="30"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig10m_Abgang.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="300" Verschiebung="-10;0;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="30"/>
+					</Lightning>
+					<Eigenschaften>
+						<Props TEXT="&#39;Zu den Gleisen 1 2 3 6 7&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="2" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig_Mittelplatte 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="90" Verschiebung="-5;0;0" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="30"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="8" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig_Mittelplatte 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="130" Verschiebung="-5;0;0" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="30"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="8" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig_Mittelplatte 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="230" Verschiebung="-3;0;0" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="30"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="2" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig_Mittelplatte 2m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="100" Verschiebung="-10;0;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="30"/>
+					</Lightning>
+					<Eigenschaften>
+						<Props TEXT="&#39;Zu den Gleisen 1 2 3 6 7&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="5" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig_Mittelplatte 2m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="200" Verschiebung="-10;0;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="30"/>
+					</Lightning>
+					<Eigenschaften>
+						<Props TEXT="&#39;Zu den Gleisen 1 2 3 6 7&#39;"/>
 					</Eigenschaften>
 				</Eintrag>
 			</Object>
@@ -3539,7 +3656,7 @@
 			<Object>
 				<Props Name="Bahnsteig" Offset="0;0;0" Position="2004" Qualitaet="1"/>
 				<Eintrag>
-					<Props Abstand="10" Anzahl="19" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Props Abstand="10" Anzahl="19" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="-0.5" Verschiebung="0;0;0" Winkel="0;0;0"/>
 					<Lightning>
 						<Props DayLight="100" LokLight="TRUE" NightLight="30"/>
 					</Lightning>
@@ -3700,7 +3817,7 @@
 				<Props EndPunkt="1000" ParallelAbstand="-0.01" ParallelEnd="2310" ParallelGleis="5" ParallelStart="2190" StartPos="0" StartPunkt="0;0;0" Typ="Parallel" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
 			</Erstellung>
 			<Ausweiche>
-				<Props Abstand="4.468" Ende="2410" KurvenWeite="100" Start="2200"/>
+				<Props Abstand="4.5" Ende="2410" KurvenWeite="100" Start="2200"/>
 			</Ausweiche>
 		</TOPOLOGIE>
 		<Objecte>
@@ -3813,7 +3930,7 @@
 			<Object>
 				<Props Name="Bahnsteig" Offset="0;0;0" Position="2304" Qualitaet="1"/>
 				<Eintrag>
-					<Props Abstand="10" Anzahl="12" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0.5" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Props Abstand="10" Anzahl="10" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig 5m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="20" Verschiebung="0;0;0" Winkel="0;0;0"/>
 					<Lightning>
 						<Props DayLight="100" LokLight="TRUE" NightLight="30"/>
 					</Lightning>
