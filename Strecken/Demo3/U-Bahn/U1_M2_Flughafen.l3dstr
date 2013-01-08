@@ -2,7 +2,10 @@
 <STRECKE>
 	<Props FileAuthor="Klaus Nickel" FileDoku="" FileInfo="/nwww.veb-verkehr.de" FilePicture=""/>
 	<DefaulRail>
-		<Props File="\Rails\RainerH\flimmerfrei\16holzschwellen_schotter_normal.l3drail"/>
+		<Props File="\Rails\RainerH\flimmerfrei\16betonschwellen_schotter_normal.l3drail"/>
+		<Lightning>
+			<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+		</Lightning>
 	</DefaulRail>
 	<StdTexture>
 		<Props File=""/>
@@ -275,7 +278,7 @@
 					</Lightning>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="10" Anzahl="30" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_roehre_10m_halb_rechts.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="270" Verschiebung="0;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Props Abstand="10" Anzahl="18" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_roehre_10m_halb_rechts.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="270" Verschiebung="0;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
 					<Lightning>
 						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
 					</Lightning>
