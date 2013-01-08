@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OBJECT>
-	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="" FileDoku="" FileInfo="" FilePicture="" Texture="\Objekte\Bahnsteige\Frieder\Bahnsteiglampen\Bahnsteiglampe6.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="2"/>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="" FileDoku="" FileInfo="" FilePicture="" Texture="\Objekte\Bahnsteige\Frieder\Bahnsteiglampen\Bahnsteiglampe10.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="2"/>
 	<Point>
 		<Props Normal="0;-1;0" Vekt="0;0;0"/>
 	</Point>
