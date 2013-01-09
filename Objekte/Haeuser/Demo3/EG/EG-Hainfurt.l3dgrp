@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="" FileDoku="" FileInfo="" FilePicture=""/>
+	<Object>
+		<Props BlinkIntervall="0" Name="Hainfurt\Hainfurt1.l3dobj" Position="0;0;0" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Hainfurt\Hainfurt2.l3dobj" Position="1;0;12" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Hainfurt\Hainfurt1.l3dobj" Position="0;0;24" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Hainfurt\Hainfurt2.l3dobj" Position="1;0;-12" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Hainfurt\Hainfurt2.l3dobj" Position="1;0;36" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Hainfurt\Hainfurt3.l3dobj" Position="-0.5;12;-12.5" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Hainfurt\Hainfurt3.l3dobj" Position="-0.5;12;11.5" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Hainfurt\Hainfurt4.l3dobj" Position="0.5;8;-24.5" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Hainfurt\Hainfurt5.l3dobj" Position="11.5;8;36" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Hainfurt\Hainfurt5.l3dobj" Position="0.5;8;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Hainfurt\Hainfurt6.l3dobj" Position="3;9.5;-20" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Hainfurt\Hainfurt6.l3dobj" Position="8;9.5;-16.6" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Hainfurt\Hainfurt6.l3dobj" Position="8;9.5;4" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Hainfurt\Hainfurt6.l3dobj" Position="3;9.5;7.3" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Hainfurt\Hainfurt6.l3dobj" Position="3;9.5;28" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Hainfurt\Hainfurt6.l3dobj" Position="8;9.5;31.299999" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Hainfurt\Hainfurt7.l3dobj" Position="6;14.9;-8" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Hainfurt\Hainfurt7.l3dobj" Position="6;14.9;-4" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Hainfurt\Hainfurt7.l3dobj" Position="6;14.9;16" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Hainfurt\Hainfurt7.l3dobj" Position="6;14.9;20" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="WetterDaten::HelligkeitProzent &#60; 40" FixedDynamicVisibility="FALSE" Name="Hainfurt\Hainfurt1Nacht.l3dobj" Position="0;0;0" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="WetterDaten::HelligkeitProzent &#60; 30" FixedDynamicVisibility="FALSE" Name="Hainfurt\Hainfurt1Nacht.l3dobj" Position="0;0;24" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Hainfurt\Hainfurt1.l3dobj" Position="0;0;48" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Hainfurt\Hainfurt3.l3dobj" Position="-0.5;12;35.5" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Hainfurt\Hainfurt7.l3dobj" Position="6;14.9;40" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Hainfurt\Hainfurt7.l3dobj" Position="6;14.9;44" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="WetterDaten::HelligkeitProzent &#60; 30" FixedDynamicVisibility="FALSE" Name="Hainfurt\Hainfurt1Nacht.l3dobj" Position="0;0;48" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="8421504" DefaultText="HAINFURT" Fonthoehe="1.4" GroupProperty="" Leuchtend="FALSE" Name="\Fonts\AndreasZ\DIN 1451.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="6;8;-24.200001" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="6250335" DefaultText="HAINFURT" Fonthoehe="1.4" GroupProperty="" Leuchtend="FALSE" Name="\Fonts\AndreasZ\DIN 1451.l3dfont" NormBottomLeft="0;1;0" NormBottomRight="0;1;0" NormTopLeft="0;1;0" NormTopRight="0;1;0" Position="6;10.5;48.200001" Rotation="180;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="0" DefaultText="HAINFURT" Fonthoehe="1.4" GroupProperty="" Leuchtend="FALSE" Name="\Fonts\AndreasZ\DIN 1451.l3dfont" NormBottomLeft="0;1;0" NormBottomRight="0;1;0" NormTopLeft="0;1;0" NormTopRight="0;1;0" Position="5.95;10.4;48.099998" Rotation="180;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="0" DefaultText="HAINFURT" Fonthoehe="1.4" GroupProperty="" Leuchtend="FALSE" Name="\Fonts\AndreasZ\DIN 1451.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="6.05;7.9;-24.1" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+</GRUPPENOBJECT>

@@ -1609,9 +1609,9 @@
 				</Eintrag>
 			</Object>
 			<Object>
-				<Props Name="EG" Offset="0;0;0" Position="2240" Qualitaet="3"/>
+				<Props Name="EG" Offset="0;0;0" Position="2215" Qualitaet="3"/>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Haeuser\Demo3\EG\Hainfurt.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="10;1;0" WeitSichtbar="TRUE" Winkel="90;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Haeuser\Demo3\EG\EG-Hainfurt.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="10;1;0" WeitSichtbar="TRUE" Winkel="-1.5;0;0"/>
 				</Eintrag>
 			</Object>
 			<Object>

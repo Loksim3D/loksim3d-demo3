@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="" FileDoku="" FileInfo="" FilePicture="" Texture="Hainfurt_Textur.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0;0.2;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="13;0.2;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="13;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="0;0;13"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="0;0.2;13"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="13;0.2;13"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="13;0;13"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;-1" Vekt="6.5;3;4.5"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;1" Vekt="6.5;3;8.5"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="1,10;1,1;238,1;238,10"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;6;5;4" Texture="1,10;1,1;238,1;238,10"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;2;6;7" Texture="1,10;1,1;238,1;238,9"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;1;0" Texture="1,10;1,1;238,1;238,10"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="2;8;9;6" Texture="1,372;87,243;182,243;254,372"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="5;9;8;1" Texture="1,372;87,243;168,243;254,372"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;0;3;7" Texture="364,372;364,244;259,244;259,372"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="1;8;2" Texture="1,372;121,243;254,372"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="6;9;5" Texture="1,372;121,243;254,372"/>
+	</Flaeche>
+</OBJECT>

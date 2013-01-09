@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="" FileDoku="" FileInfo="Erstellt mit L3D ObjectCreator, Version 2.0" FilePicture="" Texture="Hainfurt_Textur.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="1;0;0" Vekt="0.1;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0.5;0;-0.866025" Vekt="0.05;0;-0.086602"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.5;0;-0.866025" Vekt="-0.05;0;-0.086602"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;0;0" Vekt="-0.1;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.5;0;0.866025" Vekt="-0.05;0;0.086602"/>
+	</Point>
+	<Point>
+		<Props Normal="0.5;0;0.866025" Vekt="0.05;0;0.086602"/>
+	</Point>
+	<Point>
+		<Props Normal="1;0;0" Vekt="0.02;2;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0.5;0;-0.866025" Vekt="0.01;2;-0.01732"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.5;0;-0.866025" Vekt="-0.01;2;-0.01732"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;0;0" Vekt="-0.02;2;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.5;0;0.866025" Vekt="-0.01;2;0.01732"/>
+	</Point>
+	<Point>
+		<Props Normal="0.5;0;0.866025" Vekt="0.01;2;0.01732"/>
+	</Point>
+	<Flaeche>
+		<Props Points="7;6;0;1" Texture="424,298;465,296;471,353;425,352"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="8;7;1;2" Texture="424,298;465,296;471,353;425,352"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="9;8;2;3" Texture="424,298;465,296;471,353;425,352"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="10;9;3;4" Texture="424,298;465,296;471,353;425,352"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="11;10;4;5" Texture="424,298;465,296;471,353;425,352"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="6;11;5;0" Texture="424,298;465,296;471,353;425,352"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="6;7;8;9;10;11" Texture="426,341;423,319;433,299;457,313;457,333;451,354"/>
+	</Flaeche>
+</OBJECT>
