@@ -1,3 +1,6 @@
+2013-01-10
+* [ukl] Bf Hainfurt Fahrleitung Gleis 6+5 eingebaut
+
 2013-01-08
 * [ukl] Bf Hainfurt Fahrleitung Gleis 7 eingebaut
 

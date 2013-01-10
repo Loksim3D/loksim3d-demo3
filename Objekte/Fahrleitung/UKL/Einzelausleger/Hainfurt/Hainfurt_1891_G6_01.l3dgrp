@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="U.Klein" FileDoku="" FileInfo="Hainfurt 1891 G6, Ts -0,2/nAusleger Kurz, Bauart a für Re160 mit Spitzenrohr/nfür Hängesäule/nGerade Strecke und Bogenaussen/nals Festpunkt geeignet/nFahrdrahthöhe: 5,5m, Systemhöhe: 1,8m/nAbstand Mastmitte &#47; Gleismitte 2,9m/n/nOriginal von Frieder Cramer/nBearbeitung: U.Klein 2010" FilePicture="Flachmast_Re160-180-550-Ka-SR.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\ukl\Einzelteil\Ausleger\Hainfurt\Hainfurt_1891_G6_01.l3dobj" Position="0;5.5;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\UKL\Einzelteil\Iso_Keramik_6s_s.l3dobj" Position="2.86;7.645;0" Rotation="0;-86;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\UKL\Einzelteil\Iso_Keramik_6s_s.l3dobj" Position="2.38;6.105;0" Rotation="0;61.5;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\UKL\Einzelteil\Ausleger\Oese_Seitenrohr_AL.l3dobj" Position="2.205;6.235;0" Rotation="0;-31;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\UKL\Einzelteil\Ausleger\Seitenhalter.l3dobj" Position="0.4;5.5;0" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\UKL\Einzelteil\Ausleger\Stuetzrohrhaenger_1200.l3dobj" Position="0;7.378;0" Rotation="0;9;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+</GRUPPENOBJECT>
