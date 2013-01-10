@@ -75,6 +75,15 @@
 					</Lightning>
 				</Eintrag>
 			</Object>
+			<Object>
+				<Props Name="Flughafen" Offset="0;0;0" Position="2570" Qualitaet="0"/>
+				<Eintrag>
+					<Props Abstand="9.411765" Anzahl="17" Datei="\Objekte\Bahnsteige\AndreasZ\U-Bahn-2_seite_10m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="10" Verschiebung="-9.8;0.01;0" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+			</Object>
 		</Objecte>
 		<Hoeheunterbrechung>
 		</Hoeheunterbrechung>
@@ -289,58 +298,151 @@
 						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
 					</Lightning>
 				</Eintrag>
-			</Object>
-			<Object>
-				<Props Name="Flughafen" Offset="0;0;0" Position="2570" Qualitaet="1" RollMaterial="FALSE"/>
 				<Eintrag>
-					<Props Abstand="10" Anzahl="16" Datei="\Objekte\Bahnsteige\AndreasZ\U-Bahn-2_seite_10m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="9.8;-0.2;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
-					<Lightning>
-						<Props DayLight="0" LokLight="TRUE" NightLight="62"/>
-					</Lightning>
-				</Eintrag>
-				<Eintrag>
-					<Props Abstand="10" Anzahl="16" Datei="\Objekte\Bahnsteige\AndreasZ\U-Bahn-2_seite_10m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="10" Verschiebung="1.8;-0.201;0" WeitSichtbar="TRUE" Winkel="180;0;0"/>
-					<Lightning>
-						<Props DayLight="0" LokLight="TRUE" NightLight="61"/>
-					</Lightning>
-				</Eintrag>
-				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Ausgang-Stadtmitte.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="8;1;0" WeitSichtbar="TRUE" Winkel="180;0;0"/>
-					<Lightning>
-						<Props DayLight="0" LokLight="TRUE" NightLight="59"/>
-					</Lightning>
-				</Eintrag>
-				<Eintrag>
-					<Props Abstand="9.97" Anzahl="16" Datei="\Objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Decke-Bismarckring.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="4;-0.42;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
-					<Lightning>
-						<Props DayLight="0" LokLight="TRUE" NightLight="61"/>
-					</Lightning>
-				</Eintrag>
-				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Ausgang-Stadtmitte.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="159.800003" Verschiebung="6;1;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
-					<Lightning>
-						<Props DayLight="0" LokLight="TRUE" NightLight="62"/>
-					</Lightning>
-				</Eintrag>
-				<Eintrag>
-					<Props Abstand="10" Anzahl="16" Datei="\Objekte\Bahnsteige\mbfan\Tunnel\Wand mit Text.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="10" Verschiebung="0;-1.5;0" WeitSichtbar="TRUE" Winkel="180;0;0"/>
-					<Lightning>
-						<Props DayLight="0" LokLight="TRUE" NightLight="64"/>
-					</Lightning>
-					<Eigenschaften>
-						<Props TEXT="&#39;Alfred-Werner-Straße&#39;"/>
-					</Eigenschaften>
-				</Eintrag>
-				<Eintrag>
-					<Props Abstand="160" Anzahl="2" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_uebergang_roehre_kasten.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" Winkel="0;0;0"/>
-				</Eintrag>
-				<Eintrag>
-					<Props Abstand="160" Anzahl="2" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_uebergang_roehre_kasten.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" Winkel="180;0;0"/>
-				</Eintrag>
-				<Eintrag>
-					<Props Abstand="160" Anzahl="2" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_uebergang_roehre_kasten.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="-6.95;0;0" Winkel="180;0;0"/>
+					<Props Abstand="10" Anzahl="6" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_10m_halb.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="520" Verschiebung="0;0;0" WeitSichtbar="TRUE" Winkel="180;0;0"/>
 					<Lightning>
 						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="8.5" Anzahl="5" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_10m_halb.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="740" Verschiebung="0;0;0" WeitSichtbar="TRUE" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="40" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_10m_halb.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="840" Verschiebung="-1;0;0" WeitSichtbar="TRUE" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="Flughafen" Offset="0;0;0" Position="2570" Qualitaet="0" RollMaterial="FALSE"/>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="16" Datei="\Objekte\Bahnsteige\AndreasZ\U-Bahn-2_seite_10m.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="9.8;0;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="16" Datei="\Objekte\Bahnsteige\AndreasZ\U-Bahn-2_seite_10m.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="10" Verschiebung="1.8;-0.01;0" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Wand-Stadtmitte2.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="3" Verschiebung="9.7;6;0" Winkel="90;0;90"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Wand-Stadtmitte2.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="3" Verschiebung="10.7;5.98;0" Winkel="90;0;90"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Wand-Stadtmitte2.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="3" Verschiebung="11;5.98;0" Winkel="90;0;90"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="16" Datei="\Objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Decke-Bismarckring.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="16;-0.4;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\Jernbane\Ausgang-breit_Rolltreppe1_Hbf.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0.19" Verschiebung="8.23;1.2;0" Winkel="180;0;0"/>
+					<Eigenschaften>
+						<Props hoch="&#39;TRUE&#39;" runter-links="&#39;TRUE&#39;"/>
+					</Eigenschaften>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="13" Datei="\Objekte\Bahnsteige\AndreasZ\U-Bahn-2_seite_10m.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="10" Verschiebung="4.8;0;0" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\objekte\Bahnsteige\Jernbane\Ausgang-breit_Rolltreppe1 Verlaengerung Hbf.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="-5.49" Verschiebung="8.23;5;0" Winkel="180;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Wand-Stadtmitte2.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="3" Verschiebung="2;6;0" Winkel="90;0;90"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Wand-Stadtmitte2.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="3" Verschiebung="3;5.98;0" Winkel="90;0;90"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Wand-Stadtmitte2.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="3" Verschiebung="3.3;5.98;0" Winkel="90;0;90"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bruecken\Jernbane\ET\BrueckeBernheim\NBS_Aufzug.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="159" Verschiebung="6;1.2;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bruecken\Jernbane\ET\BrueckeBernheim\NBS_Aufzug_Mitte.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="159" Verschiebung="6;4.5;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Wand-Stadtmitte2.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="163" Verschiebung="2;5.98;0" Winkel="90;0;90"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Wand-Stadtmitte2.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="163" Verschiebung="3;5.98;0" Winkel="90;0;90"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Wand-Stadtmitte2.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="163" Verschiebung="4;5.98;0" Winkel="90;0;90"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Wand-Stadtmitte2.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="163" Verschiebung="5;5.98;0" Winkel="90;0;90"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Wand-Stadtmitte2.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="163" Verschiebung="6;5.98;0" Winkel="90;0;90"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Wand-Stadtmitte2.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="163" Verschiebung="7;5.98;0" Winkel="90;0;90"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Wand-Stadtmitte2.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="163" Verschiebung="7.1;5.98;0" Winkel="90;0;90"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
 					</Lightning>
 				</Eintrag>
 			</Object>
@@ -555,20 +657,47 @@
 		</TOPOLOGIE>
 		<Objecte>
 			<Object>
-				<Props Name="Flughafen" Offset="0;0;0" Position="2570" Qualitaet="1"/>
+				<Props Name="Flughafen" Offset="0;0;0" Position="2570" Qualitaet="0"/>
 				<Eintrag>
-					<Props Abstand="9.9" Anzahl="17" Datei="\Objekte\Bahnsteige\mbfan\Tunnel\Wand mit Text.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0.5;-1.5;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Props Abstand="9.411765" Anzahl="17" Datei="\Objekte\Bahnsteige\AndreasZ\U-Bahn-2_seite_10m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="10" Verschiebung="-9.8;0.01;0" Winkel="180;0;0"/>
 					<Lightning>
-						<Props DayLight="0" LokLight="TRUE" NightLight="64"/>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
 					</Lightning>
-					<Eigenschaften>
-						<Props TEXT="&#39;Alfred-Werner-Straße&#39;"/>
-					</Eigenschaften>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="10" Anzahl="16" Datei="\Objekte\Bahnsteige\AndreasZ\U-Bahn-2_seite_10m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="10" Verschiebung="-10;-0.2;0" WeitSichtbar="TRUE" Winkel="180;0;0"/>
+					<Props Abstand="9.411765" Anzahl="17" Datei="\objekte\Bahnsteige\mbfan\Tunnel\Wand mit Text.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0.6;-1.5;0" Winkel="0;0;0"/>
 					<Lightning>
-						<Props DayLight="0" LokLight="TRUE" NightLight="62"/>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+					<Eigenschaften>
+						<Props TEXT="&#39;Mainz Hauptbahnhof&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="Tunnel" Offset="0;0;0" Position="2000" Qualitaet="0"/>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="2" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_roehre_10m_1_gl_halb_eckig_links.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="740" Verschiebung="0;0;0" WeitSichtbar="TRUE" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_abdeckung_tunneleinfahrt_röhre.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="730" Verschiebung="0;0;0" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="40" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_roehre_10m_halb_rechts.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="750" Verschiebung="0;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="35" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_10m_halb.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="800" Verschiebung="0.75;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
 					</Lightning>
 				</Eintrag>
 			</Object>
@@ -648,6 +777,27 @@
 			</STEIGUNG>
 		</TOPOLOGIE>
 		<Objecte>
+			<Object>
+				<Props DynamicVisibility="7" FixedDynamicVisibility="FALSE" Name="Tunnel" Offset="0;0;0" Position="2000" Qualitaet="0"/>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="19" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_10m_halb.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="820" Verschiebung="-0.751;0;0" WeitSichtbar="TRUE" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="18" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnelwand_10m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="820" Verschiebung="1;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="1" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnelwand_10m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="995" Verschiebung="-2;0;0" WeitSichtbar="TRUE" Winkel="90;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+			</Object>
 		</Objecte>
 		<Hoeheunterbrechung>
 		</Hoeheunterbrechung>
@@ -707,6 +857,27 @@
 			</Weiche>
 		</TOPOLOGIE>
 		<Objecte>
+			<Object>
+				<Props Name="Tunnel" Offset="0;0;0" Position="2750" Qualitaet="0"/>
+				<Eintrag>
+					<Props Abstand="7" Anzahl="3" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_10m_halb.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="-0.55;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="7" Anzahl="1" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_10m_halb.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="80" Verschiebung="0;0;0" WeitSichtbar="TRUE" Winkel="184;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="7" Anzahl="1" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_10m_halb.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="90" Verschiebung="0.9;0;0" WeitSichtbar="TRUE" Winkel="185;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+			</Object>
 		</Objecte>
 		<Hoeheunterbrechung>
 		</Hoeheunterbrechung>
@@ -741,6 +912,126 @@
 			</Ausweiche>
 		</TOPOLOGIE>
 		<Objecte>
+			<Object>
+				<Props Name="Flughafen" Offset="0;0;0" Position="2570" Qualitaet="0" RollMaterial="FALSE"/>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="16" Datei="\objekte\Bahnsteige\mbfan\Tunnel\Wand mit Text.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="10" Verschiebung="0;-1.5;0" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+					<Eigenschaften>
+						<Props TEXT="&#39;Mainz Hauptbahnhof&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="16" Datei="\Objekte\Bahnsteige\AndreasZ\U-Bahn-2_seite_10m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="9.8;0;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="16" Datei="\Objekte\Bahnsteige\AndreasZ\U-Bahn-2_seite_10m.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="10" Verschiebung="1.8;-0.01;0" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Wand-Stadtmitte2.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="3" Verschiebung="9.7;6;0" Winkel="90;0;90"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Wand-Stadtmitte2.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="3" Verschiebung="10.7;5.98;0" Winkel="90;0;90"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Wand-Stadtmitte2.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="3" Verschiebung="11;5.98;0" Winkel="90;0;90"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="16" Datei="\Objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Decke-Bismarckring.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="16;-0.4;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\Jernbane\Ausgang-breit_Rolltreppe1_Hbf.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="160" Verschiebung="7.8;1.2;0" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props hoch="&#39;TRUE&#39;" runter-links="&#39;TRUE&#39;"/>
+					</Eigenschaften>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\Jernbane\Ausgang-breit_Rolltreppe1_Hbf.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0.19" Verschiebung="8.23;1.2;0" Winkel="180;0;0"/>
+					<Eigenschaften>
+						<Props hoch="&#39;TRUE&#39;" runter-links="&#39;TRUE&#39;"/>
+					</Eigenschaften>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="13" Datei="\Objekte\Bahnsteige\AndreasZ\U-Bahn-2_seite_10m.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="10" Verschiebung="4.8;0;0" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\objekte\Bahnsteige\Jernbane\Ausgang-breit_Rolltreppe1 Verlaengerung Hbf.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="165.610001" Verschiebung="7.8;5;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\objekte\Bahnsteige\Jernbane\Ausgang-breit_Rolltreppe1 Verlaengerung Hbf.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="-5.49" Verschiebung="8.23;5;0" Winkel="180;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Wand-Stadtmitte2.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="3" Verschiebung="2;6;0" Winkel="90;0;90"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Wand-Stadtmitte2.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="3" Verschiebung="3;5.98;0" Winkel="90;0;90"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Wand-Stadtmitte2.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="3" Verschiebung="3.3;5.98;0" Winkel="90;0;90"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Wand-Stadtmitte2.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="163" Verschiebung="9.7;6;0" Winkel="90;0;90"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Wand-Stadtmitte2.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="163" Verschiebung="10.5;5.98;0" Winkel="90;0;90"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="16" Datei="\Objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Decke-Bismarckring.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="20;-0.4;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="16" Datei="\Objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Decke-Bismarckring.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="4;-0.4;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+			</Object>
 		</Objecte>
 		<Hoeheunterbrechung>
 			<Landschaftsobjekt>
