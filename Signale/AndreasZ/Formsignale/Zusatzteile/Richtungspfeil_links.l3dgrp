@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<GRUPPENOBJECT>
+	<Props FilePicture="Richtungspfeil_links.l3dgrp.jpg" FileAuthor="Andreas Zimmermann" FileInfo="Richtungspfeil (links)/n- - - - - - - - - - - - - - - - - - - - - - - - - - -/nHinweis: /nPosition = Position des Signals!/n- - - - - - - - - - - - - - - - - - - - - - - - - - -/n/n(c) by Andreas Zimmermann, 27.11.2004"/>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="\Signale\AndreasZ\Formsignale\Einzelteile\pfeil.l3dobj" Position="-2.7;2.6;-0.05"/>
+	</Object>
+</GRUPPENOBJECT>

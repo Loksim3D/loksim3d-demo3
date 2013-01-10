@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="Michael Buhmann" FileInfo="Bremsprellbock der Bauart Rawie/nBenötigt Rails von MichaelB:/nPrellbockgrubegleis_ rostig, ab Beginn  des Objektes/nObjekt sollte auf Betonuntergrund eingebaut werden./n/n(c) Michael Buhmann im Oktober 2006" FilePicture="Bremsprellbock-Bauart_Rawie.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile_prellbock\Bremsprellbock-Seitenteil.l3dobj" Position="-1;0;15" Rotation="90;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile_prellbock\Bremsprellbock-Seitenteil.l3dobj" Position="1;0;15" Rotation="90;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile_prellbock\Bremsprellbock-Fussteil.l3dobj" Position="0.9;0;0" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile_prellbock\Bremsprellbock-Fussteil.l3dobj" Position="-1.2;0;0" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile_prellbock\Bremszylinder_Prellbock.l3dobj" Position="-0.7;1.36;10.5" Rotation="0;0;90" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile_prellbock\Bremszylinder_Prellbock.l3dobj" Position="0.7;1.36;10.5" Rotation="0;0;90" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile_prellbock\Bremskasten_Prellbock.l3dobj" Position="-0.89;1.16;11.5" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile_prellbock\Bremskasten_Prellbock.l3dobj" Position="0.49;1.16;11.5" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile_prellbock\Bremsprellbock-Bohle.l3dobj" Position="0;1.1;10.5" Rotation="90;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile_prellbock\Pufferzylinder.l3dobj" Position="-0.875;1.34;9.9" Rotation="0;0;90" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile_prellbock\Pufferzylinder.l3dobj" Position="0.875;1.34;9.9" Rotation="0;0;90" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile_prellbock\Puffer_Grundplatte.l3dobj" Position="-1.075;1.1;10.17" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile_prellbock\Puffer_Grundplatte.l3dobj" Position="0.675;1.1;10.17" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile_prellbock\Pufferplatte.l3dobj" Position="0.675;1.16;9.85" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile_prellbock\Pufferplatte.l3dobj" Position="-1.075;1.16;9.85" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Alte_Tafel" Name="Einzelteile_prellbock\Prellbock-Sh2.l3dobj" Position="-0.1;1.6;10.2" Rotation="0;0;0" ShowOn="Neue_Tafel" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile_prellbock\Prellbock-Scheibenhalter.l3dobj" Position="0.9;1.6;10.25" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile_prellbock\Bremsprellbock_Strebe.l3dobj" Position="0;1.2;11.8" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile_prellbock\Bremsprellbock_Strebe.l3dobj" Position="0;1.2;12.3" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile_prellbock\Bremsprellbock-T-Plattel.l3dobj" Position="-1.2;0.9;11.42" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile_prellbock\Bremsprellbock-T-Plattel.l3dobj" Position="0.9;0.9;11.42" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile_prellbock\Bremsprellbock-T-Plattel.l3dobj" Position="-1.2;0.3;11.07" Rotation="0;0;25" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile_prellbock\Bremsprellbock-T-Plattel.l3dobj" Position="0.9;0.3;11.07" Rotation="0;0;25" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile_prellbock\Bremsprellbock-T-Plattel.l3dobj" Position="-1.2;1.7;11.42" Rotation="0;0;90" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile_prellbock\Bremsprellbock-T-Plattel.l3dobj" Position="0.9;1.7;11.42" Rotation="0;0;90" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile_prellbock\Bremsprellbock-Mittelpuffer.l3dobj" Position="0;0.32;10" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile_prellbock\Bremsprellbock_Strebe.l3dobj" Position="0;0.4;11.2" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile_prellbock\Bremsprellbock_Schwelle.l3dobj" Position="0;0;0" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile_prellbock\Bremsprellbock_Schwelle.l3dobj" Position="0;0;1.5" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile_prellbock\Bremsprellbock_Schwelle.l3dobj" Position="0;0;3" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile_prellbock\Bremsprellbock_Schwelle.l3dobj" Position="0;0;4.5" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile_prellbock\Bremsprellbock_Schwelle.l3dobj" Position="0;0;6" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile_prellbock\Bremsprellbock_Schwelle.l3dobj" Position="0;0;7.5" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile_prellbock\Bremsprellbock_Schwelle.l3dobj" Position="0;0;9" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile_prellbock\Bremsprellbock_Schwelle.l3dobj" Position="0;0;10.5" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile_prellbock\Bremsprellbock_Bremselemente.l3dobj" Position="0;0;12" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile_prellbock\Bremsprellbock_Bremselemente.l3dobj" Position="0;0;13.8" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile_prellbock\Bremsprellbock_Bremselemente.l3dobj" Position="0;0;15.6" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile_prellbock\Bremsprellbock_Bremselemente.l3dobj" Position="0;0;17.4" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile_prellbock\Bremsprellbock_Endelemente.l3dobj" Position="0;0;19.200001" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile_prellbock\Bremsprellbock_Haken.l3dobj" Position="0.03;-0.08;0.93" Rotation="0;0;-8" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile_prellbock\Bremsprellbock_Strebe.l3dobj" Position="-0.6;0.15;1" Rotation="90;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile_prellbock\Bremsprellbock_Strebe.l3dobj" Position="0.5;0.15;1" Rotation="90;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile_prellbock\Bremsprellbock_Strebe.l3dobj" Position="-0.3;0.15;2.5" Rotation="90;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile_prellbock\Bremsprellbock_Strebe.l3dobj" Position="0.2;0.15;2.5" Rotation="90;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile_prellbock\Gleisnummerflaeche.l3dobj" Position="-0.6;1.3;10.15" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile_prellbock\Bremsprellbock_Endelemente.l3dobj" Position="0;0;12" Rotation="180;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Neue_Tafel" Name="\Objekte\Tafeln\Einzelteile\Sh2_Foto.l3dobj" Position="0.55;1.65;10.2" Rotation="0;0;0" ShowOn="Alte_Tafel" ZoomFaktor="1"/>
+	</Object>
+	<Font>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="0" DefaultText="2" Fonthoehe="0.2" GroupProperty="TEXT" Leuchtend="FALSE" Name="\Fonts\AndreasZ\DIN 1451.l3dfont" Position="-0.5;1.4;10.1" Rotation="0;0;0"/>
+	</Font>
+</GRUPPENOBJECT>

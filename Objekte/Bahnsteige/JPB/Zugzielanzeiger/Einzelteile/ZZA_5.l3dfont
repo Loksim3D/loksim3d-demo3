@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FONT>
+	<Props FileAuthor="" FileInfo="" FilePicture="" Fonthoehe="22" Texture="ZZA_5.bmp"/>
+	<Zeichen>
+		<Props Width="26" X="7" Y="5" Zeichen="A"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="26" X="37" Y="5" Zeichen="B"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="26" X="67" Y="5" Zeichen="C"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="26" X="97" Y="5" Zeichen="D"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="26" X="127" Y="5" Zeichen="E"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="26" X="157" Y="5" Zeichen="F"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="26" X="187" Y="5" Zeichen="G"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="26" X="7" Y="32" Zeichen="1"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="26" X="37" Y="32" Zeichen="2"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="26" X="67" Y="32" Zeichen="r"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="26" X="97" Y="32" Zeichen="b"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="26" X="127" Y="32" Zeichen="w"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="26" X="157" Y="32" Zeichen="="/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="26" X="187" Y="32" Zeichen="#"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="26" X="217" Y="32" Zeichen="_"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="26" X="7" Y="59" Zeichen="["/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="26" X="37" Y="59" Zeichen="]"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="26" X="67" Y="59" Zeichen="("/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="26" X="97" Y="59" Zeichen=")"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="26" X="127" Y="59" Zeichen="}"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="26" X="157" Y="59" Zeichen="{"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="26" X="187" Y="59" Zeichen="&#62;"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="26" X="217" Y="59" Zeichen="&#60;"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="26" X="7" Y="86" Zeichen="f"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="26" X="37" Y="86" Zeichen="v"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="26" X="67" Y="86" Zeichen="c"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="26" X="97" Y="86" Zeichen="z"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="26" X="127" Y="86" Zeichen="y"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="26" X="157" Y="86" Zeichen="a"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="26" X="187" Y="86" Zeichen="e"/>
+	</Zeichen>
+</FONT>

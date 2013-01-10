@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<GRUPPENOBJECT>
+	<Props FilePicture="Ersatzsignal-ZW-1.l3dgrp.jpg" FileAuthor="Andreas Zimmermann" FileInfo="Ersatzsignal (ohne Funktion)/n- - - - - - - - - - - - - - - - - - - - - - - - - - - -/nHinweis: /nPosition = Position des Signals !/n- - - - - - - - - - - - - - - - - - - - - - - - - - - -/nfür zweiflüglige Zwergsignale./n/n(c) by Andreas Zimmermann, 18.10.2004"/>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="\Signale\Einzelteile\ersatzsig2.l3dobj" Position="2.3;-2.55;0"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="\Signale\Einzelteile\blendeklein.l3dobj" Position="2.2565;2.75;-0.3"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="\Signale\Einzelteile\blendeklein.l3dobj" Position="2.1;2.5;-0.3"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="\Signale\Einzelteile\blendeklein.l3dobj" Position="2.41;2.5;-0.3"/>
+	</Object>
+	<Object>
+		<Props Rotation="90;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="\Signale\Einzelteile\halterung.l3dobj" Position="2.6;2.35;0"/>
+	</Object>
+</GRUPPENOBJECT>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<GRUPPENOBJECT>
+	<Props FilePicture="NBS_Bank_Fpl.l3dgrp.jpg" FileAuthor="Markus Niessen" FileInfo="Fahrgastzubehör der S-Stationen auf der Ausbaustrecke Köln Düren "/>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="NBS_Fahrplan.l3dobj" Position="-4;1;-11.5"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="NBS_Bank.l3dobj" Position="-4;1;-22"/>
+	</Object>
+	<Object>
+		<Props Rotation="-15;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="NBS_Mülltonne.l3dobj" Position="-4.4;1;-15"/>
+	</Object>
+</GRUPPENOBJECT>

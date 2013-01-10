@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="Markus Niessen" FileInfo="Aufzug der S-Stationen auf der Ausbaustrecke Köln Düren " FilePicture="NBS_Aufzug.l3dobj.jpg" Texture="\Objekte\Bahnsteige\Markus\NBS_Aufzug.bmp" TransTexture="\Objekte\Bahnsteige\Markus\NBS_Aufzug_a.bmp" Transparent="FALSE" TransparentTyp="3"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="-1;0;-1"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="-1;5.05;-1"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="-1;5.05;1"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="-1;0;1"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="1;0;-1"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="1;5.05;-1"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="1;5.05;1"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="1;0;1"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="250,226;251,0;1,0;0,226"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="5;6;7;4" Texture="251,0;1,0;2,228;252,229"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="2;3;7;6" Texture="243,4;245,224;2,227;2,1"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;0;1;5" Texture="248,228;3,228;1,2;247,1"/>
+	</Flaeche>
+</OBJECT>

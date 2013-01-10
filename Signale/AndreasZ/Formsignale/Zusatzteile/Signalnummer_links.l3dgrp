@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<GRUPPENOBJECT>
+	<Props FilePicture="Signalnummer.l3dgrp.jpg" FileAuthor="Andreas Zimmermann" FileInfo="Signalnummer (links), edierbar/n- - - - - - - - - - - - - - - - - - - - - - - - - - -/nHinweis: /nPosition = Position des Signals!/n- - - - - - - - - - - - - - - - - - - - - - - - - - -/n/n(c) by Andreas Zimmermann, 03.10.2004"/>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="\Signale\AndreasZ\Formsignale\Einzelteile\signalnummer.l3dobj" Position="-2.7;2.9;-0.05"/>
+	</Object>
+	<Font>
+		<Props Rotation="0;0;0" AlignVert="1" BlinkIntervall="0" Leuchtend="FALSE" Fonthoehe="0.25" DefaultText="A" Name="\Fonts\ArialNarrow.l3dfont" Position="-2.7;3.05;-0.09" AlignHorz="1" GroupProperty="Signalnummer" Color="0"/>
+	</Font>
+</GRUPPENOBJECT>

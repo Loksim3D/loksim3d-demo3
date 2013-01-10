@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="" FileInfo="" FilePicture="" Texture="TunnelFL 50m neu.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.1;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="0;0;50"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="0;0.1;50"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.1;0.1;50"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="0.1;0;50"/>
+	</Point>
+	<Flaeche>
+		<Props Points="5;1;0;2" Texture="5,3;193,1;195,22;4,20"/>
+	</Flaeche>
+</OBJECT>

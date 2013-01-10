@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="" FileInfo="" FilePicture="" Texture="\Objekte\Standard\AlbrechtH\F&#38;F Tunnel.bmp" TransTexture="" Transparent="TRUE" TransparentTyp="1"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0;1;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="2;1;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="2;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="0;0;0.15"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="0;1;0.15"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="2;1;0.15"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="2;0;0.15"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="1,281;0,143;311,143;311,281"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;6;5;4" Texture="310,281;310,145;0,145;0,281"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;2;6;7" Texture="9,97;18,47;82,63;100,100"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;1;0" Texture="18,97;23,41;80,58;93,96"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="1;5;6;2" Texture="26,101;36,42;81,54;100,100"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;3;0;4" Texture="23,99;31,40;84,51;90,99"/>
+	</Flaeche>
+</OBJECT>

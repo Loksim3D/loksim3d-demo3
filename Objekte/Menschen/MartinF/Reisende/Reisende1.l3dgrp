@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="" FileInfo="" FilePicture=""/>
+	<Object>
+		<Props BlinkIntervall="0" Brightness="40" GreaterAs="TRUE" Name="Mann1.l3dobj" Position="0;0;3" Rotation="0;0;0" ShowIfBrightness="TRUE" ShowOn="Zufall" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Brightness="40" GreaterAs="TRUE" Name="Frau1.l3dobj" Position="-1;0;5" Rotation="0;0;0" ShowIfBrightness="TRUE" ShowOn="Zufall" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Brightness="40" GreaterAs="TRUE" Name="Paar1.l3dobj" Position="-1.5;0;15" Rotation="0;0;0" ShowIfBrightness="TRUE" ShowOn="Zufall" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Brightness="40" GreaterAs="FALSE" Name="Paar1A.l3dobj" Position="-1.5;0;15" Rotation="0;0;0" ShowIfBrightness="TRUE" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Brightness="40" GreaterAs="TRUE" Name="Frau2.l3dobj" Position="0;0;25" Rotation="0;0;0" ShowIfBrightness="TRUE" ShowOn="Zufall" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Brightness="40" GreaterAs="FALSE" Name="Frau2A.l3dobj" Position="0;0;25" Rotation="0;0;0" ShowIfBrightness="TRUE" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Brightness="40" GreaterAs="TRUE" Name="Mann3.l3dobj" Position="0;0;30" Rotation="0;0;0" ShowIfBrightness="TRUE" ShowOn="Zufall" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Brightness="40" GreaterAs="FALSE" Name="Mann3A.l3dobj" Position="0;0;30" Rotation="0;0;0" ShowIfBrightness="TRUE" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Brightness="40" GreaterAs="TRUE" Name="Mann4.l3dobj" Position="-1;0;35" Rotation="0;0;0" ShowIfBrightness="TRUE" ShowOn="Zufall" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Brightness="40" GreaterAs="TRUE" Name="Paar2.l3dobj" Position="-1;0;45" Rotation="0;0;0" ShowIfBrightness="TRUE" ShowOn="Zufall" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Brightness="40" GreaterAs="TRUE" Name="Frau3.l3dobj" Position="-1;0;50" Rotation="0;0;0" ShowIfBrightness="TRUE" ShowOn="Zufall" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Brightness="40" GreaterAs="TRUE" HideOn="Zufall" Name="Mann5.l3dobj" Position="0;0;3" Rotation="0;0;0" ShowIfBrightness="TRUE" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Brightness="40" GreaterAs="TRUE" HideOn="Zufall" Name="Frau4.l3dobj" Position="-1;0;5" Rotation="0;0;0" ShowIfBrightness="TRUE" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Brightness="40" GreaterAs="TRUE" HideOn="Zufall" Name="Paar5.l3dobj" Position="-1.5;0;15" Rotation="0;0;0" ShowIfBrightness="TRUE" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Brightness="40" GreaterAs="TRUE" HideOn="Zufall" Name="Frau5.l3dobj" Position="0;0;25" Rotation="0;0;0" ShowIfBrightness="TRUE" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Brightness="40" GreaterAs="TRUE" HideOn="Zufall" Name="Mann6.l3dobj" Position="0;0;30" Rotation="0;0;0" ShowIfBrightness="TRUE" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Brightness="40" GreaterAs="TRUE" HideOn="Zufall" Name="Mann7.l3dobj" Position="-1;0;35" Rotation="0;0;0" ShowIfBrightness="TRUE" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Brightness="40" GreaterAs="TRUE" HideOn="Zufall" Name="Frau6.l3dobj" Position="-1;0;45" Rotation="0;0;0" ShowIfBrightness="TRUE" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Brightness="40" GreaterAs="TRUE" HideOn="Zufall" Name="Frau7.l3dobj" Position="-1;0;50" Rotation="0;0;0" ShowIfBrightness="TRUE" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Brightness="40" GreaterAs="TRUE" Name="Mann2.l3dobj" Position="0;0;40" Rotation="0;0;0" ShowIfBrightness="TRUE" ShowOn="Zufall" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Brightness="40" GreaterAs="FALSE" Name="Mann2A.l3dobj" Position="0;0;40" Rotation="0;0;0" ShowIfBrightness="TRUE" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Brightness="40" GreaterAs="FALSE" Name="Mann4A.l3dobj" Position="0;0;37" Rotation="0;0;0" ShowIfBrightness="TRUE" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Brightness="40" GreaterAs="FALSE" Name="Frau3A.l3dobj" Position="-1.5;0;37" Rotation="0;0;0" ShowIfBrightness="TRUE" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+</GRUPPENOBJECT>

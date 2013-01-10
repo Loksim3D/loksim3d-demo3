@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="TRUE" Drawrueckseiten="TRUE" FileAuthor="" FileInfo="" FilePicture="" Texture="Schild-Ausgang-haengend2.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="2"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0;1.6;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="2;1.6;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="2;0;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="1,110;1,1;150,1;150,110"/>
+	</Flaeche>
+</OBJECT>

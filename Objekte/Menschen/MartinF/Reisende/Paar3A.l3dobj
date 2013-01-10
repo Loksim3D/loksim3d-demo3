@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="TRUE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="" FileInfo="" FilePicture="Fahrgast 001.l3dobj.jpg" Texture="Paar3a.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="2"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="-1;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="-1;1.8;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="1;1.8;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="1;0;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="1,127;1,1;127,1;127,127"/>
+	</Flaeche>
+</OBJECT>

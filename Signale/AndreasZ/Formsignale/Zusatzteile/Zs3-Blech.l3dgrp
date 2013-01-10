@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<GRUPPENOBJECT>
+	<Props FilePicture="Zs3-Blech.l3dgrp.jpg" FileAuthor="Andreas Zimmermann" FileInfo="Zs3-Blech, edierbar/n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -/nHinweis: /nPosition = Position des Signals!/n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -/nfür 1- und 2-flüglige Hauptsignale./n/n(c) by Andreas Zimmermann, 27.11.2004"/>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="\Signale\Einzelteile\halterung.l3dobj" Position="2.7;4.3;-0.35"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="\Signale\Einzelteile\ZS3blech.l3dobj" Position="2.7;-2.9;-0.65"/>
+	</Object>
+	<Font>
+		<Props Rotation="0;0;0" AlignVert="0" BlinkIntervall="0" Leuchtend="FALSE" Fonthoehe="0.37" DefaultText="" Name="\Signale\Einzelteile\blechgeschwindigkeit.l3dfont" Position="2.7;4.46;-0.73" AlignHorz="1" GroupProperty="Signalkennziffer" Color="16777215"/>
+	</Font>
+</GRUPPENOBJECT>

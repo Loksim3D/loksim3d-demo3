@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<GRUPPENOBJECT>
+	<Props FilePicture="Ersatzsignal-SB.l3dgrp.jpg" FileAuthor="Andreas Zimmermann" FileInfo="Ersatzsignal (ohne Funktion)/n- - - - - - - - - - - - - - - - - - - - - - - - - - - -/nHinweis: /nPosition = Position des Signals !/n- - - - - - - - - - - - - - - - - - - - - - - - - - - -/nfür Signalbrücken./n/n(c) by Andreas Zimmermann, 18.10.2004"/>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="\Signale\Einzelteile\ersatzsig2.l3dobj" Position="0.6;2.05;-0.6"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="\Signale\Einzelteile\blendeklein.l3dobj" Position="0.5565;7.35;-0.9"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="\Signale\Einzelteile\blendeklein.l3dobj" Position="0.4;7.1;-0.9"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="\Signale\Einzelteile\blendeklein.l3dobj" Position="0.71;7.1;-0.9"/>
+	</Object>
+</GRUPPENOBJECT>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<GRUPPENOBJECT>
+	<Props FilePicture="Verk. Abstand-SB-4.l3dgrp.jpg" FileAuthor="Andreas Zimmermann" FileInfo="Zusatztafel: Verkürzter Vorsignalabstand/n- - - - - - - - - - - - - - - - - - - - - - - - - - - -/nHinweis: /nPosition = Position des Signals !/n- - - - - - - - - - - - - - - - - - - - - - - - - - - -/nfür folgende Signale:/nSB-Kombi-Vorsignal-1-e/nSB-Kombi-Vorsignal-1-gas/n/n(c) by Andreas Zimmermann, 18.10.2004"/>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="\Signale\AndreasZ\Formsignale\Einzelteile\Ne2-verk.l3dobj" Position="-0.95;6.65;-2.1"/>
+	</Object>
+</GRUPPENOBJECT>

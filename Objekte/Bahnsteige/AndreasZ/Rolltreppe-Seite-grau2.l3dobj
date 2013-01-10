@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="TRUE" Drawrueckseiten="FALSE" FileAuthor="Andreas Zimmermann" FileInfo="" FilePicture="" Texture="Rolltreppe-Seite-grau.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="0;-0.032;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0;1.1;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.107;1.1;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.107;1;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="0;-0.032;1"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="0;1.1;1"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.107;1.1;1"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="0.107;1;1"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.245;1;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="0.245;1;1"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.245;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="0.245;0;1"/>
+	</Point>
+	<Flaeche>
+		<Props Points="3;2;6;7" Texture="1,24;1,7;127,7;127,24"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;1;0" Texture="1,127;1,8;127,8;127,127"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="1;5;6;2" Texture="5,9;5,3;126,3;126,10"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;7;9;8" Texture="110,26;16,40;13,88;114,80"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="11;10;8;9" Texture="280,76;199,76;199,1;280,1"/>
+	</Flaeche>
+</OBJECT>

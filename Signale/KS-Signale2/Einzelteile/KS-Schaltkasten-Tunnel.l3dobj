@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<OBJECT>
+	<Props TransparentTyp="0" Beleuchtet="FALSE" Transparent="FALSE" FilePicture="" FileAuthor="" FileInfo="" Drawrueckseiten="TRUE" TransTexture="" Texture="KS-Schaltkasten-Tunnel.bmp"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0;0.7;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.5;0.7;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.5;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="0;0;0.3"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="0;0.7;0.3"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.5;0.7;0.3"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="0.5;0;0.3"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="1,241;1,1;171,1;171,241"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;6;5;4" Texture="1,240;1,74;170,74;170,240"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;2;6;7" Texture="24,160;21,98;122,84;130,163"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;1;0" Texture="27,192;17,94;143,102;126,192"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="1;5;6;2" Texture="33,190;23,81;151,84;152,199"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;3;0;4" Texture="34,159;28,92;162,69;158,161"/>
+	</Flaeche>
+</OBJECT>

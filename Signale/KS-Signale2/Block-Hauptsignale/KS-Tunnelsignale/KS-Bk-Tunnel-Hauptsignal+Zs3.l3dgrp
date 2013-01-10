@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="Jernbane" FileInfo="KS-Bk-Hauptsignal mit Ausleger/nSpezialbauform für SFS-Tunnel/n/n(c) 17. 02. 2005 Sebastian Kircher/n© JPB 2007/numgebaut durch Jernbane, 2012" FilePicture=""/>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\KS-Signale2\Einzelteile\KS-Mast-2dunkel.l3dobj" Position="2.1;2.7;-0.05" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\KS-Signale2\Einzelteile\KS-Schirm-Bksig-Tunnel.l3dobj" Position="1.85;3.6;-0.2" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\KS-Signale2\Einzelteile\KS-Signalnummer-1.l3dobj" Position="2.065;2.85;-0.1" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\KS-Signale2\Einzelteile\KS-rot.l3dobj" Position="2.12;4.43;-0.21" Rotation="0;0;0" ShowOn="Hp0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\KS-Signale2\Einzelteile\KS-gruen.l3dobj" Position="2.12;4.15;-0.21" Rotation="0;0;0" ShowOn="Hp1" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\KS-Signale2\Einzelteile\scheinrot.l3dobj" Position="2.2;4.52;-0.2" Rotation="0;0;0" ShowOn="Hp0" WeitSichtbar="FALSE" ZoomFaktor="160"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\KS-Signale2\Einzelteile\scheingruen.l3dobj" Position="2.2;4.22;-0.2" Rotation="0;0;0" ShowOn="Hp1" WeitSichtbar="FALSE" ZoomFaktor="160"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\KS-Signale2\Einzelteile\KS-Zubehör-1-Tunnel.l3dobj" Position="1.85;3.2;-0.2" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\KS-Signale2\Einzelteile\KS-Tunnelmast.l3dobj" Position="2.5;1.2;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\KS-Signale2\Einzelteile\KS-Schaltkasten-Tunnel.l3dobj" Position="2.2;1.4;0.4" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\KS-Signale2\Einzelteile\KS-Mastschild-wrw-klein-Tunnel.l3dobj" Position="2.5125;1.2;-0.1" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\KS-Signale2\Einzelteile\KS-Zs7.l3dobj" Position="2.03;3.94;-0.21" Rotation="0;0;0" ShowOn="Zs7" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\KS-Signale2\Einzelteile\KS-Zs7.l3dobj" Position="2.25;3.94;-0.21" Rotation="0;0;0" ShowOn="Zs7" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\KS-Signale2\Einzelteile\KS-Zs7.l3dobj" Position="2.14;3.74;-0.21" Rotation="0;0;0" ShowOn="Zs7" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\KS-Signale2\Einzelteile\KS-Kreisscheibe.l3dobj" Position="2.065;3.48;-0.21" Rotation="0;0;0" ShowOn="Kreisscheibe" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\KS-Signale2\Einzelteile\KS-Zs3.l3dobj" Position="1.935;4.88;-0.21" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Font>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="0" DefaultText="64/nH" Fonthoehe="0.13" GroupProperty="Signalnummer" Leuchtend="FALSE" Name="\Signale\KS-Signale2\Einzelteile\Signalnummer.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="2.19;3.03;-0.12" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="16777215" DefaultText="" Fonthoehe="0.45" GroupProperty="Signalkennziffer" Leuchtend="TRUE" Name="\Signale\KS-Signale2\Einzelteile\Geschwindigkeit.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="2.185;5.305;-0.22" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+</GRUPPENOBJECT>

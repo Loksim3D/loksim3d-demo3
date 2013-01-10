@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<OBJECT>
+	<Props Beleuchtet="FALSE" Transparent="TRUE" FilePicture="NBS_Mülltonne.l3dobj.jpg" FileAuthor="Markus Niessen" FileInfo="Mülltonne" Drawrueckseiten="FALSE" Texture="NBS_Zusatz.bmp"/>
+	<Point>
+		<Props Normal="-0.2;-1;-1" Vekt="0.32;0;-0.64"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.2;1;-1" Vekt="0.32;1;-0.64"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-0.2" Vekt="0.96;1;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-0.2" Vekt="0.96;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;0.2" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;0.2" Vekt="0;1;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0.2;1;1" Vekt="0.64;1;0.64"/>
+	</Point>
+	<Point>
+		<Props Normal="0.2;-1;1" Vekt="0.64;0;0.64"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="0.47;1.2;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="112,154;114,84;145,86;145,157"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;6;5;4" Texture="112,154;114,84;145,86;145,157"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="5;1;0;4" Texture="149,85;194,84;194,152;149,154"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="6;7;3;2" Texture="194,84;194,152;149,154;149,85"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="2;1;8" Texture="145,86;114,84;145,72"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="1;5;8" Texture="145,86;145,72;114,84"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="8;5;6" Texture="145,72;145,86;114,84"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="8;6;2" Texture="145,72;145,86;114,84"/>
+	</Flaeche>
+</OBJECT>

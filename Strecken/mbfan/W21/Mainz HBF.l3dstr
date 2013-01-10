@@ -1,0 +1,1549 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STRECKE>
+	<Props FileAuthor="" FileDoku="" FileInfo="" FilePicture=""/>
+	<DefaulRail>
+		<Props File="\Rails\RainerH\flimmerfrei\16betonschwellen_schotter_normal.l3drail"/>
+		<Lightning>
+			<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+		</Lightning>
+	</DefaulRail>
+	<StdTexture>
+		<Props File=""/>
+	</StdTexture>
+	<Himmelsrichtung>
+		<Props Value="0"/>
+	</Himmelsrichtung>
+	<GLEIS>
+		<Props Name="Hauptstrecke rechts"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="3000" ParallelAbstand="-10" ParallelEnd="0" ParallelGleis="" ParallelStart="0" StartPos="0" StartPunkt="0;0;0" Typ="Normal" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
+			</Erstellung>
+			<KURVE>
+				<Props Ende="1778" SanfterWinkel="TRUE" Start="0" Winkel="-48.790001"/>
+			</KURVE>
+			<KURVE>
+				<Props Ende="3000" SanfterWinkel="TRUE" Start="2500" Winkel="-12"/>
+			</KURVE>
+		</TOPOLOGIE>
+		<Objecte>
+			<Object>
+				<Props Name="Tunnel" Offset="0;0;0" Position="0" Qualitaet="0" RollMaterial="FALSE"/>
+				<Eintrag>
+					<Props Abstand="9.963" Anzahl="198" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_roehre_10m_halb_rechts.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="-0.002;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="17" Datei="\objekte\Tunnel\mbfan\U-Bahntunnel_10m_halb.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2039.5" Verschiebung="-0.002;0;0" WeitSichtbar="TRUE" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="6" Datei="\objekte\Tunnel\mbfan\U-Bahntunnel_Decke.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1970" Verschiebung="0.5;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\objekte\Tunnel\mbfan\U-Bahntunnel_übergang_röhre_kasten.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2400.100098" Verschiebung="0;0;0" WeitSichtbar="TRUE" Winkel="180;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="9.963" Anzahl="198" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_roehre_10m_halb_rechts.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2401" Verschiebung="-0.002;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="Kilometertafeln" Offset="0;0;0" Position="0" Qualitaet="0" RollMaterial="FALSE"/>
+				<Eintrag>
+					<Props Abstand="100" Anzahl="30" Datei="\Objekte\Tafeln\Hektometertafel mit Fuss doppelt.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="-4.5;-1.5;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props KILOMETER="STRECKENHEKTOMETER"/>
+					</Eigenschaften>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="Oberleitung" Offset="0;0;0" Position="0" Qualitaet="0" RollMaterial="FALSE"/>
+				<Eintrag>
+					<Props Abstand="50" Anzahl="60" Datei="\Objekte\Standard\AlbrechtH\TunnelFL 50m neu.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0;5.3;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="50" Anzahl="60" Datei="\Objekte\Standard\AlbrechtH\Tunnelausleger F&#38;F.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0;0.1;0" WeitSichtbar="TRUE" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="Mainz" Offset="0;0;0" Position="2200" Qualitaet="0" RollMaterial="FALSE"/>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="20" Datei="\objekte\Bahnsteige\mbfan\Tunnel\Wand mit Text.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="16.1;-1.5;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+					<Eigenschaften>
+						<Props TEXT="&#39;Mainz Hauptbahnhof&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="20" Datei="\Objekte\Bahnsteige\AndreasZ\U-Bahn-2_seite_10m.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="9.8;0;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="20" Datei="\Objekte\Bahnsteige\AndreasZ\U-Bahn-2_seite_10m.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="10" Verschiebung="1.8;-0.01;0" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Wand-Stadtmitte2.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="3" Verschiebung="9.7;6;0" Winkel="90;0;90"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Wand-Stadtmitte2.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="3" Verschiebung="10.7;5.98;0" Winkel="90;0;90"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Wand-Stadtmitte2.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="3" Verschiebung="11;5.98;0" Winkel="90;0;90"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="20" Datei="\Objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Decke-Bismarckring.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="16;-0.4;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\Jernbane\Ausgang-breit_Rolltreppe1_Hbf.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="200" Verschiebung="7.8;1.2;0" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props hoch="&#39;TRUE&#39;" runter-links="&#39;TRUE&#39;"/>
+					</Eigenschaften>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\objekte\Bahnsteige\mbfan\Tunnel\Wand mit Text.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="197" Verschiebung="20.6;-1.5;0" Winkel="-90;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+					<Eigenschaften>
+						<Props TEXT="&#39;Mainz Hauptbahnhof&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\Jernbane\Ausgang-breit_Rolltreppe1_Hbf.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0.19" Verschiebung="8.23;1.2;0" Winkel="180;0;0"/>
+					<Eigenschaften>
+						<Props hoch="&#39;TRUE&#39;" runter-links="&#39;TRUE&#39;"/>
+					</Eigenschaften>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="20" Datei="\Objekte\Bahnsteige\AndreasZ\U-Bahn-2_seite_10m.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="10" Verschiebung="4.8;0;0" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="20" Datei="\Objekte\Bahnsteige\AndreasZ\U-Bahn-2_seite_10m.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="10" Verschiebung="5.8;0.01;0" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\objekte\Bahnsteige\Jernbane\Ausgang-breit_Rolltreppe1 Verlaengerung Hbf.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="205.610001" Verschiebung="7.8;5;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\objekte\Bahnsteige\Jernbane\Ausgang-breit_Rolltreppe1 Verlaengerung Hbf.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="-5.49" Verschiebung="8.23;5;0" Winkel="180;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Wand-Stadtmitte2.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="3" Verschiebung="2;6;0" Winkel="90;0;90"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Wand-Stadtmitte2.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="3" Verschiebung="3;5.98;0" Winkel="90;0;90"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Wand-Stadtmitte2.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="3" Verschiebung="3.3;5.98;0" Winkel="90;0;90"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Wand-Stadtmitte2.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="203" Verschiebung="2.5;6;0" Winkel="90;0;90"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Wand-Stadtmitte2.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="203" Verschiebung="3.3;5.98;0" Winkel="90;0;90"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="Mainz Ausstattung" Offset="0;0;0" Position="2200" Qualitaet="0" RollMaterial="FALSE"/>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bruecken\Jernbane\ET\BrueckeBernheim\NBS_Aufzug.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="95" Verschiebung="8;1.2;0" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bruecken\Jernbane\ET\BrueckeBernheim\NBS_Aufzug_Mitte.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="95" Verschiebung="8;4.5;0" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="25" Anzahl="7" Datei="\Objekte\Bahnsteige\RainerZ\Bahnsteigschild-mH.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="25" Verschiebung="8;1.7;0" Winkel="90;0;0"/>
+					<Eigenschaften>
+						<Props TEXT="&#39;Mainz HBF&#39;"/>
+					</Eigenschaften>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="50" Anzahl="4" Datei="\Objekte\Bahnsteige\Markus\NBS_Bank_Fpl.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="9" Verschiebung="4;0.2;0" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="55" Anzahl="3" Datei="\Objekte\Bahnsteige\RainerZ\Werbung\Werbung_var2.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="35" Verschiebung="8;1;0" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props 8="&#39;TRUE&#39;"/>
+					</Eigenschaften>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="66.599998" Anzahl="2" Datei="\objekte\Bahnsteige\JPB\Zugzielanzeiger\ZZA_digital_10.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="66.599998" Verschiebung="13;5.3;0" Winkel="180;0;0"/>
+					<Eigenschaften>
+						<Props Abfahrtszeit="&#39;W 1&#39;" Gleis="&#39;101&#39;" Gleis_Nr="&#39;4&#39;" Zeit_1="&#39;S2&#39;" Zeit_2="&#39;S2&#39;" Ziel_1="&#39;Zell unter Teck&#39;" Ziel_2="&#39;Zell unter Teck&#39;" Zug_Nr._1="&#39;in 12 Min&#39;" Zug_Nr._2="&#39;In 27 Min&#39;" Zuglauf_1="&#39;Biebrich - Schierstein - Frauenstein&#39;" Zuglauf_2="&#39;Klarenthal - Dotzheim - Freudenb.&#39;" Zugziel="&#39;Wiesbaden HBF&#39;" Über_1_1="&#39;Langen Süd - Woldenheim&#39;" Über_2="&#39;Langen Süd - Woldenheim&#39;"/>
+					</Eigenschaften>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="66.599998" Anzahl="2" Datei="\Objekte\Bahnsteige\JPB\Zugzielanzeiger\ZZA_digital_10_Störung.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="66.599998" Verschiebung="3;5.3;0" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props Abfahrtszeit="&#39;SE 74&#39;" Gleis="&#39;102&#39;" Gleis_Nr="&#39;4&#39;" Hinweistext_1="&#39;Aufgrund von Bauarbeiten/nkein Zugverkehr der SE 74&#39;" Hinweistext_2="&#39;Ausweichmöglichkeit: WI - /nFrankfurt - Darmstadt&#39;" Zeit_1="&#39;S2&#39;" Zeit_2="&#39;S2&#39;" Ziel_1="&#39;Zell unter Teck&#39;" Ziel_2="&#39;Zell unter Teck&#39;" Zug_Nr._1="&#39;in 12 Min&#39;" Zug_Nr._2="&#39;In 27 Min&#39;" Zuglauf_1="&#39;Biebricher Straße&#39;" Zugziel="&#39;Wiesbaden HBF&#39;" Über_1_1="&#39;Langen Süd - Woldenheim&#39;" Über_2="&#39;Langen Süd - Woldenheim&#39;"/>
+					</Eigenschaften>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="Personen Bahnsteig HBF" Offset="0;0;0" Position="2200" Qualitaet="0" StreckenAbhaengigkeit="0"/>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Menschen\MartinF\Reisende\Reisende1.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="4;1.2;0" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props 1="ZUFALLSGENERATOR" 2="ZUFALLSGENERATOR" RainerZ="&#39;TRUE&#39;" Zufall="ZUFALLSGENERATOR"/>
+					</Eigenschaften>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Menschen\MartinF\Reisende\Reisende2.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="60" Verschiebung="4;1.2;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+					<Eigenschaften>
+						<Props Zufall="ZUFALLSGENERATOR"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Menschen\MartinF\Reisende\Reisende1KleinEng.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="100" Verschiebung="4;1.2;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+					<Eigenschaften>
+						<Props Zufall="ZUFALLSGENERATOR"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Menschen\MartinF\Reisende\Reisende1.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="120" Verschiebung="4;1.2;0" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props 1="ZUFALLSGENERATOR" 2="ZUFALLSGENERATOR" RainerZ="&#39;TRUE&#39;" Zufall="ZUFALLSGENERATOR"/>
+					</Eigenschaften>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+			</Object>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+			<Landschaftsobjekt>
+				<Props Abstand="20" Name="Schotter Haupt" Polygon="TRUE" Position="0" Scale="1" Texture="TRUE" TextureFile="\Texturen\MartinF\Schotter.bmp" Zwischenpunkte="TRUE"/>
+				<Lightning>
+					<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+				</Lightning>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="TRUE" Position="0" Verschiebung="-30"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="TRUE" Position="0" Verschiebung="30"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="TRUE" Position="3000" Verschiebung="30"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="TRUE" Position="3000" Verschiebung="-30"/>
+				</Landschaftsobjekt>
+			</Landschaftsobjekt>
+			<Landschaftsobjekt>
+				<Props Abstand="20" Name="Schotter Bahnhof" Polygon="TRUE" Position="2200" Scale="1" Texture="TRUE" TextureFile="\Texturen\MartinF\Schotter.bmp" Zwischenpunkte="TRUE"/>
+				<Lightning>
+					<Props DayLight="40" LokLight="TRUE" NightLight="40"/>
+				</Lightning>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="TRUE" Position="0" Verschiebung="-30"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="TRUE" Position="0" Verschiebung="30"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="TRUE" Position="200" Verschiebung="30"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="TRUE" Position="200" Verschiebung="-30"/>
+				</Landschaftsobjekt>
+			</Landschaftsobjekt>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+			<VOR>
+				<STRECKENNAMEN>
+					<Value>
+						<Props Pos="2400" Value="Mainz HBF"/>
+					</Value>
+					<Value>
+						<Props Pos="1900" Value="ESig Mainz HBF"/>
+					</Value>
+					<Value>
+						<Props Pos="2420" Value="ASig Mainz HBF"/>
+					</Value>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="160" KMHNEIG="160" KeinHp2="FALSE" NichtImFahrplan="FALSE" Pos="0"/>
+					</Value>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi500Bis="0" KennLimit="150" KennLimitHide="0" Pos="2420" SignalFile="\Signale\KS-Signale2\Block-Hauptsignale\KS-Tunnelsignale\KS-Bk-Tunnel-Hauptsignal.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="0;-1;0" Rotation="0;0;0"/>
+							</Position>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+							<Eigenschaften>
+								<Props Signalnummer="&#39;MHF/nD2&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="30" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="100" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Objekte\Signale\IndusiMagnet.l3dgrp" IndusiPos2000="0" KennLimit="200" KennLimitHide="0" Pos="1900" SignalFile="\Signale\KS-Signale2\Block-Mehrabschnittssignale\KS-Tunnel-Mehrabschnittssignale\KS-Bk-Tunnel-Mehrabschnittssignal+Zs3.l3dgrp" Typ="KombisignalKenn" VSigLimit="0" Zwischensignal="FALSE"/>
+						<IndusiObjExtraData2000>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+						</IndusiObjExtraData2000>
+						<IndusiObjExtraData500>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+						</IndusiObjExtraData500>
+						<IndusiObjExtraData1000>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+						</IndusiObjExtraData1000>
+						<TafelObjExtraData100>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+						</TafelObjExtraData100>
+						<TafelObjExtraData200>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+						</TafelObjExtraData200>
+						<TafelObjExtraData300>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+						</TafelObjExtraData300>
+						<ObjectProps>
+							<Position>
+								<Props Position="0;-1;0" Rotation="0;0;0"/>
+							</Position>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+							<Eigenschaften>
+								<Props Signalnummer="&#39;MHF/nE2&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="FALSE" Indusi1000Bis="70" Indusi500Bis="0" IndusiFile1000="\Objekte\Signale\IndusiMagnet.l3dgrp" IndusiPos1000="0" KennLimit="150" KennLimitHide="0" Pos="900" SignalFile="\Signale\KS-Signale2\Vorsignale\KS-Tunnelvorsignale\KS-Tunnel-Vorsignal+Zs3v.l3dgrp" Tafel100="TRUE" Tafel200="TRUE" Tafel300="TRUE" TafelFile100="\Signale\Vorsignale\Bake 100m.l3dgrp" TafelFile200="\Signale\Vorsignale\Bake 200m.l3dgrp" TafelFile300="\Signale\Vorsignale\Bake 300m.l3dgrp" TafelPos100="100" TafelPos200="175" TafelPos300="250" Typ="VorsignalKenn" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="0;-1;0" Rotation="0;0;0"/>
+							</Position>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+						</ObjectProps>
+						<TafelObjExtraData100>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+						</TafelObjExtraData100>
+						<TafelObjExtraData200>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+						</TafelObjExtraData200>
+						<TafelObjExtraData300>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+						</TafelObjExtraData300>
+						<IndusiObjExtraData1000>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+						</IndusiObjExtraData1000>
+					</Value>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+					<Value>
+						<Props File="\Objekte\Tafeln\Ne5.l3dgrp" Name="Mainz HBF" Pos="2400" ToleranzMinus="50" ToleranzPlus="10" Zuglaenge="200"/>
+						<TafelObjExtraData>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+						</TafelObjExtraData>
+						<ObjectProps>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+						</ObjectProps>
+					</Value>
+				</Haltepunkt>
+				<Bahnuebergang>
+				</Bahnuebergang>
+				<RAIL>
+					<Value>
+						<Props Pos="2200" RAILVALUE="\Rails\RainerH\flimmerfrei\16betonschwellen_schotter_normal.l3drail"/>
+						<Lightning>
+							<Props DayLight="40" LokLight="TRUE" NightLight="40"/>
+						</Lightning>
+					</Value>
+					<Value>
+						<Props Pos="2400" RAILVALUE="\Rails\RainerH\flimmerfrei\16betonschwellen_schotter_normal.l3drail"/>
+						<Lightning>
+							<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+						</Lightning>
+					</Value>
+				</RAIL>
+				<RailQuality>
+				</RailQuality>
+				<LZB>
+					<Value>
+						<Props LZBObject="\Objekte\Standard\LZB.l3dgrp" LZBVALUE="TRUE" Pos="0"/>
+					</Value>
+				</LZB>
+				<Kilometrierung>
+					<Value>
+						<Props Miles="FALSE" Pos="0" PosNew="2300" Reverse="FALSE"/>
+					</Value>
+				</Kilometrierung>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Ueberhoehung>
+				</Ueberhoehung>
+				<RailProps>
+				</RailProps>
+				<Bremswegabstand>
+				</Bremswegabstand>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</VOR>
+			<ZURUECK>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<LZB>
+				</LZB>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</ZURUECK>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="Hauptstrecke links"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="3000" ParallelAbstand="-5" ParallelEnd="3000" ParallelGleis="Hauptstrecke rechts" ParallelStart="0" StartPos="0" StartPunkt="0;0;0" Typ="Parallel" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
+			</Erstellung>
+		</TOPOLOGIE>
+		<Objecte>
+			<Object>
+				<Props Name="Tunnel" Offset="0;0;0" Position="0" Qualitaet="0" RollMaterial="FALSE"/>
+				<Eintrag>
+					<Props Abstand="9.963" Anzahl="198" Datei="\objekte\Tunnel\mbfan\U-Bahntunnel_roehre_10m_halb_links.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="-0.002;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="17" Datei="\objekte\Tunnel\mbfan\U-Bahntunnel_10m_halb.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2030" Verschiebung="-0.002;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="6" Datei="\objekte\Tunnel\mbfan\U-Bahntunnel_Decke.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1970" Verschiebung="-0.45;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="9.963" Anzahl="198" Datei="\objekte\Tunnel\mbfan\U-Bahntunnel_roehre_10m_halb_links.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2400.5" Verschiebung="-0.002;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\objekte\Tunnel\mbfan\U-Bahntunnel_übergang_röhre_kasten.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2400.100098" Verschiebung="0;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="Oberleitung" Offset="0;0;0" Position="0" Qualitaet="0" RollMaterial="FALSE"/>
+				<Eintrag>
+					<Props Abstand="50" Anzahl="60" Datei="\Objekte\Standard\AlbrechtH\TunnelFL 50m neu.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0;5.3;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="50" Anzahl="60" Datei="\Objekte\Standard\AlbrechtH\Tunnelausleger F&#38;F.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0;0.1;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+			</Object>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+			<VOR>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<Bahnuebergang>
+				</Bahnuebergang>
+				<RAIL>
+					<Props Copy="Hauptstrecke rechts" Richtung="VOR"/>
+					<Value>
+						<Props Pos="2200" RAILVALUE="\Rails\RainerH\flimmerfrei\16betonschwellen_schotter_normal.l3drail"/>
+						<Lightning>
+							<Props DayLight="40" LokLight="TRUE" NightLight="40"/>
+						</Lightning>
+					</Value>
+					<Value>
+						<Props Pos="2400" RAILVALUE="\Rails\RainerH\flimmerfrei\16betonschwellen_schotter_normal.l3drail"/>
+						<Lightning>
+							<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+						</Lightning>
+					</Value>
+				</RAIL>
+				<RailQuality>
+				</RailQuality>
+				<LZB>
+				</LZB>
+				<Kilometrierung>
+				</Kilometrierung>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Ueberhoehung>
+				</Ueberhoehung>
+				<RailProps>
+				</RailProps>
+				<Bremswegabstand>
+				</Bremswegabstand>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</VOR>
+			<ZURUECK>
+				<STRECKENNAMEN>
+					<Value>
+						<Props Pos="2200" Value="Mainz HBF"/>
+					</Value>
+					<Value>
+						<Props Pos="2180" Value="ASig Mainz HBF"/>
+					</Value>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="160" KMHNEIG="160" KeinHp2="FALSE" NichtImFahrplan="FALSE" Pos="3000"/>
+					</Value>
+					<Value>
+						<Props File="\Objekte\Tafeln\Lf7.l3dgrp" KMH="160" KMHNEIG="160" KeinHp2="FALSE" NichtImFahrplan="FALSE" Pos="1900"/>
+						<TafelObjExtraData>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+						</TafelObjExtraData>
+						<ObjectProps>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+						</ObjectProps>
+					</Value>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="100" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Objekte\Signale\IndusiMagnet.l3dgrp" IndusiPos2000="0" KennLimit="100" KennLimitHide="0" Pos="2180" SignalFile="\Signale\KS-Signale2\Block-Hauptsignale\KS-Tunnelsignale\KS-Bk-Tunnel-Hauptsignal.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<IndusiObjExtraData2000>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+						</IndusiObjExtraData2000>
+						<IndusiObjExtraData500>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+						</IndusiObjExtraData500>
+						<IndusiObjExtraData1000>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+						</IndusiObjExtraData1000>
+						<TafelObjExtraData100>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+						</TafelObjExtraData100>
+						<TafelObjExtraData200>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+						</TafelObjExtraData200>
+						<TafelObjExtraData300>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+						</TafelObjExtraData300>
+						<ObjectProps>
+							<Position>
+								<Props Position="0;-1;0" Rotation="0;0;0"/>
+							</Position>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+							<Eigenschaften>
+								<Props Signalnummer="&#39;MHF/nW3&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="FALSE" Indusi1000Bis="70" Indusi500Bis="0" IndusiFile1000="\Objekte\Signale\IndusiMagnet.l3dgrp" IndusiPos1000="0" KennLimit="150" KennLimitHide="0" Pos="500" SignalFile="\Signale\KS-Signale2\Vorsignale\KS-Tunnelvorsignale\KS-Tunnel-Vorsignal+Zs3v.l3dgrp" Tafel100="TRUE" Tafel200="TRUE" Tafel300="TRUE" TafelFile100="\Signale\Vorsignale\Bake 100m.l3dgrp" TafelFile200="\Signale\Vorsignale\Bake 200m.l3dgrp" TafelFile300="\Signale\Vorsignale\Bake 300m.l3dgrp" TafelPos100="100" TafelPos200="175" TafelPos300="250" Typ="VorsignalKenn" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="0;-1;0" Rotation="0;0;0"/>
+							</Position>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+						</ObjectProps>
+						<TafelObjExtraData100>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+						</TafelObjExtraData100>
+						<TafelObjExtraData200>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+						</TafelObjExtraData200>
+						<TafelObjExtraData300>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+						</TafelObjExtraData300>
+						<IndusiObjExtraData1000>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+						</IndusiObjExtraData1000>
+					</Value>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+					<Value>
+						<Props File="\Objekte\Tafeln\Ne5.l3dgrp" Name="Mainz HBF" Pos="2200" ToleranzMinus="50" ToleranzPlus="10" Zuglaenge="200"/>
+						<TafelObjExtraData>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+						</TafelObjExtraData>
+						<ObjectProps>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+						</ObjectProps>
+					</Value>
+				</Haltepunkt>
+				<LZB>
+					<Value>
+						<Props LZBObject="\Objekte\Standard\LZB.l3dgrp" LZBVALUE="TRUE" Pos="3000"/>
+					</Value>
+				</LZB>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</ZURUECK>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="W1"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="16" ParallelEnd="2400" ParallelGleis="Hauptstrecke rechts" ParallelStart="2150" StartPos="0" StartPunkt="0;0;0" Typ="Parallel" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
+			</Erstellung>
+			<Weiche>
+				<Props Anfang="Vorne" ErstellungsArt="Annaeherung" Gleis="Hauptstrecke links" Kennung="Hstr li - W1" Kruemung="10" Position="0" WeichenWinkel="6" WeichenWinkelDynamisch="FALSE"/>
+			</Weiche>
+			<Kreuzung>
+				<Props Gleis="Hauptstrecke rechts" Gleisverlauf="0" Kennung="Hstr. re - W1" KreuzungsTyp="0" PositionBis="2000" PositionVon="1800" WeichenWinkel="8" WeichenWinkelDynamisch="TRUE"/>
+			</Kreuzung>
+		</TOPOLOGIE>
+		<Objecte>
+			<Object>
+				<Props Name="Prellbock" Offset="0;0;0" Position="2380" Qualitaet="0"/>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\objekte\STANDARD\MichaelB\Prellbock\Bremsprellbock-Bauart_Rawie.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props Neue_Tafel="&#39;TRUE&#39;" TEXT="&#39;1&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="Tunnel" Offset="0;0;0" Position="1970" Qualitaet="0" RollMaterial="FALSE"/>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="6" Datei="\objekte\Tunnel\mbfan\U-Bahntunnel_roehre_10m_halb_rechts.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\objekte\Tunnel\mbfan\U-Bahntunnel_übergang_röhre_kasten.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="230" Verschiebung="0;0;0" Winkel="180;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\objekte\Tunnel\mbfan\U-Bahntunnel_übergang_röhre_kasten.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="230" Verschiebung="7;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="9.5" Anzahl="18" Datei="\objekte\Tunnel\mbfan\U-Bahntunnel_roehre_10m_1_gl_halb_eckig_rechts.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="59" Verschiebung="0;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="Oberleitung" Offset="0;0;0" Position="1900" Qualitaet="0" RollMaterial="FALSE"/>
+				<Eintrag>
+					<Props Abstand="50" Anzahl="10" Datei="\Objekte\Standard\AlbrechtH\TunnelFL 50m neu.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0;5.3;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="50" Anzahl="10" Datei="\Objekte\Standard\AlbrechtH\Tunnelausleger F&#38;F.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0;0.1;0" WeitSichtbar="TRUE" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="W 1" Offset="0;0;0" Position="2300" Qualitaet="4" RollMaterial="TRUE" StreckenAbhaengigkeit="1"/>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrzeuge\mbfan\ET425\Endwagen 425.5_01.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="10" Verschiebung="0;0;0" WeitSichtbar="FALSE" Winkel="180;0;0"/>
+					<Eigenschaften>
+						<Props ESWE="&#39;TRUE&#39;" Innenbeleuchtung="&#39;TRUE&#39;" Rollo_mittel="&#39;TRUE&#39;" Spitzenlicht-1-an="&#39;TRUE&#39;" Spitzenlicht-2-an="&#39;TRUE&#39;" Spitzenlicht_an="&#39;TRUE&#39;" Stromabnehmer-2_auf="&#39;TRUE&#39;" Stromabnehmer-3_auf="&#39;TRUE&#39;" Türfreigabe="&#39;TRUE&#39;" Zugziel="&#39;W1 Wiesbaden HBF&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrzeuge\mbfan\ET425\Mittelwagen 435.0_01.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="25.700001" Verschiebung="0;0;0" Winkel="180;0;0"/>
+					<Eigenschaften>
+						<Props Innenbeleuchtung="&#39;TRUE&#39;" Stromabnehmer_auf="&#39;TRUE&#39;" Türfreigabe="&#39;TRUE&#39;" Zugziel="&#39;W1 Wiesbaden HBF&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrzeuge\mbfan\ET425\Mittelwagen 435.5_01.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="41.5" Verschiebung="0;0;0" Winkel="180;0;0"/>
+					<Eigenschaften>
+						<Props Innenbeleuchtung="&#39;TRUE&#39;" Türfreigabe="&#39;TRUE&#39;" Zugziel="&#39;W1 Wiesbaden HBF&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrzeuge\mbfan\ET425\Endwagen 425.0_01.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="56.799999" Verschiebung="0;0;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props Innenbeleuchtung="&#39;TRUE&#39;" Rollo_mittel="&#39;TRUE&#39;" Schlusslicht_an="&#39;TRUE&#39;" Spitzenlicht-1-an="&#39;TRUE&#39;" Spitzenlicht-2-an="&#39;TRUE&#39;" Stromabnehmer-2_auf="&#39;TRUE&#39;" Stromabnehmer-3_auf="&#39;TRUE&#39;" Türfreigabe="&#39;TRUE&#39;" Zugziel="&#39;W1 Wiesbaden HBF&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="63" Anzahl="2" Datei="\Objekte\Fahrzeuge\AndreasZ\ET425\Drehgestell_2.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="15.5" Anzahl="3" Datei="\Objekte\Fahrzeuge\AndreasZ\ET425\Drehgestell_1.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="15.5" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+			</Object>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+			<VOR>
+				<STRECKENNAMEN>
+					<Value>
+						<Props Pos="2370" Value="Mainz HBF"/>
+					</Value>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="30" KMHNEIG="30" KeinHp2="FALSE" NichtImFahrplan="FALSE" Pos="1924.114258"/>
+					</Value>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+					<Value>
+						<Props File="\Objekte\Tafeln\Ne5.l3dgrp" Name="Mainz HBF" Pos="2370" ToleranzMinus="50" ToleranzPlus="10" Zuglaenge="200"/>
+						<TafelObjExtraData>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+						</TafelObjExtraData>
+						<ObjectProps>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+						</ObjectProps>
+					</Value>
+				</Haltepunkt>
+				<Bahnuebergang>
+				</Bahnuebergang>
+				<RAIL>
+					<Value>
+						<Props Pos="2380" RAILVALUE="\Rails\MichaelB\Prellbockgrubegleis_rostiges_Ende.l3drail"/>
+					</Value>
+					<Value>
+						<Props Pos="2200" RAILVALUE="\Rails\RainerH\flimmerfrei\16betonschwellen_schotter_normal.l3drail"/>
+						<Lightning>
+							<Props DayLight="40" LokLight="TRUE" NightLight="40"/>
+						</Lightning>
+					</Value>
+				</RAIL>
+				<RailQuality>
+				</RailQuality>
+				<LZB>
+					<Value>
+						<Props LZBObject="\Objekte\Standard\LZB.l3dgrp" LZBVALUE="TRUE" Pos="1924.114258"/>
+					</Value>
+				</LZB>
+				<Kilometrierung>
+					<Value>
+						<Props Miles="FALSE" Pos="1924.114258" PosNew="4224.114258" Reverse="FALSE"/>
+					</Value>
+				</Kilometrierung>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Ueberhoehung>
+				</Ueberhoehung>
+				<RailProps>
+				</RailProps>
+				<Bremswegabstand>
+				</Bremswegabstand>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</VOR>
+			<ZURUECK>
+				<STRECKENNAMEN>
+					<Value>
+						<Props Pos="2190" Value="Mainz HBF"/>
+					</Value>
+					<Value>
+						<Props Pos="2180" Value="ASig Mainz HBF"/>
+					</Value>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="40" KMHNEIG="40" KeinHp2="FALSE" NichtImFahrplan="FALSE" Pos="2400"/>
+					</Value>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="100" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Objekte\Signale\IndusiMagnet.l3dgrp" IndusiPos2000="0" KennLimit="400" KennLimitHide="0" Pos="2180" SignalFile="\Signale\KS-Signale2\Block-Hauptsignale\KS-Tunnelsignale\KS-Bk-Tunnel-Hauptsignal+Zs3.l3dgrp" Typ="HauptsignalKenn" VSigLimit="0" Zwischensignal="FALSE"/>
+						<IndusiObjExtraData2000>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+						</IndusiObjExtraData2000>
+						<IndusiObjExtraData500>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+						</IndusiObjExtraData500>
+						<IndusiObjExtraData1000>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+						</IndusiObjExtraData1000>
+						<TafelObjExtraData100>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+						</TafelObjExtraData100>
+						<TafelObjExtraData200>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+						</TafelObjExtraData200>
+						<TafelObjExtraData300>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+						</TafelObjExtraData300>
+						<ObjectProps>
+							<Position>
+								<Props Position="0;-1;0" Rotation="0;0;0"/>
+							</Position>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+							<Eigenschaften>
+								<Props Signalnummer="&#39;MHF/nW1&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+					<Value>
+						<Props File="\Objekte\Tafeln\Ne5.l3dobj" Name="Mainz HBF" Pos="2190" ToleranzMinus="50" ToleranzPlus="10" Zuglaenge="200"/>
+						<TafelObjExtraData>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+						</TafelObjExtraData>
+						<ObjectProps>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+							<Position>
+								<Props Position="2.8;1.85;10" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+				</Haltepunkt>
+				<LZB>
+					<Value>
+						<Props LZBObject="\Objekte\Standard\LZB.l3dgrp" LZBVALUE="TRUE" Pos="2400"/>
+					</Value>
+				</LZB>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</ZURUECK>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="W2"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="-16" ParallelEnd="2400" ParallelGleis="Hauptstrecke links" ParallelStart="2150" StartPos="0" StartPunkt="0;0;0" Typ="Parallel" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
+			</Erstellung>
+			<Weiche>
+				<Props Anfang="Vorne" ErstellungsArt="Annaeherung" Gleis="Hauptstrecke rechts" Kennung="Hstr re - W2" Kruemung="10" Position="0" WeichenWinkel="6" WeichenWinkelDynamisch="FALSE"/>
+			</Weiche>
+			<Kreuzung>
+				<Props Gleis="Hauptstrecke links" Gleisverlauf="0" Kennung="Hstr. li - W2" KreuzungsTyp="0" PositionBis="2000" PositionVon="1800" WeichenWinkel="8" WeichenWinkelDynamisch="TRUE"/>
+			</Kreuzung>
+			<Kreuzung>
+				<Props Gleis="W1" Gleisverlauf="0" Kennung="W1 - W2" KreuzungsTyp="3" PositionBis="2000" PositionVon="1800" WeichenWinkel="8" WeichenWinkelDynamisch="TRUE"/>
+			</Kreuzung>
+		</TOPOLOGIE>
+		<Objecte>
+			<Object>
+				<Props Name="Mainz Ausstattung" Offset="0;0;0" Position="2200" Qualitaet="0" RollMaterial="FALSE"/>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bruecken\Jernbane\ET\BrueckeBernheim\NBS_Aufzug.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="95" Verschiebung="8;1.2;0" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bruecken\Jernbane\ET\BrueckeBernheim\NBS_Aufzug_Mitte.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="95" Verschiebung="8;4.5;0" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="25" Anzahl="7" Datei="\Objekte\Bahnsteige\RainerZ\Bahnsteigschild-mH.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="25" Verschiebung="8;1.7;0" Winkel="90;0;0"/>
+					<Eigenschaften>
+						<Props TEXT="&#39;Mainz HBF&#39;"/>
+					</Eigenschaften>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="50" Anzahl="4" Datei="\Objekte\Bahnsteige\Markus\NBS_Bank_Fpl.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="9" Verschiebung="4;0.2;0" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="55" Anzahl="3" Datei="\Objekte\Bahnsteige\RainerZ\Werbung\Werbung_var2.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="35" Verschiebung="8;1;0" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props 8="&#39;TRUE&#39;"/>
+					</Eigenschaften>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="66.599998" Anzahl="2" Datei="\objekte\Bahnsteige\JPB\Zugzielanzeiger\ZZA_digital_10.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="66.599998" Verschiebung="3;5.3;0" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props Abfahrtszeit="&#39;W 2&#39;" Gleis="&#39;104&#39;" Gleis_Nr="&#39;4&#39;" Zeit_1="&#39;S2&#39;" Zeit_2="&#39;S2&#39;" Ziel_1="&#39;Zell unter Teck&#39;" Ziel_2="&#39;Zell unter Teck&#39;" Zug_Nr._1="&#39;in 12 Min&#39;" Zug_Nr._2="&#39;In 27 Min&#39;" Zuglauf_1="&#39;A.-B.-Str. - MZ-Kastel - Erbenheim&#39;" Zuglauf_2="&#39;Sonnenberg - Neroberg - WI Mitte&#39;" Zugziel="&#39;Wiesbaden HBF&#39;" Über_1_1="&#39;Langen Süd - Woldenheim&#39;" Über_2="&#39;Langen Süd - Woldenheim&#39;"/>
+					</Eigenschaften>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="66.599998" Anzahl="2" Datei="\Objekte\Bahnsteige\JPB\Zugzielanzeiger\ZZA_digital_10_Störung.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="66.599998" Verschiebung="13;5.3;0" Winkel="180;0;0"/>
+					<Eigenschaften>
+						<Props Abfahrtszeit="&#39;SE 74&#39;" Gleis="&#39;103&#39;" Gleis_Nr="&#39;4&#39;" Hinweistext_1="&#39;Aufgrund von Bauarbeiten/nkein Zugverkehr der SE 74&#39;" Hinweistext_2="&#39;Ausweichmöglichkeit: W 1 +/nW 2 nach Wiesbaden HBF&#39;" Zeit_1="&#39;S2&#39;" Zeit_2="&#39;S2&#39;" Ziel_1="&#39;Zell unter Teck&#39;" Ziel_2="&#39;Zell unter Teck&#39;" Zug_Nr._1="&#39;in 12 Min&#39;" Zug_Nr._2="&#39;In 27 Min&#39;" Zuglauf_1="&#39;Biebricher Straße&#39;" Zugziel="&#39;Wiesbaden HBF&#39;" Über_1_1="&#39;Langen Süd - Woldenheim&#39;" Über_2="&#39;Langen Süd - Woldenheim&#39;"/>
+					</Eigenschaften>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="Personen Bahnsteig HBF" Offset="0;0;0" Position="2200" Qualitaet="0" StreckenAbhaengigkeit="0"/>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Menschen\MartinF\Reisende\Reisende1.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="4;1.2;0" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props 1="ZUFALLSGENERATOR" 2="ZUFALLSGENERATOR" RainerZ="&#39;TRUE&#39;" Zufall="ZUFALLSGENERATOR"/>
+					</Eigenschaften>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Menschen\MartinF\Reisende\Reisende2.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="60" Verschiebung="4;1.2;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+					<Eigenschaften>
+						<Props Zufall="ZUFALLSGENERATOR"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Menschen\MartinF\Reisende\Reisende1KleinEng.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="100" Verschiebung="4;1.2;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+					<Eigenschaften>
+						<Props Zufall="ZUFALLSGENERATOR"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Menschen\MartinF\Reisende\Reisende1.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="120" Verschiebung="4;1.2;0" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props 1="ZUFALLSGENERATOR" 2="ZUFALLSGENERATOR" RainerZ="&#39;TRUE&#39;" Zufall="ZUFALLSGENERATOR"/>
+					</Eigenschaften>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="Prellbock" Offset="0;0;0" Position="2380" Qualitaet="0"/>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\objekte\STANDARD\MichaelB\Prellbock\Bremsprellbock-Bauart_Rawie.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props Neue_Tafel="&#39;TRUE&#39;" TEXT="&#39;4&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="Tunnel" Offset="0;0;0" Position="1970" Qualitaet="0" RollMaterial="FALSE"/>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="6" Datei="\objekte\Tunnel\mbfan\U-Bahntunnel_roehre_10m_halb_links.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\objekte\Tunnel\mbfan\U-Bahntunnel_übergang_röhre_kasten.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="230" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\objekte\Tunnel\mbfan\U-Bahntunnel_übergang_röhre_kasten.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="230" Verschiebung="-7;0;0" Winkel="180;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="9.5" Anzahl="18" Datei="\objekte\Tunnel\mbfan\U-Bahntunnel_roehre_10m_1_gl_halb_eckig_links.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="59" Verschiebung="0;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="Oberleitung" Offset="0;0;0" Position="1900" Qualitaet="0" RollMaterial="FALSE"/>
+				<Eintrag>
+					<Props Abstand="50" Anzahl="10" Datei="\Objekte\Standard\AlbrechtH\TunnelFL 50m neu.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0;5.3;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="50" Anzahl="10" Datei="\Objekte\Standard\AlbrechtH\Tunnelausleger F&#38;F.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0;0.1;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="abgestellter Zug" Offset="0;0;0" Position="2350" Qualitaet="0"/>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\objekte\Fahrzeuge\mbfan\Gelenktriebwagen\Endwagen Standard.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" Winkel="180;0;0"/>
+					<Eigenschaften>
+						<Props Frontlogo-HLB="&#39;TRUE&#39;" Innenbeleuchtung="&#39;TRUE&#39;" Liniennummer="&#39;W 2&#39;" Spitzenlicht_an="&#39;TRUE&#39;" Türfreigabe="&#39;TRUE&#39;" Zugziel="&#39;Wiesbaden HBF&#39;" hlb_logo_seitl="&#39;TRUE&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\objekte\Fahrzeuge\mbfan\Gelenktriebwagen\Antriebsblock.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="15.55" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\objekte\Fahrzeuge\mbfan\Gelenktriebwagen\Endwagen Standard.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="21.1" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props 1_Klasse="&#39;TRUE&#39;" Frontlogo-HLB="&#39;TRUE&#39;" Innenbeleuchtung="&#39;TRUE&#39;" Liniennummer="&#39;W 2&#39;" Schlusslicht_an="&#39;TRUE&#39;" Zugziel="&#39;Wiesbaden HBF&#39;" hlb_logo_seitl="&#39;TRUE&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="36" Anzahl="2" Datei="\objekte\Fahrzeuge\PatrickR\Gelenktriebwagen\Drehgestell.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="-9.7" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\objekte\Fahrzeuge\PatrickR\Gelenktriebwagen\Drehgestell.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0.2" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="W 2" Offset="0;0;0" Position="2271.800049" Qualitaet="4" RollMaterial="TRUE" StreckenAbhaengigkeit="1"/>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrzeuge\mbfan\ET425\Endwagen 425.5_01.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="10" Verschiebung="0;0;0" WeitSichtbar="FALSE" Winkel="180;0;0"/>
+					<Eigenschaften>
+						<Props ESWE="&#39;TRUE&#39;" Innenbeleuchtung="&#39;TRUE&#39;" Rollo_mittel="&#39;TRUE&#39;" Spitzenlicht-1-an="&#39;TRUE&#39;" Spitzenlicht-2-an="&#39;TRUE&#39;" Spitzenlicht_an="&#39;TRUE&#39;" Stromabnehmer-2_auf="&#39;TRUE&#39;" Stromabnehmer-3_auf="&#39;TRUE&#39;" Türfreigabe="&#39;TRUE&#39;" Zugziel="&#39;W2 Wiesbaden HBF&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrzeuge\mbfan\ET425\Mittelwagen 435.0_01.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="25.700001" Verschiebung="0;0;0" Winkel="180;0;0"/>
+					<Eigenschaften>
+						<Props Innenbeleuchtung="&#39;TRUE&#39;" Stromabnehmer_auf="&#39;TRUE&#39;" Türfreigabe="&#39;TRUE&#39;" Zugziel="&#39;W2 Wiesbaden HBF&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrzeuge\mbfan\ET425\Mittelwagen 435.5_01.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="41.5" Verschiebung="0;0;0" Winkel="180;0;0"/>
+					<Eigenschaften>
+						<Props Innenbeleuchtung="&#39;TRUE&#39;" Türfreigabe="&#39;TRUE&#39;" Zugziel="&#39;W2 Wiesbaden HBF&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrzeuge\mbfan\ET425\Endwagen 425.0_01.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="56.799999" Verschiebung="0;0;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props ESWE="&#39;TRUE&#39;" Innenbeleuchtung="&#39;TRUE&#39;" Rollo_mittel="&#39;TRUE&#39;" Schlusslicht_an="&#39;TRUE&#39;" Spitzenlicht-1-an="&#39;TRUE&#39;" Spitzenlicht-2-an="&#39;TRUE&#39;" Stromabnehmer-2_auf="&#39;TRUE&#39;" Stromabnehmer-3_auf="&#39;TRUE&#39;" Türfreigabe="&#39;TRUE&#39;" Zugziel="&#39;W2 Wiesbaden HBF&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="63" Anzahl="2" Datei="\Objekte\Fahrzeuge\AndreasZ\ET425\Drehgestell_2.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="15.5" Anzahl="3" Datei="\Objekte\Fahrzeuge\AndreasZ\ET425\Drehgestell_1.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="15.5" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="Mainz" Offset="0;0;0" Position="2200" Qualitaet="0" RollMaterial="FALSE"/>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="20" Datei="\objekte\Bahnsteige\mbfan\Tunnel\Wand mit Text.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="10" Verschiebung="0;-1.5;0" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+					<Eigenschaften>
+						<Props TEXT="&#39;Mainz Hauptbahnhof&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="20" Datei="\Objekte\Bahnsteige\AndreasZ\U-Bahn-2_seite_10m.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="9.8;0;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="20" Datei="\Objekte\Bahnsteige\AndreasZ\U-Bahn-2_seite_10m.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="10" Verschiebung="1.8;-0.01;0" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Wand-Stadtmitte2.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="3" Verschiebung="9.7;6;0" Winkel="90;0;90"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Wand-Stadtmitte2.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="3" Verschiebung="10.7;5.98;0" Winkel="90;0;90"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Wand-Stadtmitte2.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="3" Verschiebung="11;5.98;0" Winkel="90;0;90"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="20" Datei="\Objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Decke-Bismarckring.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="16;-0.4;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\Jernbane\Ausgang-breit_Rolltreppe1_Hbf.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="200" Verschiebung="7.8;1.2;0" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props hoch="&#39;TRUE&#39;" runter-links="&#39;TRUE&#39;"/>
+					</Eigenschaften>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\objekte\Bahnsteige\mbfan\Tunnel\Wand mit Text.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="197" Verschiebung="5.4;-1.5;0" Winkel="-90;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+					<Eigenschaften>
+						<Props TEXT="&#39;Mainz Hauptbahnhof&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\Jernbane\Ausgang-breit_Rolltreppe1_Hbf.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0.19" Verschiebung="8.23;1.2;0" Winkel="180;0;0"/>
+					<Eigenschaften>
+						<Props hoch="&#39;TRUE&#39;" runter-links="&#39;TRUE&#39;"/>
+					</Eigenschaften>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="20" Datei="\Objekte\Bahnsteige\AndreasZ\U-Bahn-2_seite_10m.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="10" Verschiebung="4.8;0;0" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="20" Datei="\Objekte\Bahnsteige\AndreasZ\U-Bahn-2_seite_10m.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="10" Verschiebung="5.8;0.01;0" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\objekte\Bahnsteige\Jernbane\Ausgang-breit_Rolltreppe1 Verlaengerung Hbf.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="205.610001" Verschiebung="7.8;5;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\objekte\Bahnsteige\Jernbane\Ausgang-breit_Rolltreppe1 Verlaengerung Hbf.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="-5.49" Verschiebung="8.23;5;0" Winkel="180;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Wand-Stadtmitte2.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="3" Verschiebung="2;6;0" Winkel="90;0;90"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Wand-Stadtmitte2.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="3" Verschiebung="3;5.98;0" Winkel="90;0;90"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Wand-Stadtmitte2.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="3" Verschiebung="3.3;5.98;0" Winkel="90;0;90"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Wand-Stadtmitte2.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="203" Verschiebung="9.7;6;0" Winkel="90;0;90"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Wand-Stadtmitte2.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="203" Verschiebung="10.5;5.98;0" Winkel="90;0;90"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="20" Datei="\Objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Decke-Bismarckring.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="20;-0.4;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="20" Datei="\Objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Decke-Bismarckring.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="4;-0.4;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+			</Object>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+			<VOR>
+				<STRECKENNAMEN>
+					<Value>
+						<Props Pos="2370" Value="Mainz HBF"/>
+					</Value>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="40" KMHNEIG="40" KeinHp2="FALSE" NichtImFahrplan="FALSE" Pos="1924.132324"/>
+					</Value>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+					<Value>
+						<Props File="\Objekte\Tafeln\Ne5.l3dgrp" Name="Mainz HBF" Pos="2370" ToleranzMinus="50" ToleranzPlus="10" Zuglaenge="200"/>
+						<TafelObjExtraData>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+						</TafelObjExtraData>
+						<ObjectProps>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+						</ObjectProps>
+					</Value>
+				</Haltepunkt>
+				<Bahnuebergang>
+				</Bahnuebergang>
+				<RAIL>
+					<Value>
+						<Props Pos="2380" RAILVALUE="\Rails\MichaelB\Prellbockgrubegleis_rostiges_Ende.l3drail"/>
+					</Value>
+					<Value>
+						<Props Pos="2200" RAILVALUE="\Rails\RainerH\flimmerfrei\16betonschwellen_schotter_normal.l3drail"/>
+						<Lightning>
+							<Props DayLight="40" LokLight="TRUE" NightLight="40"/>
+						</Lightning>
+					</Value>
+				</RAIL>
+				<RailQuality>
+				</RailQuality>
+				<LZB>
+					<Value>
+						<Props LZBObject="\Objekte\Standard\LZB.l3dgrp" LZBVALUE="TRUE" Pos="1883.971802"/>
+					</Value>
+				</LZB>
+				<Kilometrierung>
+					<Value>
+						<Props Miles="FALSE" Pos="1883.971802" PosNew="4183.97168" Reverse="FALSE"/>
+					</Value>
+				</Kilometrierung>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Ueberhoehung>
+				</Ueberhoehung>
+				<RailProps>
+				</RailProps>
+				<Bremswegabstand>
+				</Bremswegabstand>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</VOR>
+			<ZURUECK>
+				<STRECKENNAMEN>
+					<Value>
+						<Props Pos="2215" Value="Mainz HBF"/>
+					</Value>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="40" KMHNEIG="40" KeinHp2="FALSE" NichtImFahrplan="FALSE" Pos="2400"/>
+					</Value>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="20" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="100" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Objekte\Signale\IndusiMagnet.l3dgrp" IndusiPos2000="0" KennLimit="400" KennLimitHide="20" Pos="2180" SignalFile="\Signale\KS-Signale2\Block-Mehrabschnittssignale\KS-Tunnel-Mehrabschnittssignale\KS-Bk-Tunnel-Mehrabschnittssignal+Zs3+Zs3v.l3dgrp" Typ="KombisignalKenn" VSigLimit="0" Zwischensignal="FALSE"/>
+						<IndusiObjExtraData2000>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+						</IndusiObjExtraData2000>
+						<IndusiObjExtraData500>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+						</IndusiObjExtraData500>
+						<IndusiObjExtraData1000>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+						</IndusiObjExtraData1000>
+						<TafelObjExtraData100>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+						</TafelObjExtraData100>
+						<TafelObjExtraData200>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+						</TafelObjExtraData200>
+						<TafelObjExtraData300>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+						</TafelObjExtraData300>
+						<ObjectProps>
+							<Position>
+								<Props Position="0;-1;0" Rotation="0;0;0"/>
+							</Position>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+							<Eigenschaften>
+								<Props Signalnummer="&#39;MHF/nW4&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+					<Value>
+						<Props File="\Objekte\Tafeln\Ne5.l3dgrp" Name="Mainz HBF" Pos="2215" ToleranzMinus="50" ToleranzPlus="10" Zuglaenge="200"/>
+						<TafelObjExtraData>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+						</TafelObjExtraData>
+						<ObjectProps>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+						</ObjectProps>
+					</Value>
+				</Haltepunkt>
+				<LZB>
+					<Value>
+						<Props LZBObject="\Objekte\Standard\LZB.l3dgrp" LZBVALUE="TRUE" Pos="2400"/>
+					</Value>
+				</LZB>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</ZURUECK>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+</STRECKE>

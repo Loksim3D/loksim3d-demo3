@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<OBJECT>
+	<Props Beleuchtet="FALSE" Transparent="TRUE" FilePicture="NBS_Fahrplan.l3dobj.jpg" FileAuthor="Markus Niessen" FileInfo="Fahrplan der S-Stationen auf der Ausbaustrecke Köln Düren " Drawrueckseiten="TRUE" Texture="NBS_Zusatz.bmp"/>
+	<Point>
+		<Props Normal="0;-1;-1" Vekt="0;0;-0.7"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;-1" Vekt="0;2;-0.7"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;1" Vekt="0;2;0.7"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;1" Vekt="0;0;0.7"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;0" Vekt="-0.05;2;-0.65"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;0" Vekt="0.05;2;-0.65"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;0" Vekt="0.05;0;-0.65"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;0" Vekt="-0.05;0;-0.65"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;0" Vekt="-0.05;0;0.65"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;0" Vekt="0.05;0;0.65"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;0" Vekt="0.05;2;0.65"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;0" Vekt="-0.05;2;0.65"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="2,236;2,69;108,69;108,236"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;6;7" Texture="2,69;10,69;10,236;2,236"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="8;9;10;11" Texture="2,236;10,236;10,69;2,69"/>
+	</Flaeche>
+</OBJECT>

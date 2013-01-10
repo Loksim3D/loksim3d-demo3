@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="" FileInfo="" FilePicture="" Texture="KS-Tunnelmast.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0;0.175;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.1;0.175;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.1;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="0;0.125;0.8"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="0;0.175;0.8"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.1;0.175;0.8"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="0.1;0.125;0.8"/>
+	</Point>
+	<Flaeche>
+		<Props Points="7;6;5;4" Texture="0,84;0,0;52,0;52,84"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;2;6;7" Texture="0,84;0,0;52,0;52,84"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;1;0" Texture="0,84;0,0;52,0;52,84"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="1;5;6;2" Texture="0,83;0,0;52,0;52,83"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;3;0;4" Texture="0,84;0,0;52,0;52,84"/>
+	</Flaeche>
+</OBJECT>

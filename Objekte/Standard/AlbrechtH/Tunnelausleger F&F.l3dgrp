@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="Albrecht Hönisch" FileInfo="Einzelausleger für Tunnelstrecken System Furrer &#38; Frey/nMontage an der Tunneldecke/n(c) Albrecht Hönisch/n25. April 2006" FilePicture="Tunnelausleger F&#38;F.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Ausleger Tunnel F&#38;F.l3dobj" Position="1.8;5.03;0.07" Rotation="180;0;0" ZoomFaktor="1"/>
+	</Object>
+</GRUPPENOBJECT>
