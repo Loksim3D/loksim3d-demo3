@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="© JPB 2010" FileInfo="Digitaler Zugzielanzeiger/nmit 8 Displays pro Seite/n++++  Hinweistext  ++++/n/nEine Bedienungsanleitung zu diesen Anzeigern/nbefindet sich im Verzeichnis dieses Objektes./n/n© JPB 2010" FilePicture="ZZA_digital_8_Hinweis.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Gehäuse_8.l3dobj" Position="0;-0.8;-0.2" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Hintergrund_8.l3dobj" Position="0;-0.8;-0.2" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Halterung.l3dobj" Position="0.3;0;-0.05" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Halterung.l3dobj" Position="1.25;0;-0.05" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Display.l3dobj" Position="0.125;-0.675;-0.19" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Display.l3dobj" Position="0.475;-0.675;-0.19" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Display.l3dobj" Position="0.825;-0.675;-0.19" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Display.l3dobj" Position="1.175;-0.675;-0.19" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Display.l3dobj" Position="0.125;-0.375;-0.19" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Display.l3dobj" Position="0.475;-0.375;-0.19" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Display.l3dobj" Position="0.825;-0.375;-0.19" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Display.l3dobj" Position="1.175;-0.375;-0.19" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Display.l3dobj" Position="0.125;-0.675;0.19" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Display.l3dobj" Position="0.475;-0.675;0.19" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Display.l3dobj" Position="0.825;-0.675;0.19" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Display.l3dobj" Position="1.175;-0.675;0.19" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Display.l3dobj" Position="0.125;-0.375;0.19" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Display.l3dobj" Position="0.475;-0.375;0.19" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Display.l3dobj" Position="0.825;-0.375;0.19" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Display.l3dobj" Position="1.175;-0.375;0.19" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Stacheln_8.l3dobj" Position="0;0;-0.1" Rotation="0;0;0" ShowOn="Stacheln" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Stacheln_8.l3dobj" Position="0;0;0.1" Rotation="0;0;0" ShowOn="Stacheln" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="" Fonthoehe="0.25" GroupProperty="Gleis" Leuchtend="TRUE" Name="Einzelteile\ZZA_1.l3dfont" Position="0.13;-0.1;-0.2" Rotation="0;0;0"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="2" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="" Fonthoehe="0.25" GroupProperty="Gleis" Leuchtend="TRUE" Name="Einzelteile\ZZA_1.l3dfont" Position="0.13;-0.1;0.2" Rotation="180;0;0"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="" Fonthoehe="0.06" GroupProperty="Bstg-Abschnitt" Leuchtend="TRUE" Name="Einzelteile\ZZA_2.l3dfont" Position="0.135;-0.31;-0.2" Rotation="0;0;0"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="2" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="" Fonthoehe="0.06" GroupProperty="Bstg-Abschnitt" Leuchtend="TRUE" Name="Einzelteile\ZZA_2.l3dfont" Position="0.135;-0.31;0.2" Rotation="180;0;0"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="16777215" DefaultText="" Fonthoehe="0.125" GroupProperty="Hinweistext_1" Leuchtend="TRUE" Name="Einzelteile\ZZA_2.l3dfont" Position="1;-0.25;-0.2" Rotation="0;0;0"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="16777215" DefaultText="" Fonthoehe="0.125" GroupProperty="Hinweistext_1" Leuchtend="TRUE" Name="Einzelteile\ZZA_2.l3dfont" Position="1;-0.25;0.2" Rotation="180;0;0"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="16777215" DefaultText="" Fonthoehe="0.125" GroupProperty="Hinweistext_2" Leuchtend="TRUE" Name="Einzelteile\ZZA_2.l3dfont" Position="1;-0.55;-0.2" Rotation="0;0;0"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="16777215" DefaultText="" Fonthoehe="0.125" GroupProperty="Hinweistext_2" Leuchtend="TRUE" Name="Einzelteile\ZZA_2.l3dfont" Position="1;-0.55;0.2" Rotation="180;0;0"/>
+	</Font>
+</GRUPPENOBJECT>

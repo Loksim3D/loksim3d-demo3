@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="TRUE" Drawrueckseiten="TRUE" FileAuthor="" FileInfo="Erstellt mit L3D ObjectCreator, Version 2.0" FilePicture="" Texture="Uhr.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="1;0;0" Vekt="0.325;0.03;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0.984808;0;-0.173648" Vekt="0.320062;0.03;-0.056436"/>
+	</Point>
+	<Point>
+		<Props Normal="0.939693;0;-0.34202" Vekt="0.3054;0.03;-0.111157"/>
+	</Point>
+	<Point>
+		<Props Normal="0.866025;0;-0.5" Vekt="0.281459;0.03;-0.1625"/>
+	</Point>
+	<Point>
+		<Props Normal="0.766044;0;-0.642788" Vekt="0.248964;0.03;-0.208906"/>
+	</Point>
+	<Point>
+		<Props Normal="0.642788;0;-0.766044" Vekt="0.208906;0.03;-0.248964"/>
+	</Point>
+	<Point>
+		<Props Normal="0.5;0;-0.866025" Vekt="0.1625;0.03;-0.281459"/>
+	</Point>
+	<Point>
+		<Props Normal="0.34202;0;-0.939693" Vekt="0.111157;0.03;-0.3054"/>
+	</Point>
+	<Point>
+		<Props Normal="0.173648;0;-0.984808" Vekt="0.056436;0.03;-0.320062"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;-1" Vekt="0;0.03;-0.325"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.173648;0;-0.984808" Vekt="-0.056436;0.03;-0.320062"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.34202;0;-0.939693" Vekt="-0.111157;0.03;-0.3054"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.5;0;-0.866025" Vekt="-0.1625;0.03;-0.281459"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.642788;0;-0.766044" Vekt="-0.208906;0.03;-0.248964"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.766044;0;-0.642788" Vekt="-0.248964;0.03;-0.208906"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.866025;0;-0.5" Vekt="-0.281459;0.03;-0.1625"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.939693;0;-0.34202" Vekt="-0.3054;0.03;-0.111157"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.984808;0;-0.173648" Vekt="-0.320062;0.03;-0.056436"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;0;0" Vekt="-0.325;0.03;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.984808;0;0.173648" Vekt="-0.320062;0.03;0.056436"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.939692;0;0.34202" Vekt="-0.3054;0.03;0.111157"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.866025;0;0.5" Vekt="-0.281459;0.03;0.1625"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.766044;0;0.642788" Vekt="-0.248964;0.03;0.208906"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.642788;0;0.766044" Vekt="-0.208906;0.03;0.248964"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.5;0;0.866025" Vekt="-0.1625;0.03;0.281459"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.342021;0;0.939692" Vekt="-0.111157;0.03;0.3054"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.173648;0;0.984808" Vekt="-0.056435;0.03;0.320062"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;1" Vekt="0;0.03;0.325"/>
+	</Point>
+	<Point>
+		<Props Normal="0.173648;0;0.984808" Vekt="0.056435;0.03;0.320062"/>
+	</Point>
+	<Point>
+		<Props Normal="0.34202;0;0.939693" Vekt="0.111157;0.03;0.3054"/>
+	</Point>
+	<Point>
+		<Props Normal="0.5;0;0.866025" Vekt="0.1625;0.03;0.281459"/>
+	</Point>
+	<Point>
+		<Props Normal="0.642788;0;0.766044" Vekt="0.208906;0.03;0.248964"/>
+	</Point>
+	<Point>
+		<Props Normal="0.766044;0;0.642788" Vekt="0.248964;0.03;0.208906"/>
+	</Point>
+	<Point>
+		<Props Normal="0.866026;0;0.5" Vekt="0.281459;0.03;0.1625"/>
+	</Point>
+	<Point>
+		<Props Normal="0.939692;0;0.34202" Vekt="0.3054;0.03;0.111157"/>
+	</Point>
+	<Point>
+		<Props Normal="0.984808;0;0.173648" Vekt="0.320062;0.03;0.056436"/>
+	</Point>
+	<Point>
+		<Props Normal="1;0;0" Vekt="0.325;0.17;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0.984808;0;-0.173648" Vekt="0.320062;0.17;-0.056436"/>
+	</Point>
+	<Point>
+		<Props Normal="0.939693;0;-0.34202" Vekt="0.3054;0.17;-0.111157"/>
+	</Point>
+	<Point>
+		<Props Normal="0.866025;0;-0.5" Vekt="0.281459;0.17;-0.1625"/>
+	</Point>
+	<Point>
+		<Props Normal="0.766044;0;-0.642788" Vekt="0.248964;0.17;-0.208906"/>
+	</Point>
+	<Point>
+		<Props Normal="0.642788;0;-0.766044" Vekt="0.208906;0.17;-0.248964"/>
+	</Point>
+	<Point>
+		<Props Normal="0.5;0;-0.866025" Vekt="0.1625;0.17;-0.281459"/>
+	</Point>
+	<Point>
+		<Props Normal="0.34202;0;-0.939693" Vekt="0.111157;0.17;-0.3054"/>
+	</Point>
+	<Point>
+		<Props Normal="0.173648;0;-0.984808" Vekt="0.056436;0.17;-0.320062"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;-1" Vekt="0;0.17;-0.325"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.173648;0;-0.984808" Vekt="-0.056436;0.17;-0.320062"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.34202;0;-0.939693" Vekt="-0.111157;0.17;-0.3054"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.5;0;-0.866025" Vekt="-0.1625;0.17;-0.281459"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.642788;0;-0.766044" Vekt="-0.208906;0.17;-0.248964"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.766044;0;-0.642788" Vekt="-0.248964;0.17;-0.208906"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.866025;0;-0.5" Vekt="-0.281459;0.17;-0.1625"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.939693;0;-0.34202" Vekt="-0.3054;0.17;-0.111157"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.984808;0;-0.173648" Vekt="-0.320062;0.17;-0.056436"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;0;0" Vekt="-0.325;0.17;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.984808;0;0.173648" Vekt="-0.320062;0.17;0.056436"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.939692;0;0.34202" Vekt="-0.3054;0.17;0.111157"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.866025;0;0.5" Vekt="-0.281459;0.17;0.1625"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.766044;0;0.642788" Vekt="-0.248964;0.17;0.208906"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.642788;0;0.766044" Vekt="-0.208906;0.17;0.248964"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.5;0;0.866025" Vekt="-0.1625;0.17;0.281459"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.342021;0;0.939692" Vekt="-0.111157;0.17;0.3054"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.173648;0;0.984808" Vekt="-0.056435;0.17;0.320062"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;1" Vekt="0;0.17;0.325"/>
+	</Point>
+	<Point>
+		<Props Normal="0.173648;0;0.984808" Vekt="0.056435;0.17;0.320062"/>
+	</Point>
+	<Point>
+		<Props Normal="0.34202;0;0.939693" Vekt="0.111157;0.17;0.3054"/>
+	</Point>
+	<Point>
+		<Props Normal="0.5;0;0.866025" Vekt="0.1625;0.17;0.281459"/>
+	</Point>
+	<Point>
+		<Props Normal="0.642788;0;0.766044" Vekt="0.208906;0.17;0.248964"/>
+	</Point>
+	<Point>
+		<Props Normal="0.766044;0;0.642788" Vekt="0.248964;0.17;0.208906"/>
+	</Point>
+	<Point>
+		<Props Normal="0.866026;0;0.5" Vekt="0.281459;0.17;0.1625"/>
+	</Point>
+	<Point>
+		<Props Normal="0.939692;0;0.34202" Vekt="0.3054;0.17;0.111157"/>
+	</Point>
+	<Point>
+		<Props Normal="0.984808;0;0.173648" Vekt="0.320062;0.17;0.056436"/>
+	</Point>
+	<Flaeche>
+		<Props Points="35;34;33;32;31;30;29;28;27;26;25;24;23;22;21;20;19;18;17;16;15;14;13;12;11;10;9;8;7;6;5;4;3;2;1;0" Texture="50,150;50,150;50,150;50,150;50,150;50,150;50,150;50,150;50,150;50,150;50,150;50,150;50,150;50,150;50,150;50,150;50,150;50,150;50,150;50,150;50,150;50,150;50,150;50,150;50,150;50,150;50,150;50,150;50,150;50,150;50,150;50,150;50,150;50,150;50,150;50,150"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="36;37;38;39;40;41;42;43;44;45;46;47;48;49;50;51;52;53;54;55;56;57;58;59;60;61;62;63;64;65;66;67;68;69;70;71" Texture="50,150;50,150;50,150;50,150;50,150;50,150;50,150;50,150;50,150;50,150;50,150;50,150;50,150;50,150;50,150;50,150;50,150;50,150;50,150;50,150;50,150;50,150;50,150;50,150;50,150;50,150;50,150;50,150;50,150;50,150;50,150;50,150;50,150;50,150;50,150;50,150"/>
+	</Flaeche>
+</OBJECT>

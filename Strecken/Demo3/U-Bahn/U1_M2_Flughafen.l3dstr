@@ -63,13 +63,43 @@
 					</Lightning>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="10" Anzahl="30" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_roehre_10m_halb_links.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="270" Verschiebung="0;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Props Abstand="10" Anzahl="25" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_roehre_10m_halb_links.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="270" Verschiebung="0;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
 					<Lightning>
 						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
 					</Lightning>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="10" Anzahl="6" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_roehre_10m_1gl.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1940" Verschiebung="0;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="5" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_10m_halb.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="520" Verschiebung="0;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_abdeckung_tunneleinfahrt_röhre.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="520" Verschiebung="-9;0;0" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_abdeckung_tunneleinfahrt_röhre.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="520" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="51" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_10m_halb.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="730" Verschiebung="1;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="16" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnelwand_10m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1090" Verschiebung="0;0;0" WeitSichtbar="TRUE" Winkel="180;0;0"/>
 					<Lightning>
 						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
 					</Lightning>
@@ -81,6 +111,30 @@
 					<Props Abstand="9.411765" Anzahl="17" Datei="\Objekte\Bahnsteige\AndreasZ\U-Bahn-2_seite_10m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="10" Verschiebung="-9.8;0.01;0" Winkel="180;0;0"/>
 					<Lightning>
 						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props DynamicVisibility="FahrplanVars::Ziel == &#39;WS&#39;" FixedDynamicVisibility="TRUE" Name="Flughafen ZZA Waldstadt" Offset="0;0;0" Position="2570" Qualitaet="3"/>
+				<Eintrag>
+					<Props Abstand="32" Anzahl="4" Datei="\Objekte\Bahnsteige\JPB\Zugzielanzeiger\ZZA_digital_S5_mitGleis.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="32" Verschiebung="-2.5;5.2;0" WeitSichtbar="FALSE" Winkel="180;0;0"/>
+					<Eigenschaften>
+						<Props Ab_in_1="&#39;in 0 Min&#39;" Abfahrtszeit="&#39;SE 32&#39;" Abfahrtszeit_1="&#39;W 3&#39;" Abfahrtszeit_2="&#39;W 3&#39;" Ankunftszeit="&#39;in 10 min.&#39;" Bahnsteig-Nr.="&#39;4&#39;" Gleis="&#39;3&#39;" Gleis_Nr="&#39;1&#39;" Linie="&#39;U 1&#39;" TEXT="&#39;Hauptbahnhof&#39;" Zeit_1="&#39;W 1&#39;" Zeit_2="&#39;W 1&#39;" Ziel="&#39;Hauptbahnhof&#39;" Ziel_1="&#39;WI Frauenstein&#39;" Ziel_2="&#39;WI Frauenstein&#39;" Zug_Nr._1="&#39;in 0 Min&#39;" Zug_Nr._2="&#39;in 30 Min.&#39;" Zuggattung+Nr="&#39;in 0 Min.&#39;" Zuggattung+Nr_1="&#39;in 0 min.&#39;" Zuggattung+Nr_2="&#39;in 30 min.&#39;" Zuglauf="&#39;Terminal 3 - Alfred-Werner-Straße&#39;" Zuglauf_1="&#39;Erbenheim - HBF - FHS - Sonnenberg&#39;" Zuglauf_2="&#39;Erbenheim - HBF - FHS - Sonnenberg&#39;" Zugziel="&#39;Waldstraße&#39;" Zugziel_1="&#39;Wiesbaden Ost&#39;" Zugziel_2="&#39;Wiesbaden Ost&#39;" wagenstand="&#39;1111&#39;" Über="&#39;Goethealle - Stadtmitte&#39;" Über_1_1="&#39;West&#39;" Über_2="&#39;West&#39;"/>
+					</Eigenschaften>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="67"/>
+					</Lightning>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props DynamicVisibility="FahrplanVars::Ziel == &#39;FH&#39;" FixedDynamicVisibility="TRUE" Name="Flughafen ZZA Flughafen" Offset="0;0;0" Position="2570" Qualitaet="3"/>
+				<Eintrag>
+					<Props Abstand="32" Anzahl="4" Datei="\Objekte\Bahnsteige\JPB\Zugzielanzeiger\ZZA_digital_S5_mitGleis_3Ziele.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="32" Verschiebung="-2.5;5.2;0" WeitSichtbar="FALSE" Winkel="180;0;0"/>
+					<Eigenschaften>
+						<Props Ab_in_1="&#39;in 0 Min&#39;" Abfahrtszeit="&#39;SE 32&#39;" Abfahrtszeit_1="&#39;W 3&#39;" Abfahrtszeit_2="&#39;W 3&#39;" Ankunftszeit="&#39;in 10 min.&#39;" Ankunftszeit_1="&#39;in 0 min.&#39;" Ankunftszeit_2="&#39;in 15 min.&#39;" Ankunftszeit_3="&#39;in 20 min.&#39;" Bahnsteig-Nr.="&#39;4&#39;" Gleis="&#39;3&#39;" Gleis_Nr="&#39;1&#39;" Linie="&#39;U 1&#39;" Linie_1="&#39;U 1&#39;" Linie_2="&#39;U 1&#39;" Linie_3="&#39;U 1&#39;" TEXT="&#39;Hauptbahnhof&#39;" Zeit_1="&#39;W 1&#39;" Zeit_2="&#39;W 1&#39;" Ziel="&#39;Hauptbahnhof&#39;" Ziel_1="&#39;WI Frauenstein&#39;" Ziel_2="&#39;WI Frauenstein&#39;" Zug_Nr._1="&#39;in 0 Min&#39;" Zug_Nr._2="&#39;in 30 Min.&#39;" Zuggattung+Nr="&#39;in 0 Min.&#39;" Zuggattung+Nr_1="&#39;in 0 min.&#39;" Zuggattung+Nr_2="&#39;in 30 min.&#39;" Zuglauf="&#39;Terminal 3 - Alfred-Werner-Straße&#39;" Zuglauf_1="&#39;Erbenheim - HBF - FHS - Sonnenberg&#39;" Zuglauf_2="&#39;Erbenheim - HBF - FHS - Sonnenberg&#39;" Zugziel="&#39;Waldstraße&#39;" Zugziel_1="&#39;Zug endet hier. Nicht einsteigen.&#39;" Zugziel_2="&#39;Terminal 3 - Waldstadt&#39;" Zugziel_3="&#39;Zug endet hier. Nicht einsteigen.&#39;" wagenstand="&#39;1111&#39;" Über="&#39;Goethealle - Stadtmitte&#39;" Über_1_1="&#39;West&#39;" Über_2="&#39;West&#39;"/>
+					</Eigenschaften>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="67"/>
 					</Lightning>
 				</Eintrag>
 			</Object>
@@ -104,6 +158,60 @@
 				</Landschaftsobjekt>
 				<Landschaftsobjekt>
 					<Props Hoehe="0" Hoehefrei="FALSE" Position="570" Verschiebung="-5"/>
+				</Landschaftsobjekt>
+			</Landschaftsobjekt>
+			<Landschaftsobjekt>
+				<Props Abstand="20" Name="Schotter Flughafen" Polygon="TRUE" Position="2570" Scale="1" Texture="TRUE" TextureFile="\Texturen\MartinF\Schotter.bmp" Zwischenpunkte="TRUE"/>
+				<Lightning>
+					<Props DayLight="40" LokLight="TRUE" NightLight="40"/>
+				</Lightning>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="TRUE" Position="0" Verschiebung="-25"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="TRUE" Position="0" Verschiebung="25"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="TRUE" Position="160" Verschiebung="25"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="TRUE" Position="160" Verschiebung="-25"/>
+				</Landschaftsobjekt>
+			</Landschaftsobjekt>
+			<Landschaftsobjekt>
+				<Props Abstand="20" Name="Schotter Str 2" Polygon="TRUE" Position="2730" Scale="1" Texture="TRUE" TextureFile="\Texturen\MartinF\Schotter.bmp" Zwischenpunkte="TRUE"/>
+				<Lightning>
+					<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+				</Lightning>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="TRUE" Position="0" Verschiebung="-25"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="TRUE" Position="0" Verschiebung="25"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="TRUE" Position="510" Verschiebung="25"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="TRUE" Position="510" Verschiebung="-25"/>
+				</Landschaftsobjekt>
+			</Landschaftsobjekt>
+			<Landschaftsobjekt>
+				<Props Abstand="20" Name="Schotter Str 3" Polygon="TRUE" Position="2000" Scale="1" Texture="TRUE" TextureFile="\Texturen\MartinF\Schotter.bmp" Zwischenpunkte="TRUE"/>
+				<Lightning>
+					<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+				</Lightning>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="TRUE" Position="0" Verschiebung="-25"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="TRUE" Position="0" Verschiebung="25"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="TRUE" Position="570" Verschiebung="25"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="TRUE" Position="570" Verschiebung="-25"/>
 				</Landschaftsobjekt>
 			</Landschaftsobjekt>
 		</Landschaft>
@@ -178,6 +286,18 @@
 				<Bahnuebergang>
 				</Bahnuebergang>
 				<RAIL>
+					<Value>
+						<Props Pos="2570" RAILVALUE="\Rails\RainerH\flimmerfrei\16betonschwellen_schotter_normal.l3drail"/>
+						<Lightning>
+							<Props DayLight="40" LokLight="TRUE" NightLight="40"/>
+						</Lightning>
+					</Value>
+					<Value>
+						<Props Pos="2730" RAILVALUE="\Rails\RainerH\flimmerfrei\16betonschwellen_schotter_normal.l3drail"/>
+						<Lightning>
+							<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+						</Lightning>
+					</Value>
 				</RAIL>
 				<RailQuality>
 				</RailQuality>
@@ -293,13 +413,19 @@
 					</Lightning>
 				</Eintrag>
 				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_uebergang_roehre_kasten.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="450" Verschiebung="0;0;0" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
 					<Props Abstand="10" Anzahl="6" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_roehre_10m_1gl.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1940" Verschiebung="0;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
 					<Lightning>
 						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
 					</Lightning>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="10" Anzahl="6" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_10m_halb.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="520" Verschiebung="0;0;0" WeitSichtbar="TRUE" Winkel="180;0;0"/>
+					<Props Abstand="9.428572" Anzahl="7" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_10m_halb.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="514" Verschiebung="0;0;0" WeitSichtbar="TRUE" Winkel="180;0;0"/>
 					<Lightning>
 						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
 					</Lightning>
@@ -312,6 +438,24 @@
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="10" Anzahl="40" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_10m_halb.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="840" Verschiebung="-1;0;0" WeitSichtbar="TRUE" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="15" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnelwand_10m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1090" Verschiebung="0;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="1" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnelwand_10m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1080" Verschiebung="-0.1;0;0" WeitSichtbar="TRUE" Winkel="0.5;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="10" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_Decke.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="770" Verschiebung="0;0.001;0" Winkel="0;0;0"/>
 					<Lightning>
 						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
 					</Lightning>
@@ -338,13 +482,7 @@
 					</Lightning>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Wand-Stadtmitte2.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="3" Verschiebung="10.7;5.98;0" Winkel="90;0;90"/>
-					<Lightning>
-						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
-					</Lightning>
-				</Eintrag>
-				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Wand-Stadtmitte2.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="3" Verschiebung="11;5.98;0" Winkel="90;0;90"/>
+					<Props Abstand="0" Anzahl="1" Datei="\objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Wand-Stadtmitte2.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="3" Verschiebung="10.2;5.98;0" Winkel="90;0;90"/>
 					<Lightning>
 						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
 					</Lightning>
@@ -443,6 +581,60 @@
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Wand-Stadtmitte2.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="163" Verschiebung="7.1;5.98;0" Winkel="90;0;90"/>
 					<Lightning>
 						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="Flughafen 2" Offset="0;0;0" Position="2570" Qualitaet="0" RollMaterial="FALSE"/>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bruecken\Jernbane\ET\BrueckeBernheim\NBS_Aufzug.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="95" Verschiebung="8;1.2;0" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bruecken\Jernbane\ET\BrueckeBernheim\NBS_Aufzug_Mitte.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="95" Verschiebung="8;4.5;0" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="25" Anzahl="7" Datei="\Objekte\Bahnsteige\RainerZ\Bahnsteigschild-mH.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="25" Verschiebung="8;1.7;0" Winkel="90;0;0"/>
+					<Eigenschaften>
+						<Props TEXT="&#39;Flughafen&#39;"/>
+					</Eigenschaften>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="40" Anzahl="4" Datei="\Objekte\Bahnsteige\Markus\NBS_Bank_Fpl.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="9" Verschiebung="4;0.2;0" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props DynamicVisibility="FahrplanVars::Ziel == &#39;NPL&#39;" FixedDynamicVisibility="TRUE" Name="Flughafen ZZA Nürnberger Platz" Offset="0;0;0" Position="2570" Qualitaet="3"/>
+				<Eintrag>
+					<Props Abstand="32" Anzahl="4" Datei="\Objekte\Bahnsteige\JPB\Zugzielanzeiger\ZZA_digital_S5_mitGleis.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="32" Verschiebung="2.5;5.2;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props Ab_in_1="&#39;in 0 Min&#39;" Abfahrtszeit="&#39;SE 32&#39;" Abfahrtszeit_1="&#39;W 3&#39;" Abfahrtszeit_2="&#39;W 3&#39;" Ankunftszeit="&#39;in 10 min.&#39;" Bahnsteig-Nr.="&#39;4&#39;" Gleis="&#39;2&#39;" Gleis_Nr="&#39;1&#39;" Linie="&#39;U 1&#39;" TEXT="&#39;Hauptbahnhof&#39;" Zeit_1="&#39;W 1&#39;" Zeit_2="&#39;W 1&#39;" Ziel="&#39;Hauptbahnhof&#39;" Ziel_1="&#39;WI Frauenstein&#39;" Ziel_2="&#39;WI Frauenstein&#39;" Zug_Nr._1="&#39;in 0 Min&#39;" Zug_Nr._2="&#39;in 30 Min.&#39;" Zuggattung+Nr="&#39;in 0 Min.&#39;" Zuggattung+Nr_1="&#39;in 0 min.&#39;" Zuggattung+Nr_2="&#39;in 30 min.&#39;" Zuglauf="&#39;Fachhochschule - Luisenplatz - HBF&#39;" Zuglauf_1="&#39;Erbenheim - HBF - FHS - Sonnenberg&#39;" Zuglauf_2="&#39;Erbenheim - HBF - FHS - Sonnenberg&#39;" Zugziel="&#39;Nürnberger Platz&#39;" Zugziel_1="&#39;Wiesbaden Ost&#39;" Zugziel_2="&#39;Wiesbaden Ost&#39;" wagenstand="&#39;1111&#39;" Über="&#39;Goethealle - Stadtmitte&#39;" Über_1_1="&#39;West&#39;" Über_2="&#39;West&#39;"/>
+					</Eigenschaften>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="67"/>
+					</Lightning>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props DynamicVisibility="FahrplanVars::Ziel == &#39;OP&#39;" FixedDynamicVisibility="TRUE" Name="Flughafen ZZA Opernplatz" Offset="0;0;0" Position="2570" Qualitaet="3"/>
+				<Eintrag>
+					<Props Abstand="32" Anzahl="4" Datei="\Objekte\Bahnsteige\JPB\Zugzielanzeiger\ZZA_digital_S5_mitGleis.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="32" Verschiebung="2.5;5.2;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props Ab_in_1="&#39;in 0 Min&#39;" Abfahrtszeit="&#39;SE 32&#39;" Abfahrtszeit_1="&#39;W 3&#39;" Abfahrtszeit_2="&#39;W 3&#39;" Ankunftszeit="&#39;in 10 min.&#39;" Bahnsteig-Nr.="&#39;4&#39;" Gleis="&#39;2&#39;" Gleis_Nr="&#39;1&#39;" Linie="&#39;U 1&#39;" TEXT="&#39;Hauptbahnhof&#39;" Zeit_1="&#39;W 1&#39;" Zeit_2="&#39;W 1&#39;" Ziel="&#39;Hauptbahnhof&#39;" Ziel_1="&#39;WI Frauenstein&#39;" Ziel_2="&#39;WI Frauenstein&#39;" Zug_Nr._1="&#39;in 0 Min&#39;" Zug_Nr._2="&#39;in 30 Min.&#39;" Zuggattung+Nr="&#39;in 0 Min.&#39;" Zuggattung+Nr_1="&#39;in 0 min.&#39;" Zuggattung+Nr_2="&#39;in 30 min.&#39;" Zuglauf="&#39;Fachhochschule - Luisenplatz - HBF&#39;" Zuglauf_1="&#39;Erbenheim - HBF - FHS - Sonnenberg&#39;" Zuglauf_2="&#39;Erbenheim - HBF - FHS - Sonnenberg&#39;" Zugziel="&#39;Opernplatz&#39;" Zugziel_1="&#39;Wiesbaden Ost&#39;" Zugziel_2="&#39;Wiesbaden Ost&#39;" wagenstand="&#39;1111&#39;" Über="&#39;Goethealle - Stadtmitte&#39;" Über_1_1="&#39;West&#39;" Über_2="&#39;West&#39;"/>
+					</Eigenschaften>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="67"/>
 					</Lightning>
 				</Eintrag>
 			</Object>
@@ -555,6 +747,18 @@
 				<Bahnuebergang>
 				</Bahnuebergang>
 				<RAIL>
+					<Value>
+						<Props Pos="2570" RAILVALUE="\Rails\RainerH\flimmerfrei\16betonschwellen_schotter_normal.l3drail"/>
+						<Lightning>
+							<Props DayLight="40" LokLight="TRUE" NightLight="40"/>
+						</Lightning>
+					</Value>
+					<Value>
+						<Props Pos="2730" RAILVALUE="\Rails\RainerH\flimmerfrei\16betonschwellen_schotter_normal.l3drail"/>
+						<Lightning>
+							<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+						</Lightning>
+					</Value>
 				</RAIL>
 				<RailQuality>
 				</RailQuality>
@@ -670,12 +874,39 @@
 						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
 					</Lightning>
 					<Eigenschaften>
-						<Props TEXT="&#39;Mainz Hauptbahnhof&#39;"/>
+						<Props TEXT="&#39;Hainfurt Flughafen&#39;"/>
 					</Eigenschaften>
 				</Eintrag>
 			</Object>
 			<Object>
 				<Props Name="Tunnel" Offset="0;0;0" Position="2000" Qualitaet="0"/>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="57" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_roehre_10m_halb_rechts.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="18" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_Decke.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="170" Verschiebung="-5;0.001;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="1" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_10m_halb.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="338" Verschiebung="-1.1;0;0" WeitSichtbar="TRUE" Winkel="6;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="9.652174" Anzahl="23" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_10m_halb.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="348" Verschiebung="0;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_abdeckung_tunneleinfahrt_röhre.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="570" Verschiebung="0;0;0" Winkel="180;0;0"/>
+				</Eintrag>
 				<Eintrag>
 					<Props Abstand="10" Anzahl="2" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_roehre_10m_1_gl_halb_eckig_links.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="740" Verschiebung="0;0;0" WeitSichtbar="TRUE" Winkel="180;0;0"/>
 					<Lightning>
@@ -689,15 +920,27 @@
 					</Lightning>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="10" Anzahl="40" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_roehre_10m_halb_rechts.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="750" Verschiebung="0;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Props Abstand="10" Anzahl="49" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_roehre_10m_halb_rechts.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="750" Verschiebung="0;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
 					<Lightning>
 						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
 					</Lightning>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="10" Anzahl="35" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_10m_halb.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="800" Verschiebung="0.75;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Props Abstand="10" Anzahl="37" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_10m_halb.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="800" Verschiebung="0.75;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
 					<Lightning>
 						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props DynamicVisibility="FahrplanVars::Ziel == &#39;OP&#39;" FixedDynamicVisibility="TRUE" Name="Flughafen ZZA U2" Offset="0;0;0" Position="2570" Qualitaet="3"/>
+				<Eintrag>
+					<Props Abstand="32" Anzahl="4" Datei="\Objekte\Bahnsteige\JPB\Zugzielanzeiger\ZZA_digital_S5_mitGleis.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="32" Verschiebung="-2.5;5.2;0" WeitSichtbar="FALSE" Winkel="180;0;0"/>
+					<Eigenschaften>
+						<Props Ab_in_1="&#39;in 0 Min&#39;" Abfahrtszeit="&#39;SE 32&#39;" Abfahrtszeit_1="&#39;W 3&#39;" Abfahrtszeit_2="&#39;W 3&#39;" Ankunftszeit="&#39;in 10 min.&#39;" Bahnsteig-Nr.="&#39;4&#39;" Gleis="&#39;1&#39;" Gleis_Nr="&#39;1&#39;" Hinweisfeld="&#39;TRUE&#39;" Hinweistext="&#39;Baustellenverkehr, Richtung HBF: U1&#39;" Linie="&#39;U 2&#39;" TEXT="&#39;Hauptbahnhof&#39;" Zeit_1="&#39;W 1&#39;" Zeit_2="&#39;W 1&#39;" Ziel="&#39;Hauptbahnhof&#39;" Ziel_1="&#39;WI Frauenstein&#39;" Ziel_2="&#39;WI Frauenstein&#39;" Zug_Nr._1="&#39;in 0 Min&#39;" Zug_Nr._2="&#39;in 30 Min.&#39;" Zuggattung+Nr="&#39;in 0 Min.&#39;" Zuggattung+Nr_1="&#39;in 0 min.&#39;" Zuggattung+Nr_2="&#39;in 30 min.&#39;" Zuglauf="&#39;Dotzheim Bhf. - Carl von Linde Straße&#39;" Zuglauf_1="&#39;Erbenheim - HBF - FHS - Sonnenberg&#39;" Zuglauf_2="&#39;Erbenheim - HBF - FHS - Sonnenberg&#39;" Zugziel="&#39;Kleinfeldchen&#39;" Zugziel_1="&#39;Wiesbaden Ost&#39;" Zugziel_2="&#39;Wiesbaden Ost&#39;" wagenstand="&#39;1111&#39;" Über="&#39;Goethealle - Stadtmitte&#39;" Über_1_1="&#39;West&#39;" Über_2="&#39;West&#39;"/>
+					</Eigenschaften>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="67"/>
 					</Lightning>
 				</Eintrag>
 			</Object>
@@ -721,6 +964,18 @@
 				<Bahnuebergang>
 				</Bahnuebergang>
 				<RAIL>
+					<Value>
+						<Props Pos="2570" RAILVALUE="\Rails\RainerH\flimmerfrei\16betonschwellen_schotter_normal.l3drail"/>
+						<Lightning>
+							<Props DayLight="40" LokLight="TRUE" NightLight="40"/>
+						</Lightning>
+					</Value>
+					<Value>
+						<Props Pos="2730" RAILVALUE="\Rails\RainerH\flimmerfrei\16betonschwellen_schotter_normal.l3drail"/>
+						<Lightning>
+							<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+						</Lightning>
+					</Value>
 				</RAIL>
 				<RailQuality>
 				</RailQuality>
@@ -793,6 +1048,12 @@
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="10" Anzahl="1" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnelwand_10m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="995" Verschiebung="-2;0;0" WeitSichtbar="TRUE" Winkel="90;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="12" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_Decke.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="770" Verschiebung="0;0.001;0" Winkel="0;0;0"/>
 					<Lightning>
 						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
 					</Lightning>
@@ -915,22 +1176,22 @@
 			<Object>
 				<Props Name="Flughafen" Offset="0;0;0" Position="2570" Qualitaet="0" RollMaterial="FALSE"/>
 				<Eintrag>
-					<Props Abstand="10" Anzahl="16" Datei="\objekte\Bahnsteige\mbfan\Tunnel\Wand mit Text.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="10" Verschiebung="0;-1.5;0" Winkel="180;0;0"/>
+					<Props Abstand="9.411765" Anzahl="17" Datei="\objekte\Bahnsteige\mbfan\Tunnel\Wand mit Text.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="10" Verschiebung="0;-1.5;0" Winkel="180;0;0"/>
 					<Lightning>
 						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
 					</Lightning>
 					<Eigenschaften>
-						<Props TEXT="&#39;Mainz Hauptbahnhof&#39;"/>
+						<Props TEXT="&#39;Hainfurt Flughafen&#39;"/>
 					</Eigenschaften>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="10" Anzahl="16" Datei="\Objekte\Bahnsteige\AndreasZ\U-Bahn-2_seite_10m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="9.8;0;0" Winkel="0;0;0"/>
+					<Props Abstand="9.411765" Anzahl="17" Datei="\Objekte\Bahnsteige\AndreasZ\U-Bahn-2_seite_10m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="9.8;0;0" Winkel="0;0;0"/>
 					<Lightning>
 						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
 					</Lightning>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="10" Anzahl="16" Datei="\Objekte\Bahnsteige\AndreasZ\U-Bahn-2_seite_10m.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="10" Verschiebung="1.8;-0.01;0" Winkel="180;0;0"/>
+					<Props Abstand="9.411765" Anzahl="17" Datei="\Objekte\Bahnsteige\AndreasZ\U-Bahn-2_seite_10m.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="10" Verschiebung="1.8;-0.01;0" Winkel="180;0;0"/>
 					<Lightning>
 						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
 					</Lightning>
@@ -942,13 +1203,7 @@
 					</Lightning>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Wand-Stadtmitte2.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="3" Verschiebung="10.7;5.98;0" Winkel="90;0;90"/>
-					<Lightning>
-						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
-					</Lightning>
-				</Eintrag>
-				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Wand-Stadtmitte2.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="3" Verschiebung="11;5.98;0" Winkel="90;0;90"/>
+					<Props Abstand="0" Anzahl="1" Datei="\objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Wand-Stadtmitte2.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="3" Verschiebung="10.2;5.98;0" Winkel="90;0;90"/>
 					<Lightning>
 						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
 					</Lightning>
@@ -960,7 +1215,7 @@
 					</Lightning>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\Jernbane\Ausgang-breit_Rolltreppe1_Hbf.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="160" Verschiebung="7.8;1.2;0" Winkel="0;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bahnsteige\Jernbane\Ausgang-breit_Rolltreppe1_Hbf.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="160" Verschiebung="6.3;1.2;0" Winkel="0;0;0"/>
 					<Eigenschaften>
 						<Props hoch="&#39;TRUE&#39;" runter-links="&#39;TRUE&#39;"/>
 					</Eigenschaften>
@@ -984,7 +1239,7 @@
 					</Lightning>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\objekte\Bahnsteige\Jernbane\Ausgang-breit_Rolltreppe1 Verlaengerung Hbf.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="165.610001" Verschiebung="7.8;5;0" Winkel="0;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="\objekte\Bahnsteige\Jernbane\Ausgang-breit_Rolltreppe1 Verlaengerung Hbf.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="165.610001" Verschiebung="6.3;5;0" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\objekte\Bahnsteige\Jernbane\Ausgang-breit_Rolltreppe1 Verlaengerung Hbf.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="-5.49" Verschiebung="8.23;5;0" Winkel="180;0;0"/>
@@ -1008,13 +1263,25 @@
 					</Lightning>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Wand-Stadtmitte2.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="163" Verschiebung="9.7;6;0" Winkel="90;0;90"/>
+					<Props Abstand="0" Anzahl="1" Datei="\objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Wand-Stadtmitte2.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="163" Verschiebung="2;6;0" Winkel="90;0;90"/>
 					<Lightning>
 						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
 					</Lightning>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Wand-Stadtmitte2.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="163" Verschiebung="10.5;5.98;0" Winkel="90;0;90"/>
+					<Props Abstand="0" Anzahl="1" Datei="\objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Wand-Stadtmitte2.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="167" Verschiebung="8.3;5.98;0" Winkel="90;0;90"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Wand-Stadtmitte2.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="167" Verschiebung="8.1;5.98;0" Winkel="90;0;90"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Wand-Stadtmitte2.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="167" Verschiebung="9.3;5.98;0" Winkel="90;0;90"/>
 					<Lightning>
 						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
 					</Lightning>
@@ -1027,6 +1294,99 @@
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="10" Anzahl="16" Datei="\Objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Decke-Bismarckring.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="4;-0.4;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="1" Datei="\Objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Decke-Bismarckring.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="154" Verschiebung="23;-0.4;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="Tunnel" Offset="0;0;0" Position="2000" Qualitaet="2"/>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="24" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_roehre_10m_halb_links.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="33" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_roehre_10m_1_gl_halb_eckig_links.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="240" Verschiebung="0;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_abdeckung_tunneleinfahrt_röhre.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="570" Verschiebung="-8.9;0;0" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_abdeckung_tunneleinfahrt_röhre.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="570" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="44" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_roehre_10m_1_gl_halb_eckig_links.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="730" Verschiebung="0;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_abdeckung_tunneleinfahrt_röhre.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="730" Verschiebung="-8.9;0;0" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_abdeckung_tunneleinfahrt_röhre.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="730" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="7" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_roehre_10m_halb_links.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1170" Verschiebung="0;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props DynamicVisibility="FahrplanVars::Ziel == &#39;NPL&#39;" FixedDynamicVisibility="TRUE" Name="Flughafen ZZA U 2" Offset="0;0;0" Position="2570" Qualitaet="3"/>
+				<Eintrag>
+					<Props Abstand="32" Anzahl="4" Datei="\Objekte\Bahnsteige\JPB\Zugzielanzeiger\ZZA_digital_S5_mitGleis.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="32" Verschiebung="2.5;5.2;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props Ab_in_1="&#39;in 0 Min&#39;" Abfahrtszeit="&#39;SE 32&#39;" Abfahrtszeit_1="&#39;W 3&#39;" Abfahrtszeit_2="&#39;W 3&#39;" Ankunftszeit="&#39;in 10 min.&#39;" Bahnsteig-Nr.="&#39;4&#39;" Gleis="&#39;4&#39;" Gleis_Nr="&#39;1&#39;" Hinweisfeld="&#39;TRUE&#39;" Hinweistext="&#39;U2 fährt nach Baustellenfahrplan&#39;" Linie="&#39;U 2&#39;" TEXT="&#39;Hauptbahnhof&#39;" Zeit_1="&#39;W 1&#39;" Zeit_2="&#39;W 1&#39;" Ziel="&#39;Hauptbahnhof&#39;" Ziel_1="&#39;WI Frauenstein&#39;" Ziel_2="&#39;WI Frauenstein&#39;" Zug_Nr._1="&#39;in 0 Min&#39;" Zug_Nr._2="&#39;in 30 Min.&#39;" Zuggattung+Nr="&#39;in 0 Min.&#39;" Zuggattung+Nr_1="&#39;in 0 min.&#39;" Zuggattung+Nr_2="&#39;in 30 min.&#39;" Zuglauf="&#39;Kornblumenweg - Vogesenstraße&#39;" Zuglauf_1="&#39;Erbenheim - HBF - FHS - Sonnenberg&#39;" Zuglauf_2="&#39;Erbenheim - HBF - FHS - Sonnenberg&#39;" Zugziel="&#39;Schierstein Hafen&#39;" Zugziel_1="&#39;Wiesbaden Ost&#39;" Zugziel_2="&#39;Wiesbaden Ost&#39;" wagenstand="&#39;1111&#39;" Über="&#39;Goethealle - Stadtmitte&#39;" Über_1_1="&#39;West&#39;" Über_2="&#39;West&#39;"/>
+					</Eigenschaften>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="67"/>
+					</Lightning>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="Flughafen 2" Offset="0;0;0" Position="2570" Qualitaet="0" RollMaterial="FALSE"/>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bruecken\Jernbane\ET\BrueckeBernheim\NBS_Aufzug.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="95" Verschiebung="8;1.2;0" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bruecken\Jernbane\ET\BrueckeBernheim\NBS_Aufzug_Mitte.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="95" Verschiebung="8;4.5;0" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="25" Anzahl="7" Datei="\Objekte\Bahnsteige\RainerZ\Bahnsteigschild-mH.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="25" Verschiebung="8;1.7;0" Winkel="90;0;0"/>
+					<Eigenschaften>
+						<Props TEXT="&#39;Flughafen&#39;"/>
+					</Eigenschaften>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="40" Anzahl="4" Datei="\Objekte\Bahnsteige\Markus\NBS_Bank_Fpl.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="9" Verschiebung="4;0.2;0" Winkel="180;0;0"/>
 					<Lightning>
 						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
 					</Lightning>
@@ -1072,6 +1432,18 @@
 				<Bahnuebergang>
 				</Bahnuebergang>
 				<RAIL>
+					<Value>
+						<Props Pos="2570" RAILVALUE="\Rails\RainerH\flimmerfrei\16betonschwellen_schotter_normal.l3drail"/>
+						<Lightning>
+							<Props DayLight="40" LokLight="TRUE" NightLight="40"/>
+						</Lightning>
+					</Value>
+					<Value>
+						<Props Pos="2730" RAILVALUE="\Rails\RainerH\flimmerfrei\16betonschwellen_schotter_normal.l3drail"/>
+						<Lightning>
+							<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+						</Lightning>
+					</Value>
 				</RAIL>
 				<RailQuality>
 				</RailQuality>
@@ -1142,6 +1514,39 @@
 			</Kreuzung>
 		</TOPOLOGIE>
 		<Objecte>
+			<Object>
+				<Props Name="Tunnel" Offset="0;0;0" Position="2000" Qualitaet="0"/>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="5" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_Decke.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="540" Verschiebung="5;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="17" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_10m_halb.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="535" Verschiebung="0;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="1" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_10m_halb.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="600" Verschiebung="0;0;0" WeitSichtbar="TRUE" Winkel="179;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="9.7" Anzahl="21" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_10m_halb.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="610" Verschiebung="0;0;0" WeitSichtbar="TRUE" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="5" Datei="\Objekte\Tunnel\mbfan\U-Bahntunnel_Decke.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="800" Verschiebung="3;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+					</Lightning>
+				</Eintrag>
+			</Object>
 		</Objecte>
 		<Hoeheunterbrechung>
 		</Hoeheunterbrechung>

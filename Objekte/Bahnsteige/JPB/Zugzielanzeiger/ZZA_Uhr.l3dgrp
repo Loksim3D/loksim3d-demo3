@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="© JPB 2010" FileInfo="Uhr/n/nim passenden Design zu/ndigitalen Zugzielanzeiger/n/n© JPB 2010" FilePicture="ZZA_Uhr.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Halterung_Uhr.l3dobj" Position="-0.025;-0.1;-0.025" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Uhr_Gehäuse.l3dobj" Position="0;-0.325;-0.1" Rotation="0;0;90" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Uhr_Hintergrund.l3dobj" Position="0;-0.325;-0.1" Rotation="0;0;90" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Uhr_Zifferblatt.l3dobj" Position="-0.34;-0.665;-0.08" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Uhr_Zifferblatt.l3dobj" Position="0.34;-0.665;0.08" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Stacheln_Uhr.l3dobj" Position="0;0;0" Rotation="0;0;0" ShowOn="Stacheln" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+</GRUPPENOBJECT>

@@ -1,4 +1,5 @@
 2013-01-10
+* [mbf] U1_M2_Flughafen: Tunnel und Bahnhof eingebaut, fälschlich hochgeladenes Modul Mainz entfernt
 * [ukl] Bf Hainfurt Fahrleitung Gleis 6+5 eingebaut
 
 2013-01-08

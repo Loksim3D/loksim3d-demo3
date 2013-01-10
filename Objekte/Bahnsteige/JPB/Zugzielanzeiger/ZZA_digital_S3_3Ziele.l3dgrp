@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="© JPB 2010" FileInfo="Digitaler Zugzielanzeiger für S-Bahnen/nmit 3 Displays pro Seite/n++++  3 Zugziele  ++++/n/nEine Bedienungsanleitung zu diesen Anzeigern/nbefindet sich im Verzeichnis dieses Objektes./n/n© JPB 2010" FilePicture="ZZA_digital_S3_3Ziele.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Gehäuse_3.l3dobj" Position="0;-0.5;-0.2" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Hintergrund_3.l3dobj" Position="0;-0.5;-0.2" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Halterung.l3dobj" Position="0.3;0;-0.05" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Halterung.l3dobj" Position="0.9;0;-0.05" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Hinweisfeld.l3dobj" Position="0.125;-0.375;-0.19" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Hinweisfeld.l3dobj" Position="0.475;-0.375;-0.19" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Hinweisfeld.l3dobj" Position="0.825;-0.375;-0.19" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Hinweisfeld.l3dobj" Position="0.125;-0.375;0.19" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Hinweisfeld.l3dobj" Position="0.475;-0.375;0.19" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Hinweisfeld.l3dobj" Position="0.825;-0.375;0.19" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Stacheln_3.l3dobj" Position="0;0;-0.1" Rotation="0;0;0" ShowOn="Stacheln" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Stacheln_3.l3dobj" Position="0;0;0.1" Rotation="0;0;0" ShowOn="Stacheln" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="8405024" DefaultText="Linie   Ziel                   Gleis  A  B  C   Min" Fonthoehe="0.065" GroupProperty="" Leuchtend="TRUE" Name="Einzelteile\ZZA_3.l3dfont" Position="0.65;-0.12;-0.2" Rotation="0;0;0"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="8405024" DefaultText="Linie   Ziel                   Gleis  A  B  C   Min" Fonthoehe="0.065" GroupProperty="" Leuchtend="TRUE" Name="Einzelteile\ZZA_3.l3dfont" Position="0.65;-0.12;0.2" Rotation="180;0;0"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="" Fonthoehe="0.06" GroupProperty="Linie_1" Leuchtend="TRUE" Name="Einzelteile\ZZA_2.l3dfont" Position="0.13;-0.19;-0.2" Rotation="0;0;0"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="" Fonthoehe="0.06" GroupProperty="Linie_1" Leuchtend="TRUE" Name="Einzelteile\ZZA_2.l3dfont" Position="1.17;-0.19;0.2" Rotation="180;0;0"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="" Fonthoehe="0.06" GroupProperty="Linie_2" Leuchtend="TRUE" Name="Einzelteile\ZZA_2.l3dfont" Position="0.13;-0.25;-0.2" Rotation="0;0;0"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="" Fonthoehe="0.06" GroupProperty="Linie_2" Leuchtend="TRUE" Name="Einzelteile\ZZA_2.l3dfont" Position="1.17;-0.25;0.2" Rotation="180;0;0"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="" Fonthoehe="0.06" GroupProperty="Linie_3" Leuchtend="TRUE" Name="Einzelteile\ZZA_2.l3dfont" Position="0.13;-0.31;-0.2" Rotation="0;0;0"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="" Fonthoehe="0.06" GroupProperty="Linie_3" Leuchtend="TRUE" Name="Einzelteile\ZZA_2.l3dfont" Position="1.17;-0.31;0.2" Rotation="180;0;0"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="" Fonthoehe="0.06" GroupProperty="Zugziel_1" Leuchtend="TRUE" Name="Einzelteile\ZZA_2.l3dfont" Position="0.3;-0.19;-0.2" Rotation="0;0;0"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="" Fonthoehe="0.06" GroupProperty="Zugziel_1" Leuchtend="TRUE" Name="Einzelteile\ZZA_2.l3dfont" Position="1;-0.19;0.2" Rotation="180;0;0"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="" Fonthoehe="0.06" GroupProperty="Zugziel_2" Leuchtend="TRUE" Name="Einzelteile\ZZA_2.l3dfont" Position="0.3;-0.25;-0.2" Rotation="0;0;0"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="" Fonthoehe="0.06" GroupProperty="Zugziel_2" Leuchtend="TRUE" Name="Einzelteile\ZZA_2.l3dfont" Position="1;-0.25;0.2" Rotation="180;0;0"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="" Fonthoehe="0.06" GroupProperty="Zugziel_3" Leuchtend="TRUE" Name="Einzelteile\ZZA_2.l3dfont" Position="0.3;-0.31;-0.2" Rotation="0;0;0"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="" Fonthoehe="0.06" GroupProperty="Zugziel_3" Leuchtend="TRUE" Name="Einzelteile\ZZA_2.l3dfont" Position="1;-0.31;0.2" Rotation="180;0;0"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="2" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="" Fonthoehe="0.06" GroupProperty="Gleis_1" Leuchtend="TRUE" Name="Einzelteile\ZZA_2.l3dfont" Position="0.82;-0.19;-0.2" Rotation="0;0;0"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="2" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="" Fonthoehe="0.06" GroupProperty="Gleis_1" Leuchtend="TRUE" Name="Einzelteile\ZZA_2.l3dfont" Position="0.48;-0.19;0.2" Rotation="180;0;0"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="2" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="" Fonthoehe="0.06" GroupProperty="Gleis_2" Leuchtend="TRUE" Name="Einzelteile\ZZA_2.l3dfont" Position="0.82;-0.25;-0.2" Rotation="0;0;0"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="2" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="" Fonthoehe="0.06" GroupProperty="Gleis_2" Leuchtend="TRUE" Name="Einzelteile\ZZA_2.l3dfont" Position="0.48;-0.25;0.2" Rotation="180;0;0"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="2" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="" Fonthoehe="0.06" GroupProperty="Gleis_3" Leuchtend="TRUE" Name="Einzelteile\ZZA_2.l3dfont" Position="0.82;-0.31;-0.2" Rotation="0;0;0"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="2" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="" Fonthoehe="0.06" GroupProperty="Gleis_3" Leuchtend="TRUE" Name="Einzelteile\ZZA_2.l3dfont" Position="0.48;-0.31;0.2" Rotation="180;0;0"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="" Fonthoehe="0.06" GroupProperty="Einheiten_1" Leuchtend="TRUE" Name="Einzelteile\ZZA_4.l3dfont" Position="0.835;-0.19;-0.2" Rotation="0;0;0"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="" Fonthoehe="0.06" GroupProperty="Einheiten_1" Leuchtend="TRUE" Name="Einzelteile\ZZA_4.l3dfont" Position="0.465;-0.19;0.2" Rotation="180;0;0"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="" Fonthoehe="0.06" GroupProperty="Einheiten_2" Leuchtend="TRUE" Name="Einzelteile\ZZA_4.l3dfont" Position="0.835;-0.25;-0.2" Rotation="0;0;0"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="" Fonthoehe="0.06" GroupProperty="Einheiten_2" Leuchtend="TRUE" Name="Einzelteile\ZZA_4.l3dfont" Position="0.465;-0.25;0.2" Rotation="180;0;0"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="" Fonthoehe="0.06" GroupProperty="Einheiten_3" Leuchtend="TRUE" Name="Einzelteile\ZZA_4.l3dfont" Position="0.835;-0.31;-0.2" Rotation="0;0;0"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="" Fonthoehe="0.06" GroupProperty="Einheiten_3" Leuchtend="TRUE" Name="Einzelteile\ZZA_4.l3dfont" Position="0.465;-0.31;0.2" Rotation="180;0;0"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="2" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="" Fonthoehe="0.06" GroupProperty="Ankunftszeit_1" Leuchtend="TRUE" Name="Einzelteile\ZZA_2.l3dfont" Position="1.165;-0.19;-0.2" Rotation="0;0;0"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="2" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="" Fonthoehe="0.06" GroupProperty="Ankunftszeit_1" Leuchtend="TRUE" Name="Einzelteile\ZZA_2.l3dfont" Position="0.135;-0.19;0.2" Rotation="180;0;0"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="2" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="" Fonthoehe="0.06" GroupProperty="Ankunftszeit_2" Leuchtend="TRUE" Name="Einzelteile\ZZA_2.l3dfont" Position="1.165;-0.25;-0.2" Rotation="0;0;0"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="2" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="" Fonthoehe="0.06" GroupProperty="Ankunftszeit_2" Leuchtend="TRUE" Name="Einzelteile\ZZA_2.l3dfont" Position="0.135;-0.25;0.2" Rotation="180;0;0"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="2" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="" Fonthoehe="0.06" GroupProperty="Ankunftszeit_3" Leuchtend="TRUE" Name="Einzelteile\ZZA_2.l3dfont" Position="1.165;-0.31;-0.2" Rotation="0;0;0"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="2" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="" Fonthoehe="0.06" GroupProperty="Ankunftszeit_3" Leuchtend="TRUE" Name="Einzelteile\ZZA_2.l3dfont" Position="0.135;-0.31;0.2" Rotation="180;0;0"/>
+	</Font>
+</GRUPPENOBJECT>
