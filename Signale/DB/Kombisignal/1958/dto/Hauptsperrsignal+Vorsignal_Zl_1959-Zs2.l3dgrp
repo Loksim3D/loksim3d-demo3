@@ -1,8 +1,8 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <GRUPPENOBJECT>
 	<Props FileAuthor="Andreas Peter" FileDoku="" FileInfo="Ausfahrsignal Bauform 1959/nund Vorsignal mit Kennlicht/n/nOriginal von Sebastian Kircher/nUmbau&#47;Ergänzung Andreas Peter/nMärz 2005/n" FilePicture="Hauptsperrsignal+Vorsignal_Zl_1959.l3dgrp.jpg"/>
 	<Object>
-		<Props BlinkIntervall="0" Name="\Signale\Signalbauform 1958\Ausfahrsignale 1959\Einzelteile\Schirm-HpSh.l3dobj" Position="1.7;5.28;-0.02" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+		<Props BlinkIntervall="0" Name="\Signale\DB\Hauptsignal\1958\dto\einzelteile\Schirm-HpSh.l3dobj" Position="1.7;5.28;-0.02" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
 	</Object>
 	<Object>
 		<Props BlinkIntervall="0" Name="\Signale\Signalbauform 1958\Einzelteile\Signalmast2.l3dobj" Position="2;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>

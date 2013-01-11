@@ -67,6 +67,84 @@
 		<Hoeheunterbrechung>
 		</Hoeheunterbrechung>
 		<Landschaft>
+			<Landschaftsobjekt>
+				<Props Abstand="20" Name="Schotter 0" Polygon="TRUE" Position="0" Scale="0.190546" Texture="TRUE" TextureFile="\Texturen\juliang\schotter_dunkler3.bmp" Zwischenpunkte="TRUE"/>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="0" Verschiebung="2.7"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="700" Verschiebung="2.7"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="700" Verschiebung="-2.7"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="0" Verschiebung="-2.7"/>
+				</Landschaftsobjekt>
+			</Landschaftsobjekt>
+			<Landschaftsobjekt>
+				<Props Abstand="20" Name="Schotter 700" Polygon="TRUE" Position="0" Scale="0.190546" Texture="TRUE" TextureFile="\Texturen\juliang\schotter_dunkler3.bmp" Zwischenpunkte="TRUE"/>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="1120" Verschiebung="6.7"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="700" Verschiebung="6.7"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="700" Verschiebung="-2.7"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="1120" Verschiebung="-2.7"/>
+				</Landschaftsobjekt>
+			</Landschaftsobjekt>
+			<Landschaftsobjekt>
+				<Props Abstand="20" Name="Schotter 1120" Polygon="TRUE" Position="0" Scale="0.190546" Texture="TRUE" TextureFile="\Texturen\juliang\schotter_dunkler3.bmp" Zwischenpunkte="TRUE"/>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="1120" Verschiebung="6.7"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="1120" Verschiebung="-2.7"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="1145" Verschiebung="-10"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="1160" Verschiebung="-9"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="1200" Verschiebung="-7"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="1220" Verschiebung="-7"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="1270" Verschiebung="-11"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="1320" Verschiebung="-18"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="1320" Verschiebung="6.7"/>
+				</Landschaftsobjekt>
+			</Landschaftsobjekt>
+			<Landschaftsobjekt>
+				<Props Abstand="20" Name="Schotter 1320" Polygon="TRUE" Position="0" Scale="0.190546" Texture="TRUE" TextureFile="\Texturen\juliang\schotter_dunkler3.bmp" Zwischenpunkte="TRUE"/>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="1320" Verschiebung="6.7"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="1810" Verschiebung="6.7"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="1810" Verschiebung="-9"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="1800" Verschiebung="-6.7"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="1320" Verschiebung="-6.7"/>
+				</Landschaftsobjekt>
+			</Landschaftsobjekt>
 		</Landschaft>
 		<EIGENSCHAFTEN>
 			<VOR>
@@ -365,6 +443,21 @@
 			</Landschaftsobjekt>
 		</Hoeheunterbrechung>
 		<Landschaft>
+			<Landschaftsobjekt>
+				<Props Abstand="20" Name="Schotter 0" Polygon="TRUE" Position="0" Scale="0.190546" Texture="TRUE" TextureFile="\Texturen\juliang\schotter_dunkler3.bmp" Zwischenpunkte="TRUE"/>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="0" Verschiebung="2.7"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="700" Verschiebung="2.7"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="700" Verschiebung="-2.7"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="0" Verschiebung="-2.7"/>
+				</Landschaftsobjekt>
+			</Landschaftsobjekt>
 		</Landschaft>
 		<EIGENSCHAFTEN>
 			<VOR>
@@ -820,6 +913,15 @@
 					<Props Abstand="10" Anzahl="20" Datei="\Objekte\Bahnsteige\Frieder\Seitenbahnsteig2.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0;-0.2;0" Winkel="0;0;0"/>
 				</Eintrag>
 			</Object>
+			<Object>
+				<Props DynamicVisibility="" FixedDynamicVisibility="FALSE" Name="Prellbock" Offset="0;0;0" Position="1157" Qualitaet="0"/>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Standard\AndreasKA\Prellbock\Prellbock-R1.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props Sh0="&#39;TRUE&#39;" Vollbohle="&#39;TRUE&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+			</Object>
 		</Objecte>
 		<Hoeheunterbrechung>
 		</Hoeheunterbrechung>
@@ -1074,7 +1176,7 @@
 					<Props Hoehe="0" Hoehefrei="FALSE" Position="1400" Verschiebung="13"/>
 				</Landschaftsobjekt>
 				<Landschaftsobjekt>
-					<Props Hoehe="0" Hoehefrei="FALSE" Position="1400" Verschiebung="17"/>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="1401" Verschiebung="17"/>
 				</Landschaftsobjekt>
 				<Landschaftsobjekt>
 					<Props Hoehe="0" Hoehefrei="FALSE" Position="1610" Verschiebung="17"/>
@@ -1114,6 +1216,36 @@
 				</Landschaftsobjekt>
 				<Landschaftsobjekt>
 					<Props Hoehe="0.3" Hoehefrei="FALSE" Position="-2" Verschiebung="8"/>
+				</Landschaftsobjekt>
+			</Landschaftsobjekt>
+			<Landschaftsobjekt>
+				<Props Abstand="20" Name="Schotter 0" Polygon="TRUE" Position="0" Scale="0.190546" Texture="TRUE" TextureFile="\Texturen\juliang\schotter_dunkler3.bmp" Zwischenpunkte="TRUE"/>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="TRUE" Position="1320" Verschiebung="9"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="1320" Verschiebung="-2.7"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="1350" Verschiebung="-2.7"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="1380" Verschiebung="-6.7"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="1642" Verschiebung="-6.7"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="TRUE" Position="1642" Verschiebung="8"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="TRUE" Position="1600" Verschiebung="13"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="TRUE" Position="1401" Verschiebung="13"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="TRUE" Position="1401" Verschiebung="25"/>
 				</Landschaftsobjekt>
 			</Landschaftsobjekt>
 		</Landschaft>
@@ -1272,6 +1404,15 @@
 			</KURVE>
 		</TOPOLOGIE>
 		<Objecte>
+			<Object>
+				<Props Name="Prellbock" Offset="0;0;0" Position="1793" Qualitaet="0"/>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Standard\AndreasKA\Prellbock\Prellbock-R1.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" Winkel="180;0;0"/>
+					<Eigenschaften>
+						<Props Sh0="&#39;TRUE&#39;" Vollbohle="&#39;TRUE&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+			</Object>
 		</Objecte>
 		<Hoeheunterbrechung>
 			<Landschaftsobjekt>
@@ -1337,6 +1478,14 @@
 							</Position>
 						</ObjectProps>
 					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi500Bis="0" KennLimit="150" KennLimitHide="40" Pos="1715" SignalFile="\Objekte\Accessoirs\Frieder\Gleissperre.l3dgrp" Typ="Sonstiges" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props links="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
 				</SIGNAL>
 				<Signaloptionen>
 				</Signaloptionen>
@@ -1357,19 +1506,70 @@
 		<Props Name="Gleis 4"/>
 		<TOPOLOGIE>
 			<Erstellung>
-				<Props EndPunkt="1000" ParallelAbstand="4" ParallelEnd="1550" ParallelGleis="Gleis 5" ParallelStart="1400" StartPos="0" StartPunkt="0;0;0" Typ="Parallel" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
+				<Props EndPunkt="1000" ParallelAbstand="4" ParallelEnd="1550" ParallelGleis="Gleis 5" ParallelStart="1350" StartPos="0" StartPunkt="0;0;0" Typ="Parallel" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
 			</Erstellung>
 			<Weiche>
-				<Props Anfang="Ende" ErstellungsArt="Annaeherung" Gleis="Gleis 5" Kennung="W409" Kruemung="20" Position="0" WeichenWinkel="8" WeichenWinkelDynamisch="FALSE"/>
+				<Props Anfang="Ende" ErstellungsArt="Annaeherung" Gleis="Gleis 5" Kennung="W409" Kruemung="17" Position="0" WeichenWinkel="8" WeichenWinkelDynamisch="FALSE"/>
 			</Weiche>
 		</TOPOLOGIE>
 		<Objecte>
+			<Object>
+				<Props DynamicVisibility="" FixedDynamicVisibility="FALSE" Name="Prellbock" Offset="0;0;0" Position="1357" Qualitaet="0"/>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Standard\AndreasKA\Prellbock\Prellbock-R1.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props Sh0="&#39;TRUE&#39;" Vollbohle="&#39;TRUE&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+			</Object>
 		</Objecte>
 		<Hoeheunterbrechung>
 		</Hoeheunterbrechung>
 		<Landschaft>
 		</Landschaft>
 		<EIGENSCHAFTEN>
+			<VOR>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi500Bis="0" KennLimit="150" KennLimitHide="40" Pos="1545" SignalFile="\Objekte\Accessoirs\Frieder\Gleissperre.l3dgrp" Typ="Sonstiges" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props rechts="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<Bahnuebergang>
+				</Bahnuebergang>
+				<RAIL>
+				</RAIL>
+				<RailQuality>
+				</RailQuality>
+				<LZB>
+				</LZB>
+				<Kilometrierung>
+				</Kilometrierung>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Ueberhoehung>
+				</Ueberhoehung>
+				<RailProps>
+				</RailProps>
+				<Bremswegabstand>
+				</Bremswegabstand>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</VOR>
 		</EIGENSCHAFTEN>
 	</GLEIS>
 	<GLEIS>
@@ -1392,6 +1592,15 @@
 			</Weiche>
 		</TOPOLOGIE>
 		<Objecte>
+			<Object>
+				<Props DynamicVisibility="" FixedDynamicVisibility="FALSE" Name="Prellbock" Offset="0;0;0" Position="1407" Qualitaet="0"/>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Standard\AndreasKA\Prellbock\Prellbock-R1.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props Sh0="&#39;TRUE&#39;" Vollbohle="&#39;TRUE&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+			</Object>
 		</Objecte>
 		<Hoeheunterbrechung>
 			<Landschaftsobjekt>
