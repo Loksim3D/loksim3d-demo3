@@ -1,0 +1,1825 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STRECKE>
+	<Props FileAuthor="" FileDoku="" FileInfo="" FilePicture=""/>
+	<DefaulRail>
+		<Props File="\rails\juliang\betonschwellen\normal\16betonschwellen_schotter_dunkler3.l3drail"/>
+	</DefaulRail>
+	<StdTexture>
+		<Props File=""/>
+	</StdTexture>
+	<Himmelsrichtung>
+		<Props Value="0"/>
+	</Himmelsrichtung>
+	<GLEIS>
+		<Props Name="Hauptgleis A"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="4000" ParallelAbstand="-10" ParallelEnd="0" ParallelGleis="" ParallelStart="0" StartPos="0" StartPunkt="0;0;0" Typ="Normal" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
+			</Erstellung>
+			<KURVE>
+				<Props Ende="2000" SanfterWinkel="TRUE" Start="1850" Winkel="-3"/>
+			</KURVE>
+			<Kreuzung>
+				<Props Gleis="Gleis B1" Gleisverlauf="0" Kennung="W102" KreuzungsTyp="0" PositionBis="2000" PositionVon="1900" WeichenWinkel="8" WeichenWinkelDynamisch="TRUE"/>
+			</Kreuzung>
+			<KURVE>
+				<Props Ende="1900" SanfterWinkel="FALSE" Start="1300" Winkel="-20"/>
+			</KURVE>
+			<STEIGUNG>
+				<Props Ende="3000" Promille="-10" SanfterWinkel="TRUE" Start="2500"/>
+			</STEIGUNG>
+			<KURVE>
+				<Props Ende="3000" SanfterWinkel="TRUE" Start="2500" Winkel="10"/>
+			</KURVE>
+			<KURVE>
+				<Props Ende="1000" SanfterWinkel="TRUE" Start="200" Winkel="-10"/>
+			</KURVE>
+		</TOPOLOGIE>
+		<Objecte>
+			<Object>
+				<Props Name="Bahnsteig L" Offset="0;0;0" Position="650" Qualitaet="1"/>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="20" Datei="\Objekte\Bahnsteige\Frieder\Seitenbahnsteig2.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="11" Verschiebung="0;-0.2;0" Winkel="180;0;0"/>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="Bahnsteig 10" Offset="0;0;0" Position="2100" Qualitaet="1"/>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="20" Datei="\Objekte\Bahnsteige\Frieder\Seitenbahnsteig2.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="11" Verschiebung="0;-0.2;0" Winkel="180;0;0"/>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="BÜ" Offset="0;0;0" Position="1100" Qualitaet="2"/>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\bahnuebergang\DToepel\Halbschrankenanlage+Ampel-einseitig.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="4;0;0" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props BueLicht="BAHNUEBERGANG" BueSchranke="BAHNUEBERGANG"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\bahnuebergang\DToepel\Halbschrankenanlage+Ampel-einseitig.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" Winkel="180;0;0"/>
+					<Eigenschaften>
+						<Props BueLicht="BAHNUEBERGANG" BueSchranke="BAHNUEBERGANG"/>
+					</Eigenschaften>
+				</Eintrag>
+			</Object>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+			<VOR>
+				<STRECKENNAMEN>
+					<Value>
+						<Props Pos="1000" Value="Esig"/>
+					</Value>
+					<Value>
+						<Props Pos="800" Value="Uerbergen-Alfenau Hp"/>
+					</Value>
+					<Value>
+						<Props Pos="1800" Value="Uerbergen Süd Bft"/>
+					</Value>
+					<Value>
+						<Props Pos="2300" Value="Uerbergen"/>
+					</Value>
+					<Value>
+						<Props Pos="1600" Value="Zsig"/>
+					</Value>
+					<Value>
+						<Props Pos="1875" Value="Zsig"/>
+					</Value>
+					<Value>
+						<Props Pos="2350" Value="Asig"/>
+					</Value>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="60" KMHNEIG="60" KeinHp2="FALSE" NichtImFahrplan="TRUE" NurBeiHp0="TRUE" Pos="2200"/>
+					</Value>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi500Bis="0" IndusiFile1000="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiPos1000="0" KennLimit="150" KennLimitHide="40" Pos="300" SignalFile="\Signale\DB\Vorsignal\1958\dto\Vorsignal 1958.l3dgrp" Typ="Vorsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props ohneHp2="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+							<Position>
+								<Props Position="1;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="50" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiFile500="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiPos2000="0" IndusiPos500="250" KennLimit="150" KennLimitHide="40" Pos="1000" SignalFile="\Signale\DB\Kombisignal\1958\dto\Einfahrsignal 1958+Vorsignal-Zl-HRA-Zs2v.l3dgrp" Tafel100="TRUE" TafelFile100="\Objekte\Tafeln\DToepel\Ne4\Ne4.l3dgrp" TafelPos100="0" Typ="KombisignalKenn" VSigLimit="0" Zwischensignal="FALSE"/>
+						<TafelObjExtraData100>
+							<Eigenschaften>
+								<Props Ne4Klein="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+							<Position>
+								<Props Position="-0.55;0.3;0" Rotation="0;0;0"/>
+							</Position>
+						</TafelObjExtraData100>
+						<ObjectProps>
+							<Position>
+								<Props Position="-5;0;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props Name="&#39;A&#39;" ohneHp2="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi500Bis="0" IndusiFile1000="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiPos1000="0" KennLimit="150" KennLimitHide="40" Pos="1600" SignalFile="\Signale\DB\Vorsignal\1958\dto\Hauptsignalschirm+Vorsignal-HRA.l3dgrp" Typ="Vorsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props Name="&#39;An2&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile1000="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiFile2000="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiFile500="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" IndusiPos500="250" KennLimit="150" KennLimitHide="40" Pos="1875" SignalFile="\Signale\DB\Kombisignal\1958\dto\Ausfahrsignal 1958+Vorsignal-HRA-Zs2.l3dgrp" Typ="Kombisignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props Name="&#39;R2&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiFile500="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiPos2000="0" IndusiPos500="250" KennLimit="150" KennLimitHide="40" Pos="2350" SignalFile="\Signale\DB\Hauptsignal\1958\dto\Hauptsperrsignal_1959_Hp1.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props Name="&#39;N2&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+				</SIGNAL>
+				<Signaloptionen>
+					<Value>
+						<Props Pos="2100" Zs2="TRUE" Zs2Value="Q"/>
+					</Value>
+				</Signaloptionen>
+				<Haltepunkt>
+					<Value>
+						<Props File="" Name="Uerbergen" Pos="2300" ToleranzMinus="50" ToleranzPlus="50" Zuglaenge="0"/>
+					</Value>
+					<Value>
+						<Props File="" Name="Uerbergen Gbf" Pos="1800" ToleranzMinus="50" ToleranzPlus="50" Zuglaenge="0"/>
+					</Value>
+					<Value>
+						<Props File="" Name="Uerbergen-Alfenau" Pos="800" Tafel="TRUE" TafelFile="\Objekte\Tafeln\Frieder\Ne6_FC.l3dgrp" TafelPos="700" ToleranzMinus="100" ToleranzPlus="50" Zuglaenge="0"/>
+						<TafelObjExtraData>
+							<Position>
+								<Props Position="3.5;0;0" Rotation="30;0;0"/>
+							</Position>
+						</TafelObjExtraData>
+					</Value>
+				</Haltepunkt>
+				<Bahnuebergang>
+					<Value>
+						<Props BueTyp="Signalgedeckt" Name="BÜ1100" Pos="1100" StoerWahrsch="0"/>
+					</Value>
+				</Bahnuebergang>
+				<RAIL>
+				</RAIL>
+				<RailQuality>
+				</RailQuality>
+				<LZB>
+				</LZB>
+				<Kilometrierung>
+				</Kilometrierung>
+				<IndusiExtra>
+					<Value>
+						<Props ControlType="EG" File="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" Freq="1000" KMH="0" KMHBIS="100" KMHBISNEIG="100" KMHNEIG="0" KmhPruef="40" Pos="1001" SigPos="1890"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="0;-1;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props ControlType="EH" File="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" Freq="1000" KMH="0" KMHBIS="100" KMHBISNEIG="100" KMHNEIG="0" KmhPruef="50" Pos="1002" SigPos="1875"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="0;-1;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+				</IndusiExtra>
+				<Ueberhoehung>
+				</Ueberhoehung>
+				<RailProps>
+				</RailProps>
+				<Bremswegabstand>
+					<Value>
+						<Props Meter="700" Pos="0" Toleranz="5"/>
+					</Value>
+				</Bremswegabstand>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</VOR>
+			<ZURUECK>
+				<STRECKENNAMEN>
+					<Value>
+						<Props Pos="2790" Value="Esig"/>
+					</Value>
+					<Value>
+						<Props Pos="2090" Value="Zsig"/>
+					</Value>
+					<Value>
+						<Props Pos="1310" Value="Asig"/>
+					</Value>
+					<Value>
+						<Props Pos="700" Value="Uerbergen-Alfenau Hp"/>
+					</Value>
+					<Value>
+						<Props Pos="1370" Value="Uerbergen Süd Bft"/>
+					</Value>
+					<Value>
+						<Props Pos="2100" Value="Uerbergen"/>
+					</Value>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiFile500="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiPos2000="0" IndusiPos500="250" KennLimit="150" KennLimitHide="40" Pos="1310" SignalFile="\Signale\DB\Hauptsignal\1958\dto\Hauptsperrsignal_1959-Zs2.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props Name="&#39;P2&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile1000="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiFile2000="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiFile500="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" IndusiPos500="250" KennLimit="150" KennLimitHide="40" Pos="2090" SignalFile="\Signale\DB\Kombisignal\1958\dto\Hauptsperrsignal+Vorsignal_1959-Zs2-Zs2v.l3dgrp" Typ="Kombisignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="0.6;0;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props Name="&#39;S2&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile1000="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiFile2000="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiFile500="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" IndusiPos500="250" KennLimit="150" KennLimitHide="40" Pos="2790" SignalFile="\Signale\DB\Kombisignal\1958\dto\Einfahrsignal 1958+Vorsignal-Zs2v.l3dgrp" Typ="Kombisignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="1;0;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props Name="&#39;F&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi500Bis="0" IndusiFile1000="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiPos1000="0" KennLimit="150" KennLimitHide="40" Pos="3490" SignalFile="\Signale\DB\Vorsignal\1958\dto\Vorsignal 1958.l3dgrp" Typ="Vorsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props ohneHp2="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+							<Position>
+								<Props Position="1;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiPos2000="0" KennLimit="150" KennLimitHide="40" Pos="2520" SignalFile="\Signale\Signalbauform 1958\Sperrsignale\Sperrsignal1958 niedrig.l3dgrp" Typ="Sonstiges" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="0.4;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+				</SIGNAL>
+				<Signaloptionen>
+					<Value>
+						<Props Pos="1000" Zs2="TRUE" Zs2Value="B"/>
+					</Value>
+				</Signaloptionen>
+				<Haltepunkt>
+					<Value>
+						<Props File="" Name="Uerbergen-Alfenau" Pos="700" Tafel="TRUE" TafelFile="\Objekte\Tafeln\Frieder\Ne6_FC.l3dgrp" TafelPos="430" ToleranzMinus="100" ToleranzPlus="50" Zuglaenge="0"/>
+						<TafelObjExtraData>
+							<Position>
+								<Props Position="3.5;0;0" Rotation="30;0;0"/>
+							</Position>
+						</TafelObjExtraData>
+					</Value>
+					<Value>
+						<Props File="" Name="Uerbergen Gbf" Pos="1370" ToleranzMinus="50" ToleranzPlus="50" Zuglaenge="0"/>
+					</Value>
+					<Value>
+						<Props File="" Name="Uerbergen" Pos="2100" ToleranzMinus="50" ToleranzPlus="50" Zuglaenge="0"/>
+					</Value>
+				</Haltepunkt>
+				<LZB>
+				</LZB>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</ZURUECK>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="Hauptgleis B"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="4" ParallelEnd="4000" ParallelGleis="Hauptgleis A" ParallelStart="0" StartPos="0" StartPunkt="0;0;0" Typ="Parallel" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
+			</Erstellung>
+			<KURVE>
+				<Props Ende="2000" SanfterWinkel="TRUE" Start="1850" Winkel="9"/>
+			</KURVE>
+			<KURVE>
+				<Props Ende="3000" SanfterWinkel="TRUE" Start="2500" Winkel="-30"/>
+			</KURVE>
+			<STEIGUNG>
+				<Props Ende="3000" Promille="19" SanfterWinkel="TRUE" Start="2500"/>
+			</STEIGUNG>
+			<KURVE>
+				<Props Ende="200" SanfterWinkel="TRUE" Start="650" Winkel="30"/>
+			</KURVE>
+		</TOPOLOGIE>
+		<Objecte>
+			<Object>
+				<Props Name="Bahnsteig R" Offset="0;0;0" Position="650" Qualitaet="1"/>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="20" Datei="\Objekte\Bahnsteige\Frieder\Seitenbahnsteig2.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0;-0.2;0" Winkel="0;0;0"/>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="Bahnsteig 1" Offset="0;0;0" Position="2100" Qualitaet="1"/>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="20" Datei="\Objekte\Bahnsteige\Frieder\Seitenbahnsteig2.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="11" Verschiebung="0;-0.2;0" Winkel="180;0;0"/>
+				</Eintrag>
+			</Object>
+		</Objecte>
+		<Hoeheunterbrechung>
+			<Landschaftsobjekt>
+				<Props Ende="3150" Start="3090"/>
+			</Landschaftsobjekt>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+			<VOR>
+				<STRECKENNAMEN>
+					<Props Copy="Hauptgleis A" Richtung="VOR"/>
+					<Value>
+						<Props Pos="800" Value="Uerbergen-Alfenau Hp"/>
+					</Value>
+					<Value>
+						<Props Pos="1000" Value="Esig"/>
+					</Value>
+					<Value>
+						<Props Pos="1600" Value="Zsig"/>
+					</Value>
+					<Value>
+						<Props Pos="1800" Value="Uerbergen Süd Bft"/>
+					</Value>
+					<Value>
+						<Props Pos="1875" Value="Zsig"/>
+					</Value>
+					<Value>
+						<Props Pos="2300" Value="Uerbergen"/>
+					</Value>
+					<Value>
+						<Props Pos="2350" Value="Asig"/>
+					</Value>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="80" KMHNEIG="80" KeinHp2="FALSE" NichtImFahrplan="TRUE" Pos="0"/>
+					</Value>
+					<Value>
+						<Props File="" KMH="60" KMHNEIG="60" KeinHp2="FALSE" NichtImFahrplan="TRUE" NurBeiHp0="TRUE" Pos="2200"/>
+					</Value>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi500Bis="0" IndusiFile1000="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiPos1000="0" KennLimit="150" KennLimitHide="40" Pos="300" SignalFile="\Signale\DB\Vorsignal\1958\dto\Vorsignal 1958.l3dgrp" Typ="Vorsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props ohneHp2="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+							<Position>
+								<Props Position="1;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="50" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiFile500="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiPos2000="0" IndusiPos500="250" KennLimit="150" KennLimitHide="40" Pos="1000" SignalFile="\Signale\DB\Kombisignal\1958\dto\Einfahrsignal 1958+Vorsignal-Zl-HRA-Zs2v.l3dgrp" Typ="KombisignalKenn" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="1;0;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props Name="&#39;B&#39;" ohneHp2="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile1000="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiFile2000="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiFile500="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" IndusiPos500="250" KennLimit="150" KennLimitHide="40" Pos="1890" SignalFile="\Signale\DB\Kombisignal\1958\dto\Ausfahrsignal 1958+Vorsignal-HRA-Zs2.l3dgrp" Typ="Kombisignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props Name="&#39;R1&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiFile500="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiPos2000="0" IndusiPos500="250" KennLimit="150" KennLimitHide="40" Pos="2350" SignalFile="\Signale\DB\Hauptsignal\1958\dto\Hauptsperrsignal_1959_Hp1.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props Name="&#39;N10&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi500Bis="0" IndusiFile1000="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiPos1000="0" KennLimit="150" KennLimitHide="40" Pos="1600" SignalFile="\Signale\DB\Vorsignal\1958\dto\Hauptsignalschirm+Vorsignal-HRA.l3dgrp" Typ="Vorsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props Name="&#39;An1&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+				</SIGNAL>
+				<Signaloptionen>
+					<Value>
+						<Props Pos="1000" Zs1="TRUE" Zs1Rnd="2"/>
+					</Value>
+					<Value>
+						<Props Pos="2200" Zs2="TRUE" Zs2Value="G"/>
+					</Value>
+				</Signaloptionen>
+				<Haltepunkt>
+					<Value>
+						<Props File="" Name="Uerbergen" Pos="2300" ToleranzMinus="50" ToleranzPlus="50" Zuglaenge="0"/>
+					</Value>
+					<Value>
+						<Props File="" Name="Uerbergen Gbf" Pos="1800" ToleranzMinus="50" ToleranzPlus="50" Zuglaenge="0"/>
+					</Value>
+					<Value>
+						<Props File="" Name="Uerbergen-Alfenau" Pos="800" Tafel="TRUE" TafelFile="\Objekte\Tafeln\Frieder\Ne6_FC.l3dgrp" TafelPos="700" ToleranzMinus="100" ToleranzPlus="50" Zuglaenge="0"/>
+						<TafelObjExtraData>
+							<Position>
+								<Props Position="3.5;0;0" Rotation="30;0;0"/>
+							</Position>
+						</TafelObjExtraData>
+					</Value>
+				</Haltepunkt>
+				<Bahnuebergang>
+					<Value>
+						<Props BueTyp="Signalgedeckt" Name="BÜ1100" Pos="1100" StoerWahrsch="0"/>
+					</Value>
+				</Bahnuebergang>
+				<RAIL>
+				</RAIL>
+				<RailQuality>
+				</RailQuality>
+				<LZB>
+				</LZB>
+				<Kilometrierung>
+				</Kilometrierung>
+				<IndusiExtra>
+					<Value>
+						<Props ControlType="EH" File="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" Freq="1000" KMH="0" KMHBIS="100" KMHBISNEIG="100" KMHNEIG="0" KmhPruef="50" Pos="1002" SigPos="1890"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="0;-1;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props ControlType="EG" File="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" Freq="1000" KMH="0" KMHBIS="100" KMHBISNEIG="100" KMHNEIG="0" KmhPruef="40" Pos="1001" SigPos="1890"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="0;-1;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+				</IndusiExtra>
+				<Ueberhoehung>
+				</Ueberhoehung>
+				<RailProps>
+				</RailProps>
+				<Bremswegabstand>
+					<Value>
+						<Props Meter="700" Pos="0" Toleranz="5"/>
+					</Value>
+				</Bremswegabstand>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</VOR>
+			<ZURUECK>
+				<STRECKENNAMEN>
+					<Props Copy="Hauptgleis A" Richtung="ZURUECK"/>
+					<Value>
+						<Props Pos="700" Value="Uerbergen-Alfenau Hp"/>
+					</Value>
+					<Value>
+						<Props Pos="1310" Value="Asig"/>
+					</Value>
+					<Value>
+						<Props Pos="1370" Value="Uerbergen Süd Bft"/>
+					</Value>
+					<Value>
+						<Props Pos="2090" Value="Zsig"/>
+					</Value>
+					<Value>
+						<Props Pos="2100" Value="Uerbergen"/>
+					</Value>
+					<Value>
+						<Props Pos="2790" Value="Esig"/>
+					</Value>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile1000="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiFile2000="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiFile500="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" IndusiPos500="250" KennLimit="150" KennLimitHide="40" Pos="2090" SignalFile="\Signale\DB\Kombisignal\1958\dto\Hauptsperrsignal+Vorsignal_1959-Zs2-Zs2v.l3dgrp" Typ="Kombisignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="0.6;0;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props Name="&#39;S10&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiFile500="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiPos2000="0" IndusiPos500="250" KennLimit="150" KennLimitHide="40" Pos="1310" SignalFile="\Signale\DB\Hauptsignal\1958\dto\Hauptsperrsignal_1959_Hp1.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props Name="&#39;P1&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile1000="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiFile2000="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiFile500="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" IndusiPos500="250" KennLimit="150" KennLimitHide="40" Pos="2790" SignalFile="\Signale\DB\Kombisignal\1958\dto\Einfahrsignal 1958+Vorsignal-Zs2v.l3dgrp" Typ="Kombisignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="1;0;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props Name="&#39;G&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi500Bis="0" IndusiFile1000="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiPos1000="0" KennLimit="150" KennLimitHide="40" Pos="3490" SignalFile="\Signale\DB\Vorsignal\1958\dto\Vorsignal 1958.l3dgrp" Typ="Vorsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props ohneHp2="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+							<Position>
+								<Props Position="1;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiPos2000="0" KennLimit="150" KennLimitHide="40" Pos="2475" SignalFile="\Signale\Signalbauform 1958\Sperrsignale\Sperrsignal1958 niedrig.l3dgrp" Typ="Sonstiges" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="0.4;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+				</SIGNAL>
+				<Signaloptionen>
+					<Value>
+						<Props Pos="1000" Zs2="TRUE" Zs2Value="F"/>
+					</Value>
+					<Value>
+						<Props Pos="1400" Zs2="TRUE" Zs2Value="F"/>
+					</Value>
+				</Signaloptionen>
+				<Haltepunkt>
+					<Value>
+						<Props File="" Name="Uerbergen-Alfenau" Pos="700" Tafel="TRUE" TafelFile="\Objekte\Tafeln\Frieder\Ne6_FC.l3dgrp" TafelPos="430" ToleranzMinus="100" ToleranzPlus="50" Zuglaenge="0"/>
+						<TafelObjExtraData>
+							<Position>
+								<Props Position="-3.5;0;0" Rotation="-30;0;0"/>
+							</Position>
+						</TafelObjExtraData>
+					</Value>
+					<Value>
+						<Props File="" Name="Uerbergen Gbf" Pos="1370" ToleranzMinus="50" ToleranzPlus="50" Zuglaenge="0"/>
+					</Value>
+					<Value>
+						<Props File="" Name="Uerbergen" Pos="2100" ToleranzMinus="50" ToleranzPlus="50" Zuglaenge="0"/>
+					</Value>
+				</Haltepunkt>
+				<LZB>
+				</LZB>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</ZURUECK>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="Gleis A1"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="4" ParallelEnd="2400" ParallelGleis="Hauptgleis A" ParallelStart="1960" StartPos="0" StartPunkt="0;0;0" Typ="Parallel" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
+			</Erstellung>
+			<KURVE>
+				<Props Ende="1960" SanfterWinkel="FALSE" Start="1980" Winkel="1.3"/>
+			</KURVE>
+			<Weiche>
+				<Props Anfang="Vorne" ErstellungsArt="NaechsteVerbindung" Gleis="Hauptgleis B" Kennung="W100" Kruemung="10" Position="0" WeichenWinkel="8" WeichenWinkelDynamisch="TRUE"/>
+			</Weiche>
+			<Kreuzung>
+				<Props Gleis="Gleis B1" Gleisverlauf="0" Kennung="W103" KreuzungsTyp="0" PositionBis="2100" PositionVon="1950" WeichenWinkel="8" WeichenWinkelDynamisch="TRUE"/>
+			</Kreuzung>
+			<Weiche>
+				<Props Anfang="Ende" ErstellungsArt="Annaeherung" Gleis="Hauptgleis A" Kennung="W202" Kruemung="15" Position="0" WeichenWinkel="7" WeichenWinkelDynamisch="FALSE"/>
+			</Weiche>
+		</TOPOLOGIE>
+		<Objecte>
+			<Object>
+				<Props Name="Bahnsteig 1" Offset="0;0;0" Position="2100" Qualitaet="1"/>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="20" Datei="\Objekte\Bahnsteige\Frieder\Seitenbahnsteig2.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0;-0.2;0" Winkel="0;0;0"/>
+				</Eintrag>
+			</Object>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+			<VOR>
+				<STRECKENNAMEN>
+					<Value>
+						<Props Pos="2300" Value="Uerbergen"/>
+					</Value>
+					<Value>
+						<Props Pos="2350" Value="Asig"/>
+					</Value>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="40" KMHNEIG="40" KeinHp2="FALSE" NichtImFahrplan="TRUE" Pos="1950"/>
+					</Value>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiFile500="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiPos2000="0" IndusiPos500="250" KennLimit="150" KennLimitHide="40" Pos="2350" SignalFile="\Signale\DB\Hauptsignal\1958\dto\Hauptsperrsignal_1959.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props Name="&#39;N1&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+				</SIGNAL>
+				<Signaloptionen>
+					<Value>
+						<Props Pos="2100" Zs2="TRUE" Zs2Value="Q"/>
+					</Value>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<Bahnuebergang>
+				</Bahnuebergang>
+				<RAIL>
+				</RAIL>
+				<RailQuality>
+				</RailQuality>
+				<LZB>
+				</LZB>
+				<Kilometrierung>
+				</Kilometrierung>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Ueberhoehung>
+				</Ueberhoehung>
+				<RailProps>
+				</RailProps>
+				<Bremswegabstand>
+				</Bremswegabstand>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</VOR>
+			<ZURUECK>
+				<STRECKENNAMEN>
+					<Value>
+						<Props Pos="2090" Value="Zsig"/>
+					</Value>
+					<Value>
+						<Props Pos="2100" Value="Uerbergen"/>
+					</Value>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="40" KMHNEIG="40" KeinHp2="FALSE" NichtImFahrplan="TRUE" Pos="2400"/>
+					</Value>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile1000="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiFile2000="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiFile500="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" IndusiPos500="250" KennLimit="150" KennLimitHide="40" Pos="2090" SignalFile="\Signale\DB\Kombisignal\1958\dto\Hauptsperrsignal+Vorsignal_1959-Zs2-Zs2v.l3dgrp" Typ="Kombisignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props Name="&#39;S1&#39;"/>
+							</Eigenschaften>
+							<Position>
+								<Props Position="0;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+					<Value>
+						<Props File="" Name="Uerbergen" Pos="2100" ToleranzMinus="50" ToleranzPlus="50" Zuglaenge="0"/>
+					</Value>
+				</Haltepunkt>
+				<LZB>
+				</LZB>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</ZURUECK>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="Gleis A3"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="-4" ParallelEnd="2400" ParallelGleis="Hauptgleis A" ParallelStart="1150" StartPos="0" StartPunkt="0;0;0" Typ="Parallel" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
+			</Erstellung>
+			<Ausweiche>
+				<Props Abstand="-6" Ende="3000" KurvenWeite="100" Start="2020"/>
+			</Ausweiche>
+			<Kreuzung>
+				<Props Gleis="Gleis B1" Gleisverlauf="0" Kennung="W101" KreuzungsTyp="0" PositionBis="2000" PositionVon="1900" WeichenWinkel="8" WeichenWinkelDynamisch="TRUE"/>
+			</Kreuzung>
+			<Kreuzung>
+				<Props Gleis="Gleis B1" Gleisverlauf="0" Kennung="W004" KreuzungsTyp="0" PositionBis="1300" PositionVon="1200" WeichenWinkel="8" WeichenWinkelDynamisch="TRUE"/>
+			</Kreuzung>
+			<KURVE>
+				<Props Ende="1190" SanfterWinkel="FALSE" Start="1220" Winkel="-2"/>
+			</KURVE>
+			<Weiche>
+				<Props Anfang="Ende" ErstellungsArt="Annaeherung" Gleis="Hauptgleis A" Kennung="W201" Kruemung="15" Position="0" WeichenWinkel="7" WeichenWinkelDynamisch="FALSE"/>
+			</Weiche>
+		</TOPOLOGIE>
+		<Objecte>
+			<Object>
+				<Props DynamicVisibility="36" FixedDynamicVisibility="FALSE" Name="Gebüsch" Offset="-5.3;0;0" Position="1450" Qualitaet="4"/>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="35" Datei="\Objekte\Pflanzen\Frieder\Rand\Busch\01Busch.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="TRUE" Position="0" Verschiebung="0;-0.5;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Random>
+						<Props SRAND="8480" XValue="2" YValue="0" ZValue="2"/>
+					</Random>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="35" Datei="\Objekte\Pflanzen\Frieder\Rand\Busch\131cBusch.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="TRUE" Position="3" Verschiebung="0;0;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Random>
+						<Props SRAND="6351" XValue="2" YValue="0" ZValue="2"/>
+					</Random>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="35" Datei="\Objekte\Pflanzen\Frieder\Rand\Busch\131bBusch.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="TRUE" Position="5" Verschiebung="0;0;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Random>
+						<Props SRAND="26301" XValue="2" YValue="0" ZValue="2"/>
+					</Random>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="35" Datei="\Objekte\Pflanzen\Frieder\Rand\Busch\02Busch.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="TRUE" Position="7" Verschiebung="-0.5;-2;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Random>
+						<Props SRAND="17756" XValue="1" YValue="0" ZValue="2.2"/>
+					</Random>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="14" Datei="\Objekte\Pflanzen\Frieder\Rand\Busch\02Busch.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="TRUE" Position="100" Verschiebung="-3;-2;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Random>
+						<Props SRAND="4145" XValue="1" YValue="0" ZValue="2.2"/>
+					</Random>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="Bahnsteig 3" Offset="0;0;0" Position="2100" Qualitaet="1"/>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="20" Datei="\Objekte\Bahnsteige\Frieder\Seitenbahnsteig2.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0;-0.2;0" Winkel="0;0;0"/>
+				</Eintrag>
+			</Object>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+			<Landschaftsobjekt>
+				<Props Abstand="20" Name="Gebüsch" Polygon="TRUE" Position="0" Scale="0.524807" Texture="TRUE" TextureFile="\Texturen\FriederC\Waldboden\Waldboden 02.bmp" Zwischenpunkte="TRUE"/>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="1800" Verschiebung="-2.7"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="1450" Verschiebung="-2.7"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="1450" Verschiebung="-7"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="1500" Verschiebung="-9"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="1550" Verschiebung="-10.5"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="1600" Verschiebung="-10"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="1800" Verschiebung="-6"/>
+				</Landschaftsobjekt>
+			</Landschaftsobjekt>
+			<Landschaftsobjekt>
+				<Props Abstand="20" Name="Gebüsch Höhe" Polygon="TRUE" Position="0" Scale="0.524807" Texture="TRUE" TextureFile="\Texturen\FriederC\Waldboden\Waldboden 02.bmp" Zwischenpunkte="TRUE"/>
+				<Landschaftsobjekt>
+					<Props Hoehe="1.5" Hoehefrei="FALSE" Position="1780" Verschiebung="-5"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="2" Hoehefrei="FALSE" Position="1700" Verschiebung="-6"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="2" Hoehefrei="FALSE" Position="1550" Verschiebung="-6"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="1.5" Hoehefrei="FALSE" Position="1470" Verschiebung="-5"/>
+				</Landschaftsobjekt>
+			</Landschaftsobjekt>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+			<VOR>
+				<STRECKENNAMEN>
+					<Value>
+						<Props Pos="1600" Value="Zsig"/>
+					</Value>
+					<Value>
+						<Props Pos="1800" Value="Uerbergen Süd Bft"/>
+					</Value>
+					<Value>
+						<Props Pos="1875" Value="Zsig"/>
+					</Value>
+					<Value>
+						<Props Pos="2300" Value="Uerbergen"/>
+					</Value>
+					<Value>
+						<Props Pos="2350" Value="Asig"/>
+					</Value>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="40" KMHNEIG="40" KeinHp2="FALSE" NichtImFahrplan="TRUE" Pos="1200"/>
+					</Value>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile1000="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiFile2000="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiFile500="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" IndusiPos500="250" KennLimit="150" KennLimitHide="40" Pos="1860" SignalFile="\Signale\DB\Kombisignal\1958\dto\Hauptsperrsignal+Vorsignal_Zl_1959-Zs2.l3dgrp" Typ="Kombisignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props Name="&#39;R3&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiFile500="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiPos2000="0" IndusiPos500="200" KennLimit="150" KennLimitHide="40" Pos="2350" SignalFile="\Signale\DB\Hauptsignal\1958\dto\Hauptsperrsignal_1959.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props Name="&#39;N3&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiPos2000="0" KennLimit="150" KennLimitHide="40" Pos="2040" SignalFile="\Signale\Signalbauform 1958\Sperrsignale\Sperrsignal1958 niedrig.l3dgrp" Typ="Sonstiges" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="0.4;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+				</SIGNAL>
+				<Signaloptionen>
+					<Value>
+						<Props Pos="2200" Zs2="TRUE" Zs2Value="Q"/>
+					</Value>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<Bahnuebergang>
+				</Bahnuebergang>
+				<RAIL>
+				</RAIL>
+				<RailQuality>
+				</RailQuality>
+				<LZB>
+				</LZB>
+				<Kilometrierung>
+				</Kilometrierung>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Ueberhoehung>
+				</Ueberhoehung>
+				<RailProps>
+				</RailProps>
+				<Bremswegabstand>
+				</Bremswegabstand>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</VOR>
+			<ZURUECK>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="40" KMHNEIG="40" KeinHp2="FALSE" NichtImFahrplan="TRUE" Pos="2400"/>
+					</Value>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiFile500="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiPos2000="0" IndusiPos500="250" KennLimit="150" KennLimitHide="40" Pos="1310" SignalFile="\Signale\DB\Hauptsignal\1958\dto\Hauptsperrsignal_1959-Zs2.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="1;0;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props Name="&#39;P3&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiPos2000="0" KennLimit="150" KennLimitHide="40" Pos="1955" SignalFile="\Signale\Signalbauform 1958\Sperrsignale\Sperrsignal1958 niedrig.l3dgrp" Typ="Sonstiges" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="0.7;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile1000="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiFile2000="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiFile500="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" IndusiPos500="250" KennLimit="150" KennLimitHide="40" Pos="2110" SignalFile="\Signale\DB\Kombisignal\1958\dto\Hauptsperrsignal+Vorsignal_1959-Zs2-Zs2v.l3dgrp" Typ="Kombisignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="0.6;0;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props Name="&#39;S3&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+					<Value>
+						<Props File="" Name="Uerbergen Gbf" Pos="1370" ToleranzMinus="50" ToleranzPlus="50" Zuglaenge="0"/>
+					</Value>
+					<Value>
+						<Props File="" Name="Uerbergen" Pos="2100" ToleranzMinus="50" ToleranzPlus="50" Zuglaenge="0"/>
+					</Value>
+				</Haltepunkt>
+				<LZB>
+				</LZB>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</ZURUECK>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="Gleis B1"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="-9" ParallelEnd="2440" ParallelGleis="Hauptgleis B" ParallelStart="1300" StartPos="0" StartPunkt="0;0;0" Typ="Parallel" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
+			</Erstellung>
+			<KURVE>
+				<Props Ende="1300" SanfterWinkel="FALSE" Start="1750" Winkel="14.5"/>
+			</KURVE>
+			<KURVE>
+				<Props Ende="1850" SanfterWinkel="TRUE" Start="2000" Winkel="-6"/>
+			</KURVE>
+			<KURVE>
+				<Props Ende="2430" SanfterWinkel="TRUE" Start="2400" Winkel="3"/>
+			</KURVE>
+			<KURVE>
+				<Props Ende="2380" SanfterWinkel="TRUE" Start="2350" Winkel="4"/>
+			</KURVE>
+			<Weiche>
+				<Props Anfang="Ende" ErstellungsArt="NaechsteVerbindung" Gleis="Hauptgleis B" Kennung="W300" Kruemung="10" Position="0" WeichenWinkel="8" WeichenWinkelDynamisch="TRUE"/>
+			</Weiche>
+			<Weiche>
+				<Props Anfang="Vorne" ErstellungsArt="NaechsteVerbindung" Gleis="Hauptgleis A" Kennung="W003" Kruemung="10" Position="0" WeichenWinkel="8" WeichenWinkelDynamisch="TRUE"/>
+			</Weiche>
+		</TOPOLOGIE>
+		<Objecte>
+			<Object>
+				<Props Name="Bahnsteig 6" Offset="0;0;0" Position="2100" Qualitaet="1"/>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="20" Datei="\Objekte\Bahnsteige\Frieder\Seitenbahnsteig2.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="11" Verschiebung="0;-0.2;0" Winkel="180;0;0"/>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="BÜ" Offset="0;0;0" Position="1645" Qualitaet="0"/>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Strassenschilder\DToepel\201-gelb.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="6" Verschiebung="7;0;0" Winkel="-30;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Strassenschilder\DToepel\201-gelb.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="6" Verschiebung="-7;0;0" Winkel="60;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Strassenschilder\DToepel\201-gelb.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="-6" Verschiebung="-7;0;0" Winkel="120;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Strassenschilder\DToepel\201-gelb.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="-6" Verschiebung="7;0;0" Winkel="210;0;0"/>
+				</Eintrag>
+			</Object>
+		</Objecte>
+		<Hoeheunterbrechung>
+			<Landschaftsobjekt>
+				<Props Ende="1650" Start="1640"/>
+			</Landschaftsobjekt>
+		</Hoeheunterbrechung>
+		<Landschaft>
+			<Landschaftsobjekt>
+				<Props Abstand="20" Name="Straße" Polygon="TRUE" Position="0" Scale="0.57544" Texture="TRUE" TextureFile="\Texturen\RainerZ\splitt_dkl.bmp" Zwischenpunkte="TRUE"/>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="1642" Verschiebung="-10"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="1642" Verschiebung="8"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="1600" Verschiebung="13"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="1400" Verschiebung="13"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="1400" Verschiebung="17"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="1610" Verschiebung="17"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="1650" Verschiebung="14"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="1700" Verschiebung="14"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="1750" Verschiebung="11"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="1750" Verschiebung="8"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="1648" Verschiebung="8"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="1648" Verschiebung="-100"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="1642" Verschiebung="-100"/>
+				</Landschaftsobjekt>
+			</Landschaftsobjekt>
+			<Landschaftsobjekt>
+				<Props Abstand="20" Name="BÜ" Polygon="TRUE" Position="1645" Scale="1" Texture="FALSE" TextureFile="" Zwischenpunkte="TRUE"/>
+				<Landschaftsobjekt>
+					<Props Hoehe="0.3" Hoehefrei="FALSE" Position="2" Verschiebung="8"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0.3" Hoehefrei="FALSE" Position="2" Verschiebung="-8"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0.3" Hoehefrei="FALSE" Position="-2" Verschiebung="-8"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0.3" Hoehefrei="FALSE" Position="-2" Verschiebung="8"/>
+				</Landschaftsobjekt>
+			</Landschaftsobjekt>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+			<VOR>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="40" KMHNEIG="40" KeinHp2="FALSE" NichtImFahrplan="TRUE" Pos="1250"/>
+					</Value>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile1000="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiFile2000="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiFile500="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" IndusiPos500="250" KennLimit="150" KennLimitHide="40" Pos="1580" SignalFile="\Signale\DB\Kombisignal\1958\dto\Hauptsperrsignal+Vorsignal_Zl_1959-Zs2.l3dgrp" Typ="Kombisignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="-0.25;0;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props Name="&#39;R6&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiPos2000="0" KennLimit="150" KennLimitHide="40" Pos="1880" SignalFile="\Signale\Signalbauform 1958\Sperrsignale\Sperrsignal1958 niedrig.l3dgrp" Typ="Sonstiges" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="0.7;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiFile500="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiPos2000="0" IndusiPos500="250" KennLimit="150" KennLimitHide="40" Pos="2350" SignalFile="\Signale\DB\Hauptsignal\1958\dto\Hauptsperrsignal_1959.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props Name="&#39;N6&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+				</SIGNAL>
+				<Signaloptionen>
+					<Value>
+						<Props Pos="2200" Zs2="TRUE" Zs2Value="G"/>
+					</Value>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<Bahnuebergang>
+				</Bahnuebergang>
+				<RAIL>
+				</RAIL>
+				<RailQuality>
+				</RailQuality>
+				<LZB>
+				</LZB>
+				<Kilometrierung>
+				</Kilometrierung>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Ueberhoehung>
+				</Ueberhoehung>
+				<RailProps>
+				</RailProps>
+				<Bremswegabstand>
+				</Bremswegabstand>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</VOR>
+			<ZURUECK>
+				<STRECKENNAMEN>
+					<Value>
+						<Props Pos="1310" Value="Asig"/>
+					</Value>
+					<Value>
+						<Props Pos="1370" Value="Uerbergen Süd Bft"/>
+					</Value>
+					<Value>
+						<Props Pos="2090" Value="Zsig"/>
+					</Value>
+					<Value>
+						<Props Pos="2100" Value="Uerbergen"/>
+					</Value>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="40" KMHNEIG="40" KeinHp2="FALSE" NichtImFahrplan="TRUE" Pos="2400"/>
+					</Value>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiFile500="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiPos2000="0" IndusiPos500="250" KennLimit="150" KennLimitHide="40" Pos="1313" SignalFile="\Signale\DB\Hauptsignal\1958\dto\Hauptsperrsignal_1959-Zs2.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="1;0;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props Name="&#39;P6&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiPos2000="0" KennLimit="150" KennLimitHide="40" Pos="1810" SignalFile="\Signale\Signalbauform 1958\Sperrsignale\Sperrsignal1958 niedrig.l3dgrp" Typ="Sonstiges" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="0.2;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile1000="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiFile2000="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiFile500="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" IndusiPos500="250" KennLimit="150" KennLimitHide="40" Pos="2090" SignalFile="\Signale\DB\Kombisignal\1958\dto\Hauptsperrsignal+Vorsignal_1959-Zs2-Zs2v.l3dgrp" Typ="Kombisignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="0.6;0;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props Name="&#39;S6&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+					<Value>
+						<Props File="" Name="Uerbergen Gbf" Pos="1370" ToleranzMinus="50" ToleranzPlus="50" Zuglaenge="0"/>
+					</Value>
+					<Value>
+						<Props File="" Name="Uerbergen" Pos="2100" ToleranzMinus="50" ToleranzPlus="50" Zuglaenge="0"/>
+					</Value>
+				</Haltepunkt>
+				<LZB>
+				</LZB>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</ZURUECK>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="Gleis 5"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="4" ParallelEnd="1800" ParallelGleis="Gleis B1" ParallelStart="1320" StartPos="0" StartPunkt="0;0;0" Typ="Parallel" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
+			</Erstellung>
+			<Weiche>
+				<Props Anfang="Vorne" ErstellungsArt="NaechsteVerbindung" Gleis="Gleis A3" Kennung="W005" Kruemung="10" Position="0" WeichenWinkel="8" WeichenWinkelDynamisch="TRUE"/>
+			</Weiche>
+			<KURVE>
+				<Props Ende="1800" SanfterWinkel="FALSE" Start="1750" Winkel="2"/>
+			</KURVE>
+		</TOPOLOGIE>
+		<Objecte>
+		</Objecte>
+		<Hoeheunterbrechung>
+			<Landschaftsobjekt>
+				<Props Ende="1650" Start="1640"/>
+			</Landschaftsobjekt>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+			<VOR>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiPos2000="0" KennLimit="150" KennLimitHide="40" Pos="1635" SignalFile="\Signale\Signalbauform 1958\Sperrsignale\Sperrsignal1958 niedrig.l3dgrp" Typ="Sonstiges" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="0.2;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<Bahnuebergang>
+				</Bahnuebergang>
+				<RAIL>
+				</RAIL>
+				<RailQuality>
+				</RailQuality>
+				<LZB>
+				</LZB>
+				<Kilometrierung>
+				</Kilometrierung>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Ueberhoehung>
+				</Ueberhoehung>
+				<RailProps>
+				</RailProps>
+				<Bremswegabstand>
+				</Bremswegabstand>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</VOR>
+			<ZURUECK>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiPos2000="0" KennLimit="150" KennLimitHide="40" Pos="1313" SignalFile="\Signale\Signalbauform 1958\Sperrsignale\Sperrsignal1958 niedrig.l3dgrp" Typ="Sonstiges" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="0.2;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<LZB>
+				</LZB>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</ZURUECK>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="Gleis 4"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="4" ParallelEnd="1550" ParallelGleis="Gleis 5" ParallelStart="1400" StartPos="0" StartPunkt="0;0;0" Typ="Parallel" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
+			</Erstellung>
+			<Weiche>
+				<Props Anfang="Ende" ErstellungsArt="Annaeherung" Gleis="Gleis 5" Kennung="W409" Kruemung="20" Position="0" WeichenWinkel="8" WeichenWinkelDynamisch="FALSE"/>
+			</Weiche>
+		</TOPOLOGIE>
+		<Objecte>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="Gleis 7"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="-4" ParallelEnd="2000" ParallelGleis="Gleis B1" ParallelStart="1400" StartPos="0" StartPunkt="0;0;0" Typ="Parallel" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
+			</Erstellung>
+			<KURVE>
+				<Props Ende="1850" SanfterWinkel="TRUE" Start="1810" Winkel="-6.1"/>
+			</KURVE>
+			<KURVE>
+				<Props Ende="1900" SanfterWinkel="FALSE" Start="1850" Winkel="1.5"/>
+			</KURVE>
+			<Kreuzung>
+				<Props Gleis="Gleis 8" Gleisverlauf="0" Kennung="W403" KreuzungsTyp="0" PositionBis="1900" PositionVon="1800" WeichenWinkel="8" WeichenWinkelDynamisch="TRUE"/>
+			</Kreuzung>
+			<Weiche>
+				<Props Anfang="Ende" ErstellungsArt="NaechsteVerbindung" Gleis="Gleis A3" Kennung="W404" Kruemung="10" Position="0" WeichenWinkel="8" WeichenWinkelDynamisch="TRUE"/>
+			</Weiche>
+		</TOPOLOGIE>
+		<Objecte>
+		</Objecte>
+		<Hoeheunterbrechung>
+			<Landschaftsobjekt>
+				<Props Ende="1650" Start="1640"/>
+			</Landschaftsobjekt>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+			<VOR>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiPos2000="0" KennLimit="150" KennLimitHide="40" Pos="1580" SignalFile="\Signale\Signalbauform 1958\Sperrsignale\Sperrsignal1958 niedrig.l3dgrp" Typ="Sonstiges" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="0.2;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiPos2000="0" KennLimit="150" KennLimitHide="40" Pos="2037" SignalFile="\Signale\Signalbauform 1958\Sperrsignale\Sperrsignal1958 niedrig.l3dgrp" Typ="Sonstiges" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="0.5;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<Bahnuebergang>
+				</Bahnuebergang>
+				<RAIL>
+				</RAIL>
+				<RailQuality>
+				</RailQuality>
+				<LZB>
+				</LZB>
+				<Kilometrierung>
+				</Kilometrierung>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Ueberhoehung>
+				</Ueberhoehung>
+				<RailProps>
+				</RailProps>
+				<Bremswegabstand>
+				</Bremswegabstand>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</VOR>
+			<ZURUECK>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiPos2000="0" KennLimit="150" KennLimitHide="40" Pos="1655" SignalFile="\Signale\Signalbauform 1958\Sperrsignale\Sperrsignal1958 niedrig.l3dgrp" Typ="Sonstiges" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="0.7;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<LZB>
+				</LZB>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</ZURUECK>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="Gleis 8"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="-4.2" ParallelEnd="2000" ParallelGleis="Gleis 7" ParallelStart="1840" StartPos="0" StartPunkt="0;0;0" Typ="Parallel" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
+			</Erstellung>
+			<Weiche>
+				<Props Anfang="Vorne" ErstellungsArt="NaechsteVerbindung" Gleis="Gleis B1" Kennung="W401" Kruemung="10" Position="0" WeichenWinkel="8" WeichenWinkelDynamisch="TRUE"/>
+			</Weiche>
+			<Weiche>
+				<Props Anfang="Ende" ErstellungsArt="NaechsteVerbindung" Gleis="Gleis A3" Kennung="W405" Kruemung="10" Position="0" WeichenWinkel="8" WeichenWinkelDynamisch="TRUE"/>
+			</Weiche>
+		</TOPOLOGIE>
+		<Objecte>
+			<Object>
+				<Props Name="Lokschuppen" Offset="0;0;0" Position="1940" Qualitaet="3"/>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Haeuser\DToepel\Betriebswerk\Lokschuppen3st.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="-7;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Haeuser\DToepel\Betriebswerk\ET\Lokschuppen1c.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="25" Verschiebung="-6.6;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+			</Object>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+			<VOR>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\JulianG\PZB\Indusimagnet2.l3dgrp" IndusiPos2000="0" KennLimit="150" KennLimitHide="40" Pos="2057" SignalFile="\Signale\Signalbauform 1958\Sperrsignale\Sperrsignal1958 niedrig.l3dgrp" Typ="Sonstiges" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="0.2;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<Bahnuebergang>
+				</Bahnuebergang>
+				<RAIL>
+				</RAIL>
+				<RailQuality>
+				</RailQuality>
+				<LZB>
+				</LZB>
+				<Kilometrierung>
+				</Kilometrierung>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Ueberhoehung>
+				</Ueberhoehung>
+				<RailProps>
+				</RailProps>
+				<Bremswegabstand>
+				</Bremswegabstand>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</VOR>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="Gleis 9"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="-4.2" ParallelEnd="1960" ParallelGleis="Gleis 8" ParallelStart="1920" StartPos="0" StartPunkt="0;0;0" Typ="Parallel" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
+			</Erstellung>
+			<Weiche>
+				<Props Anfang="Vorne" ErstellungsArt="Annaeherung" Gleis="Gleis 8" Kennung="W402" Kruemung="20" Position="0" WeichenWinkel="8" WeichenWinkelDynamisch="FALSE"/>
+			</Weiche>
+		</TOPOLOGIE>
+		<Objecte>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="Verbindung B-A"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="-10" ParallelEnd="0" ParallelGleis="" ParallelStart="0" StartPos="0" StartPunkt="0;0;0" Typ="Weiche" WeicheEnd="10" WeicheGleis="Hauptgleis B" WeicheGleisPos="1150" WeicheGleisRichtung="1" WeicheName="W001" WeicheStart="0" WeichenWinkel="7" Winkel="0"/>
+			</Erstellung>
+			<Weiche>
+				<Props Anfang="Ende" ErstellungsArt="Annaeherung" Gleis="Hauptgleis A" Kennung="W002" Kruemung="10" Position="0" WeichenWinkel="7" WeichenWinkelDynamisch="FALSE"/>
+			</Weiche>
+		</TOPOLOGIE>
+		<Objecte>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+			<VOR>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="40" KMHNEIG="40" KeinHp2="FALSE" NichtImFahrplan="TRUE" Pos="0"/>
+					</Value>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<Bahnuebergang>
+				</Bahnuebergang>
+				<RAIL>
+				</RAIL>
+				<RailQuality>
+				</RailQuality>
+				<LZB>
+				</LZB>
+				<Kilometrierung>
+				</Kilometrierung>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Ueberhoehung>
+				</Ueberhoehung>
+				<RailProps>
+				</RailProps>
+				<Bremswegabstand>
+				</Bremswegabstand>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</VOR>
+			<ZURUECK>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="40" KMHNEIG="40" KeinHp2="FALSE" NichtImFahrplan="TRUE" Pos="10"/>
+					</Value>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<LZB>
+				</LZB>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</ZURUECK>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="Verbindung B1-B2"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="-10" ParallelEnd="0" ParallelGleis="" ParallelStart="0" StartPos="0" StartPunkt="0;0;0" Typ="Weiche" WeicheEnd="10" WeicheGleis="Gleis B1" WeicheGleisPos="2010" WeicheGleisRichtung="0" WeicheName="W104" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
+			</Erstellung>
+			<Weiche>
+				<Props Anfang="Ende" ErstellungsArt="NaechsteVerbindung" Gleis="Hauptgleis B" Kennung="W106" Kruemung="10" Position="0" WeichenWinkel="8" WeichenWinkelDynamisch="TRUE"/>
+			</Weiche>
+		</TOPOLOGIE>
+		<Objecte>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+			<VOR>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="40" KMHNEIG="40" KeinHp2="FALSE" NichtImFahrplan="TRUE" Pos="0"/>
+					</Value>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<Bahnuebergang>
+				</Bahnuebergang>
+				<RAIL>
+				</RAIL>
+				<RailQuality>
+				</RailQuality>
+				<LZB>
+				</LZB>
+				<Kilometrierung>
+				</Kilometrierung>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Ueberhoehung>
+				</Ueberhoehung>
+				<RailProps>
+				</RailProps>
+				<Bremswegabstand>
+				</Bremswegabstand>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</VOR>
+			<ZURUECK>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="40" KMHNEIG="40" KeinHp2="FALSE" NichtImFahrplan="TRUE" Pos="10"/>
+					</Value>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<LZB>
+				</LZB>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</ZURUECK>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="Verbindung 7-6"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="-10" ParallelEnd="0" ParallelGleis="" ParallelStart="0" StartPos="0" StartPunkt="0;0;0" Typ="Weiche" WeicheEnd="10" WeicheGleis="Gleis 7" WeicheGleisPos="1595" WeicheGleisRichtung="0" WeicheName="W407" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
+			</Erstellung>
+			<Weiche>
+				<Props Anfang="Ende" ErstellungsArt="NaechsteVerbindung" Gleis="Gleis B1" Kennung="W408" Kruemung="10" Position="0" WeichenWinkel="8" WeichenWinkelDynamisch="TRUE"/>
+			</Weiche>
+		</TOPOLOGIE>
+		<Objecte>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="Verbindung 5-6"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="-10" ParallelEnd="0" ParallelGleis="" ParallelStart="0" StartPos="0" StartPunkt="0;0;0" Typ="Weiche" WeicheEnd="10" WeicheGleis="Gleis 5" WeicheGleisPos="1670" WeicheGleisRichtung="1" WeicheName="W410" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
+			</Erstellung>
+			<Weiche>
+				<Props Anfang="Ende" ErstellungsArt="NaechsteVerbindung" Gleis="Gleis B1" Kennung="W411" Kruemung="10" Position="0" WeichenWinkel="8" WeichenWinkelDynamisch="TRUE"/>
+			</Weiche>
+		</TOPOLOGIE>
+		<Objecte>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="Straße"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="400" ParallelAbstand="-10" ParallelEnd="0" ParallelGleis="" ParallelStart="0" StartPos="0" StartPunkt="-300;0;1056.199951" Typ="Normal" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="80"/>
+			</Erstellung>
+		</TOPOLOGIE>
+		<Objecte>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+			<VOR>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<Bahnuebergang>
+				</Bahnuebergang>
+				<RAIL>
+					<Value>
+						<Props Pos="0" RAILVALUE="\Rails\strasse_10m.l3drail"/>
+					</Value>
+				</RAIL>
+				<RailQuality>
+				</RailQuality>
+				<LZB>
+				</LZB>
+				<Kilometrierung>
+				</Kilometrierung>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Ueberhoehung>
+				</Ueberhoehung>
+				<RailProps>
+				</RailProps>
+				<Bremswegabstand>
+				</Bremswegabstand>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</VOR>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+</STRECKE>

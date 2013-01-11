@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="" FileInfo="Erstellt mit L3D ObjectCreator, Version 0.99" FilePicture="" Texture="Lokschuppen3d.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="0.1;0;0" Vekt="0.2;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0.07;0;-0.07" Vekt="0.14;0;-0.14"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;-0.1" Vekt="0;0;-0.2"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.07;0;-0.07" Vekt="-0.14;0;-0.14"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.1;0;0" Vekt="-0.2;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.07;0;0.07" Vekt="-0.14;0;0.14"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;0.1" Vekt="0;0;0.2"/>
+	</Point>
+	<Point>
+		<Props Normal="0.07;0;0.07" Vekt="0.14;0;0.14"/>
+	</Point>
+	<Point>
+		<Props Normal="0.1;0;0" Vekt="0.2;1.5;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0.07;0;-0.07" Vekt="0.14;1.5;-0.14"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;-0.1" Vekt="0;1.5;-0.2"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.07;0;-0.07" Vekt="-0.14;1.5;-0.14"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.1;0;0" Vekt="-0.2;1.5;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.07;0;0.07" Vekt="-0.14;1.5;0.14"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;0.1" Vekt="0;1.5;0.2"/>
+	</Point>
+	<Point>
+		<Props Normal="0.07;0;0.07" Vekt="0.14;1.5;0.14"/>
+	</Point>
+	<Point>
+		<Props Normal="0.3;0;0" Vekt="0.6;1.5;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0.21;0;-0.21" Vekt="0.42;1.5;-0.42"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;-0.3" Vekt="0;1.5;-0.6"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.21;0;-0.21" Vekt="-0.42;1.5;-0.42"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.3;0;0" Vekt="-0.6;1.5;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.21;0;0.21" Vekt="-0.42;1.5;0.42"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;0.3" Vekt="0;1.5;0.6"/>
+	</Point>
+	<Point>
+		<Props Normal="0.21;0;0.21" Vekt="0.42;1.5;0.42"/>
+	</Point>
+	<Point>
+		<Props Normal="0.1;0;0" Vekt="0.2;1.9;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0.07;0;-0.07" Vekt="0.14;1.9;-0.14"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;-0.1" Vekt="0;1.9;-0.2"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.07;0;-0.07" Vekt="-0.14;1.9;-0.14"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.1;0;0" Vekt="-0.2;1.9;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.07;0;0.07" Vekt="-0.14;1.9;0.14"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;0.1" Vekt="0;1.9;0.2"/>
+	</Point>
+	<Point>
+		<Props Normal="0.07;0;0.07" Vekt="0.14;1.9;0.14"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;8;9;1" Texture="5,5;50,5;50,50;5,50"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="1;9;10;2" Texture="5,5;50,5;50,50;5,50"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="2;10;11;3" Texture="5,5;50,5;50,50;5,50"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;11;12;4" Texture="5,5;50,5;50,50;5,50"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;12;13;5" Texture="5,5;50,5;50,50;5,50"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="5;13;14;6" Texture="5,5;50,5;50,50;5,50"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="6;14;15;7" Texture="5,5;50,5;50,50;5,50"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;15;8;0" Texture="5,5;50,5;50,50;5,50"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="16;24;25;17" Texture="5,5;50,5;50,50;5,50"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="17;25;26;18" Texture="5,5;50,5;50,50;5,50"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="18;26;27;19" Texture="5,5;50,5;50,50;5,50"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="19;27;28;20" Texture="5,5;50,5;50,50;5,50"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="20;28;29;21" Texture="5,5;50,5;50,50;5,50"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="21;29;30;22" Texture="5,5;50,5;50,50;5,50"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="22;30;31;23" Texture="5,5;50,5;50,50;5,50"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="23;31;24;16" Texture="5,5;50,5;50,50;5,50"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="24;25;26;27;28;29;30;31" Texture="0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0"/>
+	</Flaeche>
+</OBJECT>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<OBJECT>
+	<Props TransparentTyp="0" Beleuchtet="FALSE" Transparent="FALSE" FilePicture="" FileAuthor="" FileInfo="" Drawrueckseiten="FALSE" TransTexture="" Texture="Schaltkasten.bmp"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="-0.3;0;0.2"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.3;0;0.2"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.3;1;0.2"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="-0.3;1;0.2"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="-0.3;0;0.5"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="0.3;0;0.5"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.3;1;0.5"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="-0.3;1;0.5"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;3;2;1" Texture="3,242;6,3;172,6;169,242"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="1;2;6;5" Texture="14,10;9,236;45,239;54,11"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="6;7;4;5" Texture="6,4;171,6;170,241;3,242"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;3;0;4" Texture="112,9;168,12;165,241;122,237"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="2;3;7;6" Texture="25,74;17,155;150,165;162,91"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="0;1;5;4" Texture="21,76;17,166;152,158;154,75"/>
+	</Flaeche>
+</OBJECT>

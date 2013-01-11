@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FONT>
+	<Props FileAuthor="" FileInfo="" FilePicture="" Fonthoehe="64" Texture="Richtungen-gelb.bmp"/>
+	<Zeichen>
+		<Props Width="46" X="6" Y="3" Zeichen="A"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="46" X="61" Y="3" Zeichen="B"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="46" X="116" Y="3" Zeichen="C"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="46" X="172" Y="3" Zeichen="D"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="46" X="228" Y="3" Zeichen="E"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="46" X="284" Y="3" Zeichen="F"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="46" X="339" Y="3" Zeichen="G"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="46" X="6" Y="76" Zeichen="H"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="46" X="61" Y="76" Zeichen="I"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="46" X="116" Y="76" Zeichen="J"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="46" X="172" Y="76" Zeichen="K"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="46" X="228" Y="76" Zeichen="L"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="46" X="284" Y="76" Zeichen="M"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="46" X="339" Y="76" Zeichen="N"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="46" X="6" Y="156" Zeichen="O"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="46" X="61" Y="156" Zeichen="P"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="46" X="116" Y="156" Zeichen="Q"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="46" X="172" Y="156" Zeichen="R"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="46" X="228" Y="156" Zeichen="S"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="46" X="284" Y="156" Zeichen="T"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="46" X="339" Y="156" Zeichen="U"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="46" X="6" Y="236" Zeichen="V"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="46" X="61" Y="236" Zeichen="W"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="46" X="116" Y="236" Zeichen="X"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="46" X="172" Y="236" Zeichen="Y"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="46" X="228" Y="236" Zeichen="Z"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="46" X="284" Y="236" Zeichen="Ö"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="46" X="339" Y="236" Zeichen="Ü"/>
+	</Zeichen>
+</FONT>

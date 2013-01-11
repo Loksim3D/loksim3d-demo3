@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<OBJECT>
+	<Props TransparentTyp="1" Beleuchtet="FALSE" Transparent="TRUE" FilePicture="" FileAuthor="" FileInfo="" Drawrueckseiten="FALSE" TransTexture="" Texture="andreaskreuz.bmp"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0;1.25;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.8;1.25;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.8;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="0;1.25;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.8;1.25;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="0.8;0;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="0,368;0,0;281,0;281,368"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;6;5;4" Texture="296,367;296,20;563,20;563,367"/>
+	</Flaeche>
+</OBJECT>

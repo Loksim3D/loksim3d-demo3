@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<OBJECT>
+	<Props TransparentTyp="2" Beleuchtet="FALSE" Transparent="FALSE" FilePicture="" FileAuthor="" FileInfo="" Drawrueckseiten="TRUE" TransTexture="" Texture="Signalmast-Vorsignal.bmp"/>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="-0.065;4.7;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.065;4.7;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.065;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="-0.065;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="-0.065;4.7;0.26"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.065;4.7;0.26"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.065;0;0.26"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="-0.065;0;0.26"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="3,0;11,0;11,388;3,388"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;6;7" Texture="3,0;11,0;11,388;3,388"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="1;5;6;2" Texture="17,37;42,37;42,388;17,388"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="0;4;7;3" Texture="42,38;17,38;17,388;42,388"/>
+	</Flaeche>
+</OBJECT>

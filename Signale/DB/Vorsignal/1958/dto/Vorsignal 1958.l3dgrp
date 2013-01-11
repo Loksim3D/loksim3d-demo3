@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="Sebastian Kircher" FileDoku="" FileInfo="Lichtvorsignal Bauform 1958 /nder Deutschen Bundesbahn/nSignalbegriffe Vr0&#47;Vr1&#47;Vr2/n/n(c) 20. 03. 2004 www.loksimportal.de" FilePicture="Vorsignal 1958.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Signalbauform 1958\Einzelteile\Signalmast-Vorsignal.l3dobj" Position="2;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Signalbauform 1958\Einzelteile\Schirm-Vorsignal.l3dobj" Position="1.5;4;-0.25" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Signalbauform 1958\Einzelteile\Schaltkasten.l3dobj" Position="2;0.4;0.05" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Signalbauform 1958\Einzelteile\Vorsignaltafel.l3dobj" Position="1.7;0.4;-0.15" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Signalbauform 1958\Einzelteile\Halterung15cm.l3dobj" Position="2;0.5;0.03" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Signalbauform 1958\Einzelteile\Halterung15cm.l3dobj" Position="2;1.25;0.03" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Signalbauform 1958\Einzelteile\Halterung25cm.l3dobj" Position="2;4.5;0.05" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Signalbauform 1958\Einzelteile\Signalkorb-Vorsignal.l3dobj" Position="2;3.65;0.1" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Signalbauform 1958\Einzelteile\1958-Blende breit.l3dobj" Position="2;4.85;-0.25" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Signalbauform 1958\Einzelteile\1958-Blende breit.l3dobj" Position="1.5;4.34;-0.25" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\DB\Kombisignal\1958\dto\einzelteile\1958-gruen.l3dobj" Position="1.77;4.19;-0.26" Rotation="0;0;0" ShowOn="Vr1" WeitSichtbar="FALSE" ZoomFaktor="2"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\DB\Kombisignal\1958\dto\einzelteile\1958-gruen.l3dobj" Position="2.26;4.7;-0.26" Rotation="0;0;0" ShowOn="Vr1" WeitSichtbar="FALSE" ZoomFaktor="2"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\DB\Kombisignal\1958\dto\einzelteile\1958-gelb.l3dobj" Position="1.6;4.19;-0.26" Rotation="0;0;0" ShowOn="Vr0" WeitSichtbar="FALSE" ZoomFaktor="2"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\DB\Kombisignal\1958\dto\einzelteile\1958-gelb.l3dobj" Position="2.09;4.7;-0.26" Rotation="0;0;0" ShowOn="Vr0" WeitSichtbar="FALSE" ZoomFaktor="2"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\DB\Kombisignal\1958\dto\einzelteile\1958-gelb.l3dobj" Position="1.6;4.19;-0.26" Rotation="0;0;0" ShowOn="Vr2" WeitSichtbar="FALSE" ZoomFaktor="2"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\DB\Kombisignal\1958\dto\einzelteile\1958-gruen.l3dobj" Position="2.26;4.7;-0.26" Rotation="0;0;0" ShowOn="Vr2" WeitSichtbar="FALSE" ZoomFaktor="2"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\scheingruen.l3dobj" Position="1.85;4.27;-0.2" Rotation="0;0;0" ShowOn="Vr1" WeitSichtbar="FALSE" ZoomFaktor="70"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\scheingruen.l3dobj" Position="2.33;4.78;-0.2" Rotation="0;0;0" ShowOn="Vr1" WeitSichtbar="FALSE" ZoomFaktor="70"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\scheingelb.l3dobj" Position="1.7;4.27;-0.2" Rotation="0;0;0" ShowOn="Vr0" WeitSichtbar="FALSE" ZoomFaktor="70"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\scheingelb.l3dobj" Position="2.17;4.78;-0.2" Rotation="0;0;0" ShowOn="Vr0" WeitSichtbar="FALSE" ZoomFaktor="70"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\scheingelb.l3dobj" Position="1.7;4.27;-0.2" Rotation="0;0;0" ShowOn="Vr2" WeitSichtbar="FALSE" ZoomFaktor="70"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\scheingruen.l3dobj" Position="2.33;4.78;-0.2" Rotation="0;0;0" ShowOn="Vr2" WeitSichtbar="FALSE" ZoomFaktor="70"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Sockel_Hp-Vr.l3dobj" Position="1.7;0;-0.15" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+</GRUPPENOBJECT>

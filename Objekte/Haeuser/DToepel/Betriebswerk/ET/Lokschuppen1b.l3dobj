@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="" FileDoku="" FileInfo="" FilePicture="" Texture="Lokschuppen1b.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0;0.15;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="9;0.15;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="9;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="0;0;27"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="0;0.15;27"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="9;0.15;27"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="9;0;27"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="4,200;3,210;374,204;371,198"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;6;5;4" Texture="1,196;244,196;244,207;5,203"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;2;6;7" Texture="3,205;3,196;622,196;621,206"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;1;0" Texture="3,205;2,195;604,197;604,204"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="1;5;6;2" Texture="636,190;2,188;0,2;635,2"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="0;3;7;4" Texture="3,376;2,195;633,197;634,378"/>
+	</Flaeche>
+</OBJECT>

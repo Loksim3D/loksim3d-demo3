@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<OBJECT>
+	<Props TransparentTyp="1" Beleuchtet="TRUE" Transparent="TRUE" FilePicture="" FileAuthor="" FileInfo="" Drawrueckseiten="FALSE" TransTexture="" Texture="BÜ Ampel.bmp"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0;0.33;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.33;0.33;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.33;0;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="68,64;68,0;131,0;131,64"/>
+	</Flaeche>
+</OBJECT>

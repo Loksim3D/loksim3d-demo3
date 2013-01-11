@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<OBJECT>
+	<Props TransparentTyp="3" Beleuchtet="TRUE" Transparent="FALSE" FilePicture="" FileAuthor="" FileInfo="" Drawrueckseiten="FALSE" TransTexture="Scheinalpha.bmp" Texture="Scheinrot.bmp"/>
+	<Point>
+		<Props Normal="1;1;1" Vekt="-0.018;0.018;-0.003"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.018;0.018;-0.003"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.018;-0.018;-0.003"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="-0.018;-0.018;-0.003"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="0,0;97,1;98,98;0,98"/>
+	</Flaeche>
+</OBJECT>

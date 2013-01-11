@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="Frieder Cramer" FileDoku="" FileInfo="Lokschuppen befahrbar /nmit getönten Glasscheiben/nSchienenabstand 5m/nTüren einzeln zu öffnen" FilePicture="Lokschuppen2st.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\Lokschuppen1a.l3dobj" Position="0;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\Lokschuppen1b.l3dobj" Position="-0.8;5.5;-1" Rotation="0;30;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\Lokschuppen1b.l3dobj" Position="6.9;10;-1" Rotation="0;-30;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Haeuser\Frieder\Betriebswerk\ET\Lokschuppen3d.l3dobj" Position="2.5;7.5;5" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Haeuser\Frieder\Betriebswerk\ET\Lokschuppen3d.l3dobj" Position="2.5;7.5;20" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Haeuser\Frieder\Betriebswerk\ET\Lokschuppen3d.l3dobj" Position="11;7.5;20" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Haeuser\Frieder\Betriebswerk\ET\Lokschuppen3d.l3dobj" Position="11;7.5;5" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tor1auf" Name="ET\Lokschuppen1c.l3dobj" Position="0.4;0;-0.1" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tor1auf" Name="ET\Lokschuppen1c1.l3dobj" Position="2.35;0;-0.1" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\Lokschuppen1c.l3dobj" Position="0.9;0;0.5" Rotation="95;0;0" ShowOn="Tor1auf" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\Lokschuppen1c1.l3dobj" Position="4.95;0;-2.5" Rotation="-93;0;0" ShowOn="Tor1auf" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tor2auf" Name="ET\Lokschuppen1c.l3dobj" Position="4.55;0;-0.1" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tor2auf" Name="ET\Lokschuppen1c1.l3dobj" Position="6.5;0;-0.1" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\Lokschuppen1c.l3dobj" Position="5.1;0;0.5" Rotation="95;0;0" ShowOn="Tor2auf" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\Lokschuppen1c1.l3dobj" Position="9.1;0;-2.5" Rotation="-93;0;0" ShowOn="Tor2auf" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tor3auf" Name="ET\Lokschuppen1c.l3dobj" Position="8.7;0;-0.1" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tor3auf" Name="ET\Lokschuppen1c1.l3dobj" Position="10.65;0;-0.1" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\Lokschuppen1c.l3dobj" Position="9.25;0;0.5" Rotation="95;0;0" ShowOn="Tor3auf" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\Lokschuppen1c1.l3dobj" Position="13.26;0;-2.5" Rotation="-93;0;0" ShowOn="Tor3auf" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tor4auf" Name="ET\Lokschuppen1c.l3dobj" Position="2.35;0;25" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tor4auf" Name="ET\Lokschuppen1c1.l3dobj" Position="0.4;0;25" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\Lokschuppen1c.l3dobj" Position="4.95;0;27.5" Rotation="95;0;0" ShowOn="Tor4auf" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\Lokschuppen1c1.l3dobj" Position="0.95;0;24.5" Rotation="-93;0;0" ShowOn="Tor4auf" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tor5auf" Name="ET\Lokschuppen1c.l3dobj" Position="6.5;0;25" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tor5auf" Name="ET\Lokschuppen1c1.l3dobj" Position="4.55;0;25" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\Lokschuppen1c.l3dobj" Position="9.1;0;27.5" Rotation="95;0;0" ShowOn="Tor5auf" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\Lokschuppen1c1.l3dobj" Position="5.1;0;24.5" Rotation="-93;0;0" ShowOn="Tor5auf" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tor6auf" Name="ET\Lokschuppen1c.l3dobj" Position="10.65;0;25" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tor6auf" Name="ET\Lokschuppen1c1.l3dobj" Position="8.7;0;25" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\Lokschuppen1c.l3dobj" Position="13.3;0;27.5" Rotation="95;0;0" ShowOn="Tor6auf" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\Lokschuppen1c1.l3dobj" Position="9.3;0;24.5" Rotation="-93;0;0" ShowOn="Tor6auf" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+</GRUPPENOBJECT>

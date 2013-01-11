@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<OBJECT>
+	<Props TransparentTyp="2" Beleuchtet="FALSE" Transparent="FALSE" FilePicture="" FileAuthor="" FileInfo="" Drawrueckseiten="FALSE" TransTexture="" Texture="Schirm-Ausfahrsignal.bmp"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0;2;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.65;2;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.65;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="0;2;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.65;2;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="0.65;0;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="3,452;3,2;145,1;146,452"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;6;5;4" Texture="156,454;153,0;302,0;305,453"/>
+	</Flaeche>
+</OBJECT>

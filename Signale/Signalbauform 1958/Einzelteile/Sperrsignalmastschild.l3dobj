@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<OBJECT>
+	<Props TransparentTyp="0" Beleuchtet="FALSE" Transparent="FALSE" FilePicture="" FileAuthor="" FileInfo="" Drawrueckseiten="FALSE" TransTexture="" Texture="Mastschild wrw-Sperrsignal.bmp"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0;0.3;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.07;0.3;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.07;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="0;0.3;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.07;0.3;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="0.07;0;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="0,259;0,0;66,0;62,259"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;6;5;4" Texture="0,253;2,0;65,0;59,254"/>
+	</Flaeche>
+</OBJECT>

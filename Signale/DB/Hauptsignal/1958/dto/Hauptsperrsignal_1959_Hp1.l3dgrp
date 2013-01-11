@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="Andreas Peter" FileDoku="" FileInfo="Ausfahrsignal Bauform 1959/n/nOriginal von Sebastian Kircher/nUmbau&#47;Ergänzung Andreas Peter/n/nMärz 2005" FilePicture="Hauptsperrsignal_1959.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" Name="einzelteile\Schirm-Hp1Sh.l3dobj" Position="1.7;5.28;-0.02" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Signalbauform 1958\Einzelteile\Signalmast2.l3dobj" Position="2;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Signalbauform 1958\Einzelteile\Schaltkasten.l3dobj" Position="2;0.3;0.06" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Signalbauform 1958\Einzelteile\Mastschild wrw2.l3dobj" Position="1.935;1.3;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Signalbauform 1958\Einzelteile\Signalkorb.l3dobj" Position="2;5.4;-0.1" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Signalbauform 1958\Einzelteile\1958-Blende.l3dobj" Position="1.85;6.87;-0.02" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Signalbauform 1958\Einzelteile\1958-Blende.l3dobj" Position="2;6.6;-0.02" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Signalbauform 1958\Einzelteile\1958-Blende.l3dobj" Position="1.7;6.6;-0.02" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Signalbauform 1958\Einzelteile\1958-Blende klein.l3dobj" Position="2.03;6.35;-0.02" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Signalbauform 1958\Einzelteile\1958-Blende klein.l3dobj" Position="1.76;6.1;-0.02" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\DB\Kombisignal\1958\dto\einzelteile\1958-rot.l3dobj" Position="2.08;6.49;-0.07" Rotation="0;0;0" ShowOn="Hp0 and not (Sh1 or Zs1)" WeitSichtbar="FALSE" ZoomFaktor="2"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\DB\Kombisignal\1958\dto\einzelteile\1958-rot.l3dobj" Position="1.77;6.49;-0.07" Rotation="0;0;0" ShowOn="Hp0 or Sh1 or Zs1" WeitSichtbar="FALSE" ZoomFaktor="2"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\DB\Kombisignal\1958\dto\einzelteile\1958-gruen.l3dobj" Position="1.92;6.76;-0.07" Rotation="0;0;0" ShowOn="Hp1 or Hp2" WeitSichtbar="FALSE" ZoomFaktor="2"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\scheingruen.l3dobj" Position="2;6.84;-0.02" Rotation="0;0;0" ShowOn="Hp1 or Hp2" WeitSichtbar="FALSE" ZoomFaktor="100"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\scheinrot.l3dobj" Position="2.15;6.56;-0.02" Rotation="0;0;0" ShowOn="Hp0 and not (Sh1 or Zs1)" WeitSichtbar="FALSE" ZoomFaktor="100"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\scheinrot.l3dobj" Position="1.85;6.56;-0.02" Rotation="0;0;0" ShowOn="Hp0 or Sh1 or Zs1" WeitSichtbar="FALSE" ZoomFaktor="100"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Signalbauform 1958\Ausfahrsignale 1959\Einzelteile\Ersatzsignal_59.l3dobj" Position="1.81;5.3;-0.3" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Signalbauform 1958\Ausfahrsignale 1959\Einzelteile\Schute_klein.l3dobj" Position="1.99;5.6;-0.3" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Signalbauform 1958\Ausfahrsignale 1959\Einzelteile\Schute_klein.l3dobj" Position="1.88;5.42;-0.3" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Signalbauform 1958\Ausfahrsignale 1959\Einzelteile\Schute_klein.l3dobj" Position="2.08;5.42;-0.3" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Sockel_Hp-Vr.l3dobj" Position="1.7;0;-0.15" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\KS_Saalbahn\ET\Signalnummer1.l3dobj" Position="2;3.21;-0.01" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Signalbauform 1958\Einzelteile\1958-weissZs1.l3dobj" Position="2.04;5.35;-0.35" Rotation="0;0;0" ShowOn="Zs1" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Signalbauform 1958\Einzelteile\1958-weissZs1.l3dobj" Position="1.84;5.35;-0.35" Rotation="0;0;0" ShowOn="Zs1" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Signalbauform 1958\Einzelteile\1958-weissZs1.l3dobj" Position="1.94;5.52;-0.35" Rotation="0;0;0" ShowOn="Zs1" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Signalbauform 1958\Einzelteile\1958-weissZs1.l3dobj" Position="2.11;6.28;-0.3" Rotation="0;0;0" ShowOn="Sh1" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Signalbauform 1958\Einzelteile\1958-weissZs1.l3dobj" Position="1.84;6.05;-0.3" Rotation="0;0;0" ShowOn="Sh1" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Font>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="16777215" DefaultText="E" Fonthoehe="0.23" GroupProperty="Name" Leuchtend="FALSE" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Signalnummer.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="2;3.35;-0.05" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+</GRUPPENOBJECT>

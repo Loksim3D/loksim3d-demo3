@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<OBJECT>
+	<Props TransparentTyp="0" Beleuchtet="FALSE" Transparent="FALSE" FilePicture="" FileAuthor="" FileInfo="" Drawrueckseiten="TRUE" TransTexture="" Texture="Blende.bmp"/>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0;-0.06;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.1;0.08;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.4225;0.08;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.5;-0.06;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.45;0.08;-0.2"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.0725;0.08;-0.2"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0;-0.06;-0.2"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.5;-0.06;-0.2"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;6;5;1" Texture="2,1;1,100;195,100;195,2"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="1;5;4;2" Texture="192,1;194,99;1,97;0,0"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;7;4;2" Texture="195,2;193,98;3,98;0,0"/>
+	</Flaeche>
+</OBJECT>

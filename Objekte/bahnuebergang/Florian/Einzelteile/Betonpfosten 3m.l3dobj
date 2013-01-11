@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<OBJECT>
+	<Props TransparentTyp="0" Beleuchtet="FALSE" Transparent="FALSE" FilePicture="" FileAuthor="" FileInfo="" Drawrueckseiten="TRUE" TransTexture="" Texture="BÜ Ampel.bmp"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0;3;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.1;3;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.1;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="0;0;0.1"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="0;3;0.1"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.1;3;0.1"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="0.1;0;0.1"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="207,48;211,11;246,8;246,48"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;6;5;4" Texture="209,46;213,12;246,10;242,47"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;2;6;7" Texture="206,45;212,9;250,11;245,54"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;1;0" Texture="206,45;210,9;245,9;247,51"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="1;5;6;2" Texture="243,45;244,12;214,23;214,49"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;3;0;4" Texture="246,17;210,17;213,42;247,47"/>
+	</Flaeche>
+</OBJECT>

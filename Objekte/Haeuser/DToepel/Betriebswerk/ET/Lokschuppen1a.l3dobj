@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="Süß" FileDoku="" FileInfo="Lokschuppen alt nicht befahrbar 2 ständig" FilePicture="" Texture="Lokschuppen1a.bmp" TransTexture="\Objekte\Haeuser\Frieder\Betriebswerk\ET\Lokschuppen3a_alpha.bmp" Transparent="TRUE" TransparentTyp="1"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0;6;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="14;6;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="14;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="0;0;25"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="0;6;25"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="14;6;25"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="14;0;25"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;-1" Vekt="7;10;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;1" Vekt="7;10;25"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="376,420;376,216;953,216;955,419"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;6;5;4" Texture="378,420;378,216;955,215;955,419"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;2;6;7" Texture="2,207;1,2;711,2;710,207"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;1;0" Texture="2,206;0,1;710,2;711,208"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="1;8;2" Texture="719,196;874,93;1026,196"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="5;9;6" Texture="719,195;872,94;1027,195"/>
+	</Flaeche>
+</OBJECT>

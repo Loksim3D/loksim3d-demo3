@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<OBJECT>
+	<Props TransparentTyp="0" Beleuchtet="FALSE" Transparent="FALSE" FilePicture="" FileAuthor="" FileInfo="" Drawrueckseiten="TRUE" TransTexture="" Texture="Mastschild wrw2.bmp"/>
+	<Point>
+		<Props Normal="0;0;1" Vekt="0;0;-0.05"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;1" Vekt="0.13;0;-0.05"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;1" Vekt="0.13;1.7;-0.05"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;1" Vekt="0;1.7;-0.05"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="5,4;27,4;27,354;5,354"/>
+	</Flaeche>
+</OBJECT>

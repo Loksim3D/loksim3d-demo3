@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="" FileInfo="" FilePicture="" Texture="schrankenbaum.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0;0.25;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;-1" Vekt="1.1;0.25;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;-1" Vekt="1.1;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="0;0;0.05"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="0;0.25;0.05"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;1" Vekt="1.1;0.25;0.05"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;1" Vekt="1.1;0;0.05"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="25,397;3,397;3,290;25,290"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;6;5;4" Texture="25,290;3,290;3,397;25,397"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;2;6;7" Texture="60,360;60,350;65,350;65,360"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;1;0" Texture="60,360;60,350;65,350;65,360"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="1;5;6;2" Texture="65,360;60,360;60,350;65,350"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;4;0;3" Texture="60,360;60,350;65,350;65,360"/>
+	</Flaeche>
+</OBJECT>
