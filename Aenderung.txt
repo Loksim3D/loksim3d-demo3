@@ -1,5 +1,6 @@
 2013-01-11
 * [dto] neuen Bahnhof für Diesel-Nebenstrecke eingefügt. Hauptgleis A Anfang führt Richtung Hainfurt. Dazwischen müsste noch etwas freie Strecke kommen. Zum landschaftlichen Dekorieren freigegeben.
+* [ukl] Bf Hainfurt Fahrleitung Gleis 4 eingebaut
 
 2013-01-10
 * [mbf] U1_M2_Flughafen: Tunnel und Bahnhof eingebaut, fälschlich hochgeladenes Modul Mainz entfernt
