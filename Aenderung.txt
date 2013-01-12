@@ -1,3 +1,6 @@
+2013-01-12
+* [fc] Modul Oberlingen wir übrigens rechts an Hanfurt angeschlossen. Das wird dann die Kombination SFS und S-Bahn. Ich arbeite dran.
+
 2013-01-11
 * [dto] neuen Bahnhof für Diesel-Nebenstrecke eingefügt. Hauptgleis A Anfang führt Richtung Hainfurt. Dazwischen müsste noch etwas freie Strecke kommen. Zum landschaftlichen Dekorieren freigegeben.
 * [ukl] Bf Hainfurt Fahrleitung Gleis 4 eingebaut
