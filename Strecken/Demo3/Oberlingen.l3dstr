@@ -18,6 +18,12 @@
 			</Erstellung>
 		</TOPOLOGIE>
 		<Objecte>
+			<Object>
+				<Props Name="Test" Offset="0;0;0" Position="3350" Qualitaet="0"/>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\UKL\Streckenmasten\Re250\Betonmast_Re250-180-550-Ka.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+			</Object>
 		</Objecte>
 		<Hoeheunterbrechung>
 		</Hoeheunterbrechung>
@@ -51,14 +57,152 @@
 			<Ausweiche>
 				<Props Abstand="2" Ende="2400" KurvenWeite="200" Start="1500"/>
 			</Ausweiche>
+			<Ausweiche>
+				<Props Abstand="4" Ende="7700" KurvenWeite="200" Start="3100"/>
+			</Ausweiche>
+			<Ausweiche>
+				<Props Abstand="1.5" Ende="3800" KurvenWeite="300" Start="3100"/>
+			</Ausweiche>
+			<Ausweiche>
+				<Props Abstand="3" Ende="6900" KurvenWeite="300" Start="6150"/>
+			</Ausweiche>
 		</TOPOLOGIE>
 		<Objecte>
+			<Object>
+				<Props Name="Bahnsteig" Offset="0;0;0" Position="3350" Qualitaet="1"/>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="14" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig 4m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="Bahnsteig" Offset="0;0;0" Position="6450" Qualitaet="1"/>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="14" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig 4m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="10" Verschiebung="0;0;0" Winkel="180;0;0"/>
+				</Eintrag>
+			</Object>
 		</Objecte>
 		<Hoeheunterbrechung>
 		</Hoeheunterbrechung>
 		<Landschaft>
 		</Landschaft>
 		<EIGENSCHAFTEN>
+			<VOR>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="120" KMHNEIG="120" KeinHp2="FALSE" NichtImFahrplan="FALSE" Pos="0"/>
+					</Value>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<Bahnuebergang>
+				</Bahnuebergang>
+				<RAIL>
+				</RAIL>
+				<RailQuality>
+				</RailQuality>
+				<LZB>
+				</LZB>
+				<Kilometrierung>
+				</Kilometrierung>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Ueberhoehung>
+				</Ueberhoehung>
+				<RailProps>
+				</RailProps>
+				<Bremswegabstand>
+				</Bremswegabstand>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</VOR>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="4"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="-4" ParallelEnd="7500" ParallelGleis="1" ParallelStart="3300" StartPos="0" StartPunkt="0;0;0" Typ="Parallel" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
+			</Erstellung>
+			<Weiche>
+				<Props Anfang="Vorne" ErstellungsArt="Annaeherung" Gleis="1" Kennung="S1" Kruemung="5" Position="0" WeichenWinkel="5" WeichenWinkelDynamisch="TRUE"/>
+			</Weiche>
+			<Ausweiche>
+				<Props Abstand="-4" Ende="6900" KurvenWeite="300" Start="6150"/>
+			</Ausweiche>
+			<Weiche>
+				<Props Anfang="Ende" ErstellungsArt="Annaeherung" Gleis="1" Kennung="S2" Kruemung="5" Position="0" WeichenWinkel="5" WeichenWinkelDynamisch="FALSE"/>
+			</Weiche>
+		</TOPOLOGIE>
+		<Objecte>
+			<Object>
+				<Props Name="Bahnsteig" Offset="0;0;0" Position="3350" Qualitaet="1"/>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="14" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig 4m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="10" Verschiebung="0;0;0" Winkel="180;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="14" Datei="\Objekte\Schallschutzwaende\AndreasZ\Schallschutz-gruen\Schallschutz_4-10_glas.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="-4.05;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="140" Anzahl="2" Datei="\Objekte\Schallschutzwaende\AndreasZ\Schallschutz-gruen\Schallschutz_4-10_ende.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="-4;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="Bahnsteig" Offset="0;0;0" Position="6450" Qualitaet="1"/>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="14" Datei="\Objekte\Bahnsteige\Frieder\Demo3\NBS_Bahnsteig 4m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+			</Object>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+			<VOR>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="120" KMHNEIG="120" KeinHp2="FALSE" NichtImFahrplan="FALSE" Pos="3226"/>
+					</Value>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<Bahnuebergang>
+				</Bahnuebergang>
+				<RAIL>
+				</RAIL>
+				<RailQuality>
+				</RailQuality>
+				<LZB>
+				</LZB>
+				<Kilometrierung>
+				</Kilometrierung>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Ueberhoehung>
+				</Ueberhoehung>
+				<RailProps>
+				</RailProps>
+				<Bremswegabstand>
+				</Bremswegabstand>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</VOR>
 		</EIGENSCHAFTEN>
 	</GLEIS>
 	<GLEIS>
