@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="© JPB 2007" FileInfo="Vorsignal (gerader Mast)/nKS-Bauform/nmit Geschwindigkeitsvoranzeiger Zs3v/nACHTUNG! Nur mit Haupt- oder Mehrabschnitts-/nsignal mit Zs3-Anzeiger verwenden!/n/n© JPB 2007" FilePicture="KS-Vorsignal-gerade+Zs3v.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\KS-Signale2\Einzelteile\KS-Mast-3.l3dobj" Position="2.4;0.2;-0.05" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\KS-Signale2\Einzelteile\KS-Sockel.l3dobj" Position="2.25;-0.8;-0.125" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\KS-Signale2\Einzelteile\KS-Knotenblech-3.l3dobj" Position="2.53;0.2;-0.04" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\KS-Signale2\Einzelteile\KS-Knotenblech-3.l3dobj" Position="2.45;0.2;-0.04" Rotation="180;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\KS-Signale2\Einzelteile\KS-Knotenblech-3.l3dobj" Position="2.45;0.2;0.29" Rotation="180;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\KS-Signale2\Einzelteile\KS-Knotenblech-3.l3dobj" Position="2.53;0.2;0.29" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\KS-Signale2\Einzelteile\KS-Schaltkasten.l3dobj" Position="2.74;0.45;0.66" Rotation="180;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\KS-Signale2\Einzelteile\KS-Schirm-Vsig.l3dobj" Position="2.15;6.15;-0.2" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\KS-Signale2\Einzelteile\KS-Korb-2.l3dobj" Position="2.78;6.15;0.9" Rotation="180;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Ne2_unten" Name="\Signale\KS-Signale2\Einzelteile\KS-Vsig-Tafel.l3dobj" Position="2.25;2.5;-0.1" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\KS-Signale2\Einzelteile\KS-Blende-gross.l3dobj" Position="2.4;6.77;-0.2" Rotation="180;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\KS-Signale2\Einzelteile\KS-Blende-gross.l3dobj" Position="2.7;6.77;-0.2" Rotation="180;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0.5" Name="\Signale\KS-Signale2\Einzelteile\KS-gruen.l3dobj" Position="2.25;6.57;-0.21" Rotation="0;0;0" ShowOn="Vr2" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\KS-Signale2\Einzelteile\KS-gelb.l3dobj" Position="2.55;6.57;-0.21" Rotation="0;0;0" ShowOn="Vr0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\KS-Signale2\Einzelteile\scheingelb.l3dobj" Position="2.62;6.66;-0.2" Rotation="0;0;0" ShowOn="Vr0" ZoomFaktor="160"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0.5" Name="\Signale\KS-Signale2\Einzelteile\scheingruen.l3dobj" Position="2.34;6.66;-0.2" Rotation="0;0;0" ShowOn="Vr2" ZoomFaktor="160"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\KS-Signale2\Einzelteile\KS-Zs3-Ausleger.l3dobj" Position="2.54;5.215;-0.05" Rotation="180;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\KS-Signale2\Einzelteile\KS-Zs3v.l3dobj" Position="2.235;5.24;-0.93" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\KS-Signale2\Einzelteile\KS-Zubehör-1.l3dobj" Position="2.15;5.75;-0.2" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\KS-Signale2\Einzelteile\scheingruen.l3dobj" Position="2.34;6.66;-0.2" Rotation="0;0;0" ShowOn="Vr1" ZoomFaktor="160"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\KS-Signale2\Einzelteile\KS-gruen.l3dobj" Position="2.25;6.57;-0.21" Rotation="0;0;0" ShowOn="Vr1" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\KS-Signale2\Einzelteile\KS-Vsig-Tafel-klein.l3dobj" Position="2.3;0.5;-0.11" Rotation="0;0;0" ShowOn="Ne2_unten" ZoomFaktor="1"/>
+	</Object>
+	<Font>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="16777215" DefaultText="" Fonthoehe="0.45" GroupProperty="Vorsignalkennziffer" Leuchtend="TRUE" Name="\Signale\KS-Signale2\Einzelteile\Geschwindigkeit_gelb.l3dfont" Position="2.485;5.675;-0.95" Rotation="0;0;0"/>
+	</Font>
+</GRUPPENOBJECT>

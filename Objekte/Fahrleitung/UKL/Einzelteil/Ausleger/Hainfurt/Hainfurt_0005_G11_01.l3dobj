@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="U.Klein" FileDoku="" FileInfo="Hainfurt 5 G11 Ts +0,1/nAusleger Lang, Bauart a für Re160 mit Spitzenrohr/nGerade Strecke und Bogenaussen/nMit Fahrdrahthöhe einfügen/nSystemhöhe: 1,8m/nMastabstand zur Gleismitte 3,3m/n/nOriginal Bitmap von Frieder Cramer/nBearbeitung: U. Klein 2013" FilePicture="FL-Mast_kA_re.l3dobj.jpg" Texture="\Objekte\Fahrleitung\ukl\Einzelteil\Ausleger\Re160_Ausleger_340_Lang_a_Rohr.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="2"/>
+	<Point>
+		<Props Normal="0;-1;0" Vekt="-0.05;0.3;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="-0.05;2.27;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="3.3;2.27;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;0" Vekt="3.3;0.3;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;0" Vekt="0.22;2.2;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="0.22;2.3;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="3.3;2.2;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;0" Vekt="3.3;2.1;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;0" Vekt="-1.3;0.62;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="-1.3;0.72;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="2.59;0.78;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;0" Vekt="2.59;0.68;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="35,235;35,16;420,16;420,235"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;6;7" Texture="41,292;41,280;406,280;406,292"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="8;9;10;11" Texture="50,292;50,280;409,280;409,292"/>
+	</Flaeche>
+</OBJECT>

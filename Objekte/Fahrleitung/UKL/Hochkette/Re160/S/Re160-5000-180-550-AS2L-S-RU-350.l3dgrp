@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+<Props FileAuthor="UKL-Fahrleitungsgenerator, Version 1.0.7" FileInfo="Fahrleitung der Bauart Re160 der DB/nSpannweite: 50.0m, Systemhöhe: 1.8m/nFahrdrahthöhe über SOK: 5.50m/nStreckentrennung, Teilstück: -AS2L/nRadspanner übereinander/nAbstand des Abspannmastes von der Gleismitte: 3.50m/nTragseilwinkel: -4.62/nFahrdrahtwinkel: -3.92" FilePicture="" />
+<Object>
+<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\ukl\Hochkette\Re160\S\ET\Re160-5000-180-550-AS2L-S-RU-350.l3dobj"Position="0;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+</Object>
+<Object>
+<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\ukl\Einzelteil\Iso_Keramik_7s_w.l3dobj"Position="3.214;7.121;6.650" Rotation="-4.616;0.000;-0.478" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+</Object>
+<Object>
+<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\ukl\Einzelteil\Iso_Keramik_7s_w.l3dobj"Position="2.895;6.370;6.650" Rotation="-3.924;0.000;-0.000" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+</Object>
+</GRUPPENOBJECT>

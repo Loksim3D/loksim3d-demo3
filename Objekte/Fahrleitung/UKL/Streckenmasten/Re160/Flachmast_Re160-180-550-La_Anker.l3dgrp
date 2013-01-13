@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="U.Klein" FileInfo="Flachmast mit Ausleger Lang, Bauart a für Re160/nmit Mastverankerung für Festpunkt, /nRichtung der Verankerung über &#39;Eigenschaften&#39; einstellbar/nGerade Strecke und Bogenaussen/nFahrdrahthöhe: 5,5m, Systemhöhe: 1,8m/nAbstand Mastmitte &#47; Gleismitte 3,5m/nAbstand Sockelkante &#47; Gleismitte 3,1m/n/nOriginal von Frieder Cramer/nBearbeitung: U.Klein 2010" FilePicture="Flachmast_Re160-180-550-La_Anker.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\UKL\Einzelteil\Flachmaste\Flachmast_075.l3dobj" Position="3.5;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\UKL\Einzelteil\Ausleger\Re160_Ausleger_Lang_a.l3dobj" Position="0;5.5;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\UKL\Einzelteil\Iso_Keramik_6s_s.l3dobj" Position="2.8;7.65;0" Rotation="0;90;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\UKL\Einzelteil\Iso_Keramik_6s_s.l3dobj" Position="2.8;6.045;0" Rotation="0;59;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\UKL\Einzelteil\Ausleger\Oese_Seitenrohr.l3dobj" Position="2.44;6.29;0" Rotation="0;-30;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\UKL\Einzelteil\Ausleger\Seitenhalter.l3dobj" Position="-0.4;5.5;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\UKL\Einzelteil\Ausleger\Stuetzrohrhaenger_1300.l3dobj" Position="0;7.068;0" Rotation="0;-47.5;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="andere_Seite" Name="\Objekte\Fahrleitung\UKL\Einzelteil\Winkeleisen_90_90_500.l3dobj" Position="3.5;7.125;0.051" Rotation="-90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\UKL\Einzelteil\Winkeleisen_90_90_500.l3dobj" Position="3.5;7.125;-0.051" Rotation="90;0;0" ShowOn="andere_Seite" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="andere_Seite" Name="\Objekte\Fahrleitung\UKL\Einzelteil\Winkeleisen_90_90_340.l3dobj" Position="3.5;7.215;-0.051" Rotation="90;0;180" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\UKL\Einzelteil\Winkeleisen_90_90_340.l3dobj" Position="3.5;7.215;0.051" Rotation="-90;0;180" ShowOn="andere_Seite" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="andere_Seite" Name="\Objekte\Fahrleitung\UKL\Einzelteil\Ankerfundament_500_700.l3dobj" Position="3.5;0;-5" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\UKL\Einzelteil\Ankerfundament_500_700.l3dobj" Position="3.5;0;5" Rotation="90;0;0" ShowOn="andere_Seite" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="andere_Seite" Name="\Objekte\Fahrleitung\UKL\Einzelteil\Ankerseil_8800.l3dobj" Position="3.3;7.21;0.15" Rotation="-2.25;0;36.75" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="andere_Seite" Name="\Objekte\Fahrleitung\UKL\Einzelteil\Ankerseil_8800.l3dobj" Position="3.7;7.21;0.15" Rotation="2.25;0;36.75" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\UKL\Einzelteil\Ankerseil_8800.l3dobj" Position="3.3;7.21;-0.15" Rotation="2.25;0;-36.75" ShowOn="andere_Seite" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\UKL\Einzelteil\Ankerseil_8800.l3dobj" Position="3.7;7.21;-0.15" Rotation="-2.25;0;-36.75" ShowOn="andere_Seite" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+</GRUPPENOBJECT>

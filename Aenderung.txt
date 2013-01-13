@@ -1,3 +1,6 @@
+2013-01-13
+* [ukl] Bf Hainfurt Fahrleitung Gleis 11 eingebaut, Bahnhofskopf Nord damit Fahrleitungsmäßig weitgehenst 	fertiggestellt.
+
 2013-01-12
 * [fc] Modul Oberlingen wir übrigens rechts an Hanfurt angeschlossen. Das wird dann die Kombination SFS und S-Bahn. Ich arbeite dran.
 
