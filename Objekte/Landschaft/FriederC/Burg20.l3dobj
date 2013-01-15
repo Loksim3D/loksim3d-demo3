@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="TRUE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="" FileDoku="" FileInfo="" FilePicture="" Texture="Burg20.png" TransTexture="" Transparent="TRUE" TransparentTyp="1"/>
+	<Point>
+		<Props Normal="0;-1;0" Vekt="-24.299999;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="-24.299999;59.040001;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="24.299999;59.040001;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;0" Vekt="24.299999;0;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="0,492;0,0;405,0;405,492"/>
+	</Flaeche>
+</OBJECT>

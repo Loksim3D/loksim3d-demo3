@@ -140,6 +140,9 @@
 						<Props DayLight="100" LokLight="TRUE" NightLight="31"/>
 					</Lightning>
 				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Landschaft\FriederC\Burg20.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="TRUE" Position="500" Verschiebung="0;0;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
+				</Eintrag>
 			</Object>
 			<Object>
 				<Props Name="Bruecke5820" Offset="0;0;0" Position="5820" Qualitaet="2"/>
