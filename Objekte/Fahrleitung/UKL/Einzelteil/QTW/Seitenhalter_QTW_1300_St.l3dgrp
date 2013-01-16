@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="U- Klein" FileDoku="" FileInfo="Seitenhalter für Quertragwerk/nmit Stahlrohr-Seitenhalter und Klemmhalter/nMit Fahrdrahthöhe einfügen/nAbstand FD-Unteres Richtseil: 450mm" FilePicture=""/>
+	<Object>
+		<Props BlinkIntervall="0" Name="Richtseiloese_1.l3dobj" Position="1.7;0.82;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\ukl\Einzelteil\Ausleger\Klemmhalter.l3dobj" Position="0.4;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Rohr_1400.l3dobj" Position="1.69;0.78;0" Rotation="0;15;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+</GRUPPENOBJECT>

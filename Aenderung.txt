@@ -1,3 +1,6 @@
+2013-01-16
+* [ukl] Bf Bainfurt Pbf Fahrleitungsbau
+
 2013-01-13
 * [dto] Oberlingen Zs6 berichtigt
 * [ukl] Bf Hainfurt Fahrleitung Gleis 11 eingebaut, Bahnhofskopf Nord damit Fahrleitungsm‰ﬂig weitgehenst 	fertiggestellt.

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OBJECT>
-	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="U.Klein" FileDoku="" FileInfo="Hainfurt 5 G11 Ts +0,1/nAusleger Lang, Bauart a für Re160 mit Spitzenrohr/nGerade Strecke und Bogenaussen/nMit Fahrdrahthöhe einfügen/nSystemhöhe: 1,8m/nMastabstand zur Gleismitte 3,3m/n/nOriginal Bitmap von Frieder Cramer/nBearbeitung: U. Klein 2013" FilePicture="FL-Mast_kA_re.l3dobj.jpg" Texture="\Objekte\Fahrleitung\ukl\Einzelteil\Ausleger\Re160_Ausleger_340_Lang_a_Rohr.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="2"/>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="U.Klein" FileDoku="" FileInfo="Hainfurt 5 G11 Ts +0,1/nAusleger Lang, Bauart a für Re160 mit Spitzenrohr/nGerade Strecke und Bogenaussen/nMit Fahrdrahthöhe einfügen/nSystemhöhe: 1,8m/nMastabstand zur Gleismitte 3,3m/n/nOriginal Bitmap von Frieder Cramer/nBearbeitung: U. Klein 2013" FilePicture="FL-Mast_kA_re.l3dobj.jpg" Texture="\Objekte\Fahrleitung\ukl\Einzelteil\Ausleger\Ausleger_Re.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="2"/>
 	<Point>
 		<Props Normal="0;-1;0" Vekt="-0.05;0.3;0"/>
 	</Point>

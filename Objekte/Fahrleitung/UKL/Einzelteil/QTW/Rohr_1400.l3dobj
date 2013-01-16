@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="U.Klein" FileDoku="" FileInfo="Stahlrohr für Seitenhalter 1,4m lang/n/nOriginal Bitmap von Frieder Cramer/nBearbeitung: U. Klein 2013" FilePicture="FL-Mast_kA_re.l3dobj.jpg" Texture="\Objekte\Fahrleitung\ukl\Einzelteil\Ausleger\Ausleger_Re.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="2"/>
+	<Point>
+		<Props Normal="0;-1;0" Vekt="-1.4;-0.045;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="-1.4;0.045;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="0;0.045;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;0" Vekt="0;-0.045;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="47,292;47,280;409,280;409,292"/>
+	</Flaeche>
+</OBJECT>
