@@ -121,6 +121,12 @@
 				</Eintrag>
 			</Object>
 			<Object>
+				<Props Name="Stellwerk" Offset="0;0;0" Position="2730" Qualitaet="3"/>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Haeuser\Frieder\Stellwerk\Zentralstellwerk.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="5;0;0" WeitSichtbar="TRUE" Winkel="90;0;0"/>
+				</Eintrag>
+			</Object>
+			<Object>
 				<Props Name="FL_0020" Offset="0;0;0" Position="0" Qualitaet="5"/>
 				<Eintrag>
 					<Props Abstand="120" Anzahl="3" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re250\FC\Betonmast_Re250-180-530-Ka.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="20" Verschiebung="0;0;0" Winkel="0;0;0"/>
