@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="" FileInfo="" FilePicture="" Texture="Texturen\Lautsprecher.bmp" TransTexture="" Transparent="TRUE" TransparentTyp="1"/>
+	<Point>
+		<Props Normal="0;0.1;-1" Vekt="-0.06;0.09;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0.1;-1" Vekt="0.02;0.09;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0.1;-1" Vekt="0.02;-0.03;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0.1;-1" Vekt="-0.06;-0.03;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="44,65;86,65;86,127;44,127"/>
+	</Flaeche>
+</OBJECT>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="" FileInfo="" FilePicture="" Texture="\Objekte\U-Bahn Berlin\Fahrzeuge\D55\Teile\Texturen\Front.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="0.25;0;-1" Vekt="0.06;0;-0.12"/>
+	</Point>
+	<Point>
+		<Props Normal="0.25;0;1" Vekt="0.06;0;0.12"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.25;0;-1" Vekt="-0.06;0;-0.12"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.25;0;1" Vekt="-0.06;0;0.12"/>
+	</Point>
+	<Point>
+		<Props Normal="1;0;-0.25" Vekt="0.12;0;-0.06"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;0;-0.25" Vekt="-0.12;0;-0.06"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;0;0.25" Vekt="-0.12;0;0.06"/>
+	</Point>
+	<Point>
+		<Props Normal="1;0;0.25" Vekt="0.12;0;0.06"/>
+	</Point>
+	<Point>
+		<Props Normal="0.25;-0.5;-1" Vekt="0.05;0.06;-0.11"/>
+	</Point>
+	<Point>
+		<Props Normal="0.25;-0.5;1" Vekt="0.05;0.06;0.11"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.25;-0.5;-1" Vekt="-0.05;0.06;-0.11"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.25;-0.5;1" Vekt="-0.05;0.06;0.11"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-0.5;-0.25" Vekt="0.11;0.06;-0.05"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-0.5;-0.25" Vekt="-0.11;0.06;-0.05"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-0.5;0.25" Vekt="-0.11;0.06;0.05"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-0.5;0.25" Vekt="0.11;0.06;0.05"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;2;10;8" Texture="4,2;2,2;2,4;4,4"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;1;9;11" Texture="2,4;4,4;4,2;2,2"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="0;8;12;4" Texture="2,2;2,4;4,4;4,2"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="9;1;7;15" Texture="2,2;2,4;4,4;4,2"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="5;6;14;13" Texture="4,2;2,2;2,4;4,4"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="6;3;11;14" Texture="2,2;2,4;4,4;4,2"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="2;5;13;10" Texture="4,4;2,4;2,2;4,2"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;4;12;15" Texture="2,4;4,4;4,2;2,2"/>
+	</Flaeche>
+</OBJECT>

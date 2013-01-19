@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="TRUE" Drawrueckseiten="FALSE" FileAuthor="" FileInfo="" FilePicture="" Texture="\Objekte\U-Bahn Berlin\Fahrzeuge\F79\Teile\Texturen\Lampe.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="0;-0.25;0" Vekt="0;3.17;-1.02"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-0.5;0" Vekt="0;3.26;-0.8"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-0.5;0" Vekt="1.26;3.26;-0.8"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-0.25;0" Vekt="1.26;3.17;-1.02"/>
+	</Point>
+	<Flaeche>
+		<Props Points="1;0;3;2" Texture="0,1;0,37;256,37;256,1"/>
+	</Flaeche>
+</OBJECT>

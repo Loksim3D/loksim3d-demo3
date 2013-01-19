@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="" FileInfo="" FilePicture="" Texture="Texturen\Fahrerleiste.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="0.9;3.09;-1.25"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="0.7;3.09;-1.25"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="0.7;1.91;-1.25"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.9;1.91;-1.25"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.92;3.09;-1.27"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="0.7;3.09;-1.27"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0.7;1.91;-1.27"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.92;1.91;-1.27"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="2,2;22,2;22,120;2,120"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="0;3;7;4" Texture="2,2;2,120;2,120;2,2"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="2;1;5;6" Texture="22,120;22,2;22,2;22,120"/>
+	</Flaeche>
+</OBJECT>

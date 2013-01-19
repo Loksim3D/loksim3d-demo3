@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="" FileInfo="Erstellt mit L3D ObjectCreator, Version 2.0" FilePicture="" Texture="Texturen\Rad.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="0;0;1" Vekt="0.1;0;0.44"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-0.309017;0.951057" Vekt="0.1;-0.135968;0.418465"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-0.587785;0.809017" Vekt="0.1;-0.258625;0.355968"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-0.809017;0.587785" Vekt="0.1;-0.355968;0.258625"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-0.951057;0.309017" Vekt="0.1;-0.418465;0.135968"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;0" Vekt="0.1;-0.44;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-0.951056;-0.309017" Vekt="0.1;-0.418465;-0.135968"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-0.809017;-0.587785" Vekt="0.1;-0.355968;-0.258625"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-0.587785;-0.809017" Vekt="0.1;-0.258625;-0.355968"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-0.309017;-0.951056" Vekt="0.1;-0.135968;-0.418465"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;-1" Vekt="0.1;0;-0.44"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0.309017;-0.951057" Vekt="0.1;0.135968;-0.418465"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0.587785;-0.809017" Vekt="0.1;0.258625;-0.355968"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0.809017;-0.587785" Vekt="0.1;0.355968;-0.258625"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0.951056;-0.309017" Vekt="0.1;0.418465;-0.135968"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="0.1;0.44;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0.951056;0.309017" Vekt="0.1;0.418465;0.135968"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0.809017;0.587785" Vekt="0.1;0.355968;0.258625"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0.587785;0.809017" Vekt="0.1;0.258625;0.355968"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0.309017;0.951057" Vekt="0.1;0.135968;0.418465"/>
+	</Point>
+	<Flaeche>
+		<Props Points="19;18;17;16;15;14;13;12;11;10;9;8;7;6;5;4;3;2;1;0" Texture="0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0;0,0"/>
+	</Flaeche>
+</OBJECT>

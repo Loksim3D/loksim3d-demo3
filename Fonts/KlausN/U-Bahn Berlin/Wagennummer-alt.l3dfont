@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FONT>
+	<Props FileAuthor="" FileInfo="" FilePicture="" Fonthoehe="58" Texture="Wagennummer-alt.bmp"/>
+	<Zeichen>
+		<Props Width="27" X="5" Y="5" Zeichen="0"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="21" X="37" Y="5" Zeichen="1"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="27" X="69" Y="5" Zeichen="2"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="27" X="101" Y="5" Zeichen="3"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="27" X="5" Y="68" Zeichen="4"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="27" X="37" Y="68" Zeichen="5"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="27" X="69" Y="68" Zeichen="6"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="27" X="101" Y="68" Zeichen="7"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="27" X="5" Y="131" Zeichen="8"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="27" X="37" Y="131" Zeichen="9"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="13" X="69" Y="131" Zeichen=" "/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="16" X="87" Y="131" Zeichen="-"/>
+	</Zeichen>
+</FONT>

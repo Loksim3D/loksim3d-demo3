@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FONT>
+	<Props FileAuthor="" FileInfo="" FilePicture="" Fonthoehe="44" Texture="HFett-schwarz.bmp"/>
+	<Zeichen>
+		<Props Width="20" X="5" Y="5" Zeichen="^"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="19" X="30" Y="5" Zeichen="1"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="19" X="54" Y="5" Zeichen="2"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="19" X="78" Y="5" Zeichen="3"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="19" X="102" Y="5" Zeichen="4"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="19" X="126" Y="5" Zeichen="5"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="19" X="150" Y="5" Zeichen="6"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="19" X="174" Y="5" Zeichen="7"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="19" X="198" Y="5" Zeichen="8"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="19" X="222" Y="5" Zeichen="9"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="19" X="246" Y="5" Zeichen="0"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="21" X="5" Y="54" Zeichen="ß"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="9" X="31" Y="54" Zeichen="´"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="16" X="45" Y="54" Zeichen="°"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="15" X="66" Y="54" Zeichen="!"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="20" X="86" Y="54" Zeichen="&#34;"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="19" X="111" Y="54" Zeichen="§"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="19" X="135" Y="54" Zeichen="$"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="32" X="159" Y="54" Zeichen="%"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="25" X="196" Y="54" Zeichen="&#38;"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="11" X="226" Y="54" Zeichen="&#47;"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="12" X="242" Y="54" Zeichen="("/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="12" X="5" Y="103" Zeichen=")"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="24" X="22" Y="103" Zeichen="="/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="18" X="51" Y="103" Zeichen="?"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="9" X="74" Y="103" Zeichen="`"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="15" X="88" Y="103" Zeichen="²"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="15" X="108" Y="103" Zeichen="³"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="13" X="128" Y="103" Zeichen="{"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="12" X="146" Y="103" Zeichen="["/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="12" X="163" Y="103" Zeichen="]"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="13" X="180" Y="103" Zeichen="}"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="11" X="198" Y="103" Zeichen="\"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="21" X="5" Y="152" Zeichen="q"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="29" X="31" Y="152" Zeichen="w"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="19" X="65" Y="152" Zeichen="e"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="14" X="89" Y="152" Zeichen="r"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="14" X="108" Y="152" Zeichen="t"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="16" X="127" Y="152" Zeichen="z"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="20" X="148" Y="152" Zeichen="u"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="10" X="173" Y="152" Zeichen="i"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="21" X="188" Y="152" Zeichen="o"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="21" X="214" Y="152" Zeichen="p"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="20" X="240" Y="152" Zeichen="ü"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="25" X="5" Y="201" Zeichen="+"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="25" X="35" Y="201" Zeichen="Q"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="32" X="65" Y="201" Zeichen="W"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="19" X="102" Y="201" Zeichen="E"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="22" X="126" Y="201" Zeichen="R"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="19" X="153" Y="201" Zeichen="T"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="19" X="177" Y="201" Zeichen="Z"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="24" X="201" Y="201" Zeichen="U"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="11" X="230" Y="201" Zeichen="I"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="25" X="246" Y="201" Zeichen="O"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="20" X="276" Y="201" Zeichen="P"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="24" X="5" Y="250" Zeichen="Ü"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="20" X="34" Y="250" Zeichen="*"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="30" X="59" Y="250" Zeichen="@"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="15" X="94" Y="250" Zeichen="€"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="23" X="114" Y="250" Zeichen="~"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="20" X="142" Y="250" Zeichen="a"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="16" X="167" Y="250" Zeichen="s"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="21" X="188" Y="250" Zeichen="d"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="13" X="214" Y="250" Zeichen="f"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="21" X="232" Y="250" Zeichen="g"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="20" X="258" Y="250" Zeichen="h"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="10" X="5" Y="299" Zeichen="j"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="19" X="20" Y="299" Zeichen="k"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="10" X="44" Y="299" Zeichen="l"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="21" X="59" Y="299" Zeichen="ö"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="20" X="85" Y="299" Zeichen="ä"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="19" X="110" Y="299" Zeichen="#"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="24" X="134" Y="299" Zeichen="A"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="19" X="163" Y="299" Zeichen="S"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="24" X="187" Y="299" Zeichen="D"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="18" X="216" Y="299" Zeichen="F"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="25" X="239" Y="299" Zeichen="G"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="23" X="5" Y="348" Zeichen="H"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="14" X="33" Y="348" Zeichen="J"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="22" X="52" Y="348" Zeichen="K"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="17" X="79" Y="348" Zeichen="L"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="25" X="101" Y="348" Zeichen="Ö"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="24" X="131" Y="348" Zeichen="Ä"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="10" X="160" Y="348" Zeichen="&#39;"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="21" X="175" Y="348" Zeichen="&#60;"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="18" X="201" Y="348" Zeichen="y"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="19" X="224" Y="348" Zeichen="x"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="17" X="248" Y="348" Zeichen="c"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="19" X="5" Y="397" Zeichen="v"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="21" X="29" Y="397" Zeichen="b"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="20" X="55" Y="397" Zeichen="n"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="30" X="80" Y="397" Zeichen="m"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="10" X="115" Y="397" Zeichen=","/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="10" X="130" Y="397" Zeichen="."/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="13" X="145" Y="397" Zeichen="-"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="21" X="163" Y="397" Zeichen="&#62;"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="22" X="189" Y="397" Zeichen="Y"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="22" X="216" Y="397" Zeichen="X"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="22" X="243" Y="397" Zeichen="C"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="22" X="5" Y="446" Zeichen="V"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="21" X="32" Y="446" Zeichen="B"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="25" X="58" Y="446" Zeichen="N"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="31" X="88" Y="446" Zeichen="M"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="10" X="124" Y="446" Zeichen=";"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="10" X="139" Y="446" Zeichen=":"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="19" X="154" Y="446" Zeichen="_"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="9" X="178" Y="446" Zeichen="|"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="46" X="192" Y="446" Zeichen="µ"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="9" X="243" Y="446" Zeichen=" "/>
+	</Zeichen>
+</FONT>

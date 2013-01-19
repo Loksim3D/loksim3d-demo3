@@ -86,6 +86,42 @@
 			</Ausweiche>
 		</TOPOLOGIE>
 		<Objecte>
+			<Object>
+				<Props Name="Flughafen" Offset="0;0;0" Position="3240" Qualitaet="0"/>
+				<Eintrag>
+					<Props Abstand="9.411765" Anzahl="16" Datei="\Objekte\Bahnsteige\AndreasZ\U-Bahn-2_seite_10m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="9.8;0.01;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="9.411765" Anzahl="13" Datei="\Objekte\Bahnsteige\AndreasZ\U-Bahn-2_seite_10m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="13.5;0;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="9.411765" Anzahl="16" Datei="\objekte\Bahnsteige\mbfan\Tunnel\Wand mit Text.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="10" Verschiebung="0.6;-1.5;0" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+					<Eigenschaften>
+						<Props TEXT="&#39;Langendell&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="9.411765" Anzahl="16" Datei="\Objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Decke-Bismarckring.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="10;-0.4;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="9.411765" Anzahl="16" Datei="\Objekte\Bahnsteige\JörgM\S-Bahn\Tunnelbahnhof\Decke-Bismarckring.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="20;-0.4;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+			</Object>
 		</Objecte>
 		<Hoeheunterbrechung>
 			<Landschaftsobjekt>
@@ -171,6 +207,36 @@
 			</Ausweiche>
 		</TOPOLOGIE>
 		<Objecte>
+			<Object>
+				<Props DynamicVisibility="Simulation::ZeitInSekunden" FixedDynamicVisibility="FALSE" Name="Langendell" Offset="0;0;0" Position="3240" Qualitaet="0"/>
+				<Eintrag>
+					<Props Abstand="9.411765" Anzahl="16" Datei="\Objekte\Bahnsteige\AndreasZ\U-Bahn-2_seite_10m.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="10" Verschiebung="-9.8;0.01;0" Winkel="180;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="9.411765" Anzahl="16" Datei="\objekte\Bahnsteige\mbfan\Tunnel\Wand mit Text.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="-0.6;-1.5;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="100"/>
+					</Lightning>
+					<Eigenschaften>
+						<Props TEXT="&#39;Langendell&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props DynamicVisibility="FahrplanVars::Ziel == &#39;NPL&#39;" FixedDynamicVisibility="TRUE" Name="Langendell ZZA Nürnberger Platz" Offset="0;0;0" Position="3240" Qualitaet="3"/>
+				<Eintrag>
+					<Props Abstand="32" Anzahl="4" Datei="\Objekte\Bahnsteige\JPB\Zugzielanzeiger\ZZA_digital_S5_mitGleis.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="32" Verschiebung="-2.5;5.2;0" WeitSichtbar="FALSE" Winkel="180;0;0"/>
+					<Eigenschaften>
+						<Props Ab_in_1="&#39;in 0 Min&#39;" Abfahrtszeit="&#39;SE 32&#39;" Abfahrtszeit_1="&#39;W 3&#39;" Abfahrtszeit_2="&#39;W 3&#39;" Ankunftszeit="&#39;in 10 min.&#39;" Bahnsteig-Nr.="&#39;4&#39;" Gleis="&#39;2&#39;" Gleis_Nr="&#39;1&#39;" Linie="&#39;U 1&#39;" TEXT="&#39;Hauptbahnhof&#39;" Zeit_1="&#39;W 1&#39;" Zeit_2="&#39;W 1&#39;" Ziel="&#39;Hauptbahnhof&#39;" Ziel_1="&#39;WI Frauenstein&#39;" Ziel_2="&#39;WI Frauenstein&#39;" Zug_Nr._1="&#39;in 0 Min&#39;" Zug_Nr._2="&#39;in 30 Min.&#39;" Zuggattung+Nr="&#39;in 0 Min.&#39;" Zuggattung+Nr_1="&#39;in 0 min.&#39;" Zuggattung+Nr_2="&#39;in 30 min.&#39;" Zuglauf="&#39;Fachhochschule - Luisenplatz - HBF&#39;" Zuglauf_1="&#39;Erbenheim - HBF - FHS - Sonnenberg&#39;" Zuglauf_2="&#39;Erbenheim - HBF - FHS - Sonnenberg&#39;" Zugziel="&#39;Nürnberger Platz&#39;" Zugziel_1="&#39;Wiesbaden Ost&#39;" Zugziel_2="&#39;Wiesbaden Ost&#39;" wagenstand="&#39;1111&#39;" Über="&#39;Goethealle - Stadtmitte&#39;" Über_1_1="&#39;West&#39;" Über_2="&#39;West&#39;"/>
+					</Eigenschaften>
+					<Lightning>
+						<Props DayLight="0" LokLight="TRUE" NightLight="67"/>
+					</Lightning>
+				</Eintrag>
+			</Object>
 		</Objecte>
 		<Hoeheunterbrechung>
 		</Hoeheunterbrechung>

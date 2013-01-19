@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="" FileDoku="" FileInfo="Erstellt mit L3D ObjectCreator, Version 2.0" FilePicture="" Texture="Texturen\Feder.bmp" TransTexture="" Transparent="TRUE" TransparentTyp="1"/>
+	<Point>
+		<Props Normal="1;0.75;-0.25" Vekt="0.13;0.56;-0.21"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.13;0.26;-0.24"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="0.13;0.26;0.24"/>
+	</Point>
+	<Point>
+		<Props Normal="1;0.75;0.25" Vekt="0.13;0.56;0.21"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;3;2;1" Texture="0,0;102,0;102,64;0,64"/>
+	</Flaeche>
+</OBJECT>

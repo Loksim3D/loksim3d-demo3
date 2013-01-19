@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="" FileInfo="" FilePicture="" Texture="Texturen\Kurzschliesser.bmp" TransTexture="" Transparent="TRUE" TransparentTyp="1"/>
+	<Point>
+		<Props Normal="0;0;-0.5" Vekt="-0.1;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;-0.5" Vekt="-0.1;1;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;-0.5" Vekt="0.1;1;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;-0.5" Vekt="0.1;0;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="1;0;3;2" Texture="1,1;1,255;51,255;51,1"/>
+	</Flaeche>
+</OBJECT>

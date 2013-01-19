@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="Klaus Nickel" FileDoku="" FileInfo="/nwww.veb-verkehr.de" FilePicture="" Texture="Texturen\Motor.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="-0.6;0.3;0.35"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;0" Vekt="-0.6;0.35;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="-0.6;0.3;-0.35"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="-0.6;-0.3;-0.35"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;0" Vekt="-0.6;-0.35;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="-0.6;-0.3;0.35"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.6;0.3;0.35"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;0" Vekt="0.6;0.35;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.6;0.3;-0.35"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.6;-0.3;-0.35"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;0" Vekt="0.6;-0.35;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="0.6;-0.3;0.35"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3;4;5" Texture="0,0;0,0;0,0;0,0;0,0;0,0"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="11;10;9;8;7;6" Texture="0,0;0,0;0,0;0,0;0,0;0,0"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="1;0;6;7" Texture="244,1;255,43;4,43;14,1"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="2;1;7;8" Texture="255,43;244,1;14,1;4,43"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;2;8;9" Texture="241,125;255,43;4,43;11,125"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;3;9;10" Texture="239,136;241,125;11,125;13,136"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="5;4;10;11" Texture="241,125;239,136;13,136;11,125"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="0;5;11;6" Texture="255,43;241,125;11,125;4,43"/>
+	</Flaeche>
+</OBJECT>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="" FileInfo="" FilePicture="" Texture="\Objekte\U-Bahn Berlin\Fahrzeuge\F84\Teile\Texturen\Tuerfluegel.bmp" TransTexture="\Objekte\U-Bahn Berlin\Fahrzeuge\F84\Teile\Texturen\Tuerfluegel_a.bmp" Transparent="FALSE" TransparentTyp="3"/>
+	<Point>
+		<Props Normal="0;-1;-1" Vekt="1.341;3.13;1.29"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;-1" Vekt="1.341;1.04;1.29"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;-1" Vekt="0.63;3.13;1.29"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;-1" Vekt="0.63;1.04;1.29"/>
+	</Point>
+	<Flaeche>
+		<Props Points="2;0;1;3" Texture="148,2;77,2;77,211;148,211"/>
+	</Flaeche>
+</OBJECT>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="" FileInfo="" FilePicture="" Texture="Texturen\Fahrerscheibe innen.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="0;3.09;1.27"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="0.07;3.09;1.24"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="0.12;3.09;1.18"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;0" Vekt="0.21;3.09;0.76"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;0" Vekt="0.27;3.09;0.32"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;0" Vekt="0.28;3.09;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;0" Vekt="0.27;3.09;-0.32"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;0" Vekt="0.21;3.09;-0.76"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="0.12;3.09;-1.18"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="0.07;3.09;-1.24"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="0;3.09;-1.27"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="-1.26;3.09;1.27"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="-1.26;3.09;-1.27"/>
+	</Point>
+	<Flaeche>
+		<Props Points="11;12;10;9;8;7;6;5;4;3;2;1;0" Texture="2,2;4,2;4,4;2,4;2,2;4,2;4,4;2,4;2,2;4,2;4,4;2,4;2,2"/>
+	</Flaeche>
+</OBJECT>

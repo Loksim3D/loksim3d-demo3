@@ -138,6 +138,21 @@
 					</Lightning>
 				</Eintrag>
 			</Object>
+			<Object>
+				<Props Name="HVG F92" Offset="0;0;0" Position="2600" Qualitaet="1"/>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F92\FK92.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" Winkel="90;0;0"/>
+					<Eigenschaften>
+						<Props Anzeige_weiss="&#39;TRUE&#39;" Linie schwarz="&#39;1&#39;" Linie_1="&#39;TRUE&#39;" Nummer="&#39;3297&#39;" Tuer_rechts="&#39;TRUE&#39;" Umlauf="&#39;01&#39;" Z1="&#39;TRUE&#39;" Ziel rot L="&#39;Waldstadt&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F92\FK92.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0.5" Verschiebung="0;0;0" Winkel="270;0;0"/>
+					<Eigenschaften>
+						<Props Anzeige_weiss="&#39;TRUE&#39;" Linie schwarz="&#39;1&#39;" Linie_1="&#39;TRUE&#39;" Nummer="&#39;3297&#39;" Tuer_links="&#39;TRUE&#39;" Umlauf="&#39;01&#39;" Z2="&#39;TRUE&#39;" Ziel rot L="&#39;Waldstadt&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+			</Object>
 		</Objecte>
 		<Hoeheunterbrechung>
 		</Hoeheunterbrechung>

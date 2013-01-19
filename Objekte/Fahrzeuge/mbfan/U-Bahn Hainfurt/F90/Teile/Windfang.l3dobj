@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="TRUE" Drawrueckseiten="TRUE" FileAuthor="" FileInfo="" FilePicture="" Texture="Texturen\Windfang.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="0;-1;1" Vekt="0;1.36;0.96"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;1" Vekt="0;1.96;0.92"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="0;1.96;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;-1" Vekt="0;1.36;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="98,68;94,8;2,8;2,68"/>
+	</Flaeche>
+</OBJECT>

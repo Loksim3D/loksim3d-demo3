@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="" FileInfo="" FilePicture="" Texture="Texturen\Fahrerstandswand 2.bmp" TransTexture="Texturen\Fahrerstandswand 2_a.bmp" Transparent="FALSE" TransparentTyp="3"/>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="-0.34;1.06;-1.27"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="-0.17;1.06;1.27"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="-0.34;3.09;-1.27"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="-0.17;3.09;1.27"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="-0.34;3.09;-0.34"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="0;3.09;-0.34"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="0;3.09;0.34"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="-0.17;3.09;0.34"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="-0.34;1.06;-0.34"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="0;1.06;-0.34"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0;1.06;0.34"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="-0.17;1.06;0.34"/>
+	</Point>
+	<Flaeche>
+		<Props Points="3;7;11;1" Texture="2,2;91,2;91,205;2,205"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;6;10;11" Texture="91,2;92,2;92,205;91,205"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="6;5;9;10" Texture="93,2;161,2;161,205;93,205"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="5;4;8;9" Texture="162,2;163,2;163,205;162,205"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;2;0;8" Texture="163,2;254,2;254,205;163,205"/>
+	</Flaeche>
+</OBJECT>

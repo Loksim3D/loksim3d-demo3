@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="" FileInfo="" FilePicture="" Texture="\Objekte\U-Bahn Berlin\Fahrzeuge\F76\Teile\Texturen\Boden.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0;1.06;1.27"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0.07;1.06;1.24"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0.12;1.06;1.18"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;0" Vekt="0.28;1.06;0.76"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;0" Vekt="0.34;1.06;0.32"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;0" Vekt="0.35;1.06;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;0" Vekt="0.34;1.06;-0.32"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;0" Vekt="0.28;1.06;-0.76"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="0.12;1.06;-1.18"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="0.07;1.06;-1.24"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="0;1.06;-1.27"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="-1.26;1.06;1.27"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="-1.26;1.06;-1.27"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3;4;5;6;7;8;9;10;12;11" Texture="120,2;122,3;124,4;125,26;126,48;126,64;126,80;125,102;124,122;122,124;120,125;2,126;2,2"/>
+	</Flaeche>
+</OBJECT>

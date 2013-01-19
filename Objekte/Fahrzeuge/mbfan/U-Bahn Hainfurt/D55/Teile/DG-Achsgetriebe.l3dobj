@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="Klaus Nickel" FileDoku="" FileInfo="/nwww.veb-verkehr.de" FilePicture="" Texture="Texturen\Achsgetriebe.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="-0.5;-0.5;-1" Vekt="-0.3;-0.25;-0.2"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.5;0.5;-1" Vekt="-0.25;0.15;-0.2"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.5;0.5;-1" Vekt="-0.1;0.3;-0.2"/>
+	</Point>
+	<Point>
+		<Props Normal="0.5;0.5;-1" Vekt="0.2;0.3;-0.2"/>
+	</Point>
+	<Point>
+		<Props Normal="0.5;0.5;-1" Vekt="0.35;0.15;-0.2"/>
+	</Point>
+	<Point>
+		<Props Normal="0.5;-0.5;-1" Vekt="0.35;-0.1;-0.2"/>
+	</Point>
+	<Point>
+		<Props Normal="0.5;-0.5;-1" Vekt="0.22;-0.25;-0.2"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.5;-0.5;-1" Vekt="-0.25;-0.3;-0.2"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.5;-0.5;1" Vekt="-0.3;-0.25;0.2"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.5;0.5;1" Vekt="-0.25;0.15;0.2"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.5;0.5;1" Vekt="-0.1;0.3;0.2"/>
+	</Point>
+	<Point>
+		<Props Normal="0.5;0.5;1" Vekt="0.2;0.3;0.2"/>
+	</Point>
+	<Point>
+		<Props Normal="0.5;0.5;1" Vekt="0.35;0.15;0.2"/>
+	</Point>
+	<Point>
+		<Props Normal="0.5;-0.5;1" Vekt="0.35;-0.1;0.2"/>
+	</Point>
+	<Point>
+		<Props Normal="0.5;-0.5;1" Vekt="0.22;-0.25;0.2"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.5;-0.5;1" Vekt="-0.25;-0.3;0.2"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3;4;5;6;7" Texture="76,243;93,113;123,53;148,27;166,22;163,70;146,118;100,254"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="15;14;13;12;11;10;9;8" Texture="100,254;146,118;163,70;166,22;148,27;123,53;93,113;76,243"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="2;1;9;10" Texture="123,53;93,113;24,93;59,31"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;2;10;11" Texture="148,27;123,53;59,31;94,9"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;3;11;12" Texture="166,22;148,27;94,9;122,2"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="5;4;12;13" Texture="148,27;166,22;122,2;94,9"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="6;5;13;14" Texture="123,53;148,27;94,9;59,31"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;6;14;15" Texture="77,251;76,243;20,220;29,230"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="0;7;15;8" Texture="76,243;77,251;29,230;20,220"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="1;0;8;9" Texture="93,113;76,243;20,220;24,93"/>
+	</Flaeche>
+</OBJECT>

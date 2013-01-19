@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="" FileInfo="" FilePicture="" Texture="Texturen\Tuergriff.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="0;0.1;-1" Vekt="-0.1;0.065;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0.1;-1" Vekt="0.1;0.065;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0.1;-1" Vekt="0.1;-0.065;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0.1;-1" Vekt="-0.1;-0.065;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="35,1;127,1;127,61;35,61"/>
+	</Flaeche>
+</OBJECT>

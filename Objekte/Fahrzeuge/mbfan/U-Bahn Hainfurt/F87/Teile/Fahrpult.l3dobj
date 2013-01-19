@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="" FileInfo="" FilePicture="" Texture="Texturen\Fahrpult.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="-1;1;0" Vekt="0.27;1.98;-0.38"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="0.12;1.98;-1.27"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="-0.2;1.92;-1.27"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;0" Vekt="-0.2;1.92;-0.38"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;0" Vekt="-0.2;1.8;-0.38"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;0" Vekt="0.27;1.72;-0.38"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="-0.2;1.8;-1.27"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="0.12;1.72;-1.27"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="0,0;248,44;248,128;0,128"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="5;4;6;7" Texture="102,2;104,2;104,4;102,4"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;3;2;6" Texture="102,2;104,2;104,4;102,4"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="0;3;4;5" Texture="102,4;102,2;104,2;104,4"/>
+	</Flaeche>
+</OBJECT>

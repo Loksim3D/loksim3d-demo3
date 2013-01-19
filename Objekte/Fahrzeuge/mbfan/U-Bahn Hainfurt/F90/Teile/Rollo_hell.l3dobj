@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="TRUE" Drawrueckseiten="FALSE" FileAuthor="" FileInfo="" FilePicture="" Texture="Texturen\Rollo.bmp" TransTexture="" Transparent="TRUE" TransparentTyp="1"/>
+	<Point>
+		<Props Normal="0;1;1" Vekt="0.02;2.94;0.28"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;1" Vekt="0.02;1.96;0.28"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;-1" Vekt="0.02;1.96;-0.28"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;-1" Vekt="0.02;2.94;-0.28"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="56,2;56,100;0,100;0,2"/>
+	</Flaeche>
+</OBJECT>

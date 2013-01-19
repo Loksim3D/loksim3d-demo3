@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="" FileInfo="" FilePicture="" Texture="Texturen\Kupplung.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="-0.8;1;-1" Vekt="-0.22;-0.22;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0.8;1;-1" Vekt="0.22;-0.22;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.22;-0.1;0.4"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="-0.22;-0.1;0.4"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.8;1;-1" Vekt="-0.22;-0.32;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0.8;1;-1" Vekt="0.22;-0.32;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.22;-0.2;0.4"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="-0.22;-0.2;0.4"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;5;4" Texture="25,190;235,190;235,253;25,253"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="6;7;4;5" Texture="2,2;2,4;4,4;4,2"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="2;3;7;6" Texture="2,2;2,4;4,4;4,2"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="1;2;6;5" Texture="2,2;2,4;4,4;4,2"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="2;1;0;3" Texture="2,4;2,2;4,2;4,4"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;0;4;7" Texture="2,2;2,4;4,4;4,2"/>
+	</Flaeche>
+</OBJECT>

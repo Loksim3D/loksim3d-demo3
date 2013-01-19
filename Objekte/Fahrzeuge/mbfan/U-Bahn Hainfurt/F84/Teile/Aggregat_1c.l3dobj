@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="" FileDoku="" FileInfo="Erstellt mit L3D ObjectCreator, Version 2.0" FilePicture="" Texture="Texturen\Aggregat_1.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="0;1;0" Vekt="0;0.3;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0.5;-0.5" Vekt="0;0.259808;-0.15"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-0.5;-0.866025" Vekt="0;0.15;-0.259808"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;-1" Vekt="0;0;-0.3"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0.5;-0.866025" Vekt="0;-0.15;-0.259808"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-0.5;-0.5" Vekt="0;-0.259808;-0.15"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;0" Vekt="0;-0.3;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-0.5;0.5" Vekt="0;-0.259808;0.15"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0.5;0.866025" Vekt="0;-0.15;0.259808"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;1" Vekt="0;0;0.3"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-0.5;0.866025" Vekt="0;0.15;0.259808"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0.5;0.5" Vekt="0;0.259808;0.15"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="-0.6;0.3;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0.5;-0.5" Vekt="-0.6;0.259808;-0.15"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-0.5;-0.866025" Vekt="-0.6;0.15;-0.259808"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;-1" Vekt="-0.6;0;-0.3"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0.5;-0.866025" Vekt="-0.6;-0.15;-0.259808"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-0.5;-0.5" Vekt="-0.6;-0.259808;-0.15"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;0" Vekt="-0.6;-0.3;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-0.5;0.5" Vekt="-0.6;-0.259808;0.15"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0.5;0.866025" Vekt="-0.6;-0.15;0.259808"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;1" Vekt="-0.6;0;0.3"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-0.5;0.866025" Vekt="-0.6;0.15;0.259808"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0.5;0.5" Vekt="-0.6;0.259808;0.15"/>
+	</Point>
+	<Flaeche>
+		<Props Points="13;12;0;1" Texture="244,129;255,129;255,255;244,255"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="14;13;1;2" Texture="233,129;244,129;244,255;233,255"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="15;14;2;3" Texture="223,129;233,129;233,255;223,255"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="16;15;3;4" Texture="212,129;223,129;223,255;212,255"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="17;16;4;5" Texture="202,129;212,129;212,255;202,255"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="18;17;5;6" Texture="191,129;202,129;202,255;191,255"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="19;18;6;7" Texture="181,129;191,129;191,255;181,255"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="20;19;7;8" Texture="170,129;181,129;181,255;170,255"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="21;20;8;9" Texture="160,129;170,129;170,255;160,255"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="22;21;9;10" Texture="149,129;160,129;160,255;149,255"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="23;22;10;11" Texture="139,129;149,129;149,255;139,255"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="12;23;11;0" Texture="129,129;139,129;139,255;129,255"/>
+	</Flaeche>
+</OBJECT>

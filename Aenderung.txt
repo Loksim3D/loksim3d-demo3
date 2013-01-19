@@ -1,3 +1,6 @@
+2013-01-19
+* [mbf] Hinzufügen einer Hainfurter F92.
+
 2013-01-18
 * [fc] Zentralstellwerk Hainfurt eingebaut (muss noch auf unbesetzt umgebaut werden) Reiterstellwerk ist thematisch fehl am Platz
 

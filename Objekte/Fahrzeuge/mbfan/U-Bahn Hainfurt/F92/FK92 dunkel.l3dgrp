@@ -1,0 +1,1486 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="Klaus Nickel" FileInfo="v1.00 - 18.10.2012/n/nTriebwagen F92 der Berliner U-Bahn, Wagennummern 2905 - 3013 (ungerade)/nLüK: 16,05m/nBreite: 2,65m/nBaujahr: 1990&#47;91/nZustand: ca. 2004 - heute/nausgeschaltete Fahrgastraumbeleuchtung/n/nwww.veb-verkehr.de" FilePicture="FS92.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\Universal\Scheibenwischer FD.l3dobj" Position="15.49;2.14;-0.98" Rotation="-77;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\Universal\Scheibenwischer FD.l3dobj" Position="15.49;2.14;0.98" Rotation="77;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\Universal\Antenne.l3dobj" Position="15.46;3.2;-1.15" Rotation="10;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Front.l3dobj" Position="15.25;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Frontscheibe.l3dobj" Position="15.25;-0.04;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\Lampe aus links.l3dobj" Position="15.485;1.5;1.01" Rotation="-100.800003;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\Lampe aus rechts.l3dobj" Position="15.485;1.5;-1.01" Rotation="-79.199997;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Z2 or Sh2" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\Lampe an links.l3dobj" Position="15.49;1.5;1.01" Rotation="-100.800003;0;0" ShowOn="Z1" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Z2" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\Lampe an rechts.l3dobj" Position="15.49;1.5;-1.01" Rotation="-79.199997;0;0" ShowOn="Z1" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\Lampe rot links.l3dobj" Position="15.49;1.5;1.01" Rotation="-100.800003;0;0" ShowOn="Z2 or Sh2" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\Lampe rot rechts.l3dobj" Position="15.49;1.5;-1.01" Rotation="-79.199997;0;0" ShowOn="Z2" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\Universal\Linie_0.l3dobj" Position="15.54;3.13;-0.26" Rotation="90;0;0" ShowOn="Z6 and (Z1 or Z2)" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Z1 or Z2" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\Universal\Linie_0_dunkel.l3dobj" Position="15.54;3.13;-0.26" Rotation="90;0;0" ShowOn="Z6" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\Universal\Doppelrot.l3dobj" Position="15.515;2.92;0.66" Rotation="82;0;0" ShowOn="Umlauf_rot" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\Universal\Doppelgruen.l3dobj" Position="15.515;2.92;0.66" Rotation="82;0;0" ShowOn="Umlauf_gruen" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Anzeige_weiss" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\Front Anzeige.l3dobj" Position="15.25;0;0" Rotation="0;0;0" ShowOn="Z1 or Z2" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\Front Anzeige_weiss.l3dobj" Position="15.25;0;0" Rotation="0;0;0" ShowOn="Anzeige_weiss and (Z1 or Z2)" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Anzeige_weiss or Z1 or Z2" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\dunkel\Front Anzeige.l3dobj" Position="15.25;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Z1 or Z2" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\dunkel\Front Anzeige_weiss.l3dobj" Position="15.25;0;0" Rotation="0;0;0" ShowOn="Anzeige_weiss" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Fenster.l3dobj" Position="11.525;0;0" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Fenster.l3dobj" Position="10.285;0;0" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Fenster.l3dobj" Position="6.355;0;0" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Fenster.l3dobj" Position="5.115;0;0" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Klappfenster.l3dobj" Position="10.285;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Klappfenster.l3dobj" Position="9.045;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Klappfenster.l3dobj" Position="5.115;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Klappfenster.l3dobj" Position="3.875;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Fahrerscheibe.l3dobj" Position="15.25;0;0" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Begleitertuer.l3dobj" Position="15.25;0;0" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Fenster klein links.l3dobj" Position="1.19;0;0" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Fenster klein rechts.l3dobj" Position="1.19;0;0" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Heck.l3dobj" Position="0.2;0;0" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Tuer.l3dobj" Position="3.87;0;0" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Tuer.l3dobj" Position="9.04;0;0" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Tuer vorne rechts.l3dobj" Position="14.085;0;0" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Tuer.l3dobj" Position="1.19;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Tuer.l3dobj" Position="6.36;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Tuer vorne links.l3dobj" Position="14.085;0;0" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tuer_rechts" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Tuerfluegel rechts.l3dobj" Position="3.87;0;0" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tuer_rechts" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Tuerfluegel rechts.l3dobj" Position="9.04;0;0" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tuer_rechts" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Tuerfluegel rechts.l3dobj" Position="14.085;0;0" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Tuerfluegel rechts.l3dobj" Position="4.47;0;-0.06" Rotation="180;0;0" ShowOn="Tuer_rechts" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Tuerfluegel rechts.l3dobj" Position="9.64;0;-0.06" Rotation="180;0;0" ShowOn="Tuer_rechts" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Tuerfluegel rechts.l3dobj" Position="14.685;0;-0.06" Rotation="180;0;0" ShowOn="Tuer_rechts" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tuer_rechts" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Tuerfluegel links.l3dobj" Position="3.87;0;0" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tuer_rechts" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Tuerfluegel links.l3dobj" Position="9.04;0;0" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tuer_rechts" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Tuerfluegel links.l3dobj" Position="14.085;0;0" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Tuerfluegel links.l3dobj" Position="3.27;0;-0.06" Rotation="180;0;0" ShowOn="Tuer_rechts" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Tuerfluegel links.l3dobj" Position="8.44;0;-0.06" Rotation="180;0;0" ShowOn="Tuer_rechts" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Tuerfluegel links.l3dobj" Position="13.485;0;-0.06" Rotation="180;0;0" ShowOn="Tuer_rechts" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tuer_links" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Tuerfluegel rechts.l3dobj" Position="1.19;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tuer_links" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Tuerfluegel rechts.l3dobj" Position="6.36;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tuer_links" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Tuerfluegel rechts.l3dobj" Position="11.405;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Tuerfluegel rechts.l3dobj" Position="0.59;0;0.06" Rotation="0;0;0" ShowOn="Tuer_links" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Tuerfluegel rechts.l3dobj" Position="5.76;0;0.06" Rotation="0;0;0" ShowOn="Tuer_links" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Tuerfluegel rechts.l3dobj" Position="10.805;0;0.06" Rotation="0;0;0" ShowOn="Tuer_links" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tuer_links" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Tuerfluegel links.l3dobj" Position="1.19;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tuer_links" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Tuerfluegel links.l3dobj" Position="6.36;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tuer_links" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Tuerfluegel links.l3dobj" Position="11.405;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Tuerfluegel links.l3dobj" Position="1.79;0;0.06" Rotation="0;0;0" ShowOn="Tuer_links" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Tuerfluegel links.l3dobj" Position="6.96;0;0.06" Rotation="0;0;0" ShowOn="Tuer_links" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Tuerfluegel links.l3dobj" Position="12.005;0;0.06" Rotation="0;0;0" ShowOn="Tuer_links" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tuer_rechts" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Tuerfluegel rechts innen.l3dobj" Position="3.87;0;0" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tuer_rechts" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Tuerfluegel rechts innen.l3dobj" Position="9.04;0;0" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tuer_rechts" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Tuerfluegel rechts innen.l3dobj" Position="14.085;0;0" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Tuerfluegel rechts innen.l3dobj" Position="4.47;0;-0.06" Rotation="180;0;0" ShowOn="Tuer_rechts" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Tuerfluegel rechts innen.l3dobj" Position="9.64;0;-0.06" Rotation="180;0;0" ShowOn="Tuer_rechts" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Tuerfluegel rechts innen.l3dobj" Position="14.685;0;-0.06" Rotation="180;0;0" ShowOn="Tuer_rechts" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tuer_rechts" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Tuerfluegel links innen.l3dobj" Position="3.87;0;0" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tuer_rechts" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Tuerfluegel links innen.l3dobj" Position="9.04;0;0" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tuer_rechts" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Tuerfluegel links innen.l3dobj" Position="14.085;0;0" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Tuerfluegel links innen.l3dobj" Position="3.27;0;-0.06" Rotation="180;0;0" ShowOn="Tuer_rechts" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Tuerfluegel links innen.l3dobj" Position="8.44;0;-0.06" Rotation="180;0;0" ShowOn="Tuer_rechts" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Tuerfluegel links innen.l3dobj" Position="13.485;0;-0.06" Rotation="180;0;0" ShowOn="Tuer_rechts" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tuer_links" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Tuerfluegel rechts innen.l3dobj" Position="1.19;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tuer_links" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Tuerfluegel rechts innen.l3dobj" Position="6.36;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tuer_links" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Tuerfluegel rechts innen.l3dobj" Position="11.405;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Tuerfluegel rechts innen.l3dobj" Position="0.59;0;0.06" Rotation="0;0;0" ShowOn="Tuer_links" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Tuerfluegel rechts innen.l3dobj" Position="5.76;0;0.06" Rotation="0;0;0" ShowOn="Tuer_links" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Tuerfluegel rechts innen.l3dobj" Position="10.805;0;0.06" Rotation="0;0;0" ShowOn="Tuer_links" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tuer_links" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Tuerfluegel links innen.l3dobj" Position="1.19;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tuer_links" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Tuerfluegel links innen.l3dobj" Position="6.36;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tuer_links" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Tuerfluegel links innen.l3dobj" Position="11.405;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Tuerfluegel links innen.l3dobj" Position="1.79;0;0.06" Rotation="0;0;0" ShowOn="Tuer_links" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Tuerfluegel links innen.l3dobj" Position="6.96;0;0.06" Rotation="0;0;0" ShowOn="Tuer_links" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Tuerfluegel links innen.l3dobj" Position="12.005;0;0.06" Rotation="0;0;0" ShowOn="Tuer_links" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tuer_rechts" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F90\Teile\Tuerknopf.l3dobj" Position="2.645;2.05;-1.325" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F90\Teile\Tuerknopf.l3dobj" Position="3.245;2.05;-1.385" Rotation="0;0;0" ShowOn="Tuer_rechts" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tuer_rechts" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F90\Teile\Tuerknopf.l3dobj" Position="7.815;2.05;-1.325" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F90\Teile\Tuerknopf.l3dobj" Position="8.415;2.05;-1.385" Rotation="0;0;0" ShowOn="Tuer_rechts" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tuer_rechts" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F90\Teile\Tuerknopf.l3dobj" Position="12.86;2.05;-1.325" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F90\Teile\Tuerknopf.l3dobj" Position="13.46;2.05;-1.385" Rotation="0;0;0" ShowOn="Tuer_rechts" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tuer_links" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F90\Teile\Tuerknopf.l3dobj" Position="2.415;2.05;1.325" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F90\Teile\Tuerknopf.l3dobj" Position="1.815;2.05;1.385" Rotation="180;0;0" ShowOn="Tuer_links" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tuer_links" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F90\Teile\Tuerknopf.l3dobj" Position="7.585;2.05;1.325" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F90\Teile\Tuerknopf.l3dobj" Position="6.985;2.05;1.385" Rotation="180;0;0" ShowOn="Tuer_links" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tuer_links" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F90\Teile\Tuerknopf.l3dobj" Position="12.63;2.05;1.325" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F90\Teile\Tuerknopf.l3dobj" Position="12.03;2.05;1.385" Rotation="180;0;0" ShowOn="Tuer_links" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tuer_rechts" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F90\Teile\dunkel\Tuerknopf innen.l3dobj" Position="2.64;2.05;-1.285" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tuer_rechts" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F90\Teile\dunkel\Tuerknopf innen.l3dobj" Position="7.81;2.05;-1.285" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tuer_rechts" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F90\Teile\dunkel\Tuerknopf innen.l3dobj" Position="12.855;2.05;-1.285" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tuer_links" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F90\Teile\dunkel\Tuerknopf innen.l3dobj" Position="2.42;2.05;1.285" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tuer_links" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F90\Teile\dunkel\Tuerknopf innen.l3dobj" Position="7.59;2.05;1.285" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tuer_links" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F90\Teile\dunkel\Tuerknopf innen.l3dobj" Position="12.635;2.05;1.285" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tuer_rechts" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\Fahrausweis.l3dobj" Position="13.195;2.1;-1.305" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tuer_rechts" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\Fahrausweis.l3dobj" Position="8.15;2.1;-1.305" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tuer_rechts" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\Fahrausweis.l3dobj" Position="2.98;2.1;-1.305" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\Fahrausweis.l3dobj" Position="13.795;2.1;-1.365" Rotation="0;0;0" ShowOn="Tuer_rechts" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\Fahrausweis.l3dobj" Position="8.75;2.1;-1.365" Rotation="0;0;0" ShowOn="Tuer_rechts" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\Fahrausweis.l3dobj" Position="3.58;2.1;-1.365" Rotation="0;0;0" ShowOn="Tuer_rechts" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tuer_rechts" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\Fahrausweis.l3dobj" Position="13.195;2.1;-1.305" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tuer_rechts" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\Fahrausweis.l3dobj" Position="8.15;2.1;-1.305" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tuer_rechts" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\Fahrausweis.l3dobj" Position="2.98;2.1;-1.305" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tuer_links" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\Fahrausweis.l3dobj" Position="12.295;2.1;1.305" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tuer_links" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\Fahrausweis.l3dobj" Position="7.25;2.1;1.305" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tuer_links" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\Fahrausweis.l3dobj" Position="2.08;2.1;1.305" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\Fahrausweis.l3dobj" Position="11.695;2.1;1.365" Rotation="180;0;0" ShowOn="Tuer_links" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\Fahrausweis.l3dobj" Position="6.65;2.1;1.365" Rotation="180;0;0" ShowOn="Tuer_links" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\Fahrausweis.l3dobj" Position="1.48;2.1;1.365" Rotation="180;0;0" ShowOn="Tuer_links" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tuer_links" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\Fahrausweis.l3dobj" Position="12.295;2.1;1.305" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tuer_links" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\Fahrausweis.l3dobj" Position="7.25;2.1;1.305" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tuer_links" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\Fahrausweis.l3dobj" Position="2.08;2.1;1.305" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Tuer innen.l3dobj" Position="3.87;0;0" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Tuer innen.l3dobj" Position="9.04;0;0" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Tuer innen.l3dobj" Position="14.085;0;0" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Tuer innen.l3dobj" Position="1.19;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Tuer innen.l3dobj" Position="6.36;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Tuer innen.l3dobj" Position="11.405;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F90\Teile\dunkel\Tuerwand.l3dobj" Position="3.415;0;0" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F90\Teile\dunkel\Tuerwand.l3dobj" Position="8.585;0;0" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F90\Teile\dunkel\Tuerwand vorne rechts.l3dobj" Position="13.63;0;0" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F90\Teile\dunkel\Tuerwand.l3dobj" Position="1.645;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F90\Teile\dunkel\Tuerwand.l3dobj" Position="6.815;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F90\Teile\dunkel\Tuerwand vorne links.l3dobj" Position="11.86;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\Dachleiste.l3dobj" Position="0.1;3.22;-1.2" Rotation="0;0;-14" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\Dachleiste.l3dobj" Position="0.1;3.22;1.2" Rotation="0;0;14" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Umlauf_gruen or Umlauf_rot" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\Universal\Umlauf.l3dobj" Position="15.515;2.92;0.66" Rotation="82;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\Universal\BVG-Logo.l3dobj" Position="13.93;2.5;1.325" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\Universal\BVG-Logo.l3dobj" Position="13.93;2.5;-1.325" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F87\Teile\Dachlueftung.l3dobj" Position="1.03;3.33;0.9" Rotation="0;0;7" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F87\Teile\Dachlueftung.l3dobj" Position="2.53;3.33;0.9" Rotation="0;0;7" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F87\Teile\Dachlueftung.l3dobj" Position="4.03;3.33;0.9" Rotation="0;0;7" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F87\Teile\Dachlueftung.l3dobj" Position="6.2;3.33;0.9" Rotation="0;0;7" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F87\Teile\Dachlueftung.l3dobj" Position="7.7;3.33;0.9" Rotation="0;0;7" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F87\Teile\Dachlueftung.l3dobj" Position="9.2;3.33;0.9" Rotation="0;0;7" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F87\Teile\Dachlueftung.l3dobj" Position="11.245;3.33;0.9" Rotation="0;0;7" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F87\Teile\Dachlueftung.l3dobj" Position="12.745;3.33;0.9" Rotation="0;0;7" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F87\Teile\Dachlueftung.l3dobj" Position="14.6;3.33;0.9" Rotation="0;0;7" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F87\Teile\Dachlueftung.l3dobj" Position="1.03;3.33;-0.9" Rotation="0;0;-7" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F87\Teile\Dachlueftung.l3dobj" Position="2.53;3.33;-0.9" Rotation="0;0;-7" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F87\Teile\Dachlueftung.l3dobj" Position="4.03;3.33;-0.9" Rotation="0;0;-7" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F87\Teile\Dachlueftung.l3dobj" Position="6.2;3.33;-0.9" Rotation="0;0;-7" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F87\Teile\Dachlueftung.l3dobj" Position="7.7;3.33;-0.9" Rotation="0;0;-7" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F87\Teile\Dachlueftung.l3dobj" Position="9.2;3.33;-0.9" Rotation="0;0;-7" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F87\Teile\Dachlueftung.l3dobj" Position="11.245;3.33;-0.9" Rotation="0;0;-7" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F87\Teile\Dachlueftung.l3dobj" Position="12.745;3.33;-0.9" Rotation="0;0;-7" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F87\Teile\Dachlueftung.l3dobj" Position="14.6;3.33;-0.9" Rotation="0;0;-7" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F87\Teile\Dachlueftung_2.l3dobj" Position="0;3.33;0.9" Rotation="0;0;7" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F87\Teile\Dachlueftung_2.l3dobj" Position="0;3.33;-0.9" Rotation="0;0;-7" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\D55\Teile\DG-Zapfen.l3dobj" Position="3;0.94;0" Rotation="0;0;90" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\D55\Teile\DG-Zapfen.l3dobj" Position="12.5;0.94;0" Rotation="0;0;90" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\D55\Teile\DG-Rad.l3dobj" Position="2.05;0.42;-0.8" Rotation="-90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\D55\Teile\DG-Rad.l3dobj" Position="2.05;0.42;0.8" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\D55\Teile\DG-Rad.l3dobj" Position="3.95;0.42;-0.8" Rotation="-90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\D55\Teile\DG-Rad.l3dobj" Position="3.95;0.42;0.8" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\D55\Teile\DG-Rad.l3dobj" Position="11.55;0.42;-0.8" Rotation="-90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\D55\Teile\DG-Rad.l3dobj" Position="11.55;0.42;0.8" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\D55\Teile\DG-Rad.l3dobj" Position="13.45;0.42;-0.8" Rotation="-90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\D55\Teile\DG-Rad.l3dobj" Position="13.45;0.42;0.8" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\D55\Teile\DG-Radkranz.l3dobj" Position="2.05;0.42;-0.8" Rotation="-90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\D55\Teile\DG-Radkranz.l3dobj" Position="2.05;0.42;0.8" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\D55\Teile\DG-Radkranz.l3dobj" Position="3.95;0.42;-0.8" Rotation="-90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\D55\Teile\DG-Radkranz.l3dobj" Position="3.95;0.42;0.8" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\D55\Teile\DG-Radkranz.l3dobj" Position="11.55;0.42;-0.8" Rotation="-90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\D55\Teile\DG-Radkranz.l3dobj" Position="11.55;0.42;0.8" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\D55\Teile\DG-Radkranz.l3dobj" Position="13.45;0.42;-0.8" Rotation="-90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\D55\Teile\DG-Radkranz.l3dobj" Position="13.45;0.42;0.8" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\DL65\Teile\DG-Rahmen.l3dobj" Position="3;0.04;-0.8" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\DL65\Teile\DG-Rahmen.l3dobj" Position="3;0.04;0.8" Rotation="-90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\DL65\Teile\DG-Rahmen.l3dobj" Position="12.5;0.04;-0.8" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\DL65\Teile\DG-Rahmen.l3dobj" Position="12.5;0.04;0.8" Rotation="-90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\D65\Teile\DG-Stromabnehmer.l3dobj" Position="12.5;0.16;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\D65\Teile\DG-Stromabnehmer.l3dobj" Position="12.5;0.16;0" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\DL65\Teile\DG-Feder.l3dobj" Position="2.05;0.04;-0.8" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\DL65\Teile\DG-Feder.l3dobj" Position="3.95;0.04;-0.8" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\DL65\Teile\DG-Feder.l3dobj" Position="2.05;0.04;0.8" Rotation="270;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\DL65\Teile\DG-Feder.l3dobj" Position="3.95;0.04;0.8" Rotation="270;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\DL65\Teile\DG-Feder.l3dobj" Position="11.55;0.04;-0.8" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\DL65\Teile\DG-Feder.l3dobj" Position="13.45;0.04;-0.8" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\DL65\Teile\DG-Feder.l3dobj" Position="11.55;0.04;0.8" Rotation="270;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\DL65\Teile\DG-Feder.l3dobj" Position="13.45;0.04;0.8" Rotation="270;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\DL65\Teile\DG-Stromabnehmerbalken.l3dobj" Position="12.5;0;-0.8" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\DL65\Teile\DG-Stromabnehmerbalken.l3dobj" Position="12.5;0;0.8" Rotation="-90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\D55\Teile\DG-Achse.l3dobj" Position="2.05;0.42;0" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\D55\Teile\DG-Achse.l3dobj" Position="3.95;0.42;0" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\D55\Teile\DG-Achse.l3dobj" Position="11.55;0.42;0" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\D55\Teile\DG-Achse.l3dobj" Position="13.45;0.42;0" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\D55\Teile\DG-Bremsscheibe.l3dobj" Position="2.05;0.42;-0.5" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\D55\Teile\DG-Bremsscheibe.l3dobj" Position="3.95;0.42;0.5" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\D55\Teile\DG-Bremsscheibe.l3dobj" Position="11.55;0.42;-0.5" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\D55\Teile\DG-Bremsscheibe.l3dobj" Position="13.45;0.42;0.5" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\D55\Teile\DG-Schallschutz.l3dobj" Position="2.05;0.42;-0.3" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\D55\Teile\DG-Schallschutz.l3dobj" Position="2.05;0.42;0.3" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\D55\Teile\DG-Schallschutz.l3dobj" Position="3.95;0.42;-0.3" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\D55\Teile\DG-Schallschutz.l3dobj" Position="3.95;0.42;0.3" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\D55\Teile\DG-Schallschutz.l3dobj" Position="11.55;0.42;-0.3" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\D55\Teile\DG-Schallschutz.l3dobj" Position="11.55;0.42;0.3" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\D55\Teile\DG-Schallschutz.l3dobj" Position="13.45;0.42;-0.3" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\D55\Teile\DG-Schallschutz.l3dobj" Position="13.45;0.42;0.3" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\D55\Teile\DG-Motor_2.l3dobj" Position="3;0.42;0" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\D55\Teile\DG-Motor_2.l3dobj" Position="12.5;0.42;0" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\D55\Teile\DG-Achsgetriebe.l3dobj" Position="2.05;0.42;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\D55\Teile\DG-Achsgetriebe.l3dobj" Position="3.95;0.42;0" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\D55\Teile\DG-Achsgetriebe.l3dobj" Position="11.55;0.42;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\D55\Teile\DG-Achsgetriebe.l3dobj" Position="13.45;0.42;0" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F74\Teile\DG-Sandkasten.l3dobj" Position="1.39;0.3;-0.93" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F74\Teile\DG-Sandkasten.l3dobj" Position="1.69;0.3;0.93" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F74\Teile\DG-Sandkasten.l3dobj" Position="13.81;0.3;-0.93" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F74\Teile\DG-Sandkasten.l3dobj" Position="14.11;0.3;0.93" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\D55\Teile\DG-Motor.l3dobj" Position="3;0.42;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\D55\Teile\DG-Motor.l3dobj" Position="12.5;0.42;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Aggregat_1a.l3dobj" Position="7.14;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Aggregat_1b.l3dobj" Position="7.92;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Aggregat_1c.l3dobj" Position="7.92;0.56;0.6" Rotation="180;0;150" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Aggregat_1c.l3dobj" Position="8.52;0.56;-0.6" Rotation="0;0;150" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Aggregat_1d.l3dobj" Position="8.52;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Aggregat_2a.l3dobj" Position="11;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Aggregat_2c.l3dobj" Position="8.52;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Aggregat_3a.l3dobj" Position="6.88;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\Aggregat_3d.l3dobj" Position="1.3;0.05;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\Aggregat_3d.l3dobj" Position="0.2;0.05;0" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\Aggregat_3d.l3dobj" Position="15.3;0.05;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Aggregat_4a.l3dobj" Position="7.92;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Aggregat_4c.l3dobj" Position="11;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Aggregat_5b.l3dobj" Position="4.79;0.32;1" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Kessel_1.l3dobj" Position="4.64;0.5;-0.01" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Kessel_1.l3dobj" Position="4.94;0.71;-0.01" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\D55\Teile\Kupplung.l3dobj" Position="15.8;0.78;0" Rotation="270;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\D55\Teile\E-Kupplung.l3dobj" Position="15.8;0.78;0" Rotation="270;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\D55\Teile\Kurzkupplung.l3dobj" Position="-0.25;0.78;0" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tuer_rechts" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\DL70\Teile\Tuerlampe.l3dobj" Position="2.64;2.54;-1.325" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tuer_rechts" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\DL70\Teile\Tuerlampe.l3dobj" Position="7.81;2.54;-1.325" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tuer_rechts" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\DL70\Teile\Tuerlampe.l3dobj" Position="12.855;2.54;-1.325" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tuer_links" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\DL70\Teile\Tuerlampe.l3dobj" Position="2.42;2.54;1.325" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tuer_links" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\DL70\Teile\Tuerlampe.l3dobj" Position="7.59;2.54;1.325" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tuer_links" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\DL70\Teile\Tuerlampe.l3dobj" Position="12.635;2.54;1.325" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\DL70\Teile\Tuerlampe.l3dobj" Position="3.24;2.54;-1.385" Rotation="0;0;0" ShowOn="Tuer_rechts" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\DL70\Teile\Tuerlampe.l3dobj" Position="8.41;2.54;-1.385" Rotation="0;0;0" ShowOn="Tuer_rechts" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\DL70\Teile\Tuerlampe.l3dobj" Position="13.455;2.54;-1.385" Rotation="0;0;0" ShowOn="Tuer_rechts" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\DL70\Teile\Tuerlampe.l3dobj" Position="1.82;2.54;1.385" Rotation="180;0;0" ShowOn="Tuer_links" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\DL70\Teile\Tuerlampe.l3dobj" Position="6.99;2.54;1.385" Rotation="180;0;0" ShowOn="Tuer_links" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\DL70\Teile\Tuerlampe.l3dobj" Position="12.035;2.54;1.385" Rotation="180;0;0" ShowOn="Tuer_links" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tuer_rechts or Tuer_links" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\DL70\Teile\Tuerkennlampe aus.l3dobj" Position="14.6;3.2;-1.3" Rotation="0;0;22" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Tuer_rechts or Tuer_links" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\DL70\Teile\Tuerkennlampe aus.l3dobj" Position="14.6;3.2;1.3" Rotation="180;0;22" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\DL70\Teile\Tuerkennlampe an.l3dobj" Position="14.6;3.2;-1.3" Rotation="0;0;22" ShowOn="Tuer_rechts or Tuer_links" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\DL70\Teile\Tuerkennlampe an.l3dobj" Position="14.6;3.2;1.3" Rotation="180;0;22" ShowOn="Tuer_rechts or Tuer_links" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F90\Teile\Lautsprecher.l3dobj" Position="3.965;3.08;-1.325" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F90\Teile\Lautsprecher.l3dobj" Position="6.26;3.08;-1.325" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F90\Teile\Lautsprecher.l3dobj" Position="11.43;3.08;-1.325" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F90\Teile\Lautsprecher.l3dobj" Position="3.965;3.08;1.325" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F90\Teile\Lautsprecher.l3dobj" Position="6.26;3.08;1.325" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F90\Teile\Lautsprecher.l3dobj" Position="11.43;3.08;1.325" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\Fahrrad ja.l3dobj" Position="11.73;2.7;-1.325" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\Fahrrad ja.l3dobj" Position="11.73;2.7;1.325" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\Fahrrad nein.l3dobj" Position="8.78;2.75;-1.325" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\Fahrrad nein.l3dobj" Position="6.62;2.75;-1.325" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\Fahrrad nein.l3dobj" Position="3.61;2.75;-1.325" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\Fahrrad nein.l3dobj" Position="1.45;2.75;-1.325" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\Fahrrad nein.l3dobj" Position="8.78;2.75;1.325" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\Fahrrad nein.l3dobj" Position="6.62;2.75;1.325" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\Fahrrad nein.l3dobj" Position="3.61;2.75;1.325" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\Fahrrad nein.l3dobj" Position="1.45;2.75;1.325" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F90\Teile\dunkel\Fahrerstandswand.l3dobj" Position="13.99;0;0" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\dunkel\Sitzbank links.l3dobj" Position="3.455;0;-1.27" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\dunkel\Sitzbank links.l3dobj" Position="5.135;0;-1.27" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\dunkel\Sitzbank links.l3dobj" Position="8.625;0;-1.27" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\dunkel\Sitzbank links.l3dobj" Position="5.095;0;1.27" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\dunkel\Sitzbank links.l3dobj" Position="6.775;0;1.27" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\dunkel\Sitzbank links.l3dobj" Position="10.265;0;1.27" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\dunkel\Sitzbank rechts.l3dobj" Position="5.095;0;-1.27" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\dunkel\Sitzbank rechts.l3dobj" Position="6.775;0;-1.27" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\dunkel\Sitzbank rechts.l3dobj" Position="10.265;0;-1.27" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\dunkel\Sitzbank rechts.l3dobj" Position="3.455;0;1.27" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\dunkel\Sitzbank rechts.l3dobj" Position="5.135;0;1.27" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\dunkel\Sitzbank rechts.l3dobj" Position="8.625;0;1.27" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\dunkel\Sitzbank Rahmen.l3dobj" Position="3.455;0;-1.27" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\dunkel\Sitzbank Rahmen.l3dobj" Position="5.135;0;-1.27" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\dunkel\Sitzbank Rahmen.l3dobj" Position="6.815;0;-1.27" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\dunkel\Sitzbank Rahmen.l3dobj" Position="8.625;0;-1.27" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\dunkel\Sitzbank Rahmen.l3dobj" Position="10.305;0;-1.27" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\dunkel\Sitzbank Rahmen.l3dobj" Position="3.415;0;1.27" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\dunkel\Sitzbank Rahmen.l3dobj" Position="5.095;0;1.27" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\dunkel\Sitzbank Rahmen.l3dobj" Position="6.775;0;1.27" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\dunkel\Sitzbank Rahmen.l3dobj" Position="8.585;0;1.27" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\dunkel\Sitzbank Rahmen.l3dobj" Position="10.265;0;1.27" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Lampe.l3dobj" Position="0.13;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Lampe.l3dobj" Position="1.39;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Lampe.l3dobj" Position="2.65;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Lampe.l3dobj" Position="3.91;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Lampe.l3dobj" Position="5.17;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Lampe.l3dobj" Position="6.43;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Lampe.l3dobj" Position="7.69;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Lampe.l3dobj" Position="8.95;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Lampe.l3dobj" Position="10.21;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Lampe.l3dobj" Position="11.47;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Lampe.l3dobj" Position="12.73;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Lampe.l3dobj" Position="1.39;0;0" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Lampe.l3dobj" Position="2.65;0;0" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Lampe.l3dobj" Position="3.91;0;0" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Lampe.l3dobj" Position="5.17;0;0" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Lampe.l3dobj" Position="6.43;0;0" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Lampe.l3dobj" Position="7.69;0;0" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Lampe.l3dobj" Position="8.95;0;0" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Lampe.l3dobj" Position="10.21;0;0" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Lampe.l3dobj" Position="11.47;0;0" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Lampe.l3dobj" Position="12.73;0;0" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Lampe.l3dobj" Position="13.99;0;0" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F90\Teile\dunkel\Windfang.l3dobj" Position="3.415;0;-1.27" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F90\Teile\dunkel\Windfang.l3dobj" Position="6.815;0;-1.27" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F90\Teile\dunkel\Windfang.l3dobj" Position="8.585;0;-1.27" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F90\Teile\dunkel\Windfang.l3dobj" Position="10.305;0;-1.27" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F90\Teile\dunkel\Windfang.l3dobj" Position="3.415;0;1.27" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F90\Teile\dunkel\Windfang.l3dobj" Position="6.815;0;1.27" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F90\Teile\dunkel\Windfang.l3dobj" Position="8.585;0;1.27" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F90\Teile\dunkel\Windfang.l3dobj" Position="10.305;0;1.27" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F90\Teile\dunkel\Fensterwand links.l3dobj" Position="3.415;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F90\Teile\dunkel\Fensterwand rechts.l3dobj" Position="6.815;0;2.54" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F90\Teile\dunkel\Fensterwand links.l3dobj" Position="8.585;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F90\Teile\dunkel\Fensterwand rechts vorn.l3dobj" Position="11.985;0;2.54" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F90\Teile\dunkel\Fensterwand rechts.l3dobj" Position="3.415;0;-2.54" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F90\Teile\dunkel\Fensterwand links.l3dobj" Position="6.815;0;0" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F90\Teile\dunkel\Fensterwand rechts.l3dobj" Position="8.585;0;-2.54" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F90\Teile\dunkel\Fensterwand links vorn.l3dobj" Position="11.985;0;0" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Klappfensterwand.l3dobj" Position="3.48;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Klappfensterwand.l3dobj" Position="4.72;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Klappfensterwand.l3dobj" Position="8.65;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Klappfensterwand.l3dobj" Position="9.89;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Fensterwand.l3dobj" Position="5.51;0;0" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Fensterwand.l3dobj" Position="6.75;0;0" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Fensterwand.l3dobj" Position="10.68;0;0" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Fensterwand.l3dobj" Position="11.92;0;0" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F90\Teile\dunkel\Dachklappe.l3dobj" Position="0;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F90\Teile\dunkel\Heck innen.l3dobj" Position="-0.05;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Heck innen 2.l3dobj" Position="-0.05;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Fensterwand Heck.l3dobj" Position="1.22;-0.03;-0.755" Rotation="270;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Lampe 2.l3dobj" Position="0.03;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Lampe 2.l3dobj" Position="0.13;0;0" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Fensterwand klein.l3dobj" Position="-0.175;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Fensterwand klein.l3dobj" Position="1.585;0;0" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F90\Teile\dunkel\Fensterwand klein links.l3dobj" Position="1.645;0;2.54" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F90\Teile\dunkel\Fensterwand klein rechts.l3dobj" Position="1.645;0;0" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F90\Teile\dunkel\Windfang klein.l3dobj" Position="1.645;0;-1.25" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F90\Teile\dunkel\Windfang klein.l3dobj" Position="1.605;0;1.25" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\dunkel\Sitzbank lang rechts.l3dobj" Position="0.045;0;-1.275" Rotation="270;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\dunkel\Sitzbank lang links.l3dobj" Position="0.045;0;1.275" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Dachleiste innen.l3dobj" Position="-0.05;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Dachleiste innen.l3dobj" Position="0.58;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Dachleiste innen.l3dobj" Position="1.21;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Dachleiste innen.l3dobj" Position="1.84;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Dachleiste innen.l3dobj" Position="2.47;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Dachleiste innen.l3dobj" Position="3.1;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Dachleiste innen.l3dobj" Position="3.73;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Dachleiste innen.l3dobj" Position="4.36;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Dachleiste innen.l3dobj" Position="4.99;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Dachleiste innen.l3dobj" Position="5.62;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Dachleiste innen.l3dobj" Position="6.25;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Dachleiste innen.l3dobj" Position="6.88;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Dachleiste innen.l3dobj" Position="7.51;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Dachleiste innen.l3dobj" Position="8.14;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Dachleiste innen.l3dobj" Position="8.77;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Dachleiste innen.l3dobj" Position="9.4;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Dachleiste innen.l3dobj" Position="10.03;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Dachleiste innen.l3dobj" Position="10.66;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Dachleiste innen.l3dobj" Position="11.29;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Dachleiste innen.l3dobj" Position="11.92;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Dachleiste innen.l3dobj" Position="12.55;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Dachleiste innen.l3dobj" Position="13.18;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Dachleiste innen.l3dobj" Position="13.81;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Dachwand.l3dobj" Position="0;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Boden.l3dobj" Position="-0.05;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F90\Teile\dunkel\Wand vorne.l3dobj" Position="13.99;0;0" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F90\Teile\dunkel\Wand vorne.l3dobj" Position="13.63;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F90\Teile\Fahrerstandswand 2.l3dobj" Position="13.99;0;0" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Fensterwand Fahrerstand.l3dobj" Position="13.895;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Fensterwand Fahrerstand.l3dobj" Position="15.465;0;0" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Begleitertuer innen.l3dobj" Position="14.35;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Fahrerscheibe innen.l3dobj" Position="14.35;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Frontscheibe innen.l3dobj" Position="15.25;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Front innen.l3dobj" Position="15.25;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Boden vorn.l3dobj" Position="15.25;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Dach vorn.l3dobj" Position="15.25;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F87\Teile\Fahrpult.l3dobj" Position="15.25;-0.01;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F90\Teile\Fahrerleiste.l3dobj" Position="14.37;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\dunkel\Haltestange Tuer.l3dobj" Position="2.53;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\dunkel\Haltestange Tuer.l3dobj" Position="7.7;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\dunkel\Haltestange Tuer.l3dobj" Position="12.745;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\dunkel\Haltestange Sitz.l3dobj" Position="1.625;0;-0.65" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\dunkel\Haltestange Sitz.l3dobj" Position="1.625;0;0.65" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\dunkel\Haltestange Sitz.l3dobj" Position="3.435;0;-0.4" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\dunkel\Haltestange Sitz.l3dobj" Position="3.435;0;0.4" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\dunkel\Haltestange Sitz.l3dobj" Position="5.115;0;-0.4" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\dunkel\Haltestange Sitz.l3dobj" Position="5.115;0;0.4" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\dunkel\Haltestange Sitz.l3dobj" Position="6.795;0;-0.4" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\dunkel\Haltestange Sitz.l3dobj" Position="6.795;0;0.4" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\dunkel\Haltestange Sitz.l3dobj" Position="8.605;0;-0.4" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\dunkel\Haltestange Sitz.l3dobj" Position="8.605;0;0.4" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\dunkel\Haltestange Sitz.l3dobj" Position="10.285;0;-0.4" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\dunkel\Haltestange Sitz.l3dobj" Position="10.285;0;0.4" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\dunkel\Haltestange Sitz.l3dobj" Position="11.84;0;-0.65" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\dunkel\Haltestange Sitz.l3dobj" Position="11.84;0;0.65" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\dunkel\Haltestange Windfang 2.l3dobj" Position="1.625;2.6;0" Rotation="90;270;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\dunkel\Haltestange Windfang 2.l3dobj" Position="1.625;2.6;0" Rotation="90;90;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\dunkel\Haltestange Windfang.l3dobj" Position="3.435;2.6;0" Rotation="90;270;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\dunkel\Haltestange Windfang.l3dobj" Position="3.435;2.6;0" Rotation="90;90;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\dunkel\Haltestange Windfang.l3dobj" Position="6.795;2.6;0" Rotation="90;270;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\dunkel\Haltestange Windfang.l3dobj" Position="6.795;2.6;0" Rotation="90;90;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\dunkel\Haltestange Windfang.l3dobj" Position="8.605;2.6;0" Rotation="90;270;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\dunkel\Haltestange Windfang.l3dobj" Position="8.605;2.6;0" Rotation="90;90;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\dunkel\Haltestange Windfang 2.l3dobj" Position="11.84;2.6;0" Rotation="90;270;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\dunkel\Haltestange Windfang 2.l3dobj" Position="11.84;2.6;0" Rotation="90;90;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Haltestange vorn.l3dobj" Position="13.99;3.06;0" Rotation="0;90;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F79\Teile\dunkel\Haltestange vorn 2.l3dobj" Position="11.84;3.06;0" Rotation="90;90;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Haltestange Sitz 3.l3dobj" Position="1.625;3.1;-0.65" Rotation="0;90;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Haltestange Sitz 3.l3dobj" Position="1.625;3.1;0.65" Rotation="0;90;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Haltestange Sitz 2.l3dobj" Position="6.795;3.1;-0.4" Rotation="0;90;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Haltestange Sitz 2.l3dobj" Position="6.795;3.1;0.4" Rotation="0;90;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Haltestange Sitz 4.l3dobj" Position="10.285;3.1;-0.4" Rotation="0;90;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Haltestange Sitz 4.l3dobj" Position="10.285;3.1;0.4" Rotation="0;90;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\dunkel\Haltestange vorn 3.l3dobj" Position="13.95;1.95;0.5" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\dunkel\Haltestange vorn 3.l3dobj" Position="13.95;1.95;-0.5" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\Universal\Linie_1.l3dobj" Position="15.54;3.13;-0.26" Rotation="90;0;0" ShowOn="Linie_1 and (Z1 or Z2)" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Z1 or Z2" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\Universal\Linie_1_dunkel.l3dobj" Position="15.54;3.13;-0.26" Rotation="90;0;0" ShowOn="Linie_1" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\Universal\Linie_2.l3dobj" Position="15.54;3.13;-0.26" Rotation="90;0;0" ShowOn="Linie_2 and (Z1 or Z2)" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Z1 or Z2" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\Universal\Linie_2_dunkel.l3dobj" Position="15.54;3.13;-0.26" Rotation="90;0;0" ShowOn="Linie_2" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\Universal\Linie_3.l3dobj" Position="15.54;3.13;-0.26" Rotation="90;0;0" ShowOn="Linie_3 and (Z1 or Z2)" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Z1 or Z2" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\Universal\Linie_3_dunkel.l3dobj" Position="15.54;3.13;-0.26" Rotation="90;0;0" ShowOn="Linie_3" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\Universal\Linie_4.l3dobj" Position="15.54;3.13;-0.26" Rotation="90;0;0" ShowOn="Linie_4 and (Z1 or Z2)" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Z1 or Z2" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\Universal\Linie_4_dunkel.l3dobj" Position="15.54;3.13;-0.26" Rotation="90;0;0" ShowOn="Linie_4" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\Universal\Linie_5.l3dobj" Position="15.54;3.13;-0.26" Rotation="90;0;0" ShowOn="Linie_5 and (Z1 or Z2)" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Z1 or Z2" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\Universal\Linie_5_dunkel.l3dobj" Position="15.54;3.13;-0.26" Rotation="90;0;0" ShowOn="Linie_5" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\Universal\Linie_6.l3dobj" Position="15.54;3.13;-0.26" Rotation="90;0;0" ShowOn="Linie_6 and (Z1 or Z2)" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Z1 or Z2" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\Universal\Linie_6_dunkel.l3dobj" Position="15.54;3.13;-0.26" Rotation="90;0;0" ShowOn="Linie_6" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\Universal\Linie_7.l3dobj" Position="15.54;3.13;-0.26" Rotation="90;0;0" ShowOn="Linie_7 and (Z1 or Z2)" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Z1 or Z2" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\Universal\Linie_7_dunkel.l3dobj" Position="15.54;3.13;-0.26" Rotation="90;0;0" ShowOn="Linie_7" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\Universal\Linie_8.l3dobj" Position="15.54;3.13;-0.26" Rotation="90;0;0" ShowOn="Linie_8 and (Z1 or Z2)" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Z1 or Z2" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\Universal\Linie_8_dunkel.l3dobj" Position="15.54;3.13;-0.26" Rotation="90;0;0" ShowOn="Linie_8" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\Universal\Linie_9.l3dobj" Position="15.54;3.13;-0.26" Rotation="90;0;0" ShowOn="Linie_9 and (Z1 or Z2)" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Z1 or Z2" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\Universal\Linie_9_dunkel.l3dobj" Position="15.54;3.13;-0.26" Rotation="90;0;0" ShowOn="Linie_9" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\Universal\Linie_10.l3dobj" Position="15.54;3.13;-0.26" Rotation="90;0;0" ShowOn="Linie_10 and (Z1 or Z2)" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Z1 or Z2" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\Universal\Linie_10_dunkel.l3dobj" Position="15.54;3.13;-0.26" Rotation="90;0;0" ShowOn="Linie_10" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F90\Teile\dunkel\Windfang klein.l3dobj" Position="11.86;0;-1.25" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F90\Teile\dunkel\Windfang klein.l3dobj" Position="11.82;0;1.25" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Sitzbank lang rechts.l3dobj" Position="10.37;0;-1.275" Rotation="270;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\dunkel\Sitzbank lang links.l3dobj" Position="10.37;0;1.275" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F90\Teile\Fensterrahmen.l3dobj" Position="13.99;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F90\Teile\Rollo.l3dobj" Position="13.99;0;0" Rotation="0;0;0" ShowOn="Z1 or Z2" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F90\Teile\Rollo.l3dobj" Position="14.03;0;0" Rotation="180;0;0" ShowOn="Z1 or Z2" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Z1 or Z2" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F90\Teile\Rollo_2.l3dobj" Position="13.99;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Z1 or Z2" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F90\Teile\Rollo_2.l3dobj" Position="14.03;0;0" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\Universal\Kurzschliesser.l3dobj" Position="15.26;1.98;1.265" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Font>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="0" DefaultText="" Fonthoehe="0.22" GroupProperty="Linie" Leuchtend="TRUE" Name="\Fonts\KlausN\U-Bahn Berlin\NegHin-weiss.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="15.55;3.255;-0.42" Rotation="-90;0;0" ShowOn="Z1 or Z2" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="8355711" DefaultText="" Fonthoehe="0.22" GroupProperty="Linie" HideOn="Z1 or Z2" Leuchtend="FALSE" Name="\Fonts\KlausN\U-Bahn Berlin\NegHin-weiss.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="15.55;3.255;-0.42" Rotation="-90;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="0" DefaultText="" Fonthoehe="0.18" GroupProperty="Linie klein" Leuchtend="TRUE" Name="\Fonts\KlausN\U-Bahn Berlin\NegHin-weiss.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="15.55;3.255;-0.42" Rotation="-90;0;0" ShowOn="Z1 or Z2" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="8355711" DefaultText="" Fonthoehe="0.18" GroupProperty="Linie klein" HideOn="Z1 or Z2" Leuchtend="FALSE" Name="\Fonts\KlausN\U-Bahn Berlin\NegHin-weiss.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="15.55;3.255;-0.42" Rotation="-90;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="0" DefaultText="" Fonthoehe="0.22" GroupProperty="Linie schwarz" Leuchtend="TRUE" Name="\Fonts\KlausN\U-Bahn Berlin\PosHin-schwarz.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="15.55;3.255;-0.42" Rotation="-90;0;0" ShowOn="Z1 or Z2" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="8355711" DefaultText="" Fonthoehe="0.22" GroupProperty="Linie schwarz" HideOn="Z1 or Z2" Leuchtend="FALSE" Name="\Fonts\KlausN\U-Bahn Berlin\PosHin-schwarz.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="15.55;3.255;-0.42" Rotation="-90;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="0" DefaultText="" Fonthoehe="0.18" GroupProperty="Linie schwarz klein" Leuchtend="TRUE" Name="\Fonts\KlausN\U-Bahn Berlin\PosHin-schwarz.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="15.55;3.255;-0.42" Rotation="-90;0;0" ShowOn="Z1 or Z2" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="8355711" DefaultText="" Fonthoehe="0.18" GroupProperty="Linie schwarz klein" HideOn="Z1 or Z2" Leuchtend="FALSE" Name="\Fonts\KlausN\U-Bahn Berlin\PosHin-schwarz.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="15.55;3.255;-0.42" Rotation="-90;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="0" DefaultText="" Fonthoehe="0.215" GroupProperty="Ziel XL" Leuchtend="TRUE" Name="\Fonts\KlausN\U-Bahn Berlin\NegHin-weiss.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="15.55;3.265;0.16" Rotation="-90;0;0" ShowOn="Z1 or Z2" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="8355711" DefaultText="" Fonthoehe="0.215" GroupProperty="Ziel XL" HideOn="Z1 or Z2" Leuchtend="FALSE" Name="\Fonts\KlausN\U-Bahn Berlin\NegHin-weiss.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="15.55;3.265;0.16" Rotation="-90;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="0" DefaultText="" Fonthoehe="0.18" GroupProperty="Ziel L" Leuchtend="TRUE" Name="\Fonts\KlausN\U-Bahn Berlin\NegHin-weiss.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="15.55;3.255;0.16" Rotation="-90;0;0" ShowOn="Z1 or Z2" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="8355711" DefaultText="" Fonthoehe="0.18" GroupProperty="Ziel L" HideOn="Z1 or Z2" Leuchtend="FALSE" Name="\Fonts\KlausN\U-Bahn Berlin\NegHin-weiss.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="15.55;3.255;0.16" Rotation="-90;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="0" DefaultText="" Fonthoehe="0.145" GroupProperty="Ziel M" Leuchtend="TRUE" Name="\Fonts\KlausN\U-Bahn Berlin\NegHin-weiss.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="15.55;3.255;0.16" Rotation="-90;0;0" ShowOn="Z1 or Z2" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="8355711" DefaultText="" Fonthoehe="0.145" GroupProperty="Ziel M" HideOn="Z1 or Z2" Leuchtend="FALSE" Name="\Fonts\KlausN\U-Bahn Berlin\NegHin-weiss.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="15.55;3.255;0.16" Rotation="-90;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="0" DefaultText="" Fonthoehe="0.11" GroupProperty="Ziel S" Leuchtend="TRUE" Name="\Fonts\KlausN\U-Bahn Berlin\NegHin-weiss.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="15.55;3.255;0.16" Rotation="-90;0;0" ShowOn="Z1 or Z2" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="8355711" DefaultText="" Fonthoehe="0.11" GroupProperty="Ziel S" HideOn="Z1 or Z2" Leuchtend="FALSE" Name="\Fonts\KlausN\U-Bahn Berlin\NegHin-weiss.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="15.55;3.255;0.16" Rotation="-90;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="0" DefaultText="" Fonthoehe="0.075" GroupProperty="Ziel XS" Leuchtend="TRUE" Name="\Fonts\KlausN\U-Bahn Berlin\NegHin-weiss.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="15.55;3.255;0.16" Rotation="-90;0;0" ShowOn="Z1 or Z2" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="8355711" DefaultText="" Fonthoehe="0.075" GroupProperty="Ziel XS" HideOn="Z1 or Z2" Leuchtend="FALSE" Name="\Fonts\KlausN\U-Bahn Berlin\NegHin-weiss.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="15.55;3.255;0.16" Rotation="-90;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="0" DefaultText="" Fonthoehe="0.215" GroupProperty="Ziel rot XL" Leuchtend="TRUE" Name="\Fonts\KlausN\U-Bahn Berlin\PosHin-rot.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="15.55;3.265;0.16" Rotation="-90;0;0" ShowOn="Z1 or Z2" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="8355711" DefaultText="" Fonthoehe="0.215" GroupProperty="Ziel rot XL" HideOn="Z1 or Z2" Leuchtend="FALSE" Name="\Fonts\KlausN\U-Bahn Berlin\PosHin-rot.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="15.55;3.265;0.16" Rotation="-90;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="0" DefaultText="" Fonthoehe="0.18" GroupProperty="Ziel rot L" Leuchtend="TRUE" Name="\Fonts\KlausN\U-Bahn Berlin\PosHin-rot.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="15.55;3.255;0.16" Rotation="-90;0;0" ShowOn="Z1 or Z2" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="8355711" DefaultText="" Fonthoehe="0.18" GroupProperty="Ziel rot L" HideOn="Z1 or Z2" Leuchtend="FALSE" Name="\Fonts\KlausN\U-Bahn Berlin\PosHin-rot.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="15.55;3.255;0.16" Rotation="-90;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="0" DefaultText="" Fonthoehe="0.145" GroupProperty="Ziel rot M" Leuchtend="TRUE" Name="\Fonts\KlausN\U-Bahn Berlin\PosHin-rot.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="15.55;3.255;0.16" Rotation="-90;0;0" ShowOn="Z1 or Z2" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="8355711" DefaultText="" Fonthoehe="0.145" GroupProperty="Ziel rot M" HideOn="Z1 or Z2" Leuchtend="FALSE" Name="\Fonts\KlausN\U-Bahn Berlin\PosHin-rot.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="15.55;3.255;0.16" Rotation="-90;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="0" DefaultText="" Fonthoehe="0.11" GroupProperty="Ziel rot S" Leuchtend="TRUE" Name="\Fonts\KlausN\U-Bahn Berlin\PosHin-rot.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="15.55;3.255;0.16" Rotation="-90;0;0" ShowOn="Z1 or Z2" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="8355711" DefaultText="" Fonthoehe="0.11" GroupProperty="Ziel rot S" HideOn="Z1 or Z2" Leuchtend="FALSE" Name="\Fonts\KlausN\U-Bahn Berlin\PosHin-rot.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="15.55;3.255;0.16" Rotation="-90;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="0" DefaultText="" Fonthoehe="0.075" GroupProperty="Ziel rot XS" Leuchtend="TRUE" Name="\Fonts\KlausN\U-Bahn Berlin\PosHin-rot.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="15.55;3.255;0.16" Rotation="-90;0;0" ShowOn="Z1 or Z2" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="8355711" DefaultText="" Fonthoehe="0.075" GroupProperty="Ziel rot XS" HideOn="Z1 or Z2" Leuchtend="FALSE" Name="\Fonts\KlausN\U-Bahn Berlin\PosHin-rot.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="15.55;3.255;0.16" Rotation="-90;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="0" DefaultText="0 0" Fonthoehe="0.21" GroupProperty="Umlauf" Leuchtend="FALSE" Name="\Fonts\KlausN\U-Bahn Berlin\HFett-schwarz.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="15.52;2.75;0.66" Rotation="-98;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="2" BlinkIntervall="0" Color="0" DefaultText="2905" Fonthoehe="0.26" GroupProperty="Nummer" Leuchtend="FALSE" Name="\Fonts\KlausN\U-Bahn Berlin\HFett-schwarz.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="15.6;1.2;0" Rotation="-90;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="2" BlinkIntervall="0" Color="0" DefaultText="2905" Fonthoehe="0.26" GroupProperty="Nummer" HideOn="Tuer_rechts" Leuchtend="FALSE" Name="\Fonts\KlausN\U-Bahn Berlin\HFett-schwarz.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="13.13;1.2;-1.325" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="2" BlinkIntervall="0" Color="0" DefaultText="2905" Fonthoehe="0.26" GroupProperty="Nummer" Leuchtend="FALSE" Name="\Fonts\KlausN\U-Bahn Berlin\HFett-schwarz.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="13.73;1.2;-1.385" Rotation="0;0;0" ShowOn="Tuer_rechts" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="2" BlinkIntervall="0" Color="0" DefaultText="2905" Fonthoehe="0.26" GroupProperty="Nummer" HideOn="Tuer_links" Leuchtend="FALSE" Name="\Fonts\KlausN\U-Bahn Berlin\HFett-schwarz.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="13.13;1.2;1.325" Rotation="180;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="2" BlinkIntervall="0" Color="0" DefaultText="2905" Fonthoehe="0.26" GroupProperty="Nummer" Leuchtend="FALSE" Name="\Fonts\KlausN\U-Bahn Berlin\HFett-schwarz.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="13.73;1.2;1.385" Rotation="180;0;0" ShowOn="Tuer_links" Vertikal="FALSE"/>
+	</Font>
+</GRUPPENOBJECT>

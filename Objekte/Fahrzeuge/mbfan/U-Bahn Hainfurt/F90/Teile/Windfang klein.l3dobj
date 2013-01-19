@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="TRUE" Drawrueckseiten="FALSE" FileAuthor="" FileInfo="" FilePicture="" Texture="Texturen\Windfang.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="0;-1;1" Vekt="0;1.36;0.7"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;1" Vekt="0;1.96;0.66"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="0;1.96;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;-1" Vekt="0;1.36;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;1" Vekt="-0.04;1.36;0.7"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;1" Vekt="-0.04;1.96;0.66"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="-0.04;1.96;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;-1" Vekt="-0.04;1.36;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;0" Vekt="0;1.36;0.375"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;0" Vekt="-0.04;1.36;0.375"/>
+	</Point>
+	<Flaeche>
+		<Props Points="1;0;3;2" Texture="68,8;72,68;2,68;2,8"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;6;7" Texture="72,68;68,8;2,8;2,68"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;0;1;5" Texture="2,2;4,2;4,4;2,4"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="2;6;5;1" Texture="2,2;4,2;4,4;2,4"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="0;4;9;8" Texture="2,2;4,2;4,4;2,4"/>
+	</Flaeche>
+</OBJECT>

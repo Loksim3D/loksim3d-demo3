@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="" FileInfo="" FilePicture="" Texture="\Objekte\U-Bahn Berlin\Fahrzeuge\F76\Teile\Texturen\Lautsprecher.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="0;0.1;-1" Vekt="-0.11;0.125;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0.1;-1" Vekt="0.11;0.125;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0.1;-1" Vekt="0.11;-0.125;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0.1;-1" Vekt="-0.11;-0.125;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="0,64;128,64;128,208;0,208"/>
+	</Flaeche>
+</OBJECT>

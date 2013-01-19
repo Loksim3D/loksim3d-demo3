@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="TRUE" Drawrueckseiten="FALSE" FileAuthor="" FileInfo="" FilePicture="" Texture="\Objekte\U-Bahn Berlin\Fahrzeuge\F76\Teile\Texturen\Fensterwand.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="0;-0.5;0" Vekt="13.99;3.26;-0.8"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-0.75;0" Vekt="13.99;3.33;-0.5"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;0" Vekt="13.99;3.37;-0.15"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-0.5;0" Vekt="-0.01;3.26;-0.8"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-0.75;0" Vekt="-0.04;3.33;-0.5"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;0" Vekt="-0.07;3.37;-0.15"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-0.5;0" Vekt="13.99;3.26;0.8"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-0.75;0" Vekt="13.99;3.33;0.5"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;0" Vekt="13.99;3.37;0.15"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-0.5;0" Vekt="-0.01;3.26;0.8"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-0.75;0" Vekt="-0.04;3.33;0.5"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;0" Vekt="-0.07;3.37;0.15"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;4;3" Texture="8,4;8,2;10,2;10,4"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="1;2;5;4" Texture="8,4;8,2;10,2;10,4"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="9;10;7;6" Texture="8,2;8,4;10,4;10,2"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="10;11;8;7" Texture="8,2;8,4;10,4;10,2"/>
+	</Flaeche>
+</OBJECT>

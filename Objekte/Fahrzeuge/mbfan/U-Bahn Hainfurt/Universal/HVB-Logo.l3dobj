@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="" FileDoku="" FileInfo="" FilePicture="" Texture="Texturen\HVB.png" TransTexture="" Transparent="FALSE" TransparentTyp="2"/>
+	<Point>
+		<Props Normal="0;0;-0.5" Vekt="-0.1;-0.2;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;-0.5" Vekt="-0.1;0.2;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;-0.5" Vekt="0.1;0.2;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;-0.5" Vekt="0.1;-0.2;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="0,128;0,0;64,0;64,128"/>
+	</Flaeche>
+</OBJECT>

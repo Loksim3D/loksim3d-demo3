@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="TRUE" Drawrueckseiten="TRUE" FileAuthor="" FileInfo="" FilePicture="" Texture="\Objekte\U-Bahn Berlin\Fahrzeuge\F76\Teile\Texturen\Haltestange.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="-1;0;0" Vekt="-0.02;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;0;0" Vekt="0.02;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;0;0" Vekt="-0.02;3.36;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;0;0" Vekt="0.02;3.36;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="2;0;1;3" Texture="1,31;1,1;15,1;15,31"/>
+	</Flaeche>
+</OBJECT>

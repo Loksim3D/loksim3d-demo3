@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="" FileDoku="" FileInfo="Erstellt mit L3D ObjectCreator, Version 2.0" FilePicture="" Texture="Texturen\Aggregat_1.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="0;-1;1" Vekt="-0.78;0.86;0.9"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;1" Vekt="-0.78;0.26;0.9"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="-0.78;0.26;0.1"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;0" Vekt="-0.78;0.86;0.1"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;0" Vekt="0;0.86;0.1"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;0" Vekt="0;0.26;0.1"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0;0.26;0.9"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="0;0.86;0.9"/>
+	</Point>
+	<Flaeche>
+		<Props Points="7;0;1;6" Texture="0,128;128,128;128,256;0,256"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="6;1;2;5" Texture="0,128;128,128;128,158;0,158"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="6;5;4;7" Texture="1,256;30,256;30,128;1,128"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="2;3;4;5" Texture="128,256;128,128;0,128;0,256"/>
+	</Flaeche>
+</OBJECT>

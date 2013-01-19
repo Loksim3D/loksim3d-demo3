@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="" FileInfo="" FilePicture="" Texture="\Objekte\U-Bahn Berlin\Fahrzeuge\F76\Teile\Texturen\Dachleiste.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="0;-1;0" Vekt="0;3.37;-0.15"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;0" Vekt="0;3.37;0.15"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;0" Vekt="0.63;3.37;-0.15"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;0" Vekt="0.63;3.37;0.15"/>
+	</Point>
+	<Flaeche>
+		<Props Points="1;0;2;3" Texture="1,0;1,128;203,128;203,0"/>
+	</Flaeche>
+</OBJECT>

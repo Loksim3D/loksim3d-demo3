@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="" FileInfo="" FilePicture="" Texture="\Objekte\U-Bahn Berlin\Fahrzeuge\D55\Teile\Texturen\Rahmen.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="0;-1;0" Vekt="0.075;-0.44;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="0.075;-0.42;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;-1" Vekt="0.075;-0.43;-0.01"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;1" Vekt="0.075;-0.43;0.01"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;0;0" Vekt="0.04;-0.405;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;0;0" Vekt="0.06;-0.405;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;-1" Vekt="0.05;-0.405;-0.01"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;1" Vekt="0.05;-0.405;0.01"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;0;0" Vekt="0.04;-0.08;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;0;0" Vekt="0.06;-0.08;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;-1" Vekt="0.05;-0.08;-0.01"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;1" Vekt="0.05;-0.08;0.01"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;0;0" Vekt="0.09;-0.405;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;0;0" Vekt="0.11;-0.405;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;-1" Vekt="0.1;-0.405;-0.01"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;1" Vekt="0.1;-0.405;0.01"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;0;0" Vekt="0.09;-0.08;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;0;0" Vekt="0.11;-0.08;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;-1" Vekt="0.1;-0.08;-0.01"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;1" Vekt="0.1;-0.08;0.01"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;0" Vekt="0;-0.04;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="0;-0.02;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;-1" Vekt="0;-0.03;-0.01"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;1" Vekt="0;-0.03;0.01"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;0" Vekt="0;0.01;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="0;0.03;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;-1" Vekt="0;0.02;-0.01"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;1" Vekt="0;0.02;0.01"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;0" Vekt="0.055;-0.03;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="0.065;-0.01;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;-1" Vekt="0.06;-0.02;-0.01"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;1" Vekt="0.06;-0.02;0.01"/>
+	</Point>
+	<Point>
+		<Props Normal="0.5;0;0" Vekt="0;0.04;-0.02"/>
+	</Point>
+	<Point>
+		<Props Normal="0.5;0;0" Vekt="0;0.04;0.02"/>
+	</Point>
+	<Point>
+		<Props Normal="0.5;0;0" Vekt="0;-0.05;0.02"/>
+	</Point>
+	<Point>
+		<Props Normal="0.5;0;0" Vekt="0;-0.05;-0.02"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;5;4" Texture="18,2;18,4;20,4;20,2"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="2;3;7;6" Texture="18,2;18,4;20,4;20,2"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="0;1;12;13" Texture="18,2;18,4;20,4;20,2"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="2;3;15;14" Texture="18,2;18,4;20,4;20,2"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;9;8" Texture="18,2;18,4;20,4;20,2"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="6;7;11;10" Texture="18,2;18,4;20,4;20,2"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="8;9;21;20" Texture="18,2;18,4;20,4;20,2"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="10;11;23;22" Texture="18,2;18,4;20,4;20,2"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="12;13;17;16" Texture="18,2;18,4;20,4;20,2"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="14;15;19;18" Texture="18,2;18,4;20,4;20,2"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="26;27;31;30" Texture="18,2;18,4;20,4;20,2"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="24;25;29;28" Texture="18,2;18,4;20,4;20,2"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="30;31;19;18" Texture="18,2;18,4;20,4;20,2"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="28;29;17;16" Texture="18,2;18,4;20,4;20,2"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="32;33;34;35" Texture="18,2;18,4;20,4;20,2"/>
+	</Flaeche>
+</OBJECT>
