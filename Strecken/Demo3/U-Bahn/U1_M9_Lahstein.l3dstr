@@ -87,8 +87,75 @@
 				<STRECKENNAMEN>
 				</STRECKENNAMEN>
 				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="40" KMHNEIG="40" KeinHp2="FALSE" NichtImFahrplan="TRUE" NurBeiHp0="TRUE" Pos="16110"/>
+					</Value>
+					<Value>
+						<Props File="" KMH="40" KMHNEIG="40" KeinHp2="FALSE" NichtImFahrplan="TRUE" Pos="16760"/>
+					</Value>
+					<Value>
+						<Props File="" KMH="40" KMHNEIG="40" KeinHp2="FALSE" NichtImFahrplan="TRUE" NurBeiHp0="TRUE" Pos="14310"/>
+					</Value>
 				</HOECHSTGESCHWINDIGKEIT>
 				<SIGNAL>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="0" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\AndreasZ\U-Bahn-Fahrsperre-Tunnel.l3dgrp" IndusiPos2000="0" KennLimit="150" KennLimitHide="40" Pos="16100" SignalFile="\Signale\BVG\KlausN\Siemens_K400\Hauptsignal_Hp1+Zs1.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="-2;0;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props Bahnhof_M="&#39;KW&#39;" Bezeichnung="&#39;E&#39;" Gleis="&#39; 1X&#39;" Leiter_links="&#39;TRUE&#39;" links="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\AndreasZ\U-Bahn-Fahrsperre-Tunnel.l3dgrp" IndusiPos2000="0" KennLimit="150" KennLimitHide="40" Pos="16500" SignalFile="\Signale\BVG\KlausN\Siemens_K400\Hauptsignal_Hp2+Zs1.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="-2;0;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props Bahnhof_M="&#39;KW&#39;" Bezeichnung="&#39;N&#39;" Gleis="&#39; 1X&#39;" Leiter_links="&#39;TRUE&#39;" links="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\AndreasZ\U-Bahn-Fahrsperre-Tunnel.l3dgrp" IndusiPos2000="0" KennLimit="150" KennLimitHide="40" Pos="16760" SignalFile="\Signale\BVG\KlausN\Siemens_K400\Hauptsignal_Hp2+Zs1.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Lightning>
+								<Props DayLight="100" LokLight="TRUE" NightLight="80"/>
+							</Lightning>
+							<Position>
+								<Props Position="2;0;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props Bahnhof_M="&#39;KW&#39;" Bahnsteig="&#39;TRUE&#39;" Bezeichnung="&#39; R&#39;" Gleis="&#39;  1&#39;" Zs2_vorhanden="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\AndreasZ\U-Bahn-Fahrsperre-Tunnel.l3dgrp" IndusiPos2000="0" KennLimit="150" KennLimitHide="40" Pos="14300" SignalFile="\Signale\BVG\KlausN\Siemens_K400\Hauptsignal_Hp2+Zs1.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="2;0;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props Bahnhof_M="&#39;Zi&#39;" Bezeichnung="&#39;E&#39;" Gleis="&#39; 1X&#39;" Leiter_rechts="&#39;TRUE&#39;" rechts="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\AndreasZ\U-Bahn-Fahrsperre-Tunnel.l3dgrp" IndusiPos2000="-5" KennLimit="150" KennLimitHide="40" Pos="14900" SignalFile="\Signale\BVG\KlausN\Siemens_K400\Hauptsignal_Hp2+Zs1.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="2;0;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props Bahnhof_M="&#39;Zi&#39;" Bezeichnung="&#39;D&#39;" Gleis="&#39; 1X&#39;" Leiter_rechts="&#39;TRUE&#39;" rechts="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
 				</SIGNAL>
 				<Signaloptionen>
 					<Value>
@@ -127,12 +194,137 @@
 					<Value>
 						<Props File="" KMH="40" KMHNEIG="40" KeinHp2="FALSE" NichtImFahrplan="TRUE" Pos="16700"/>
 					</Value>
+					<Value>
+						<Props File="" KMH="100" KMHNEIG="100" KeinHp2="FALSE" NichtImFahrplan="TRUE" Pos="16600"/>
+					</Value>
+					<Value>
+						<Props File="" KMH="100" KMHNEIG="100" KeinHp2="FALSE" NichtImFahrplan="TRUE" Pos="15470"/>
+					</Value>
+					<Value>
+						<Props File="" KMH="40" KMHNEIG="40" KeinHp2="FALSE" NichtImFahrplan="TRUE" NurBeiHp0="TRUE" Pos="15860"/>
+					</Value>
 				</HOECHSTGESCHWINDIGKEIT>
 				<SIGNAL>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="0" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\AndreasZ\U-Bahn-Fahrsperre-Tunnel.l3dgrp" IndusiPos2000="0" KennLimit="150" KennLimitHide="40" Pos="16600" SignalFile="\Signale\BVG\KlausN\Siemens_K400\Hauptsignal_Hp1+Zs1.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Lightning>
+								<Props DayLight="100" LokLight="TRUE" NightLight="80"/>
+							</Lightning>
+							<Position>
+								<Props Position="-2;0;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props Bahnhof_M="&#39;KW&#39;" Bahnsteig="&#39;TRUE&#39;" Bezeichnung="&#39; A&#39;" Gleis="&#39; 1&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="25" HomeSignal="FALSE" Hp3Bis="40" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\AndreasZ\U-Bahn-Fahrsperre-Tunnel.l3dgrp" IndusiPos2000="0" KennLimit="150" KennLimitHide="40" Pos="15470" SignalFile="\Signale\BVG\KlausN\Siemens_K400\Hauptsignal_Hp3+Zs1.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="2;0;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props Bahnhof_M="&#39;Zi&#39;" Bezeichnung="&#39; D&#39;" Gleis="&#39;  1&#39;" Leiter_rechts="&#39;TRUE&#39;" rechts="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\AndreasZ\U-Bahn-Fahrsperre-Tunnel.l3dgrp" IndusiPos2000="0" KennLimit="150" KennLimitHide="40" Pos="15870" SignalFile="\Signale\BVG\KlausN\Siemens_K400\Hauptsignal_Hp2+Zs1.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="2;0;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props Bahnhof_M="&#39;Zi&#39;" Bezeichnung="&#39; N&#39;" Gleis="&#39;  1&#39;" Leiter_rechts="&#39;TRUE&#39;" rechts="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="0" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\AndreasZ\U-Bahn-Fahrsperre-Tunnel.l3dgrp" IndusiPos2000="0" KennLimit="150" KennLimitHide="40" Pos="16270" SignalFile="\Signale\BVG\KlausN\Siemens_K400\Hauptsignal_Hp1+Zs1.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="2;0;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props Bahnhof_M="&#39;Zi&#39;" Bezeichnung="&#39; E&#39;" Gleis="&#39;  1&#39;" Leiter_rechts="&#39;TRUE&#39;" rechts="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="25" HomeSignal="FALSE" Hp3Bis="40" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\AndreasZ\U-Bahn-Fahrsperre-Tunnel.l3dgrp" IndusiPos2000="0" KennLimit="150" KennLimitHide="40" Pos="15200" SignalFile="\Signale\BVG\KlausN\Siemens_K400\Hauptsignal_Hp3+Zs1.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Lightning>
+								<Props DayLight="100" LokLight="TRUE" NightLight="80"/>
+							</Lightning>
+							<Eigenschaften>
+								<Props Bahnhof_M="&#39;Zi&#39;" Bahnsteig="&#39;TRUE&#39;" Bezeichnung="&#39; A&#39;" Gleis="&#39;  1&#39;" Zs2_vorhanden="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+							<Position>
+								<Props Position="-2;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="0" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\AndreasZ\U-Bahn-Fahrsperre-Tunnel.l3dgrp" IndusiPos2000="0" KennLimit="150" KennLimitHide="40" Pos="13640" SignalFile="\Signale\BVG\KlausN\Siemens_K400\Hauptsignal_Hp1+Zs1.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<TafelObjExtraData100>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="20"/>
+							</Lightning>
+							<Position>
+								<Props Position="2;-0.36;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props Bahnhof_M="&#39;Op&#39;" Bezeichnung="&#39; D&#39;" Gleis="&#39;  1&#39;" Halterung_rechts="&#39;TRUE&#39;" Tunnel="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+						</TafelObjExtraData100>
+						<ObjectProps>
+							<Position>
+								<Props Position="2;0;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props Bahnhof_M="&#39;Op&#39;" Bezeichnung="&#39; N&#39;" Gleis="&#39;  1&#39;" Leiter_rechts="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="0" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\AndreasZ\U-Bahn-Fahrsperre-Tunnel.l3dgrp" IndusiPos2000="0" KennLimit="150" KennLimitHide="40" Pos="14040" SignalFile="\Signale\BVG\KlausN\Siemens_K400\Hauptsignal_Hp1+Zs1.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<TafelObjExtraData100>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="20"/>
+							</Lightning>
+							<Position>
+								<Props Position="2;-0.36;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props Bahnhof_M="&#39;Op&#39;" Bezeichnung="&#39; D&#39;" Gleis="&#39;  1&#39;" Halterung_rechts="&#39;TRUE&#39;" Tunnel="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+						</TafelObjExtraData100>
+						<ObjectProps>
+							<Position>
+								<Props Position="2;0;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props Bahnhof_M="&#39;Op&#39;" Bezeichnung="&#39; E&#39;" Gleis="&#39;  1&#39;" Leiter_rechts="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
 				</SIGNAL>
 				<Signaloptionen>
 				</Signaloptionen>
 				<Haltepunkt>
+					<Value>
+						<Props File="\Signale\BVG\KlausN\Tafel\Sh7a_2.l3dgrp" Name="Ziegeleimuseum" Pos="15210" ToleranzMinus="10" ToleranzPlus="10" Zuglaenge="120"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="2;1.3;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props Mast="&#39;TRUE&#39;" Nummer_oben="&#39;H&#39;" Nummer_unten="&#39;8&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
 				</Haltepunkt>
 				<LZB>
 				</LZB>
@@ -238,6 +430,12 @@
 								<Props Mast="&#39;TRUE&#39;"/>
 							</Eigenschaften>
 						</ObjectProps>
+					</Value>
+					<Value>
+						<Props File="" KMH="100" KMHNEIG="100" KeinHp2="FALSE" NichtImFahrplan="TRUE" Pos="16500"/>
+					</Value>
+					<Value>
+						<Props File="" KMH="40" KMHNEIG="40" KeinHp2="FALSE" NichtImFahrplan="TRUE" NurBeiHp0="TRUE" Pos="16110"/>
 					</Value>
 				</HOECHSTGESCHWINDIGKEIT>
 				<SIGNAL>
@@ -369,6 +567,39 @@
 							<Position>
 								<Props Position="2;0;-5" Rotation="0;0;0"/>
 							</Position>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="0" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\AndreasZ\U-Bahn-Fahrsperre-Tunnel.l3dgrp" IndusiPos2000="0" KennLimit="150" KennLimitHide="40" Pos="16500" SignalFile="\Signale\BVG\KlausN\Siemens_K400\Hauptsignal_Hp1+Zs1.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="2;0;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props Bahnhof_M="&#39;KW&#39;" Bezeichnung="&#39; D&#39;" Gleis="&#39;  2&#39;" Leiter_rechts="&#39;TRUE&#39;" rechts="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\AndreasZ\U-Bahn-Fahrsperre-Tunnel.l3dgrp" IndusiPos2000="-5" KennLimit="150" KennLimitHide="40" Pos="16100" SignalFile="\Signale\BVG\KlausN\Siemens_K400\Hauptsignal_Hp2+Zs1.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="2;0;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props Bahnhof_M="&#39;KW&#39;" Bezeichnung="&#39; N&#39;" Gleis="&#39;  2&#39;" Leiter_rechts="&#39;TRUE&#39;" rechts="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="0" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\AndreasZ\U-Bahn-Fahrsperre-Tunnel.l3dgrp" IndusiPos2000="0" KennLimit="150" KennLimitHide="40" Pos="15700" SignalFile="\Signale\BVG\KlausN\Siemens_K400\Hauptsignal_Hp1+Zs1.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="2;0;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props Bahnhof_M="&#39;KW&#39;" Bezeichnung="&#39; E&#39;" Gleis="&#39;  2&#39;" Leiter_rechts="&#39;TRUE&#39;" rechts="&#39;TRUE&#39;"/>
+							</Eigenschaften>
 						</ObjectProps>
 					</Value>
 				</SIGNAL>
@@ -541,7 +772,7 @@
 								<Props Position="2;0;0" Rotation="0;0;0"/>
 							</Position>
 							<Eigenschaften>
-								<Props Bahnhof_M="&#39;KW&#39;" Bahnsteig="&#39;TRUE&#39;" Bezeichnung="&#39;A&#39;" Gleis="&#39; 2X&#39;"/>
+								<Props Bahnhof_M="&#39;KW&#39;" Bahnsteig="&#39;TRUE&#39;" Bezeichnung="&#39; R&#39;" Gleis="&#39;  2&#39;"/>
 							</Eigenschaften>
 						</ObjectProps>
 					</Value>
@@ -553,6 +784,20 @@
 							</Position>
 							<Eigenschaften>
 								<Props Bahnhof_M="&#39;Zi&#39;" Bezeichnung="&#39;E&#39;" Gleis="&#39; 2X&#39;" Leiter_links="&#39;TRUE&#39;" links="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="25" HomeSignal="FALSE" Hp3Bis="40" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\AndreasZ\U-Bahn-Fahrsperre-Tunnel.l3dgrp" IndusiPos2000="0" KennLimit="150" KennLimitHide="40" Pos="15200" SignalFile="\Signale\BVG\KlausN\Siemens_K400\Hauptsignal_Hp3+Zs1.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Lightning>
+								<Props DayLight="100" LokLight="TRUE" NightLight="80"/>
+							</Lightning>
+							<Position>
+								<Props Position="2;0;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props Bahnhof_M="&#39;Zi&#39;" Bahnsteig="&#39;TRUE&#39;" Bezeichnung="&#39; R&#39;" Gleis="&#39;  2&#39;" Zs2_vorhanden="&#39;TRUE&#39;"/>
 							</Eigenschaften>
 						</ObjectProps>
 					</Value>
@@ -910,7 +1155,18 @@
 							<Position>
 								<Props Position="2;0;0" Rotation="0;0;0"/>
 							</Position>
+							<Eigenschaften>
+								<Props Bahnhof_M="&#39;Op&#39;" Bezeichnung="&#39;K&#39;" Gleis="&#39; 3X&#39;"/>
+							</Eigenschaften>
 						</ObjectProps>
+						<IndusiObjExtraData500>
+							<Position>
+								<Props Position="0;0;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props aufgelegt="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+						</IndusiObjExtraData500>
 					</Value>
 					<Value>
 						<Props HP0Warsch="0" HP2Limit="25" HomeSignal="FALSE" Hp3Bis="40" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\AndreasZ\U-Bahn-Fahrsperre-Tunnel.l3dgrp" IndusiPos2000="0" KennLimit="150" KennLimitHide="40" Pos="15080" SignalFile="\Signale\BVG\KlausN\Siemens_K400\Hauptsignal_Hp3+Zs1.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
@@ -921,6 +1177,17 @@
 							<Eigenschaften>
 								<Props Bahnhof="&#39;Zi&#39;" Bahnhof_M="&#39;Zi&#39;" Bahnsteig="&#39;TRUE&#39;" Bezeichnung="&#39; K&#39;" Gleis="&#39;  4&#39;" Leiter_links="&#39;TRUE&#39;" Zs2_vorhanden="&#39;TRUE&#39;" rechts="&#39;TRUE&#39;"/>
 							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi500Bis="0" KennLimit="150" KennLimitHide="40" Pos="13680" SignalFile="\Signale\AndreasKA\Gleissperre\GS_2.l3dgrp" Typ="Schutzsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props links="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+							<Position>
+								<Props Position="0;0;0" Rotation="0;0;0"/>
+							</Position>
 						</ObjectProps>
 					</Value>
 				</SIGNAL>
@@ -979,6 +1246,17 @@
 				<HOECHSTGESCHWINDIGKEIT>
 				</HOECHSTGESCHWINDIGKEIT>
 				<SIGNAL>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="0" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\AndreasZ\U-Bahn-Fahrsperre-Tunnel.l3dgrp" IndusiPos2000="0" KennLimit="150" KennLimitHide="40" Pos="13730" SignalFile="\Signale\BVG\KlausN\Siemens_K400\Schutzsignal.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="2;0;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props Bahnhof_M="&#39;Zi&#39;" Bezeichnung="&#39;K&#39;" Gleis="&#39; 4X&#39;" Leiter_links="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
 				</SIGNAL>
 				<Signaloptionen>
 				</Signaloptionen>
@@ -1108,7 +1386,7 @@
 				<Props Gleis="Gleis_1" Gleisverlauf="0" Kennung="Kr9" KreuzungsTyp="0" PositionBis="15400" PositionVon="15360" WeichenWinkel="7" WeichenWinkelDynamisch="FALSE"/>
 			</Kreuzung>
 			<Kreuzung>
-				<Props Gleis="Gleis_2" Gleisverlauf="2" Kennung="Kr10" KreuzungsTyp="0" PositionBis="15460" PositionVon="15460" WeichenWinkel="7" WeichenWinkelDynamisch="TRUE"/>
+				<Props Gleis="Gleis_2" Gleisverlauf="0" Kennung="Kr10" KreuzungsTyp="0" PositionBis="15460" PositionVon="15460" WeichenWinkel="7" WeichenWinkelDynamisch="TRUE"/>
 			</Kreuzung>
 		</TOPOLOGIE>
 		<Objecte>
@@ -1289,6 +1567,9 @@
 				<SIGNAL>
 				</SIGNAL>
 				<Signaloptionen>
+					<Value>
+						<Props Pos="16950" Zs2="TRUE" Zs2Value="B"/>
+					</Value>
 				</Signaloptionen>
 				<Haltepunkt>
 				</Haltepunkt>
