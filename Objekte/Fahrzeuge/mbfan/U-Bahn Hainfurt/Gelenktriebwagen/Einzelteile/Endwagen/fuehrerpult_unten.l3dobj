@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="" FileInfo="" FilePicture="" Texture="fuehrerpult_1.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="-1;0.4;1" Vekt="0.072;1.25;1.71"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0.4;1" Vekt="0.63;1.25;2.025"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0.4;1" Vekt="2.07;1.25;2.025"/>
+	</Point>
+	<Point>
+		<Props Normal="1;0.4;1" Vekt="2.628;1.25;1.62"/>
+	</Point>
+	<Point>
+		<Props Normal="1;0.8;1" Vekt="2.7;1.25;1.26"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="0.09;1.25;1.26"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3;4;5" Texture="72,6;73,29;74,59;56,57;59,37;57,10"/>
+	</Flaeche>
+</OBJECT>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="Andreas Zimmermann" FileInfo="" FilePicture="" Texture="stirnwand_2.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="-1;0;0" Vekt="0;0.15;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;0" Vekt="0;1.5;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;0" Vekt="2.9;2.4;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;0;0" Vekt="2.9;0.15;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;0;0" Vekt="0;0.15;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;0" Vekt="0;2.4;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;0" Vekt="2.9;1.5;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;0;0" Vekt="2.9;0.15;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;0" Vekt="0.43;2.4;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0.65;1;0" Vekt="2.253;1.5;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;0" Vekt="0.4;2.9;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;0" Vekt="2.5;2.9;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0.65;1;0" Vekt="2.253;2.4;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;0" Vekt="0.43;1.5;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;0" Vekt="1.7;2.4;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;0" Vekt="1.7;1.5;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;0" Vekt="1.6;1.5;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;0" Vekt="1.6;2.4;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="10;11;2;5" Texture="27,1;171,1;197,17;1,17"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="1;6;7;4" Texture="1,89;197,89;197,164;1,164"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="5;1;13;8" Texture="1,25;1,87;30,87;30,25"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="2;6;9;12" Texture="197,26;197,88;154,88;154,26"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="14;15;16;17" Texture="118,24;118,92;107,92;107,24"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="8;13;16;17" Texture="41,155;19,155;20,162;41,163"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="14;15;9;12" Texture="73,155;30,155;30,163;73,163"/>
+	</Flaeche>
+</OBJECT>

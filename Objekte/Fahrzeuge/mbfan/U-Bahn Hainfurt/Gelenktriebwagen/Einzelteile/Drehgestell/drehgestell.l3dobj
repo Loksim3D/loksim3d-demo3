@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="" FileInfo="" FilePicture="" Texture="drehgestell.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="2"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="-0.065;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="-0.065;0.85;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="1.5;0.85;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="1.5;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="-0.065;0;4.7"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="-0.065;0.85;4.7"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="1.5;0.85;4.7"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="1.5;0;4.7"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="-0.4;0;4.7"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="-0.4;0.85;4.7"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="-0.4;0.85;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="-0.4;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="1.835;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="1.835;0.85;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="1.835;0.85;4.7"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="1.835;0;4.7"/>
+	</Point>
+	<Flaeche>
+		<Props Points="3;2;6;7" Texture="1,59;1,1;391,1;391,59"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;1;0" Texture="1,59;1,1;391,1;391,59"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="8;9;10;11" Texture="1,123;1,62;391,62;391,124"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="12;13;14;15" Texture="1,124;1,62;391,63;391,124"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="14;15;8;9" Texture="1,62;1,128;19,128;19,62"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="13;12;11;10" Texture="16,63;16,127;1,127;1,63"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="14;9;10;13" Texture="59,62;63,62;63,69;59,68"/>
+	</Flaeche>
+</OBJECT>

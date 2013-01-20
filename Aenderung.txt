@@ -1,4 +1,5 @@
 2013-01-20
+* [mbf] GTW mit Hainfurter Design hinzugefügt.
 * [kn] U1_M9: Signalisierung für Regelbetrieb fertig
 * [kn] Anpassung zweier Texturen des Hainfurter F92
 

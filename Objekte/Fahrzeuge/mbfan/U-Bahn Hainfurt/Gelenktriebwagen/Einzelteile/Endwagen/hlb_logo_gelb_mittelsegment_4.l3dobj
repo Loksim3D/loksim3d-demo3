@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="Patrick Ruppert" FileInfo="Logo HLBahn für das Mittelsegment 4/n" FilePicture="" Texture="hlb_logo_gelb_mittelsegment_4.bmp" TransTexture="et423-mittelsegment-4_AA.bmp" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="-1.2;1;0" Vekt="0;1;5"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;0" Vekt="2.9;1;5"/>
+	</Point>
+	<Point>
+		<Props Normal="-1.2;0;0" Vekt="0;0.15;5"/>
+	</Point>
+	<Point>
+		<Props Normal="1;0;0" Vekt="2.9;0.15;5"/>
+	</Point>
+	<Point>
+		<Props Normal="-1.2;0;0" Vekt="0;0.15;3.2"/>
+	</Point>
+	<Point>
+		<Props Normal="1;0;0" Vekt="2.9;0.15;3.2"/>
+	</Point>
+	<Point>
+		<Props Normal="-1.2;1;0" Vekt="0;1;3.2"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;0" Vekt="2.9;1;3.2"/>
+	</Point>
+	<Flaeche>
+		<Props Points="7;1;3;5" Texture="1,1;9,1;9,9;1,9"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="0;6;4;2" Texture="1,1;9,1;9,9;1,9"/>
+	</Flaeche>
+</OBJECT>

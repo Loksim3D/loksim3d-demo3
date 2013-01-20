@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="" FileInfo="" FilePicture="" Texture="kombibitmap1.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0;2.45;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="2.8;2.45;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="2.8;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="0;0;0.3"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="0;2.45;0.3"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="2.8;2.45;0.3"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="2.8;0;0.3"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0.25;2.75;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="0.25;2.75;0.3"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="2.55;2.75;0.3"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="2.55;2.75;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="3;2;6;7" Texture="2,166;2,152;71,152;71,166"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;1;0" Texture="2,167;2,152;72,152;72,167"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;3;0;4" Texture="75,164;98,165;98,153;77,154"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="8;9;10;11" Texture="72,167;2,167;2,151;72,151"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="10;11;2;6" Texture="2,152;71,152;71,157;2,157"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="9;8;1;5" Texture="2,151;71,151;71,164;2,164"/>
+	</Flaeche>
+</OBJECT>

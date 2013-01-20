@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="Patrick Ruppert" FileDoku="" FileInfo="Antriebsblock des Gelenktriebwagens V 2.0/n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -/nZum Einbau bitte die Einbauanleitung beachten, /num die vollen Möglichkeiten, des Fahrzeugs richtig/nnutzen zu können! /n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -/n(c) by Patrick Ruppert, 24. Dezember 2007/nwww.s-bahn-echtermuende.de" FilePicture="Endwagen 423.0_1.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Logo_TSB_Grau or Logo_DB or Logo_DB_vrot or 420_Design" Name="Einzelteile\Antriebsblock\standard.l3dobj" Position="-1.5;1.2;-7.495" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Logo_DB_vrot or 420_Design" Name="Einzelteile\Antriebsblock\stirnwand_antrieb.l3dobj" Position="-1.5;1.2;-2.495" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Logo_DB_vrot or 420_Design" Name="Einzelteile\Antriebsblock\stirnwand_antrieb.l3dobj" Position="-1.5;1.2;-7.505" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Allgemein\dachaufbau_1.l3dobj" Position="-1;4.2;-6.995" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Antriebsblock\rahmen_antrieb.l3dobj" Position="-1.5;1.1;-6.895" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Allgemein\faltenbalg_1.l3dobj" Position="-1.4;1.2;-7.8" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Allgemein\faltenbalg_1.l3dobj" Position="-1.4;1.2;-2.495" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Allgemein\stirnwand_vrot.l3dobj" Position="-1.5;1.2;-2.495" Rotation="0;0;0" ShowOn="Logo_DB_vrot" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Allgemein\stirnwand_vrot.l3dobj" Position="-1.5;1.2;-7.505" Rotation="0;0;0" ShowOn="Logo_DB_vrot" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Allgemein\stirnwand.l3dobj" Position="-1.5;1.2;-2.495" Rotation="0;0;0" ShowOn="420_Design" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Allgemein\stirnwand.l3dobj" Position="-1.5;1.2;-7.505" Rotation="0;0;0" ShowOn="420_Design" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+</GRUPPENOBJECT>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="" FileInfo="" FilePicture="" Texture="tf_sitz.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0;0.1;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.07;0.1;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.07;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="0;0;0.432"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="0;0.1;0.432"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.07;0.1;0.432"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="0.07;0;0.432"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="14,152;14,129;35,129;35,152"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;6;5;4" Texture="0,100;0,0;54,10;50,101"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;2;6;7" Texture="58,148;48,133;110,137;109,151"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;1;0" Texture="49,147;48,135;110,136;112,150"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="1;5;6;2" Texture="0,100;0,0;59,13;58,115"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;3;0;4" Texture="0,100;0,0;52,10;51,117"/>
+	</Flaeche>
+</OBJECT>

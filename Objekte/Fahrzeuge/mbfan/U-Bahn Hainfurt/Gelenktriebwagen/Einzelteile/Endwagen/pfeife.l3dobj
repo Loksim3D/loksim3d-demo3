@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="" FileInfo="" FilePicture="" Texture="pfeife.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="2"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0;0.12;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.12;0.12;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.12;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="0;0;0.2"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="0;0.12;0.2"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.12;0.12;0.2"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="0.12;0;0.2"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="104,66;104,1;169,1;169,66"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="6;2;0;4" Texture="24,1;103,0;103,69;24,66"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="6;5;4;7" Texture="0,0;0,0;0,0;0,0"/>
+	</Flaeche>
+</OBJECT>

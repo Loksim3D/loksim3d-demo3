@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="Patrick Ruppert" FileDoku="" FileInfo="Endwagen (ohne Drehgestelle) des GTW&#39;s/nVersion 2.0 (vom 24.12.2007)/n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -/nFarbgebung: Gelb&#47; Rot&#47; Grau (TSB)/n1. Klasse zuschaltbar (Klassensymbol hinter&#39;m Fst)/n- OHNE Inneneinrichtung (außer Führerstand)/n- OHNE Türen zum Öffnen/n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -/nZum Einbau bitte die Einbauanleitung beachten, /num die vollen Möglichkeiten, des Fahrzeugs richtig/nnutzen zu können! /n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -/n(c) Patrick Ruppert/nwww.s-bahn-echtermuende.de/n24.12.2007/n/n" FilePicture="Endwagen Standard.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Endwagen\mittelsegment_1.l3dobj" Position="-1.5;1.2;-7.495" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Endwagen\mittelsegment_5.l3dobj" Position="-1.5;1.2;-2.495" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Endwagen\mittelsegment_4.l3dobj" Position="-1.5;1.2;2.805" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Endwagen\mittelsegment_2_anzeige.l3dobj" Position="-1.5;1.2;-2.495" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Allgemein\stirnwand.l3dobj" Position="-1.5;1.2;-7.505" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Endwagen\tarnteil_1.l3dobj" Position="-1.4;3;-2.445" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Endwagen\tarnteil_1.l3dobj" Position="1.4;3;2.405" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Endwagen\tuer_grau.l3dobj" Position="-1.5;1.2;-7.495" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Endwagen\fenster.l3dobj" Position="-1.5;1.2;-2.495" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Endwagen\tuer_gelb.l3dobj" Position="-1.5;1.2;2.805" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Endwagen\tuer_grau.l3dobj" Position="1.5;1.2;-2.595" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Endwagen\fenster.l3dobj" Position="1.5;1.2;2.405" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Endwagen\tuer_gelb.l3dobj" Position="1.5;1.2;7.705" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Allgemein\dachaufbau_1.l3dobj" Position="-1;4.2;2" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Endwagen\rahmen_2.l3dobj" Position="-1.5;1.1;-6.895" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Allgemein\faltenbalg_1.l3dobj" Position="-1.4;1.2;-7.8" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Endwagen\tarnteil_2.l3dobj" Position="-1;4;-7.45" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Endwagen\dachaufbau_2.l3dobj" Position="-0.8;4.25;-3.15" Rotation="0;0;90" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Endwagen\dachaufbau_2.l3dobj" Position="0.8;4.25;-3.15" Rotation="0;0;90" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Endwagen\dachaufbau_2.l3dobj" Position="-0.8;4.25;6.7" Rotation="0;0;90" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Endwagen\dachaufbau_2.l3dobj" Position="0.8;4.25;6.7" Rotation="0;0;90" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Endwagen\dachaufbau_2.l3dobj" Position="0.3;4.2;-5.4" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Endwagen\frontteil.l3dobj" Position="-1.5;1.2;8.1" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Endwagen\mittelsegment_ausgleich_gelb.l3dobj" Position="-1.5;1.2;2.505" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="1_Klasse" Name="Einzelteile\Endwagen\mittelsegment_ausgleich_gelb_2.l3dobj" Position="-1.5;1.2;7.8" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Endwagen\rahmen_3.l3dobj" Position="-1.5;1.2;8.1" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Endwagen\scheibenwischer_2.l3dobj" Position="0;2.5;10.35" Rotation="0;55;-21" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Endwagen\licht_1.l3dobj" Position="-1.5;1.2;8.1" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Endwagen\zugziel.l3dobj" Position="0.95;3.6;9.8" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Endwagen\spitzenlicht.l3dobj" Position="-1.5;1.2;8.02" Rotation="0;0;0" ShowOn="Spitzenlicht_an" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Endwagen\schlusslicht_2.l3dobj" Position="-1.5;1.2;8.02" Rotation="0;0;0" ShowOn="Schlusslicht_an" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Endwagen\schaku.l3dobj" Position="0.39;1.3;10.7" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Endwagen\tarnteil.l3dobj" Position="1.3;1.3;10" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Allgemein\dachaufbau_6.l3dobj" Position="0.4;4.22;8.9" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Allgemein\dachaufbau_7.l3dobj" Position="-0.4;4.22;5.7" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Endwagen\pfeife.l3dobj" Position="0;4.2;9.2" Rotation="180;45;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Endwagen\rahmen_4.l3dobj" Position="-1.5;1;3.75" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Endwagen\unterbau_1.l3dobj" Position="-1;0.7;-1.8" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Endwagen\unterbau_2.l3dobj" Position="-1;0.7;0.1" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Endwagen\unterbau_1.l3dobj" Position="-1;0.7;3" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Endwagen\tritt.l3dobj" Position="-1.5;1;8.8" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Endwagen\tritt.l3dobj" Position="1.4;1;8.8" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Endwagen\hacken.l3dobj" Position="0.2;2.55;10.5" Rotation="180;0;11" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Endwagen\schlaeuche.l3dobj" Position="0.25;0.7;10.5" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Endwagen\frontblende_LZB.l3dobj" Position="-1;0.45;9.7" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Endwagen\rollo3.l3dobj" Position="-1;3.11;9.93" Rotation="0;0;-20" ShowOn="Rollo_unten" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Endwagen\rollo2.l3dobj" Position="-1;3.3;9.88" Rotation="0;0;-20" ShowOn="Rollo_mittel" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Endwagen\rollo.l3dobj" Position="-1;3.48;9.8" Rotation="0;0;-20" ShowOn="Rollo_oben" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Endwagen\tf_sitz.l3dobj" Position="0.3;2.1;8.9" Rotation="180;0;2" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Endwagen\fuehrerpult_1.l3dobj" Position="-0.9;2.45;9.5" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Endwagen\stirnwand_2a.l3dobj" Position="1.45;1.2;8.2" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Innenbeleuchtung" Name="Einzelteile\Endwagen\innenkulisse.l3dobj" Position="-1.4;2;-7.5" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Endwagen\tarnteil_3.l3dobj" Position="-1.46;3.4;7.5" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Endwagen\tarnteil_3.l3dobj" Position="1.46;3.4;6.5" Rotation="270;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Endwagen\innenkulisse-licht.l3dobj" Position="-1.4;2;-7.5" Rotation="0;0;0" ShowOn="Innenbeleuchtung" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Endwagen\fuehrerpult_unten.l3dobj" Position="-1.38;1.2;8.2" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Endwagen\rohr.l3dobj" Position="-0.11;2.6;8.67" Rotation="0;0;-2" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Endwagen\rohr.l3dobj" Position="0.1;2.6;8.67" Rotation="0;0;-2" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Endwagen\kopfstuetze.l3dobj" Position="-0.2;2.94;8.61" Rotation="0;0;13" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Endwagen\tf_armlehne.l3dobj" Position="0.28;2.35;8.7" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Endwagen\tf_armlehne.l3dobj" Position="-0.35;2.35;8.7" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Endwagen\tarnteil_4.l3dobj" Position="0;2.25;10.3" Rotation="0;0;-9" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Endwagen\zugziel2.l3dobj" Position="1;3.6;9.75" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Endwagen\tuer_offen.l3dobj" Position="1.52;2.25;-5.16" Rotation="270;0;0" ShowOn="Türfreigabe" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Endwagen\tuer_offen.l3dobj" Position="1.52;2.25;5.135" Rotation="270;0;0" ShowOn="Türfreigabe" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Endwagen\tuer_offen.l3dobj" Position="-1.52;2.25;5.343" Rotation="270;0;0" ShowOn="Türfreigabe" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Endwagen\tuer_offen.l3dobj" Position="-1.52;2.25;-4.958" Rotation="270;0;0" ShowOn="Türfreigabe" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Endwagen\kasten.l3dobj" Position="-1.2;0.93;9.7" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Endwagen\kasten.l3dobj" Position="0.8;0.93;9.7" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Endwagen\lautsprecher.l3dobj" Position="1;4.28;6.4" Rotation="90;0;23" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Endwagen\lautsprecher.l3dobj" Position="1;4.28;-2" Rotation="90;0;23" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Endwagen\lautsprecher.l3dobj" Position="-1;4.28;-2" Rotation="270;0;23" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Endwagen\lautsprecher.l3dobj" Position="-1;4.28;6.4" Rotation="270;0;23" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Endwagen\hlb_logo_mittelsegment_4.l3dobj" Position="-1.51;1.2;2.805" Rotation="0;0;0" ShowOn="hlb_logo_seitl" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Endwagen\mittelsegment_ausgleich_1Klasse.l3dobj" Position="-1.5;1.2;7.8" Rotation="0;0;0" ShowOn="1_Klasse" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" DynamicVisibility="WetterDaten::HelligkeitProzent &#62; 85" FixedDynamicVisibility="FALSE" Name="Einzelteile\Endwagen\innenkulisse-licht.l3dobj" Position="-1.4;2;-7.5" Rotation="0;0;0" ShowOn="Innenbel_auto" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Endwagen\hlb_logo_gelb_mittelsegment_4.l3dobj" Position="-1.45;1.2;2.805" Rotation="0;0;0" ShowOn="hlb_logo_seitl" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Endwagen\frontlogo_HLB.l3dobj" Position="-1.5;1.24;8.1001" Rotation="0;0;0" ShowOn="Frontlogo-HLB" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Font>
+		<Props AlignHorz="0" AlignVert="1" BlinkIntervall="0" Color="16777215" DefaultText="" Fonthoehe="0.12" GroupProperty="Liniennummer" Leuchtend="TRUE" Name="\Fonts\AndreasZ\ET423-Anzeige.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="1.53;3.148;-2.2" Rotation="270;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="1" BlinkIntervall="0" Color="16777215" DefaultText="" Fonthoehe="0.12" GroupProperty="Zugziel" Leuchtend="TRUE" Name="\Fonts\AndreasZ\ET423-Anzeige.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="1.53;3.148;-1.93" Rotation="270;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="1" BlinkIntervall="0" Color="16777215" DefaultText="" Fonthoehe="0.12" GroupProperty="Liniennummer" Leuchtend="TRUE" Name="\Fonts\AndreasZ\ET423-Anzeige.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="-1.53;3.148;2.2" Rotation="90;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="1" BlinkIntervall="0" Color="16777215" DefaultText="" Fonthoehe="0.12" GroupProperty="Zugziel" Leuchtend="TRUE" Name="\Fonts\AndreasZ\ET423-Anzeige.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="-1.53;3.148;1.9" Rotation="90;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="1" BlinkIntervall="0" Color="16777215" DefaultText="" Fonthoehe="0.19" GroupProperty="Liniennummer" Leuchtend="TRUE" Name="\Fonts\AndreasZ\ET423-Anzeige.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.88;3.75;9.8" Rotation="180;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="1" BlinkIntervall="0" Color="16777215" DefaultText="" Fonthoehe="0.19" GroupProperty="Zugziel" Leuchtend="TRUE" Name="\Fonts\AndreasZ\ET423-Anzeige.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.5;3.75;9.8" Rotation="180;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="0" AlignVert="0" BlinkIntervall="0" Color="0" DefaultText="HLB 132" Fonthoehe="0.13" GroupProperty="Betriebsnummer" Leuchtend="FALSE" Name="\Fonts\AndreasZ\DIN 1451.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.75;2.37;10.45" Rotation="180;0;10" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="0" DefaultText="HLB 132" Fonthoehe="0.13" GroupProperty="Betriebsnummer" Leuchtend="FALSE" Name="\Fonts\AndreasZ\DIN 1451.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="-1.53;1.3;7.25" Rotation="90;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="0" DefaultText="HLB 132" Fonthoehe="0.13" GroupProperty="Betriebsnummer" Leuchtend="FALSE" Name="\Fonts\AndreasZ\DIN 1451.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="-1.53;3.68;7" Rotation="90;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="0" DefaultText="HLB 132" Fonthoehe="0.13" GroupProperty="Betriebsnummer" Leuchtend="FALSE" Name="\Fonts\AndreasZ\DIN 1451.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="1.53;1.3;7.25" Rotation="270;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="0" DefaultText="HLB 132" Fonthoehe="0.13" GroupProperty="Betriebsnummer" Leuchtend="FALSE" Name="\Fonts\AndreasZ\DIN 1451.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="1.53;3.68;7" Rotation="270;0;0" Vertikal="FALSE"/>
+	</Font>
+</GRUPPENOBJECT>

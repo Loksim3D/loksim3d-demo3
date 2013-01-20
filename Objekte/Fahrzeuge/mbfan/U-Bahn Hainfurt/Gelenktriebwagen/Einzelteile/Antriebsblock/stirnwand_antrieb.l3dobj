@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="Andreas Zimmermann" FileInfo="" FilePicture="" Texture="stirnwand_antrieb.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="2"/>
+	<Point>
+		<Props Normal="-1;0;0" Vekt="0;0.15;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;0" Vekt="0;2.5;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;0" Vekt="3;2.5;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;0;0" Vekt="3;0.15;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;0;0" Vekt="0;0.15;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;0" Vekt="0;2.5;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;0" Vekt="3;2.5;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;0;0" Vekt="3;0.15;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;0" Vekt="0;-0.1;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;0" Vekt="3;-0.1;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;0" Vekt="0.4;3;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;0" Vekt="2.6;3;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="1,166;1,1;197,1;197,166"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="10;11;2;5" Texture="13,181;13,186;2,186;3,181"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;9;8;4" Texture="13,169;3,170;3,176;13,176"/>
+	</Flaeche>
+</OBJECT>

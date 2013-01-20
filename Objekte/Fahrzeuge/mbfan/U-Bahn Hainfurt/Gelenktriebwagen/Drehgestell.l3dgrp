@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="Andreas Zimmermann (überarbeitet von Patrick Ruppert)" FileInfo="Drehgestell für den Gelenktriebwagen/n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -/nZum Einbau bitte die Einbauanleitung beachten, /num die vollen Möglichkeiten, des Fahrzeugs richtig/nnutzen zu können! /n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -/nÜberarbeitet von Patrick Ruppert für den GTW/nwww.s-bahn-echtermuende.de/n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -/n(c) by Andreas Zimmermann, 06.01.2006/nwww.a-zimmermann.com/n" FilePicture="Drehgestell_1.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\Drehgestell\drehgestell.l3dobj" Position="-0.71;0.4;0" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+</GRUPPENOBJECT>

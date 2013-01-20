@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="Sebastian Kircher&#47;Andreas Zimmermann" FileInfo="Das Objekt stammt von Sebastian Kircher und /nwurde von Andreas Zimmermann umgebaut." FilePicture="" Texture="schaku.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="2"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0;0.35;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.78;0.35;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.78;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="0;0;0.3"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="0;0.35;0.3"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.78;0.35;0.3"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="0.78;0;0.3"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.3;0.1;0.3"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.5;0.1;0.3"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.3;0.2;0.3"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.5;0.2;0.3"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.3;0.1;1"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.5;0.1;1"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.3;0.2;1"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.5;0.2;1"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="0.33;-0.2;0.02"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0.33;0;0.02"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.63;0;0.02"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.63;-0.2;0.02"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="1,147;1,0;328,0;328,147"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;2;6;7" Texture="1,147;1,2;14,2;14,147"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;1;0" Texture="1,146;1,4;10,4;10,146"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="1;5;6;2" Texture="310,96;319,97;318,66;307,70"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;3;0;4" Texture="321,69;300,70;305,89;324,103"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="13;15;11;9" Texture="37,87;55,107;56,68;24,70"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="14;15;11;10" Texture="54,103;37,89;25,69;55,70"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="14;12;8;10" Texture="23,74;53,69;53,106;42,90"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="16;17;18;19" Texture="142,233;142,148;291,149;291,233"/>
+	</Flaeche>
+</OBJECT>
