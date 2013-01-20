@@ -1,3 +1,6 @@
+2013-01-20
+* [kn] Anpassung zweier Texturen des Hainfurter F92
+
 2013-01-19
 !![mbf] Es ist möglicherweise ein SVN-Fehler beim Commit aufgetreten!
 * [mbf] Hinzufügen einer Hainfurter F92.
