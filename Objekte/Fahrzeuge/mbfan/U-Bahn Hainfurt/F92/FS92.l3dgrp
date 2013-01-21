@@ -35,28 +35,16 @@
 		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\Lampe rot rechts.l3dobj" Position="15.49;1.5;-1.01" Rotation="-79.199997;0;0" ShowOn="Z2" WeitSichtbar="FALSE" ZoomFaktor="1"/>
 	</Object>
 	<Object>
-		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\Universal\Linie_0.l3dobj" Position="15.54;3.13;-0.26" Rotation="90;0;0" ShowOn="Z6 and (Z1 or Z2)" WeitSichtbar="FALSE" ZoomFaktor="1"/>
-	</Object>
-	<Object>
-		<Props BlinkIntervall="0" HideOn="Z1 or Z2" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\Universal\Linie_0_dunkel.l3dobj" Position="15.54;3.13;-0.26" Rotation="90;0;0" ShowOn="Z6" WeitSichtbar="FALSE" ZoomFaktor="1"/>
-	</Object>
-	<Object>
 		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\Universal\Doppelrot.l3dobj" Position="15.515;2.92;0.66" Rotation="82;0;0" ShowOn="Umlauf_rot" WeitSichtbar="FALSE" ZoomFaktor="1"/>
 	</Object>
 	<Object>
 		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\Universal\Doppelgruen.l3dobj" Position="15.515;2.92;0.66" Rotation="82;0;0" ShowOn="Umlauf_gruen" WeitSichtbar="FALSE" ZoomFaktor="1"/>
 	</Object>
 	<Object>
-		<Props BlinkIntervall="0" HideOn="Anzeige_weiss" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\Front Anzeige.l3dobj" Position="15.25;0;0" Rotation="0;0;0" ShowOn="Z1 or Z2" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\Front Anzeige.l3dobj" Position="15.25;0;0" Rotation="0;0;0" ShowOn="Z1 or Z2" WeitSichtbar="FALSE" ZoomFaktor="1"/>
 	</Object>
 	<Object>
-		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\Front Anzeige_weiss.l3dobj" Position="15.25;0;0" Rotation="0;0;0" ShowOn="Anzeige_weiss and (Z1 or Z2)" WeitSichtbar="FALSE" ZoomFaktor="1"/>
-	</Object>
-	<Object>
-		<Props BlinkIntervall="0" HideOn="Anzeige_weiss or Z1 or Z2" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\dunkel\Front Anzeige.l3dobj" Position="15.25;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
-	</Object>
-	<Object>
-		<Props BlinkIntervall="0" HideOn="Z1 or Z2" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\dunkel\Front Anzeige_weiss.l3dobj" Position="15.25;0;0" Rotation="0;0;0" ShowOn="Anzeige_weiss" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+		<Props BlinkIntervall="0" HideOn="Z1 or Z2" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\dunkel\Front Anzeige.l3dobj" Position="15.25;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
 	</Object>
 	<Object>
 		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F84\Teile\Fenster.l3dobj" Position="11.525;0;0" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
@@ -1331,66 +1319,6 @@
 		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\Haltestange vorn 3.l3dobj" Position="13.95;1.95;-0.5" Rotation="90;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
 	</Object>
 	<Object>
-		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\Universal\Linie_1.l3dobj" Position="15.54;3.13;-0.26" Rotation="90;0;0" ShowOn="Linie_1 and (Z1 or Z2)" WeitSichtbar="FALSE" ZoomFaktor="1"/>
-	</Object>
-	<Object>
-		<Props BlinkIntervall="0" HideOn="Z1 or Z2" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\Universal\Linie_1_dunkel.l3dobj" Position="15.54;3.13;-0.26" Rotation="90;0;0" ShowOn="Linie_1" WeitSichtbar="FALSE" ZoomFaktor="1"/>
-	</Object>
-	<Object>
-		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\Universal\Linie_2.l3dobj" Position="15.54;3.13;-0.26" Rotation="90;0;0" ShowOn="Linie_2 and (Z1 or Z2)" WeitSichtbar="FALSE" ZoomFaktor="1"/>
-	</Object>
-	<Object>
-		<Props BlinkIntervall="0" HideOn="Z1 or Z2" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\Universal\Linie_2_dunkel.l3dobj" Position="15.54;3.13;-0.26" Rotation="90;0;0" ShowOn="Linie_2" WeitSichtbar="FALSE" ZoomFaktor="1"/>
-	</Object>
-	<Object>
-		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\Universal\Linie_3.l3dobj" Position="15.54;3.13;-0.26" Rotation="90;0;0" ShowOn="Linie_3 and (Z1 or Z2)" WeitSichtbar="FALSE" ZoomFaktor="1"/>
-	</Object>
-	<Object>
-		<Props BlinkIntervall="0" HideOn="Z1 or Z2" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\Universal\Linie_3_dunkel.l3dobj" Position="15.54;3.13;-0.26" Rotation="90;0;0" ShowOn="Linie_3" WeitSichtbar="FALSE" ZoomFaktor="1"/>
-	</Object>
-	<Object>
-		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\Universal\Linie_4.l3dobj" Position="15.54;3.13;-0.26" Rotation="90;0;0" ShowOn="Linie_4 and (Z1 or Z2)" WeitSichtbar="FALSE" ZoomFaktor="1"/>
-	</Object>
-	<Object>
-		<Props BlinkIntervall="0" HideOn="Z1 or Z2" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\Universal\Linie_4_dunkel.l3dobj" Position="15.54;3.13;-0.26" Rotation="90;0;0" ShowOn="Linie_4" WeitSichtbar="FALSE" ZoomFaktor="1"/>
-	</Object>
-	<Object>
-		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\Universal\Linie_5.l3dobj" Position="15.54;3.13;-0.26" Rotation="90;0;0" ShowOn="Linie_5 and (Z1 or Z2)" WeitSichtbar="FALSE" ZoomFaktor="1"/>
-	</Object>
-	<Object>
-		<Props BlinkIntervall="0" HideOn="Z1 or Z2" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\Universal\Linie_5_dunkel.l3dobj" Position="15.54;3.13;-0.26" Rotation="90;0;0" ShowOn="Linie_5" WeitSichtbar="FALSE" ZoomFaktor="1"/>
-	</Object>
-	<Object>
-		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\Universal\Linie_6.l3dobj" Position="15.54;3.13;-0.26" Rotation="90;0;0" ShowOn="Linie_6 and (Z1 or Z2)" WeitSichtbar="FALSE" ZoomFaktor="1"/>
-	</Object>
-	<Object>
-		<Props BlinkIntervall="0" HideOn="Z1 or Z2" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\Universal\Linie_6_dunkel.l3dobj" Position="15.54;3.13;-0.26" Rotation="90;0;0" ShowOn="Linie_6" WeitSichtbar="FALSE" ZoomFaktor="1"/>
-	</Object>
-	<Object>
-		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\Universal\Linie_7.l3dobj" Position="15.54;3.13;-0.26" Rotation="90;0;0" ShowOn="Linie_7 and (Z1 or Z2)" WeitSichtbar="FALSE" ZoomFaktor="1"/>
-	</Object>
-	<Object>
-		<Props BlinkIntervall="0" HideOn="Z1 or Z2" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\Universal\Linie_7_dunkel.l3dobj" Position="15.54;3.13;-0.26" Rotation="90;0;0" ShowOn="Linie_7" WeitSichtbar="FALSE" ZoomFaktor="1"/>
-	</Object>
-	<Object>
-		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\Universal\Linie_8.l3dobj" Position="15.54;3.13;-0.26" Rotation="90;0;0" ShowOn="Linie_8 and (Z1 or Z2)" WeitSichtbar="FALSE" ZoomFaktor="1"/>
-	</Object>
-	<Object>
-		<Props BlinkIntervall="0" HideOn="Z1 or Z2" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\Universal\Linie_8_dunkel.l3dobj" Position="15.54;3.13;-0.26" Rotation="90;0;0" ShowOn="Linie_8" WeitSichtbar="FALSE" ZoomFaktor="1"/>
-	</Object>
-	<Object>
-		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\Universal\Linie_9.l3dobj" Position="15.54;3.13;-0.26" Rotation="90;0;0" ShowOn="Linie_9 and (Z1 or Z2)" WeitSichtbar="FALSE" ZoomFaktor="1"/>
-	</Object>
-	<Object>
-		<Props BlinkIntervall="0" HideOn="Z1 or Z2" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\Universal\Linie_9_dunkel.l3dobj" Position="15.54;3.13;-0.26" Rotation="90;0;0" ShowOn="Linie_9" WeitSichtbar="FALSE" ZoomFaktor="1"/>
-	</Object>
-	<Object>
-		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\Universal\Linie_10.l3dobj" Position="15.54;3.13;-0.26" Rotation="90;0;0" ShowOn="Linie_10 and (Z1 or Z2)" WeitSichtbar="FALSE" ZoomFaktor="1"/>
-	</Object>
-	<Object>
-		<Props BlinkIntervall="0" HideOn="Z1 or Z2" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\Universal\Linie_10_dunkel.l3dobj" Position="15.54;3.13;-0.26" Rotation="90;0;0" ShowOn="Linie_10" WeitSichtbar="FALSE" ZoomFaktor="1"/>
-	</Object>
-	<Object>
 		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F90\Teile\Windfang klein.l3dobj" Position="11.86;0;-1.25" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
 	</Object>
 	<Object>
@@ -1421,88 +1349,22 @@
 		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\Universal\Verbandkasten.l3dobj" Position="15.15;1.98;1.27" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
 	</Object>
 	<Font>
-		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="0" DefaultText="" Fonthoehe="0.22" GroupProperty="Linie" Leuchtend="TRUE" Name="\Fonts\KlausN\U-Bahn Berlin\NegHin-weiss.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="15.55;3.255;-0.42" Rotation="-90;0;0" ShowOn="Z1 or Z2" Vertikal="FALSE"/>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="0" DefaultText="" Fonthoehe="0.2" GroupProperty="Linie" Leuchtend="TRUE" Name="\Fonts\KlausN\S-Bahn Berlin\LCD_Ziel.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="15.55;3.255;-0.42" Rotation="-90;0;0" ShowOn="Z1 or Z2" Vertikal="FALSE"/>
 	</Font>
 	<Font>
-		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="8355711" DefaultText="" Fonthoehe="0.22" GroupProperty="Linie" HideOn="Z1 or Z2" Leuchtend="FALSE" Name="\Fonts\KlausN\U-Bahn Berlin\NegHin-weiss.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="15.55;3.255;-0.42" Rotation="-90;0;0" Vertikal="FALSE"/>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="0" DefaultText="" Fonthoehe="0.2" GroupProperty="Ziel XL" Leuchtend="TRUE" Name="\Fonts\KlausN\S-Bahn Berlin\LCD_Ziel.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="15.55;3.255;0.16" Rotation="-90;0;0" ShowOn="Z1 or Z2" Vertikal="FALSE"/>
 	</Font>
 	<Font>
-		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="0" DefaultText="" Fonthoehe="0.18" GroupProperty="Linie klein" Leuchtend="TRUE" Name="\Fonts\KlausN\U-Bahn Berlin\NegHin-weiss.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="15.55;3.255;-0.42" Rotation="-90;0;0" ShowOn="Z1 or Z2" Vertikal="FALSE"/>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="0" DefaultText="Waldstadt" Fonthoehe="0.175" GroupProperty="Ziel L" Leuchtend="TRUE" Name="\Fonts\KlausN\S-Bahn Berlin\LCD_Ziel.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="15.55;3.255;0.16" Rotation="-90;0;0" ShowOn="Z1 or Z2" Vertikal="FALSE"/>
 	</Font>
 	<Font>
-		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="8355711" DefaultText="" Fonthoehe="0.18" GroupProperty="Linie klein" HideOn="Z1 or Z2" Leuchtend="FALSE" Name="\Fonts\KlausN\U-Bahn Berlin\NegHin-weiss.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="15.55;3.255;-0.42" Rotation="-90;0;0" Vertikal="FALSE"/>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="0" DefaultText="" Fonthoehe="0.15" GroupProperty="Ziel M" Leuchtend="TRUE" Name="\Fonts\KlausN\S-Bahn Berlin\LCD_Ziel.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="15.55;3.255;0.16" Rotation="-90;0;0" ShowOn="Z1 or Z2" Vertikal="FALSE"/>
 	</Font>
 	<Font>
-		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="0" DefaultText="" Fonthoehe="0.22" GroupProperty="Linie schwarz" Leuchtend="TRUE" Name="\Fonts\KlausN\U-Bahn Berlin\PosHin-schwarz.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="15.55;3.255;-0.42" Rotation="-90;0;0" ShowOn="Z1 or Z2" Vertikal="FALSE"/>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="0" DefaultText="" Fonthoehe="0.125" GroupProperty="Ziel S" Leuchtend="TRUE" Name="\Fonts\KlausN\S-Bahn Berlin\LCD_Ziel.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="15.55;3.255;0.16" Rotation="-90;0;0" ShowOn="Z1 or Z2" Vertikal="FALSE"/>
 	</Font>
 	<Font>
-		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="8355711" DefaultText="" Fonthoehe="0.22" GroupProperty="Linie schwarz" HideOn="Z1 or Z2" Leuchtend="FALSE" Name="\Fonts\KlausN\U-Bahn Berlin\PosHin-schwarz.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="15.55;3.255;-0.42" Rotation="-90;0;0" Vertikal="FALSE"/>
-	</Font>
-	<Font>
-		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="0" DefaultText="" Fonthoehe="0.18" GroupProperty="Linie schwarz klein" Leuchtend="TRUE" Name="\Fonts\KlausN\U-Bahn Berlin\PosHin-schwarz.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="15.55;3.255;-0.42" Rotation="-90;0;0" ShowOn="Z1 or Z2" Vertikal="FALSE"/>
-	</Font>
-	<Font>
-		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="8355711" DefaultText="" Fonthoehe="0.18" GroupProperty="Linie schwarz klein" HideOn="Z1 or Z2" Leuchtend="FALSE" Name="\Fonts\KlausN\U-Bahn Berlin\PosHin-schwarz.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="15.55;3.255;-0.42" Rotation="-90;0;0" Vertikal="FALSE"/>
-	</Font>
-	<Font>
-		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="0" DefaultText="" Fonthoehe="0.215" GroupProperty="Ziel XL" Leuchtend="TRUE" Name="\Fonts\KlausN\U-Bahn Berlin\NegHin-weiss.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="15.55;3.265;0.16" Rotation="-90;0;0" ShowOn="Z1 or Z2" Vertikal="FALSE"/>
-	</Font>
-	<Font>
-		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="8355711" DefaultText="" Fonthoehe="0.215" GroupProperty="Ziel XL" HideOn="Z1 or Z2" Leuchtend="FALSE" Name="\Fonts\KlausN\U-Bahn Berlin\NegHin-weiss.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="15.55;3.265;0.16" Rotation="-90;0;0" Vertikal="FALSE"/>
-	</Font>
-	<Font>
-		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="0" DefaultText="" Fonthoehe="0.18" GroupProperty="Ziel L" Leuchtend="TRUE" Name="\Fonts\KlausN\U-Bahn Berlin\NegHin-weiss.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="15.55;3.255;0.16" Rotation="-90;0;0" ShowOn="Z1 or Z2" Vertikal="FALSE"/>
-	</Font>
-	<Font>
-		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="8355711" DefaultText="" Fonthoehe="0.18" GroupProperty="Ziel L" HideOn="Z1 or Z2" Leuchtend="FALSE" Name="\Fonts\KlausN\U-Bahn Berlin\NegHin-weiss.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="15.55;3.255;0.16" Rotation="-90;0;0" Vertikal="FALSE"/>
-	</Font>
-	<Font>
-		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="0" DefaultText="" Fonthoehe="0.145" GroupProperty="Ziel M" Leuchtend="TRUE" Name="\Fonts\KlausN\U-Bahn Berlin\NegHin-weiss.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="15.55;3.255;0.16" Rotation="-90;0;0" ShowOn="Z1 or Z2" Vertikal="FALSE"/>
-	</Font>
-	<Font>
-		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="8355711" DefaultText="" Fonthoehe="0.145" GroupProperty="Ziel M" HideOn="Z1 or Z2" Leuchtend="FALSE" Name="\Fonts\KlausN\U-Bahn Berlin\NegHin-weiss.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="15.55;3.255;0.16" Rotation="-90;0;0" Vertikal="FALSE"/>
-	</Font>
-	<Font>
-		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="0" DefaultText="" Fonthoehe="0.11" GroupProperty="Ziel S" Leuchtend="TRUE" Name="\Fonts\KlausN\U-Bahn Berlin\NegHin-weiss.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="15.55;3.255;0.16" Rotation="-90;0;0" ShowOn="Z1 or Z2" Vertikal="FALSE"/>
-	</Font>
-	<Font>
-		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="8355711" DefaultText="" Fonthoehe="0.11" GroupProperty="Ziel S" HideOn="Z1 or Z2" Leuchtend="FALSE" Name="\Fonts\KlausN\U-Bahn Berlin\NegHin-weiss.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="15.55;3.255;0.16" Rotation="-90;0;0" Vertikal="FALSE"/>
-	</Font>
-	<Font>
-		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="0" DefaultText="" Fonthoehe="0.075" GroupProperty="Ziel XS" Leuchtend="TRUE" Name="\Fonts\KlausN\U-Bahn Berlin\NegHin-weiss.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="15.55;3.255;0.16" Rotation="-90;0;0" ShowOn="Z1 or Z2" Vertikal="FALSE"/>
-	</Font>
-	<Font>
-		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="8355711" DefaultText="" Fonthoehe="0.075" GroupProperty="Ziel XS" HideOn="Z1 or Z2" Leuchtend="FALSE" Name="\Fonts\KlausN\U-Bahn Berlin\NegHin-weiss.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="15.55;3.255;0.16" Rotation="-90;0;0" Vertikal="FALSE"/>
-	</Font>
-	<Font>
-		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="0" DefaultText="" Fonthoehe="0.215" GroupProperty="Ziel rot XL" Leuchtend="TRUE" Name="\Fonts\KlausN\U-Bahn Berlin\PosHin-rot.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="15.55;3.265;0.16" Rotation="-90;0;0" ShowOn="Z1 or Z2" Vertikal="FALSE"/>
-	</Font>
-	<Font>
-		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="8355711" DefaultText="" Fonthoehe="0.215" GroupProperty="Ziel rot XL" HideOn="Z1 or Z2" Leuchtend="FALSE" Name="\Fonts\KlausN\U-Bahn Berlin\PosHin-rot.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="15.55;3.265;0.16" Rotation="-90;0;0" Vertikal="FALSE"/>
-	</Font>
-	<Font>
-		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="0" DefaultText="" Fonthoehe="0.18" GroupProperty="Ziel rot L" Leuchtend="TRUE" Name="\Fonts\KlausN\U-Bahn Berlin\PosHin-rot.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="15.55;3.255;0.16" Rotation="-90;0;0" ShowOn="Z1 or Z2" Vertikal="FALSE"/>
-	</Font>
-	<Font>
-		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="8355711" DefaultText="" Fonthoehe="0.18" GroupProperty="Ziel rot L" HideOn="Z1 or Z2" Leuchtend="FALSE" Name="\Fonts\KlausN\U-Bahn Berlin\PosHin-rot.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="15.55;3.255;0.16" Rotation="-90;0;0" Vertikal="FALSE"/>
-	</Font>
-	<Font>
-		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="0" DefaultText="" Fonthoehe="0.145" GroupProperty="Ziel rot M" Leuchtend="TRUE" Name="\Fonts\KlausN\U-Bahn Berlin\PosHin-rot.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="15.55;3.255;0.16" Rotation="-90;0;0" ShowOn="Z1 or Z2" Vertikal="FALSE"/>
-	</Font>
-	<Font>
-		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="8355711" DefaultText="" Fonthoehe="0.145" GroupProperty="Ziel rot M" HideOn="Z1 or Z2" Leuchtend="FALSE" Name="\Fonts\KlausN\U-Bahn Berlin\PosHin-rot.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="15.55;3.255;0.16" Rotation="-90;0;0" Vertikal="FALSE"/>
-	</Font>
-	<Font>
-		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="0" DefaultText="" Fonthoehe="0.11" GroupProperty="Ziel rot S" Leuchtend="TRUE" Name="\Fonts\KlausN\U-Bahn Berlin\PosHin-rot.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="15.55;3.255;0.16" Rotation="-90;0;0" ShowOn="Z1 or Z2" Vertikal="FALSE"/>
-	</Font>
-	<Font>
-		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="8355711" DefaultText="" Fonthoehe="0.11" GroupProperty="Ziel rot S" HideOn="Z1 or Z2" Leuchtend="FALSE" Name="\Fonts\KlausN\U-Bahn Berlin\PosHin-rot.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="15.55;3.255;0.16" Rotation="-90;0;0" Vertikal="FALSE"/>
-	</Font>
-	<Font>
-		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="0" DefaultText="" Fonthoehe="0.075" GroupProperty="Ziel rot XS" Leuchtend="TRUE" Name="\Fonts\KlausN\U-Bahn Berlin\PosHin-rot.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="15.55;3.255;0.16" Rotation="-90;0;0" ShowOn="Z1 or Z2" Vertikal="FALSE"/>
-	</Font>
-	<Font>
-		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="8355711" DefaultText="" Fonthoehe="0.075" GroupProperty="Ziel rot XS" HideOn="Z1 or Z2" Leuchtend="FALSE" Name="\Fonts\KlausN\U-Bahn Berlin\PosHin-rot.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="15.55;3.255;0.16" Rotation="-90;0;0" Vertikal="FALSE"/>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="0" DefaultText="" Fonthoehe="0.1" GroupProperty="Ziel XS" Leuchtend="TRUE" Name="\Fonts\KlausN\S-Bahn Berlin\LCD_Ziel.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="15.55;3.255;0.16" Rotation="-90;0;0" ShowOn="Z1 or Z2" Vertikal="FALSE"/>
 	</Font>
 	<Font>
 		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="0" DefaultText="0 0" Fonthoehe="0.21" GroupProperty="Umlauf" Leuchtend="FALSE" Name="\Fonts\KlausN\U-Bahn Berlin\HFett-schwarz.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="15.52;2.75;0.66" Rotation="-98;0;0" Vertikal="FALSE"/>

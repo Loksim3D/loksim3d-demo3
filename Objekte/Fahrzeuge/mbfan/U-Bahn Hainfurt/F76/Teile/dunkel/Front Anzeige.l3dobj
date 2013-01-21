@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OBJECT>
-	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="" FileInfo="" FilePicture="" Texture="\Objekte\U-Bahn Berlin\Fahrzeuge\F76\Teile\Texturen\Front.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="" FileDoku="" FileInfo="" FilePicture="" Texture="\Objekte\Fahrzeuge\mbfan\U-Bahn Hainfurt\F76\Teile\Texturen\Front.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
 	<Point>
 		<Props Normal="0.8;-1;-0.4" Vekt="0.28;3;-0.76"/>
 	</Point>
