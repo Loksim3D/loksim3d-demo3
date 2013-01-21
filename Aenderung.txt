@@ -1,3 +1,6 @@
+2013-01-21
+* [kn] Hainfurter F92 hat LCD-Zielanzeige
+
 2013-01-20
 * [mbf] GTW mit Hainfurter Design hinzugefügt.
 * [kn] U1_M9: Signalisierung für Regelbetrieb fertig
