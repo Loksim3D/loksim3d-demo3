@@ -1,3 +1,6 @@
+2013-01-22
+* [ukl] Bf Hainfurt Pbf Fahrleitungsbau fast abgeschlossen
+
 2013-01-21
 * [kn] Hainfurter F92 hat LCD-Zielanzeige
 
@@ -14,7 +17,7 @@
 * [fc] Zentralstellwerk Hainfurt eingebaut (muss noch auf unbesetzt umgebaut werden) Reiterstellwerk ist thematisch fehl am Platz
 
 2013-01-16
-* [ukl] Bf Bainfurt Pbf Fahrleitungsbau
+* [ukl] Bf Hainfurt Pbf Fahrleitungsbau
 
 2013-01-13
 * [dto] Oberlingen Zs6 berichtigt

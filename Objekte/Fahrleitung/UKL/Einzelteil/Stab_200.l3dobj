@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="U.Klein" FileDoku="" FileInfo="Hängestab 16mm, 200mm lang/n/nOriginal Bitmap von Frieder Cramer/nBearbeitung: U. Klein 2013" FilePicture="FL-Mast_kA_re.l3dobj.jpg" Texture="Ausleger\Ausleger_Re.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="2"/>
+	<Point>
+		<Props Normal="0;-1;0" Vekt="-0.04;-0.2;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="-0.04;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="0.04;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;0" Vekt="0.04;-0.2;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="48,280;90,280;90,292;48,292"/>
+	</Flaeche>
+</OBJECT>
