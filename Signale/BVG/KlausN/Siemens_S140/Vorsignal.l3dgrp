@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="Klaus Nickel" FileDoku="\Doku\KlausN\U-Bahn Berlin\U-Bahn-Signale.pdf" FileInfo="/nwww.veb-verkehr.de" FilePicture=""/>
+	<Object>
+		<Props BlinkIntervall="0" Name="Teile\Kasten.l3dobj" Position="0;-2.34;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Teile\Lampe.l3dobj" Position="0;1.37;-0.06" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Teile\gelb.l3dobj" Position="0;-2.34;0" Rotation="0;0;0" ShowOn="Vr0 or Vr2 or Vr3" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\BVG\KlausN\Siemens_1956\Teile\gelb_Schein.l3dobj" Position="0;1.37;-0.045" Rotation="0;0;0" ShowOn="Vr0 or Vr2 or Vr3" WeitSichtbar="FALSE" ZoomFaktor="200"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Teile\Kasten.l3dobj" Position="0;-2.52;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Teile\Lampe.l3dobj" Position="0;1.19;-0.06" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Teile\gruen.l3dobj" Position="0;-2.52;0" Rotation="0;0;0" ShowOn="Vr1 or Vr2 or Vr3" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\BVG\KlausN\Siemens_1956\Teile\gruen_Schein.l3dobj" Position="0;1.19;-0.045" Rotation="0;0;0" ShowOn="Vr1 or Vr2 or Vr3" WeitSichtbar="FALSE" ZoomFaktor="200"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\BVG\KlausN\Siemens_1970\Teile\Mast.l3dobj" Position="0;-2.34;0.1" Rotation="0;0;0" ShowOn="Mast" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+</GRUPPENOBJECT>

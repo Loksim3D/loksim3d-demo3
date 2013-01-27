@@ -8,6 +8,24 @@
 		<Props BlinkIntervall="0" Name="Teile\Halterung.l3dobj" Position="0;-0.83;0" Rotation="0;0;0" ShowOn="Mast" WeitSichtbar="FALSE" ZoomFaktor="1"/>
 	</Object>
 	<Object>
+		<Props BlinkIntervall="0" Name="Teile\Wandhalterung_unten.l3dobj" Position="-0.07;-1.03;0.1" Rotation="90;0;0" ShowOn="Halterung_rechts" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Teile\Wandhalterung_unten.l3dobj" Position="0.07;-1.03;0.1" Rotation="-90;0;0" ShowOn="Halterung_links" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Zs2_vorhanden" Name="Teile\Wandhalterung_oben.l3dobj" Position="-0.07;0;0.1" Rotation="90;0;0" ShowOn="Halterung_rechts" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Zs2_vorhanden" Name="Teile\Wandhalterung_oben.l3dobj" Position="0.07;0;0.1" Rotation="-90;0;0" ShowOn="Halterung_links" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Teile\Wandhalterung_oben.l3dobj" Position="-0.07;0.29;0.1" Rotation="90;0;0" ShowOn="Halterung_rechts and Zs2_vorhanden" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Teile\Wandhalterung_oben.l3dobj" Position="0.07;0.29;0.1" Rotation="-90;0;0" ShowOn="Halterung_links and Zs2_vorhanden" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
 		<Props BlinkIntervall="0" Name="Teile\Zs2.l3dobj" Position="0;0.29;0" Rotation="0;0;0" ShowOn="Zs2_vorhanden" WeitSichtbar="FALSE" ZoomFaktor="1"/>
 	</Object>
 	<Object>
@@ -54,6 +72,9 @@
 	</Object>
 	<Object>
 		<Props BlinkIntervall="0" Name="Teile\Kasten.l3dobj" Position="0;-0.83;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Mast" Name="\Signale\BVG\KlausN\Siemens_1970\Teile\Mast.l3dobj" Position="0;-2.34;0.1" Rotation="0;0;0" ShowOn="Vorsignal and Vorsignalmast" WeitSichtbar="FALSE" ZoomFaktor="1"/>
 	</Object>
 	<Object>
 		<Props BlinkIntervall="0" HideOn="Mast" Name="Teile\Kasten.l3dobj" Position="0;-2.34;0" Rotation="0;0;0" ShowOn="Vorsignal" WeitSichtbar="FALSE" ZoomFaktor="1"/>
