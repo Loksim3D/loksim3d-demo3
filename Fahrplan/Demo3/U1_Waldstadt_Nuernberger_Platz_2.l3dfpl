@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <FPL>
 	<Props BremsArt="O" BremsStellung="P" FileAuthor="Klaus Nickel" FileDoku="" FileInfo="/nwww.veb-verkehr.de" FilePicture="" KBS="\Kursbuchstrecken\Demo3\U1_Waldstadt_Nuernberger_Platz_2.l3dkbs" WetterDatei="\Normal\sky_default.l3dsky" Zeiten="12:00:00" ZugArt="PerszugOhneSchaffner" ZugGewicht="0" ZugLaenge="0" ZugLimit="100"/>
 	<PneuBremse>
@@ -9,79 +9,79 @@
 	</MgBremse>
 	<Haltestellen>
 		<Halt>
-			<Props Abfahrt="0" Ankunft="86340" Bedarfshalt="FALSE" Betriebshalt="FALSE" DistanzSoundVorBedarfsHalt="0" DistanzSoundVorHalt="0" Haltdauer="16" Haltepunkt="FALSE" Name="Waldstadt" SignalVorAusfahrt="16" SignalVorEinfahrt="-1" SoundAbfahrt="" SoundAnkunft="" SoundAnsage="" SoundHalt="" SoundVorBedarfsHalt="" SoundVorHalt="" Tueren="TRUE" Türschließzeit="10" Zugfolgestelle="FALSE"/>
+			<Props Abfahrt="0" Ankunft="86340" Bedarfshalt="FALSE" Betriebshalt="FALSE" DistanzSoundVorBedarfsHalt="0" DistanzSoundVorHalt="0" Haltdauer="16" Haltepunkt="FALSE" Name="Waldstadt" SignalVorAusfahrt="16" SignalVorEinfahrt="-1" SoundAbfahrt="" SoundAnkunft="" SoundAnsage="" SoundHalt="" SoundVorBedarfsHalt="" SoundVorHalt="" Tueren="FALSE" Türschließzeit="10" Zugfolgestelle="FALSE"/>
 		</Halt>
 		<Halt>
-			<Props Abfahrt="90" Ankunft="60" Bedarfshalt="FALSE" Betriebshalt="FALSE" DistanzSoundVorBedarfsHalt="0" DistanzSoundVorHalt="0" Haltdauer="16" Haltepunkt="FALSE" Name="Alfred-Werner-Straße" SignalVorAusfahrt="16" SignalVorEinfahrt="-1" SoundAbfahrt="" SoundAnkunft="" SoundAnsage="" SoundHalt="" SoundVorBedarfsHalt="" SoundVorHalt="" Tueren="TRUE" Türschließzeit="10" Zugfolgestelle="FALSE"/>
+			<Props Abfahrt="90" Ankunft="60" Bedarfshalt="FALSE" Betriebshalt="FALSE" DistanzSoundVorBedarfsHalt="0" DistanzSoundVorHalt="0" Haltdauer="16" Haltepunkt="FALSE" Name="Alfred-Werner-Straße" SignalVorAusfahrt="16" SignalVorEinfahrt="-1" SoundAbfahrt="" SoundAnkunft="" SoundAnsage="" SoundHalt="" SoundVorBedarfsHalt="" SoundVorHalt="" Tueren="FALSE" Türschließzeit="10" Zugfolgestelle="FALSE"/>
 		</Halt>
 		<Halt>
-			<Props Abfahrt="210" Ankunft="180" Bedarfshalt="FALSE" Betriebshalt="FALSE" DistanzSoundVorBedarfsHalt="0" DistanzSoundVorHalt="0" Haltdauer="16" Haltepunkt="FALSE" Name="Terminal 3" SignalVorAusfahrt="16" SignalVorEinfahrt="-1" SoundAbfahrt="" SoundAnkunft="" SoundAnsage="" SoundHalt="" SoundVorBedarfsHalt="" SoundVorHalt="" Tueren="TRUE" Türschließzeit="10" Zugfolgestelle="FALSE"/>
+			<Props Abfahrt="210" Ankunft="180" Bedarfshalt="FALSE" Betriebshalt="FALSE" DistanzSoundVorBedarfsHalt="0" DistanzSoundVorHalt="0" Haltdauer="16" Haltepunkt="FALSE" Name="Terminal 3" SignalVorAusfahrt="16" SignalVorEinfahrt="-1" SoundAbfahrt="" SoundAnkunft="" SoundAnsage="" SoundHalt="" SoundVorBedarfsHalt="" SoundVorHalt="" Tueren="FALSE" Türschließzeit="10" Zugfolgestelle="FALSE"/>
 		</Halt>
 		<Halt>
-			<Props Abfahrt="300" Ankunft="270" Bedarfshalt="FALSE" Betriebshalt="FALSE" DistanzSoundVorBedarfsHalt="0" DistanzSoundVorHalt="0" Haltdauer="16" Haltepunkt="FALSE" Name="Flughafen" SignalVorAusfahrt="16" SignalVorEinfahrt="-1" SoundAbfahrt="" SoundAnkunft="" SoundAnsage="" SoundHalt="" SoundVorBedarfsHalt="" SoundVorHalt="" Tueren="TRUE" Türschließzeit="10" Zugfolgestelle="FALSE"/>
+			<Props Abfahrt="300" Ankunft="270" Bedarfshalt="FALSE" Betriebshalt="FALSE" DistanzSoundVorBedarfsHalt="0" DistanzSoundVorHalt="0" Haltdauer="16" Haltepunkt="FALSE" Name="Flughafen" SignalVorAusfahrt="16" SignalVorEinfahrt="-1" SoundAbfahrt="" SoundAnkunft="" SoundAnsage="" SoundHalt="" SoundVorBedarfsHalt="" SoundVorHalt="" Tueren="FALSE" Türschließzeit="10" Zugfolgestelle="FALSE"/>
 		</Halt>
 		<Halt>
-			<Props Abfahrt="390" Ankunft="360" Bedarfshalt="FALSE" Betriebshalt="FALSE" DistanzSoundVorBedarfsHalt="0" DistanzSoundVorHalt="0" Haltdauer="16" Haltepunkt="FALSE" Name="Langendell" SignalVorAusfahrt="16" SignalVorEinfahrt="-1" SoundAbfahrt="" SoundAnkunft="" SoundAnsage="" SoundHalt="" SoundVorBedarfsHalt="" SoundVorHalt="" Tueren="TRUE" Türschließzeit="10" Zugfolgestelle="FALSE"/>
+			<Props Abfahrt="390" Ankunft="360" Bedarfshalt="FALSE" Betriebshalt="FALSE" DistanzSoundVorBedarfsHalt="0" DistanzSoundVorHalt="0" Haltdauer="16" Haltepunkt="FALSE" Name="Langendell" SignalVorAusfahrt="16" SignalVorEinfahrt="-1" SoundAbfahrt="" SoundAnkunft="" SoundAnsage="" SoundHalt="" SoundVorBedarfsHalt="" SoundVorHalt="" Tueren="FALSE" Türschließzeit="10" Zugfolgestelle="FALSE"/>
 		</Halt>
 		<Halt>
-			<Props Abfahrt="480" Ankunft="450" Bedarfshalt="FALSE" Betriebshalt="FALSE" DistanzSoundVorBedarfsHalt="0" DistanzSoundVorHalt="0" Haltdauer="16" Haltepunkt="FALSE" Name="Prinz-Johann-Platz" SignalVorAusfahrt="16" SignalVorEinfahrt="-1" SoundAbfahrt="" SoundAnkunft="" SoundAnsage="" SoundHalt="" SoundVorBedarfsHalt="" SoundVorHalt="" Tueren="TRUE" Türschließzeit="10" Zugfolgestelle="FALSE"/>
+			<Props Abfahrt="480" Ankunft="450" Bedarfshalt="FALSE" Betriebshalt="FALSE" DistanzSoundVorBedarfsHalt="0" DistanzSoundVorHalt="0" Haltdauer="16" Haltepunkt="FALSE" Name="Prinz-Johann-Platz" SignalVorAusfahrt="16" SignalVorEinfahrt="-1" SoundAbfahrt="" SoundAnkunft="" SoundAnsage="" SoundHalt="" SoundVorBedarfsHalt="" SoundVorHalt="" Tueren="FALSE" Türschließzeit="10" Zugfolgestelle="FALSE"/>
 		</Halt>
 		<Halt>
-			<Props Abfahrt="540" Ankunft="510" Bedarfshalt="FALSE" Betriebshalt="FALSE" DistanzSoundVorBedarfsHalt="0" DistanzSoundVorHalt="0" Haltdauer="16" Haltepunkt="FALSE" Name="Grenanderplatz" SignalVorAusfahrt="16" SignalVorEinfahrt="-1" SoundAbfahrt="" SoundAnkunft="" SoundAnsage="" SoundHalt="" SoundVorBedarfsHalt="" SoundVorHalt="" Tueren="TRUE" Türschließzeit="10" Zugfolgestelle="FALSE"/>
+			<Props Abfahrt="540" Ankunft="510" Bedarfshalt="FALSE" Betriebshalt="FALSE" DistanzSoundVorBedarfsHalt="0" DistanzSoundVorHalt="0" Haltdauer="16" Haltepunkt="FALSE" Name="Grenanderplatz" SignalVorAusfahrt="16" SignalVorEinfahrt="-1" SoundAbfahrt="" SoundAnkunft="" SoundAnsage="" SoundHalt="" SoundVorBedarfsHalt="" SoundVorHalt="" Tueren="FALSE" Türschließzeit="10" Zugfolgestelle="FALSE"/>
 		</Halt>
 		<Halt>
-			<Props Abfahrt="630" Ankunft="600" Bedarfshalt="FALSE" Betriebshalt="FALSE" DistanzSoundVorBedarfsHalt="0" DistanzSoundVorHalt="0" Haltdauer="16" Haltepunkt="FALSE" Name="Mohnbachstraße" SignalVorAusfahrt="16" SignalVorEinfahrt="-1" SoundAbfahrt="" SoundAnkunft="" SoundAnsage="" SoundHalt="" SoundVorBedarfsHalt="" SoundVorHalt="" Tueren="TRUE" Türschließzeit="10" Zugfolgestelle="FALSE"/>
+			<Props Abfahrt="630" Ankunft="600" Bedarfshalt="FALSE" Betriebshalt="FALSE" DistanzSoundVorBedarfsHalt="0" DistanzSoundVorHalt="0" Haltdauer="16" Haltepunkt="FALSE" Name="Mohnbachstraße" SignalVorAusfahrt="16" SignalVorEinfahrt="-1" SoundAbfahrt="" SoundAnkunft="" SoundAnsage="" SoundHalt="" SoundVorBedarfsHalt="" SoundVorHalt="" Tueren="FALSE" Türschließzeit="10" Zugfolgestelle="FALSE"/>
 		</Halt>
 		<Halt>
-			<Props Abfahrt="720" Ankunft="660" Bedarfshalt="FALSE" Betriebshalt="FALSE" DistanzSoundVorBedarfsHalt="0" DistanzSoundVorHalt="0" Haltdauer="16" Haltepunkt="FALSE" Name="Westend" SignalVorAusfahrt="16" SignalVorEinfahrt="-1" SoundAbfahrt="" SoundAnkunft="" SoundAnsage="" SoundHalt="" SoundVorBedarfsHalt="" SoundVorHalt="" Tueren="TRUE" Türschließzeit="10" Zugfolgestelle="FALSE"/>
+			<Props Abfahrt="720" Ankunft="660" Bedarfshalt="FALSE" Betriebshalt="FALSE" DistanzSoundVorBedarfsHalt="0" DistanzSoundVorHalt="0" Haltdauer="16" Haltepunkt="FALSE" Name="Westend" SignalVorAusfahrt="16" SignalVorEinfahrt="-1" SoundAbfahrt="" SoundAnkunft="" SoundAnsage="" SoundHalt="" SoundVorBedarfsHalt="" SoundVorHalt="" Tueren="FALSE" Türschließzeit="10" Zugfolgestelle="FALSE"/>
 		</Halt>
 		<Halt>
-			<Props Abfahrt="810" Ankunft="780" Bedarfshalt="FALSE" Betriebshalt="FALSE" DistanzSoundVorBedarfsHalt="0" DistanzSoundVorHalt="0" Haltdauer="16" Haltepunkt="FALSE" Name="Breite Straße" SignalVorAusfahrt="16" SignalVorEinfahrt="-1" SoundAbfahrt="" SoundAnkunft="" SoundAnsage="" SoundHalt="" SoundVorBedarfsHalt="" SoundVorHalt="" Tueren="TRUE" Türschließzeit="10" Zugfolgestelle="FALSE"/>
+			<Props Abfahrt="810" Ankunft="780" Bedarfshalt="FALSE" Betriebshalt="FALSE" DistanzSoundVorBedarfsHalt="0" DistanzSoundVorHalt="0" Haltdauer="16" Haltepunkt="FALSE" Name="Breite Straße" SignalVorAusfahrt="16" SignalVorEinfahrt="-1" SoundAbfahrt="" SoundAnkunft="" SoundAnsage="" SoundHalt="" SoundVorBedarfsHalt="" SoundVorHalt="" Tueren="FALSE" Türschließzeit="10" Zugfolgestelle="FALSE"/>
 		</Halt>
 		<Halt>
-			<Props Abfahrt="870" Ankunft="840" Bedarfshalt="FALSE" Betriebshalt="FALSE" DistanzSoundVorBedarfsHalt="0" DistanzSoundVorHalt="0" Haltdauer="16" Haltepunkt="FALSE" Name="Fachhochschule" SignalVorAusfahrt="16" SignalVorEinfahrt="-1" SoundAbfahrt="" SoundAnkunft="" SoundAnsage="" SoundHalt="" SoundVorBedarfsHalt="" SoundVorHalt="" Tueren="TRUE" Türschließzeit="10" Zugfolgestelle="FALSE"/>
+			<Props Abfahrt="870" Ankunft="840" Bedarfshalt="FALSE" Betriebshalt="FALSE" DistanzSoundVorBedarfsHalt="0" DistanzSoundVorHalt="0" Haltdauer="16" Haltepunkt="FALSE" Name="Fachhochschule" SignalVorAusfahrt="16" SignalVorEinfahrt="-1" SoundAbfahrt="" SoundAnkunft="" SoundAnsage="" SoundHalt="" SoundVorBedarfsHalt="" SoundVorHalt="" Tueren="FALSE" Türschließzeit="10" Zugfolgestelle="FALSE"/>
 		</Halt>
 		<Halt>
-			<Props Abfahrt="990" Ankunft="960" Bedarfshalt="FALSE" Betriebshalt="FALSE" DistanzSoundVorBedarfsHalt="0" DistanzSoundVorHalt="0" Haltdauer="16" Haltepunkt="FALSE" Name="Berliner Ring" SignalVorAusfahrt="16" SignalVorEinfahrt="-1" SoundAbfahrt="" SoundAnkunft="" SoundAnsage="" SoundHalt="" SoundVorBedarfsHalt="" SoundVorHalt="" Tueren="TRUE" Türschließzeit="10" Zugfolgestelle="FALSE"/>
+			<Props Abfahrt="990" Ankunft="960" Bedarfshalt="FALSE" Betriebshalt="FALSE" DistanzSoundVorBedarfsHalt="0" DistanzSoundVorHalt="0" Haltdauer="16" Haltepunkt="FALSE" Name="Berliner Ring" SignalVorAusfahrt="16" SignalVorEinfahrt="-1" SoundAbfahrt="" SoundAnkunft="" SoundAnsage="" SoundHalt="" SoundVorBedarfsHalt="" SoundVorHalt="" Tueren="FALSE" Türschließzeit="10" Zugfolgestelle="FALSE"/>
 		</Halt>
 		<Halt>
-			<Props Abfahrt="1050" Ankunft="1020" Bedarfshalt="FALSE" Betriebshalt="FALSE" DistanzSoundVorBedarfsHalt="0" DistanzSoundVorHalt="0" Haltdauer="16" Haltepunkt="FALSE" Name="Platz der deutschen Einheit" SignalVorAusfahrt="16" SignalVorEinfahrt="-1" SoundAbfahrt="" SoundAnkunft="" SoundAnsage="" SoundHalt="" SoundVorBedarfsHalt="" SoundVorHalt="" Tueren="TRUE" Türschließzeit="10" Zugfolgestelle="FALSE"/>
+			<Props Abfahrt="1050" Ankunft="1020" Bedarfshalt="FALSE" Betriebshalt="FALSE" DistanzSoundVorBedarfsHalt="0" DistanzSoundVorHalt="0" Haltdauer="16" Haltepunkt="FALSE" Name="Platz der deutschen Einheit" SignalVorAusfahrt="16" SignalVorEinfahrt="-1" SoundAbfahrt="" SoundAnkunft="" SoundAnsage="" SoundHalt="" SoundVorBedarfsHalt="" SoundVorHalt="" Tueren="FALSE" Türschließzeit="10" Zugfolgestelle="FALSE"/>
 		</Halt>
 		<Halt>
-			<Props Abfahrt="1140" Ankunft="1110" Bedarfshalt="FALSE" Betriebshalt="FALSE" DistanzSoundVorBedarfsHalt="0" DistanzSoundVorHalt="0" Haltdauer="16" Haltepunkt="FALSE" Name="Luisenplatz" SignalVorAusfahrt="16" SignalVorEinfahrt="-1" SoundAbfahrt="" SoundAnkunft="" SoundAnsage="" SoundHalt="" SoundVorBedarfsHalt="" SoundVorHalt="" Tueren="TRUE" Türschließzeit="10" Zugfolgestelle="FALSE"/>
+			<Props Abfahrt="1140" Ankunft="1110" Bedarfshalt="FALSE" Betriebshalt="FALSE" DistanzSoundVorBedarfsHalt="0" DistanzSoundVorHalt="0" Haltdauer="16" Haltepunkt="FALSE" Name="Luisenplatz" SignalVorAusfahrt="16" SignalVorEinfahrt="-1" SoundAbfahrt="" SoundAnkunft="" SoundAnsage="" SoundHalt="" SoundVorBedarfsHalt="" SoundVorHalt="" Tueren="FALSE" Türschließzeit="10" Zugfolgestelle="FALSE"/>
 		</Halt>
 		<Halt>
-			<Props Abfahrt="1230" Ankunft="1200" Bedarfshalt="FALSE" Betriebshalt="FALSE" DistanzSoundVorBedarfsHalt="0" DistanzSoundVorHalt="0" Haltdauer="16" Haltepunkt="FALSE" Name="Franziskabrücke" SignalVorAusfahrt="16" SignalVorEinfahrt="-1" SoundAbfahrt="" SoundAnkunft="" SoundAnsage="" SoundHalt="" SoundVorBedarfsHalt="" SoundVorHalt="" Tueren="TRUE" Türschließzeit="10" Zugfolgestelle="FALSE"/>
+			<Props Abfahrt="1230" Ankunft="1200" Bedarfshalt="FALSE" Betriebshalt="FALSE" DistanzSoundVorBedarfsHalt="0" DistanzSoundVorHalt="0" Haltdauer="16" Haltepunkt="FALSE" Name="Franziskabrücke" SignalVorAusfahrt="16" SignalVorEinfahrt="-1" SoundAbfahrt="" SoundAnkunft="" SoundAnsage="" SoundHalt="" SoundVorBedarfsHalt="" SoundVorHalt="" Tueren="FALSE" Türschließzeit="10" Zugfolgestelle="FALSE"/>
 		</Halt>
 		<Halt>
-			<Props Abfahrt="1350" Ankunft="1290" Bedarfshalt="FALSE" Betriebshalt="FALSE" DistanzSoundVorBedarfsHalt="0" DistanzSoundVorHalt="0" Haltdauer="16" Haltepunkt="FALSE" Name="Hauptbahnhof" SignalVorAusfahrt="16" SignalVorEinfahrt="-1" SoundAbfahrt="" SoundAnkunft="" SoundAnsage="" SoundHalt="" SoundVorBedarfsHalt="" SoundVorHalt="" Tueren="TRUE" Türschließzeit="10" Zugfolgestelle="FALSE"/>
+			<Props Abfahrt="1350" Ankunft="1290" Bedarfshalt="FALSE" Betriebshalt="FALSE" DistanzSoundVorBedarfsHalt="0" DistanzSoundVorHalt="0" Haltdauer="16" Haltepunkt="FALSE" Name="Hauptbahnhof" SignalVorAusfahrt="16" SignalVorEinfahrt="-1" SoundAbfahrt="" SoundAnkunft="" SoundAnsage="" SoundHalt="" SoundVorBedarfsHalt="" SoundVorHalt="" Tueren="FALSE" Türschließzeit="10" Zugfolgestelle="FALSE"/>
 		</Halt>
 		<Halt>
-			<Props Abfahrt="1440" Ankunft="1410" Bedarfshalt="FALSE" Betriebshalt="FALSE" DistanzSoundVorBedarfsHalt="0" DistanzSoundVorHalt="0" Haltdauer="16" Haltepunkt="FALSE" Name="Schulzentrum" SignalVorAusfahrt="16" SignalVorEinfahrt="-1" SoundAbfahrt="" SoundAnkunft="" SoundAnsage="" SoundHalt="" SoundVorBedarfsHalt="" SoundVorHalt="" Tueren="TRUE" Türschließzeit="10" Zugfolgestelle="FALSE"/>
+			<Props Abfahrt="1440" Ankunft="1410" Bedarfshalt="FALSE" Betriebshalt="FALSE" DistanzSoundVorBedarfsHalt="0" DistanzSoundVorHalt="0" Haltdauer="16" Haltepunkt="FALSE" Name="Schulzentrum" SignalVorAusfahrt="16" SignalVorEinfahrt="-1" SoundAbfahrt="" SoundAnkunft="" SoundAnsage="" SoundHalt="" SoundVorBedarfsHalt="" SoundVorHalt="" Tueren="FALSE" Türschließzeit="10" Zugfolgestelle="FALSE"/>
 		</Halt>
 		<Halt>
-			<Props Abfahrt="1590" Ankunft="1560" Bedarfshalt="FALSE" Betriebshalt="FALSE" DistanzSoundVorBedarfsHalt="0" DistanzSoundVorHalt="0" Haltdauer="16" Haltepunkt="FALSE" Name="Bad Kinzauer Straße" SignalVorAusfahrt="16" SignalVorEinfahrt="-1" SoundAbfahrt="" SoundAnkunft="" SoundAnsage="" SoundHalt="" SoundVorBedarfsHalt="" SoundVorHalt="" Tueren="TRUE" Türschließzeit="10" Zugfolgestelle="FALSE"/>
+			<Props Abfahrt="1590" Ankunft="1560" Bedarfshalt="FALSE" Betriebshalt="FALSE" DistanzSoundVorBedarfsHalt="0" DistanzSoundVorHalt="0" Haltdauer="16" Haltepunkt="FALSE" Name="Bad Kinzauer Straße" SignalVorAusfahrt="16" SignalVorEinfahrt="-1" SoundAbfahrt="" SoundAnkunft="" SoundAnsage="" SoundHalt="" SoundVorBedarfsHalt="" SoundVorHalt="" Tueren="FALSE" Türschließzeit="10" Zugfolgestelle="FALSE"/>
 		</Halt>
 		<Halt>
-			<Props Abfahrt="1680" Ankunft="1650" Bedarfshalt="FALSE" Betriebshalt="FALSE" DistanzSoundVorBedarfsHalt="0" DistanzSoundVorHalt="0" Haltdauer="16" Haltepunkt="FALSE" Name="Römerberg" SignalVorAusfahrt="16" SignalVorEinfahrt="-1" SoundAbfahrt="" SoundAnkunft="" SoundAnsage="" SoundHalt="" SoundVorBedarfsHalt="" SoundVorHalt="" Tueren="TRUE" Türschließzeit="10" Zugfolgestelle="FALSE"/>
+			<Props Abfahrt="1680" Ankunft="1650" Bedarfshalt="FALSE" Betriebshalt="FALSE" DistanzSoundVorBedarfsHalt="0" DistanzSoundVorHalt="0" Haltdauer="16" Haltepunkt="FALSE" Name="Römerberg" SignalVorAusfahrt="16" SignalVorEinfahrt="-1" SoundAbfahrt="" SoundAnkunft="" SoundAnsage="" SoundHalt="" SoundVorBedarfsHalt="" SoundVorHalt="" Tueren="FALSE" Türschließzeit="10" Zugfolgestelle="FALSE"/>
 		</Halt>
 		<Halt>
-			<Props Abfahrt="1800" Ankunft="1740" Bedarfshalt="FALSE" Betriebshalt="FALSE" DistanzSoundVorBedarfsHalt="0" DistanzSoundVorHalt="0" Haltdauer="16" Haltepunkt="FALSE" Name="Opernplatz" SignalVorAusfahrt="16" SignalVorEinfahrt="-1" SoundAbfahrt="" SoundAnkunft="" SoundAnsage="" SoundHalt="" SoundVorBedarfsHalt="" SoundVorHalt="" Tueren="TRUE" Türschließzeit="10" Zugfolgestelle="FALSE"/>
+			<Props Abfahrt="1800" Ankunft="1740" Bedarfshalt="FALSE" Betriebshalt="FALSE" DistanzSoundVorBedarfsHalt="0" DistanzSoundVorHalt="0" Haltdauer="16" Haltepunkt="FALSE" Name="Opernplatz" SignalVorAusfahrt="16" SignalVorEinfahrt="-1" SoundAbfahrt="" SoundAnkunft="" SoundAnsage="" SoundHalt="" SoundVorBedarfsHalt="" SoundVorHalt="" Tueren="FALSE" Türschließzeit="10" Zugfolgestelle="FALSE"/>
 		</Halt>
 		<Halt>
-			<Props Abfahrt="1950" Ankunft="1920" Bedarfshalt="FALSE" Betriebshalt="FALSE" DistanzSoundVorBedarfsHalt="0" DistanzSoundVorHalt="0" Haltdauer="16" Haltepunkt="FALSE" Name="Ziegeleimuseum" SignalVorAusfahrt="16" SignalVorEinfahrt="-1" SoundAbfahrt="" SoundAnkunft="" SoundAnsage="" SoundHalt="" SoundVorBedarfsHalt="" SoundVorHalt="" Tueren="TRUE" Türschließzeit="10" Zugfolgestelle="FALSE"/>
+			<Props Abfahrt="1950" Ankunft="1920" Bedarfshalt="FALSE" Betriebshalt="FALSE" DistanzSoundVorBedarfsHalt="0" DistanzSoundVorHalt="0" Haltdauer="16" Haltepunkt="FALSE" Name="Ziegeleimuseum" SignalVorAusfahrt="16" SignalVorEinfahrt="-1" SoundAbfahrt="" SoundAnkunft="" SoundAnsage="" SoundHalt="" SoundVorBedarfsHalt="" SoundVorHalt="" Tueren="FALSE" Türschließzeit="10" Zugfolgestelle="FALSE"/>
 		</Halt>
 		<Halt>
-			<Props Abfahrt="2070" Ankunft="2040" Bedarfshalt="FALSE" Betriebshalt="FALSE" DistanzSoundVorBedarfsHalt="0" DistanzSoundVorHalt="0" Haltdauer="16" Haltepunkt="FALSE" Name="Kronberger Weg" SignalVorAusfahrt="16" SignalVorEinfahrt="-1" SoundAbfahrt="" SoundAnkunft="" SoundAnsage="" SoundHalt="" SoundVorBedarfsHalt="" SoundVorHalt="" Tueren="TRUE" Türschließzeit="10" Zugfolgestelle="FALSE"/>
+			<Props Abfahrt="2070" Ankunft="2040" Bedarfshalt="FALSE" Betriebshalt="FALSE" DistanzSoundVorBedarfsHalt="0" DistanzSoundVorHalt="0" Haltdauer="16" Haltepunkt="FALSE" Name="Kronberger Weg" SignalVorAusfahrt="16" SignalVorEinfahrt="-1" SoundAbfahrt="" SoundAnkunft="" SoundAnsage="" SoundHalt="" SoundVorBedarfsHalt="" SoundVorHalt="" Tueren="FALSE" Türschließzeit="10" Zugfolgestelle="FALSE"/>
 		</Halt>
 		<Halt>
-			<Props Abfahrt="2250" Ankunft="2220" Bedarfshalt="FALSE" Betriebshalt="FALSE" DistanzSoundVorBedarfsHalt="0" DistanzSoundVorHalt="0" Haltdauer="16" Haltepunkt="FALSE" Name="Lahstein" SignalVorAusfahrt="16" SignalVorEinfahrt="-1" SoundAbfahrt="" SoundAnkunft="" SoundAnsage="" SoundHalt="" SoundVorBedarfsHalt="" SoundVorHalt="" Tueren="TRUE" Türschließzeit="10" Zugfolgestelle="FALSE"/>
+			<Props Abfahrt="2250" Ankunft="2220" Bedarfshalt="FALSE" Betriebshalt="FALSE" DistanzSoundVorBedarfsHalt="0" DistanzSoundVorHalt="0" Haltdauer="16" Haltepunkt="FALSE" Name="Lahstein" SignalVorAusfahrt="16" SignalVorEinfahrt="-1" SoundAbfahrt="" SoundAnkunft="" SoundAnsage="" SoundHalt="" SoundVorBedarfsHalt="" SoundVorHalt="" Tueren="FALSE" Türschließzeit="10" Zugfolgestelle="FALSE"/>
 		</Halt>
 		<Halt>
-			<Props Abfahrt="2370" Ankunft="2340" Bedarfshalt="FALSE" Betriebshalt="FALSE" DistanzSoundVorBedarfsHalt="0" DistanzSoundVorHalt="0" Haltdauer="16" Haltepunkt="FALSE" Name="Iltenbach" SignalVorAusfahrt="16" SignalVorEinfahrt="-1" SoundAbfahrt="" SoundAnkunft="" SoundAnsage="" SoundHalt="" SoundVorBedarfsHalt="" SoundVorHalt="" Tueren="TRUE" Türschließzeit="10" Zugfolgestelle="FALSE"/>
+			<Props Abfahrt="2370" Ankunft="2340" Bedarfshalt="FALSE" Betriebshalt="FALSE" DistanzSoundVorBedarfsHalt="0" DistanzSoundVorHalt="0" Haltdauer="16" Haltepunkt="FALSE" Name="Iltenbach" SignalVorAusfahrt="16" SignalVorEinfahrt="-1" SoundAbfahrt="" SoundAnkunft="" SoundAnsage="" SoundHalt="" SoundVorBedarfsHalt="" SoundVorHalt="" Tueren="FALSE" Türschließzeit="10" Zugfolgestelle="FALSE"/>
 		</Halt>
 		<Halt>
-			<Props Abfahrt="2460" Ankunft="2460" Bedarfshalt="FALSE" Betriebshalt="FALSE" DistanzSoundVorBedarfsHalt="0" DistanzSoundVorHalt="0" Haltdauer="16" Haltepunkt="FALSE" Name="Nürnberger Platz" SignalVorAusfahrt="-1" SignalVorEinfahrt="-1" SoundAbfahrt="" SoundAnkunft="" SoundAnsage="" SoundHalt="" SoundVorBedarfsHalt="" SoundVorHalt="" Tueren="TRUE" Zugfolgestelle="FALSE"/>
+			<Props Abfahrt="3000" Ankunft="2460" Bedarfshalt="FALSE" Betriebshalt="FALSE" DistanzSoundVorBedarfsHalt="0" DistanzSoundVorHalt="0" Haltdauer="16" Haltepunkt="FALSE" Name="Nürnberger Platz" SignalVorAusfahrt="0" SignalVorEinfahrt="-1" SoundAbfahrt="" SoundAnkunft="" SoundAnsage="" SoundHalt="" SoundVorBedarfsHalt="" SoundVorHalt="" Tueren="FALSE" Zugfolgestelle="FALSE"/>
 		</Halt>
 	</Haltestellen>
 </FPL>

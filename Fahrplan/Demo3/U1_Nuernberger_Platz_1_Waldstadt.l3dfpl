@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FPL>
+	<Props BremsArt="O" BremsStellung="P" FileAuthor="Klaus Nickel" FileDoku="" FileInfo="/nwww.veb-verkehr.de" FilePicture="" KBS="\Kursbuchstrecken\Demo3\U1_Nuernberger_Platz_1_Waldstadt.l3dkbs" WetterDatei="\Normal\sky_default.l3dsky" Zeiten="12:00:00" ZugArt="PerszugOhneSchaffner" ZugGewicht="0" ZugLaenge="0" ZugLimit="100"/>
+	<PneuBremse>
+		<Props PneuBremseHoheabbremsung="0" PneuBremseMaxGKraft="0" PneuBremseMaxPKraft="0" PneuBremseMaxRKraft="0" PneuBremseStartGKraft="0" PneuBremseStartPKraft="0" PneuBremseStartRKraft="0" PneuBremseVollKmh="30" PneuBremseimmeraktiv="0" PneuHaltebremseVorhanden="0" PneuHaltebremseabkmh="0" PneuSchnellbremseVorhanden="0"/>
+	</PneuBremse>
+	<MgBremse>
+		<Props MgBremseLinAnteil="0" MgBremseMaxKraft="0" MgBremseMinKmh="0" MgBremseQuadAnteil="6" MgBremseStartKraft="0" MgBremseTretAnteil="-10" MgZBSAuslkmh="0"/>
+	</MgBremse>
+	<Haltestellen>
+		<Halt>
+			<Props Abfahrt="3000" Ankunft="2460" Bedarfshalt="FALSE" Betriebshalt="FALSE" DistanzSoundVorBedarfsHalt="0" DistanzSoundVorHalt="0" Haltdauer="16" Haltepunkt="FALSE" Name="Nürnberger Platz" SignalVorAusfahrt="0" SignalVorEinfahrt="-1" SoundAbfahrt="" SoundAnkunft="" SoundAnsage="" SoundHalt="" SoundVorBedarfsHalt="" SoundVorHalt="" Tueren="FALSE" Zugfolgestelle="FALSE"/>
+		</Halt>
+		<Halt>
+			<Props Abfahrt="2370" Ankunft="2340" Bedarfshalt="FALSE" Betriebshalt="FALSE" DistanzSoundVorBedarfsHalt="0" DistanzSoundVorHalt="0" Haltdauer="16" Haltepunkt="FALSE" Name="Iltenbach" SignalVorAusfahrt="16" SignalVorEinfahrt="-1" SoundAbfahrt="" SoundAnkunft="" SoundAnsage="" SoundHalt="" SoundVorBedarfsHalt="" SoundVorHalt="" Tueren="FALSE" Türschließzeit="10" Zugfolgestelle="FALSE"/>
+		</Halt>
+		<Halt>
+			<Props Abfahrt="2250" Ankunft="2220" Bedarfshalt="FALSE" Betriebshalt="FALSE" DistanzSoundVorBedarfsHalt="0" DistanzSoundVorHalt="0" Haltdauer="16" Haltepunkt="FALSE" Name="Lahstein" SignalVorAusfahrt="16" SignalVorEinfahrt="-1" SoundAbfahrt="" SoundAnkunft="" SoundAnsage="" SoundHalt="" SoundVorBedarfsHalt="" SoundVorHalt="" Tueren="FALSE" Türschließzeit="10" Zugfolgestelle="FALSE"/>
+		</Halt>
+		<Halt>
+			<Props Abfahrt="1950" Ankunft="1920" Bedarfshalt="FALSE" Betriebshalt="FALSE" DistanzSoundVorBedarfsHalt="0" DistanzSoundVorHalt="0" Haltdauer="16" Haltepunkt="FALSE" Name="Ziegeleimuseum" SignalVorAusfahrt="16" SignalVorEinfahrt="-1" SoundAbfahrt="" SoundAnkunft="" SoundAnsage="" SoundHalt="" SoundVorBedarfsHalt="" SoundVorHalt="" Tueren="FALSE" Türschließzeit="10" Zugfolgestelle="FALSE"/>
+		</Halt>
+		<Halt>
+			<Props Abfahrt="870" Ankunft="840" Bedarfshalt="FALSE" Betriebshalt="FALSE" DistanzSoundVorBedarfsHalt="0" DistanzSoundVorHalt="0" Haltdauer="16" Haltepunkt="FALSE" Name="Fachhochschule" SignalVorAusfahrt="16" SignalVorEinfahrt="-1" SoundAbfahrt="" SoundAnkunft="" SoundAnsage="" SoundHalt="" SoundVorBedarfsHalt="" SoundVorHalt="" Tueren="FALSE" Türschließzeit="10" Zugfolgestelle="FALSE"/>
+		</Halt>
+		<Halt>
+			<Props Abfahrt="300" Ankunft="270" Bedarfshalt="FALSE" Betriebshalt="FALSE" DistanzSoundVorBedarfsHalt="0" DistanzSoundVorHalt="0" Haltdauer="16" Haltepunkt="FALSE" Name="Flughafen" SignalVorAusfahrt="16" SignalVorEinfahrt="-1" SoundAbfahrt="" SoundAnkunft="" SoundAnsage="" SoundHalt="" SoundVorBedarfsHalt="" SoundVorHalt="" Tueren="FALSE" Türschließzeit="10" Zugfolgestelle="FALSE"/>
+		</Halt>
+		<Halt>
+			<Props Abfahrt="210" Ankunft="180" Bedarfshalt="FALSE" Betriebshalt="FALSE" DistanzSoundVorBedarfsHalt="0" DistanzSoundVorHalt="0" Haltdauer="16" Haltepunkt="FALSE" Name="Terminal 3" SignalVorAusfahrt="16" SignalVorEinfahrt="-1" SoundAbfahrt="" SoundAnkunft="" SoundAnsage="" SoundHalt="" SoundVorBedarfsHalt="" SoundVorHalt="" Tueren="FALSE" Türschließzeit="10" Zugfolgestelle="FALSE"/>
+		</Halt>
+		<Halt>
+			<Props Abfahrt="90" Ankunft="60" Bedarfshalt="FALSE" Betriebshalt="FALSE" DistanzSoundVorBedarfsHalt="0" DistanzSoundVorHalt="0" Haltdauer="16" Haltepunkt="FALSE" Name="Alfred-Werner-Straße" SignalVorAusfahrt="16" SignalVorEinfahrt="-1" SoundAbfahrt="" SoundAnkunft="" SoundAnsage="" SoundHalt="" SoundVorBedarfsHalt="" SoundVorHalt="" Tueren="FALSE" Türschließzeit="10" Zugfolgestelle="FALSE"/>
+		</Halt>
+		<Halt>
+			<Props Abfahrt="0" Ankunft="86340" Bedarfshalt="FALSE" Betriebshalt="FALSE" DistanzSoundVorBedarfsHalt="0" DistanzSoundVorHalt="0" Haltdauer="16" Haltepunkt="FALSE" Name="Waldstadt" SignalVorAusfahrt="16" SignalVorEinfahrt="-1" SoundAbfahrt="" SoundAnkunft="" SoundAnsage="" SoundHalt="" SoundVorBedarfsHalt="" SoundVorHalt="" Tueren="FALSE" Türschließzeit="10" Zugfolgestelle="FALSE"/>
+		</Halt>
+	</Haltestellen>
+</FPL>
