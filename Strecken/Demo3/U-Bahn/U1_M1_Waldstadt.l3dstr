@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <STRECKE>
-	<Props FileAuthor="Nicolas Reuter" FileDoku="" FileInfo="(c) mbfan 2012" FilePicture=""/>
+	<Props FileAuthor="Nicolas Reuter" FileDoku="" FileInfo="(c) mbfan 2012/n/n27.01.2013 - [kn] - Signalisierung abgeschlossen" FilePicture=""/>
 	<DefaulRail>
 		<Props File="\Rails\RainerH\flimmerfrei\16holzschwellen_schotter_normal.l3drail"/>
 	</DefaulRail>
@@ -648,85 +648,104 @@
 			<VOR>
 				<STRECKENNAMEN>
 					<Value>
-						<Props Pos="160" Value="Waldstadt"/>
+						<Props Pos="0" Value="Waldstadt"/>
 					</Value>
 					<Value>
-						<Props Pos="1010" Value="Alfred-Werner-Straße"/>
+						<Props Pos="1000" Value="Alfred-Werner-Straße"/>
 					</Value>
 					<Value>
-						<Props Pos="1940" Value="Terminal 3"/>
+						<Props Pos="1930" Value="Terminal 3"/>
 					</Value>
 				</STRECKENNAMEN>
 				<HOECHSTGESCHWINDIGKEIT>
 				</HOECHSTGESCHWINDIGKEIT>
 				<SIGNAL>
 					<Value>
-						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\AndreasZ\U-Bahn-Fahrsperre-Tunnel.l3dgrp" IndusiPos2000="0" KennLimit="200" KennLimitHide="40" Pos="170" SignalFile="\Signale\AndreasZ\U-Bahn-Hauptsignal-Tunnel-dunkel.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<Props HP0Warsch="0" HP2Limit="0" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\AndreasZ\U-Bahn-Fahrsperre-Tunnel.l3dgrp" IndusiPos2000="0" KennLimit="200" KennLimitHide="40" Pos="160" SignalFile="\Signale\BVG\KlausN\Siemens_S140\Hauptsignal_Hp1+Zs1.l3dgrp" Tafel100="TRUE" TafelFile100="\Signale\BVG\KlausN\Mastschild_Stellwerkssignal.l3dgrp" TafelPos100="0" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
 						<ObjectProps>
 							<Lightning>
-								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+								<Props DayLight="0" LokLight="TRUE" NightLight="80"/>
 							</Lightning>
 							<Eigenschaften>
-								<Props Signalnummer="&#39;MHT/nT5&#39;"/>
+								<Props Halterung_links="&#39;TRUE&#39;" Signalnummer="&#39;MHT/nT5&#39;"/>
 							</Eigenschaften>
 							<Position>
-								<Props Position="0;0;0" Rotation="0;0;0"/>
+								<Props Position="-2.86;0;-0.3" Rotation="0;0;0"/>
 							</Position>
+						</ObjectProps>
+						<TafelObjExtraData100>
+							<Position>
+								<Props Position="-2.87;-0.8;-0.5" Rotation="-45;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props Bahnhof_M="&#39;Ws&#39;" Bezeichnung="&#39;A&#39;" Gleis="&#39; 1X&#39;" Halterung_links="&#39;TRUE&#39;" Tunnel="&#39;TRUE&#39;" kein_So3="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="80"/>
+							</Lightning>
+						</TafelObjExtraData100>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="0" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\AndreasZ\U-Bahn-Fahrsperre-Tunnel.l3dgrp" IndusiPos2000="0" KennLimit="200" KennLimitHide="40" Pos="1010" SignalFile="\Signale\BVG\KlausN\Siemens_S140\Hauptsignal_Hp1+Zs1.l3dgrp" Tafel100="TRUE" TafelFile100="\Signale\BVG\KlausN\Mastschild_Stellwerkssignal.l3dgrp" TafelPos100="0" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="80"/>
+							</Lightning>
+							<Eigenschaften>
+								<Props Halterung_links="&#39;TRUE&#39;" Signalnummer="&#39;MHT/nT5&#39;"/>
+							</Eigenschaften>
+							<Position>
+								<Props Position="-2.86;0;-0.3" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+						<TafelObjExtraData100>
+							<Position>
+								<Props Position="-2.87;-0.8;-0.5" Rotation="-45;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props Bahnhof_M="&#39;Aw&#39;" Bezeichnung="&#39;A&#39;" Gleis="&#39; 1X&#39;" Halterung_links="&#39;TRUE&#39;" Tunnel="&#39;TRUE&#39;" kein_So3="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="80"/>
+							</Lightning>
+						</TafelObjExtraData100>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="0" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\AndreasZ\U-Bahn-Fahrsperre-Tunnel.l3dgrp" IndusiPos2000="0" KennLimit="200" KennLimitHide="40" Pos="1940" SignalFile="\Signale\BVG\KlausN\Siemens_S140\Hauptsignal_Hp1+Zs1.l3dgrp" Tafel100="TRUE" TafelFile100="\Signale\BVG\KlausN\Mastschild_Stellwerkssignal.l3dgrp" TafelPos100="0" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<TafelObjExtraData100>
+							<Position>
+								<Props Position="3.5;0;0" Rotation="0;0;0"/>
+							</Position>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="80"/>
+							</Lightning>
+							<Eigenschaften>
+								<Props Bahnhof_M="&#39;Tm&#39;" Bezeichnung="&#39;A&#39;" Gleis="&#39; 1X&#39;" Tunnel="&#39;TRUE&#39;" kein_So3="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+						</TafelObjExtraData100>
+						<ObjectProps>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="40"/>
+							</Lightning>
+							<Position>
+								<Props Position="2.86;0;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props Halterung_rechts="&#39;TRUE&#39;" Signalnummer="&#39;MHT/nT5&#39;"/>
+							</Eigenschaften>
 						</ObjectProps>
 					</Value>
 					<Value>
-						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\AndreasZ\U-Bahn-Fahrsperre-Tunnel.l3dgrp" IndusiPos2000="0" KennLimit="200" KennLimitHide="40" Pos="1020" SignalFile="\Signale\AndreasZ\U-Bahn-Hauptsignal-Tunnel-dunkel.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="0" Indusi500Bis="0" KennLimit="200" KennLimitHide="40" Pos="1700" SignalFile="\Signale\BVG\KlausN\Siemens_S140\Vorsignal.l3dgrp" Typ="Vorsignal" VSigLimit="0" Zwischensignal="FALSE"/>
 						<ObjectProps>
 							<Lightning>
 								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
 							</Lightning>
 							<Eigenschaften>
-								<Props Signalnummer="&#39;MHT/nT5&#39;"/>
+								<Props Mast="&#39;TRUE&#39;" Signalnummer="&#39;MHT/nT5&#39;"/>
 							</Eigenschaften>
 							<Position>
-								<Props Position="0;0;0" Rotation="0;0;0"/>
-							</Position>
-						</ObjectProps>
-					</Value>
-					<Value>
-						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\AndreasZ\U-Bahn-Fahrsperre-Tunnel.l3dgrp" IndusiPos2000="0" KennLimit="200" KennLimitHide="40" Pos="1950" SignalFile="\Signale\AndreasZ\U-Bahn-Hauptsignal-Tunnel-dunkel.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
-						<ObjectProps>
-							<Lightning>
-								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
-							</Lightning>
-							<Eigenschaften>
-								<Props Signalnummer="&#39;MHT/nT5&#39;"/>
-							</Eigenschaften>
-							<Position>
-								<Props Position="0;0;0" Rotation="0;0;0"/>
-							</Position>
-						</ObjectProps>
-					</Value>
-					<Value>
-						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi500Bis="0" IndusiFile1000="\Signale\AndreasZ\U-Bahn-Fahrsperre-Tunnel.l3dgrp" IndusiPos1000="0" KennLimit="200" KennLimitHide="40" Pos="1640" SignalFile="\Signale\AndreasZ\U-Bahn-Vorsignal-Tunnel-dunkel.l3dgrp" Typ="Vorsignal" VSigLimit="0" Zwischensignal="FALSE"/>
-						<ObjectProps>
-							<Lightning>
-								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
-							</Lightning>
-							<Eigenschaften>
-								<Props Signalnummer="&#39;MHT/nT5&#39;"/>
-							</Eigenschaften>
-							<Position>
-								<Props Position="0;0;0" Rotation="0;0;0"/>
-							</Position>
-						</ObjectProps>
-					</Value>
-					<Value>
-						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi500Bis="0" IndusiFile1000="\Signale\AndreasZ\U-Bahn-Fahrsperre-Tunnel.l3dgrp" IndusiPos1000="0" KennLimit="200" KennLimitHide="40" Pos="720" SignalFile="\Signale\AndreasZ\U-Bahn-Vorsignal-Tunnel-dunkel.l3dgrp" Typ="Vorsignal" VSigLimit="0" Zwischensignal="FALSE"/>
-						<ObjectProps>
-							<Lightning>
-								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
-							</Lightning>
-							<Eigenschaften>
-								<Props Signalnummer="&#39;MHT/nT5&#39;"/>
-							</Eigenschaften>
-							<Position>
-								<Props Position="0;0;0" Rotation="0;0;0"/>
+								<Props Position="2;0;0" Rotation="0;0;0"/>
 							</Position>
 						</ObjectProps>
 					</Value>
@@ -735,7 +754,7 @@
 				</Signaloptionen>
 				<Haltepunkt>
 					<Value>
-						<Props File="\Objekte\Tafeln\Ne5.l3dgrp" Name="Waldstadt" Pos="160" ToleranzMinus="50" ToleranzPlus="10" Zuglaenge="200"/>
+						<Props File="" Name="Waldstadt" Pos="150" ToleranzMinus="10" ToleranzPlus="10" Zuglaenge="120"/>
 						<TafelObjExtraData>
 							<Lightning>
 								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
@@ -751,7 +770,26 @@
 						</ObjectProps>
 					</Value>
 					<Value>
-						<Props File="\Objekte\Tafeln\Ne5.l3dgrp" Name="Alfred-Werner-Straße" Pos="1010" ToleranzMinus="50" ToleranzPlus="10" Zuglaenge="160"/>
+						<Props File="\Signale\BVG\KlausN\Tafel\Sh7a.l3dgrp" Name="Alfred-Werner-Straße" Pos="1000" ToleranzMinus="10" ToleranzPlus="10" Zuglaenge="120"/>
+						<TafelObjExtraData>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+						</TafelObjExtraData>
+						<ObjectProps>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="80"/>
+							</Lightning>
+							<Eigenschaften>
+								<Props Nummer="&#39;H&#39;" Tunnel_links="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+							<Position>
+								<Props Position="-2.84;2;0" Rotation="-45;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props File="" Name="Waldstadt" Pos="110" ToleranzMinus="10" ToleranzPlus="10" Zuglaenge="80"/>
 						<TafelObjExtraData>
 							<Lightning>
 								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
@@ -767,7 +805,7 @@
 						</ObjectProps>
 					</Value>
 					<Value>
-						<Props File="\Objekte\Tafeln\Ne5.l3dgrp" Name="Terminal 3" Pos="1940" ToleranzMinus="50" ToleranzPlus="10" Zuglaenge="200"/>
+						<Props File="" Name="Waldstadt" Pos="75" ToleranzMinus="10" ToleranzPlus="10" Zuglaenge="40"/>
 						<TafelObjExtraData>
 							<Lightning>
 								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
@@ -779,6 +817,41 @@
 							</Lightning>
 							<Position>
 								<Props Position="0;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props File="" Name="Waldstadt" Pos="40" ToleranzMinus="10" ToleranzPlus="10" Zuglaenge="0"/>
+						<TafelObjExtraData>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+						</TafelObjExtraData>
+						<ObjectProps>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+							<Position>
+								<Props Position="0;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props File="\Signale\BVG\KlausN\Tafel\Sh7a.l3dgrp" Name="Terminal 3" Pos="1930" ToleranzMinus="10" ToleranzPlus="10" Zuglaenge="120"/>
+						<TafelObjExtraData>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+						</TafelObjExtraData>
+						<ObjectProps>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="80"/>
+							</Lightning>
+							<Eigenschaften>
+								<Props Nummer="&#39;H&#39;" Tunnel_links="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+							<Position>
+								<Props Position="-2.84;2;0" Rotation="-45;0;0"/>
 							</Position>
 						</ObjectProps>
 					</Value>
@@ -845,10 +918,10 @@
 			<ZURUECK>
 				<STRECKENNAMEN>
 					<Value>
-						<Props Pos="1780" Value="Terminal 3"/>
+						<Props Pos="1790" Value="Terminal 3"/>
 					</Value>
 					<Value>
-						<Props Pos="850" Value="Alfred-Delp-Straße"/>
+						<Props Pos="860" Value="Alfred-Delp-Straße"/>
 					</Value>
 					<Value>
 						<Props Pos="10" Value="Waldstadt"/>
@@ -856,51 +929,37 @@
 				</STRECKENNAMEN>
 				<HOECHSTGESCHWINDIGKEIT>
 					<Value>
-						<Props File="" KMH="30" KMHNEIG="30" KeinHp2="FALSE" NichtImFahrplan="FALSE" Pos="200"/>
+						<Props File="" KMH="25" KMHNEIG="25" KeinHp2="FALSE" NichtImFahrplan="TRUE" Pos="160"/>
+					</Value>
+					<Value>
+						<Props File="" KMH="40" KMHNEIG="40" KeinHp2="FALSE" NichtImFahrplan="TRUE" Pos="300"/>
 					</Value>
 				</HOECHSTGESCHWINDIGKEIT>
 				<SIGNAL>
 					<Value>
-						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\AndreasZ\U-Bahn-Fahrsperre-Tunnel.l3dgrp" IndusiPos2000="0" KennLimit="200" KennLimitHide="40" Pos="1770" SignalFile="\Signale\AndreasZ\U-Bahn-Hauptsignal-Tunnel-dunkel.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<Props HP0Warsch="0" HP2Limit="25" HomeSignal="FALSE" Hp3Bis="40" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\AndreasZ\U-Bahn-Fahrsperre-Tunnel.l3dgrp" IndusiPos2000="0" KennLimit="200" KennLimitHide="40" Pos="160" SignalFile="\Signale\BVG\KlausN\Siemens_S140\Hauptsignal_Hp3+Zs1.l3dgrp" Tafel100="TRUE" TafelFile100="\Signale\BVG\KlausN\Mastschild_Stellwerkssignal.l3dgrp" TafelPos100="0" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
 						<ObjectProps>
+							<Eigenschaften>
+								<Props Halterung_rechts="&#39;TRUE&#39;" Signalnummer="&#39;MHT/nT5&#39;"/>
+							</Eigenschaften>
+							<Position>
+								<Props Position="2.98;0;-0.3" Rotation="0;0;0"/>
+							</Position>
 							<Lightning>
 								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
 							</Lightning>
-							<Eigenschaften>
-								<Props Signalnummer="&#39;MHT/nT5&#39;"/>
-							</Eigenschaften>
-							<Position>
-								<Props Position="0;0;0" Rotation="0;0;0"/>
-							</Position>
 						</ObjectProps>
-					</Value>
-					<Value>
-						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\AndreasZ\U-Bahn-Fahrsperre-Tunnel.l3dgrp" IndusiPos2000="0" KennLimit="200" KennLimitHide="40" Pos="840" SignalFile="\Signale\AndreasZ\U-Bahn-Hauptsignal-Tunnel-dunkel.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
-						<ObjectProps>
+						<TafelObjExtraData100>
 							<Lightning>
 								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
 							</Lightning>
-							<Eigenschaften>
-								<Props Signalnummer="&#39;MHT/nT5&#39;"/>
-							</Eigenschaften>
 							<Position>
-								<Props Position="0;0;0" Rotation="0;0;0"/>
+								<Props Position="3.38;-1.1;-0.3" Rotation="0;0;0"/>
 							</Position>
-						</ObjectProps>
-					</Value>
-					<Value>
-						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\AndreasZ\U-Bahn-Fahrsperre-Tunnel.l3dgrp" IndusiPos2000="0" KennLimit="200" KennLimitHide="40" Pos="200" SignalFile="\Signale\AndreasZ\U-Bahn-Hauptsignal-Tunnel-dunkel.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
-						<ObjectProps>
-							<Lightning>
-								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
-							</Lightning>
 							<Eigenschaften>
-								<Props Signalnummer="&#39;MHT/nT5&#39;"/>
+								<Props Bahnhof_M="&#39;Ws&#39;" Bezeichnung="&#39; D&#39;" Gleis="&#39;  1&#39;" Halterung_rechts="&#39;TRUE&#39;" Tunnel="&#39;TRUE&#39;"/>
 							</Eigenschaften>
-							<Position>
-								<Props Position="0;0;0" Rotation="0;0;0"/>
-							</Position>
-						</ObjectProps>
+						</TafelObjExtraData100>
 					</Value>
 					<Value>
 						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi500Bis="0" IndusiFile1000="\Signale\AndreasZ\U-Bahn-Fahrsperre-Tunnel.l3dgrp" IndusiPos1000="0" KennLimit="200" KennLimitHide="40" Pos="1140" SignalFile="\Signale\AndreasZ\U-Bahn-Vorsignal-Tunnel-dunkel.l3dgrp" Typ="Vorsignal" VSigLimit="0" Zwischensignal="FALSE"/>
@@ -917,68 +976,152 @@
 						</ObjectProps>
 					</Value>
 					<Value>
-						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi500Bis="0" IndusiFile1000="\Signale\AndreasZ\U-Bahn-Fahrsperre-Tunnel.l3dgrp" IndusiPos1000="0" KennLimit="200" KennLimitHide="40" Pos="500" SignalFile="\Signale\AndreasZ\U-Bahn-Vorsignal-Tunnel-dunkel.l3dgrp" Typ="Vorsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="0" Indusi500Bis="0" KennLimit="200" KennLimitHide="40" Pos="600" SignalFile="\Signale\BVG\KlausN\Siemens_S140\Vorsignal.l3dgrp" Typ="Vorsignal" VSigLimit="0" Zwischensignal="FALSE"/>
 						<ObjectProps>
 							<Lightning>
 								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
 							</Lightning>
 							<Eigenschaften>
-								<Props Signalnummer="&#39;MHT/nT5&#39;"/>
+								<Props Mast="&#39;TRUE&#39;" Signalnummer="&#39;MHT/nT5&#39;"/>
 							</Eigenschaften>
 							<Position>
-								<Props Position="0;0;0" Rotation="0;0;0"/>
+								<Props Position="-2;0;0" Rotation="0;0;0"/>
 							</Position>
 						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="0" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\AndreasZ\U-Bahn-Fahrsperre-Tunnel.l3dgrp" IndusiPos2000="0" KennLimit="200" KennLimitHide="40" Pos="300" SignalFile="\Signale\BVG\KlausN\Siemens_S140\Hauptsignal_Hp2+Zs1.l3dgrp" Tafel100="TRUE" TafelFile100="\Signale\BVG\KlausN\Mastschild_Stellwerkssignal.l3dgrp" TafelPos100="0" Typ="Kombisignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+							<Position>
+								<Props Position="2.98;0;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props Halterung_rechts="&#39;TRUE&#39;" Signalnummer="&#39;MHT/nT5&#39;" Vorsignal="&#39;TRUE&#39;" Vorsignalmast="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+						<TafelObjExtraData100>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+							</Lightning>
+							<Position>
+								<Props Position="3.38;-1.1;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props Bahnhof_M="&#39;Ws&#39;" Bezeichnung="&#39; E&#39;" Gleis="&#39;  1&#39;" Halterung_rechts="&#39;TRUE&#39;" Tunnel="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+						</TafelObjExtraData100>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="0" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\AndreasZ\U-Bahn-Fahrsperre-Tunnel.l3dgrp" IndusiPos2000="0" KennLimit="200" KennLimitHide="40" Pos="1780" SignalFile="\Signale\BVG\KlausN\Siemens_S140\Hauptsignal_Hp1+Zs1.l3dgrp" Tafel100="TRUE" TafelFile100="\Signale\BVG\KlausN\Mastschild_Stellwerkssignal.l3dgrp" TafelPos100="0" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="2.86;0;-0.3" Rotation="0;0;0"/>
+							</Position>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="80"/>
+							</Lightning>
+							<Eigenschaften>
+								<Props Halterung_rechts="&#39;TRUE&#39;" Signalnummer="&#39;MHT/nT5&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+						<TafelObjExtraData100>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="80"/>
+							</Lightning>
+							<Eigenschaften>
+								<Props Bahnhof_M="&#39;Tm&#39;" Bezeichnung="&#39; A&#39;" Gleis="&#39;  1&#39;" Halterung_rechts="&#39;TRUE&#39;" Tunnel="&#39;TRUE&#39;" kein_So3="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+							<Position>
+								<Props Position="2.87;-0.8;-0.5" Rotation="45;0;0"/>
+							</Position>
+						</TafelObjExtraData100>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="0" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\AndreasZ\U-Bahn-Fahrsperre-Tunnel.l3dgrp" IndusiPos2000="0" KennLimit="200" KennLimitHide="40" Pos="850" SignalFile="\Signale\BVG\KlausN\Siemens_S140\Hauptsignal_Hp1+Zs1.l3dgrp" Tafel100="TRUE" TafelFile100="\Signale\BVG\KlausN\Mastschild_Stellwerkssignal.l3dgrp" TafelPos100="0" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="2.86;0;-0.3" Rotation="0;0;0"/>
+							</Position>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="80"/>
+							</Lightning>
+							<Eigenschaften>
+								<Props Halterung_rechts="&#39;TRUE&#39;" Signalnummer="&#39;MHT/nT5&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+						<TafelObjExtraData100>
+							<Lightning>
+								<Props DayLight="0" LokLight="TRUE" NightLight="80"/>
+							</Lightning>
+							<Position>
+								<Props Position="2.87;-0.8;-0.5" Rotation="45;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props Bahnhof_M="&#39;Aw&#39;" Bezeichnung="&#39; A&#39;" Gleis="&#39;  1&#39;" Halterung_rechts="&#39;TRUE&#39;" Tunnel="&#39;TRUE&#39;" kein_So3="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+						</TafelObjExtraData100>
 					</Value>
 				</SIGNAL>
 				<Signaloptionen>
 				</Signaloptionen>
 				<Haltepunkt>
 					<Value>
-						<Props File="\Objekte\Tafeln\Ne5.l3dgrp" Name="Terminal 3" Pos="1780" ToleranzMinus="50" ToleranzPlus="10" Zuglaenge="200"/>
+						<Props File="\Signale\BVG\KlausN\Tafel\Sh7a.l3dgrp" Name="Waldstadt" Pos="10" ToleranzMinus="10" ToleranzPlus="10" Zuglaenge="0"/>
 						<TafelObjExtraData>
 							<Lightning>
 								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
 							</Lightning>
 						</TafelObjExtraData>
 						<ObjectProps>
+							<Eigenschaften>
+								<Props Nummer="&#39;H&#39;" Tunnel="&#39;TRUE&#39;"/>
+							</Eigenschaften>
 							<Lightning>
-								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+								<Props DayLight="0" LokLight="TRUE" NightLight="80"/>
 							</Lightning>
 							<Position>
-								<Props Position="0;0;0" Rotation="0;0;0"/>
+								<Props Position="2.85;2;0" Rotation="45;0;0"/>
 							</Position>
 						</ObjectProps>
 					</Value>
 					<Value>
-						<Props File="\Objekte\Tafeln\Ne5.l3dgrp" Name="Alfred-Delp-Straße" Pos="850" ToleranzMinus="50" ToleranzPlus="10" Zuglaenge="200"/>
+						<Props File="\Signale\BVG\KlausN\Tafel\Sh7a.l3dgrp" Name="Terminal 3" Pos="1790" ToleranzMinus="10" ToleranzPlus="10" Zuglaenge="0"/>
 						<TafelObjExtraData>
 							<Lightning>
 								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
 							</Lightning>
 						</TafelObjExtraData>
 						<ObjectProps>
+							<Eigenschaften>
+								<Props Nummer="&#39;H&#39;" Tunnel="&#39;TRUE&#39;"/>
+							</Eigenschaften>
 							<Lightning>
-								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+								<Props DayLight="0" LokLight="TRUE" NightLight="80"/>
 							</Lightning>
 							<Position>
-								<Props Position="0;0;0" Rotation="0;0;0"/>
+								<Props Position="2.85;2;0" Rotation="45;0;0"/>
 							</Position>
 						</ObjectProps>
 					</Value>
 					<Value>
-						<Props File="\Objekte\Tafeln\Ne5.l3dgrp" Name="Waldstadt" Pos="10" ToleranzMinus="50" ToleranzPlus="10" Zuglaenge="200"/>
+						<Props File="\Signale\BVG\KlausN\Tafel\Sh7a.l3dgrp" Name="Alfred-Werner-Straße" Pos="860" ToleranzMinus="10" ToleranzPlus="10" Zuglaenge="0"/>
 						<TafelObjExtraData>
 							<Lightning>
 								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
 							</Lightning>
 						</TafelObjExtraData>
 						<ObjectProps>
+							<Eigenschaften>
+								<Props Nummer="&#39;H&#39;" Tunnel="&#39;TRUE&#39;"/>
+							</Eigenschaften>
 							<Lightning>
-								<Props DayLight="0" LokLight="TRUE" NightLight="0"/>
+								<Props DayLight="0" LokLight="TRUE" NightLight="80"/>
 							</Lightning>
 							<Position>
-								<Props Position="0;0;0" Rotation="0;0;0"/>
+								<Props Position="2.85;2;0" Rotation="45;0;0"/>
 							</Position>
 						</ObjectProps>
 					</Value>
@@ -986,6 +1129,12 @@
 				<LZB>
 				</LZB>
 				<IndusiExtra>
+					<Value>
+						<Props ControlType="EG" File="" Freq="2000" KMH="27" KMHBIS="0" KMHBISNEIG="0" KMHNEIG="27" KmhPruef="0" Pos="160" SigPos="0"/>
+					</Value>
+					<Value>
+						<Props ControlType="EG" File="" Freq="2000" KMH="42" KMHBIS="0" KMHBISNEIG="0" KMHNEIG="42" KmhPruef="0" Pos="300" SigPos="0"/>
+					</Value>
 				</IndusiExtra>
 				<Streckensound>
 				</Streckensound>
