@@ -1,4 +1,5 @@
 2013-01-27
+* [kn] Signalisierung auf Modul_1 der U-Bahn fertig
 * [kn] KBS-Systematik der U-Bahn eingefügt
 
 2013-01-22
