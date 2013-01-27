@@ -1,3 +1,6 @@
+2013-01-27
+* [kn] KBS-Systematik der U-Bahn eingefügt
+
 2013-01-22
 * [ukl] Bf Hainfurt Pbf Fahrleitungsbau fast abgeschlossen
 
