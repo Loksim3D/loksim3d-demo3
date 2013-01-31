@@ -1,3 +1,6 @@
+2013-01-31
+* [kn] Texturierung F92 für U-Bahn Hainfurt
+
 2013-01-27
 * [kn] Signalisierung auf Modul_1 der U-Bahn fertig
 * [kn] KBS-Systematik der U-Bahn eingefügt

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OBJECT>
-	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="" FileInfo="" FilePicture="" Texture="Texturen\Heck.bmp" TransTexture="Texturen\Heck_a.bmp" Transparent="FALSE" TransparentTyp="3"/>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="" FileDoku="" FileInfo="" FilePicture="" Texture="Texturen\Heck.png" TransTexture="Texturen\Heck_a.bmp" Transparent="FALSE" TransparentTyp="3"/>
 	<Point>
 		<Props Normal="0;-0.75;-1" Vekt="0;0.86;-1.32"/>
 	</Point>

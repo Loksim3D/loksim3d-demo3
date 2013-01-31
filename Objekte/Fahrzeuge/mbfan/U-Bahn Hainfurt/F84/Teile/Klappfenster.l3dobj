@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OBJECT>
-	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="" FileInfo="" FilePicture="" Texture="Texturen\Klappfenster.bmp" TransTexture="Texturen\Klappfenster_a.bmp" Transparent="FALSE" TransparentTyp="3"/>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="" FileDoku="" FileInfo="" FilePicture="" Texture="Texturen\Klappfenster.png" TransTexture="Texturen\Klappfenster_a.bmp" Transparent="FALSE" TransparentTyp="3"/>
 	<Point>
 		<Props Normal="0;0;1" Vekt="-0.005;3.14;1.32"/>
 	</Point>

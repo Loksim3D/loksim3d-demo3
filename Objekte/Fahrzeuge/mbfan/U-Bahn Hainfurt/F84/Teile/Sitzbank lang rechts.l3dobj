@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OBJECT>
-	<Props AutoRotate="FALSE" Beleuchtet="TRUE" Drawrueckseiten="FALSE" FileAuthor="" FileInfo="" FilePicture="" Texture="\Objekte\U-Bahn Berlin\Fahrzeuge\F76\Teile\Texturen\Sitzbank.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Props AutoRotate="FALSE" Beleuchtet="TRUE" Drawrueckseiten="FALSE" FileAuthor="" FileDoku="" FileInfo="" FilePicture="" Texture="\Objekte\U-Bahn Berlin\Fahrzeuge\F76\Teile\Texturen\Sitzbank.png" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
 	<Point>
 		<Props Normal="-1;0;-1" Vekt="0;1.06;-1.49"/>
 	</Point>

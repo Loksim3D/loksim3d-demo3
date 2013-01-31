@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OBJECT>
-	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="" FileInfo="" FilePicture="" Texture="Texturen\Tuerfluegel.bmp" TransTexture="Texturen\Tuerfluegel_a.bmp" Transparent="FALSE" TransparentTyp="3"/>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="" FileDoku="" FileInfo="" FilePicture="" Texture="Texturen\Tuerfluegel.png" TransTexture="Texturen\Tuerfluegel_a.bmp" Transparent="FALSE" TransparentTyp="3"/>
 	<Point>
 		<Props Normal="0;-0.003289;1" Vekt="0.59;3.13;1.32"/>
 	</Point>
