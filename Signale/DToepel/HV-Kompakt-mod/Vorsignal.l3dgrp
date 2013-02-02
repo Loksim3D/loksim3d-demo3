@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="Andreas Peter" FileInfo="Kompaktvorsignal mit /nGeschwindigkeitsvoranzeiger/n5,20m Mast/nAbstand Gleisachse 2.2 m/nHöhe der Vorsignaltafel auswählbar./n/nAndreas Peter, Mai 2007" FilePicture="Kp-Vorsignal_Zs3v.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Kompaktsignale\Einzelteile\Mast_520cm.l3dobj" Position="2.25;-0.3;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Kompaktsignale\Einzelteile\Sockel_neu.l3dobj" Position="1.96;0.1;-0.1" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Ne2_hoch or ohneNe2" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Vr-Tafel.l3dobj" Position="2;0.5;-0.25" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="ohneVr1" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Schute_Hp.l3dobj" Position="2.07;5.4;-0.1" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Schute_Hp.l3dobj" Position="2.07;5.2;-0.1" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Schute_Hp.l3dobj" Position="2.43;5.8;-0.1" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Schute_Hp.l3dobj" Position="2.43;5.6;-0.1" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\1969-gelb.l3dobj" Position="1.97;5.01;-0.15" Rotation="0;0;0" ShowOn="Vr0 or Vr2" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\1969-gelb.l3dobj" Position="2.36;5.43;-0.15" Rotation="0;0;0" ShowOn="Vr0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\1969-gruen.l3dobj" Position="1.97;5.23;-0.15" Rotation="0;0;0" ShowOn="Vr1" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\1969-gruen.l3dobj" Position="2.36;5.63;-0.15" Rotation="0;0;0" ShowOn="Vr1 or Vr2" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Kompaktsignale\Einzelteile\Kp-Schirm_Rahmen1.l3dobj" Position="1.93;5;-0.1" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Kompaktsignale\Einzelteile\KS-Korb-2.l3dobj" Position="2.55;4.85;0.9" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\scheingelb.l3dobj" Position="2.07;5.1;-0.13" Rotation="0;0;0" ShowOn="Vr0 or Vr2" WeitSichtbar="FALSE" ZoomFaktor="180"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\scheingelb.l3dobj" Position="2.43;5.5;-0.13" Rotation="0;0;0" ShowOn="Vr0" WeitSichtbar="FALSE" ZoomFaktor="180"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\scheingruen.l3dobj" Position="2.07;5.3;-0.13" Rotation="0;0;0" ShowOn="Vr1" WeitSichtbar="FALSE" ZoomFaktor="180"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\scheingruen.l3dobj" Position="2.43;5.7;-0.13" Rotation="0;0;0" ShowOn="Vr1 or Vr2" WeitSichtbar="FALSE" ZoomFaktor="180"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Schaltkasten.l3dobj" Position="2.48;0.4;0.8" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Ne2_hoch or ohneNe2" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Halterung_Tafel.l3dobj" Position="2.25;0.5;-0.2" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Ne2_hoch or ohneNe2" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Halterung_Tafel.l3dobj" Position="2.25;1.1;-0.2" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Vr-Tafel.l3dobj" Position="2;2;-0.25" Rotation="0;0;0" ShowOn="Ne2_hoch and not ohneNe2" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Halterung_Tafel.l3dobj" Position="2.25;2;-0.2" Rotation="0;0;0" ShowOn="Ne2_hoch and not ohneNe2" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Halterung_Tafel.l3dobj" Position="2.25;2.6;-0.2" Rotation="0;0;0" ShowOn="Ne2_hoch and not ohneNe2" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\DToepel\einzelteile\HV-Kompakt-Signalschirm\Vor\Kp_Vr.l3dobj" Position="2.25;4.9;-0.1" Rotation="0;0;0" ShowOn="not (mitZusatzlicht or immerZusatzlicht) and not ohneVr1" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\DToepel\einzelteile\HV-Kompakt-Signalschirm\Vor\Kp_Vr_Kl.l3dobj" Position="2.25;4.9;-0.1" Rotation="0;0;0" ShowOn="(mitZusatzlicht or immerZusatzlicht) and not ohneVr1" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\DToepel\einzelteile\HV-Kompakt-Signalschirm\Vor\Kp_Vr_ohneVr1.l3dobj" Position="2.25;4.9;-0.1" Rotation="0;0;0" ShowOn="not (mitZusatzlicht or immerZusatzlicht) and ohneVr1" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\DToepel\einzelteile\HV-Kompakt-Signalschirm\Vor\Kp_Vr_Kl_ohneVr1.l3dobj" Position="2.25;4.9;-0.1" Rotation="0;0;0" ShowOn="(mitZusatzlicht or immerZusatzlicht) and ohneVr1" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\scheinweiss.l3dobj" Position="2.06;5.72;-0.13" Rotation="0;0;0" ShowOn="immerZusatzlicht or Kennlicht" WeitSichtbar="FALSE" ZoomFaktor="140"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\einzelteile\weiss.l3dobj" Position="2.01;5.78;-0.06" Rotation="0;0;0" ShowOn="immerZusatzlicht or Kennlicht" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Schute_klein.l3dobj" Position="2.06;5.77;-0.1" Rotation="0;0;0" ShowOn="mitZusatzlicht or immerZusatzlicht" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\DToepel\einzelteile\KS-Zs3v-Blech.l3dobj" Position="1.81;4.85;-0.12" Rotation="0;0;0" ShowOn="Zs3vBlech" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Font>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="16777215" DefaultText="" Fonthoehe="0.42" GroupProperty="Zs3vBlechZahl" Leuchtend="TRUE" Name="\Signale\DToepel\einzelteile\blechgeschwindigkeit-gelb.l3dfont" Position="2.25;4.5;-0.18" Rotation="0;0;0"/>
+	</Font>
+</GRUPPENOBJECT>
