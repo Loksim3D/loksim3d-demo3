@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FPL>
+	<Props BremsArt="O" BremsStellung="R" FileAuthor="" FileDoku="" FileInfo="" FilePicture="" KBS="\Kursbuchstrecken\Demo3\Vr-Test.l3dkbs" WetterDatei="" Zeiten="12:00:00" ZugArt="PerszugMitSchaffner" ZugGewicht="11" ZugLaenge="110" ZugLimit="110"/>
+	<PneuBremse>
+		<Props PneuBremseHoheabbremsung="0" PneuBremseMaxGKraft="0" PneuBremseMaxPKraft="0" PneuBremseMaxRKraft="0" PneuBremseStartGKraft="0" PneuBremseStartPKraft="0" PneuBremseStartRKraft="0" PneuBremseVollKmh="30" PneuBremseimmeraktiv="0" PneuHaltebremseVorhanden="0" PneuHaltebremseabkmh="0" PneuSchnellbremseVorhanden="0"/>
+	</PneuBremse>
+	<MgBremse>
+		<Props MgBremseLinAnteil="0" MgBremseMaxKraft="0" MgBremseMinKmh="0" MgBremseQuadAnteil="6" MgBremseStartKraft="0" MgBremseTretAnteil="-10" MgZBSAuslkmh="0"/>
+	</MgBremse>
+	<Haltestellen>
+		<Halt>
+			<Props Abfahrt="60" Ankunft="0" Bedarfshalt="FALSE" Betriebshalt="FALSE" DistanzSoundVorBedarfsHalt="0" DistanzSoundVorHalt="0" Haltdauer="60" Haltepunkt="FALSE" Name="START" SignalVorAusfahrt="-1" SignalVorEinfahrt="-1" SoundAbfahrt="\Normal\AbfahrtPfeife.wav" SoundAnkunft="" SoundAnsage="" SoundHalt="" SoundVorBedarfsHalt="" SoundVorHalt="" Tueren="FALSE" Zugfolgestelle="FALSE"/>
+		</Halt>
+		<Halt>
+			<Props Abfahrt="600" Ankunft="540" Bedarfshalt="FALSE" Betriebshalt="FALSE" DistanzSoundVorBedarfsHalt="0" DistanzSoundVorHalt="0" Haltdauer="60" Haltepunkt="FALSE" Name="ZIEL" SignalVorAusfahrt="-1" SignalVorEinfahrt="-1" SoundAbfahrt="\Normal\AbfahrtPfeife.wav" SoundAnkunft="" SoundAnsage="" SoundHalt="" SoundVorBedarfsHalt="" SoundVorHalt="" Tueren="FALSE" Zugfolgestelle="FALSE"/>
+		</Halt>
+	</Haltestellen>
+</FPL>
