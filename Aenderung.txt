@@ -1,3 +1,6 @@
+2013-02-12
+* [ukl] Bf Hainfurt Pbf Fahrleitungsbau abgeschlossen, Übergang zum Gbf
+
 2013-01-31
 * [kn] Texturierung F92 für U-Bahn Hainfurt
 

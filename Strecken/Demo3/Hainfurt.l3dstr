@@ -581,6 +581,45 @@
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelteil\Seitenhalter_QTW.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2525" Verschiebung="0;5.5;0" Winkel="180;0;0"/>
 				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5000-200-550-LK.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2525" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hainfurt_QTW\Hainfurt_2575.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2575" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelteil\Seitenhalter_QTW_solo_1200.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2575" Verschiebung="0.4;5.87;0" Winkel="0;7;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelteil\Ausleger\Stuetzrohrhaenger_1600.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2575" Verschiebung="0;7.92;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5000-200-550-KL.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2575" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hainfurt_QTW\Hainfurt_2625.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2625" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelteil\Seitenhalter_QTW.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2625" Verschiebung="0;5.5;0" Winkel="180;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5000-200-550-LL.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2625" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelteil\Seitenhalter_QTW.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2675" Verschiebung="0;5.5;0" Winkel="180;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hainfurt_QTW\Hainfurt_2675.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2675" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelteil\Winkeleisen_90_90_600.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2574.699951" Verschiebung="5.1;6.33;0" Winkel="90;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelteil\Winkeleisen_90_90_600.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2574.709961" Verschiebung="5.1;7.03;0" Winkel="90;0;0"/>
+					<Eigenschaften>
+						<Props Lang="&#39;TRUE&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
 			</Object>
 			<Object>
 				<Props Name="Gleismitte" Offset="0;0.37;0" Position="2500" Qualitaet="0"/>
@@ -1413,6 +1452,24 @@
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelteil\Seitenhalter_QTW.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2525" Verschiebung="0;5.5;0" Winkel="-2;0;0"/>
 				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5000-200-550-KL.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2525" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelteil\Seitenhalter_QTW.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2575" Verschiebung="0;5.5;0" Winkel="178;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5000-200-550-LK.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2575" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelteil\Seitenhalter_QTW.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2625" Verschiebung="0;5.5;0" Winkel="-0.5;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5000-200-550-KL.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2625" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelteil\Seitenhalter_QTW.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2675" Verschiebung="0;5.5;0" Winkel="180;0;0"/>
+				</Eintrag>
 			</Object>
 			<Object>
 				<Props Name="FL-FP_2360" Offset="5;0;0" Position="2360" Qualitaet="0"/>
@@ -1430,7 +1487,7 @@
 				</Eintrag>
 			</Object>
 			<Object>
-				<Props Name="Gleismitte" Offset="0;0.37;0" Position="2800" Qualitaet="0"/>
+				<Props Name="Gleismitte" Offset="0;0.37;0" Position="2600" Qualitaet="0"/>
 				<Eintrag>
 					<Props Abstand="1" Anzahl="200" Datei="\Objekte\Accessoirs\UKL\Absteckstange.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="0;3.5;0" Winkel="0;0;0"/>
 				</Eintrag>
@@ -2378,22 +2435,46 @@
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelteil\Seitenhalter_QTW.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2525" Verschiebung="0;5.5;0" Winkel="1.5;0;0"/>
 				</Eintrag>
-			</Object>
-			<Object>
-				<Props Name="FL_Lehre" Offset="0;-10;0" Position="800" Qualitaet="0"/>
 				<Eintrag>
-					<Props Abstand="1" Anzahl="200" Datei="\Objekte\Fahrleitung\ukl\FL-Lehren\Re160-Lehre.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="0;5.5;0" Winkel="0;0;0"/>
-					<Lightning>
-						<Props DayLight="100" LokLight="TRUE" NightLight="30"/>
-					</Lightning>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Hainfurt\Hainfurt_2525_G1.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2525" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelteil\Seitenhalter_QTW_0020.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2575.090088" Verschiebung="0;5.5;0" Winkel="4.5;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Hainfurt\Hainfurt_2575_G1.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2575.090088" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelausleger\QTW\Seitenhalter_QTW_1300_o050.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2625.310059" Verschiebung="0;5.5;0" Winkel="5.25;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelteil\Stab_200.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2625.310059" Verschiebung="0;7.87;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Hainfurt\Hainfurt_2625_G1.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2625.310059" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelausleger\QTW\Seitenhalter_QTW_1300_o050.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2675.52002" Verschiebung="0.2;5.5;0" Winkel="5.25;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelteil\Stab_200.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2675.52002" Verschiebung="0;7.87;0" Winkel="0;0;0"/>
 				</Eintrag>
 			</Object>
 			<Object>
-				<Props Name="Gleismitte" Offset="0;0.37;0" Position="2500" Qualitaet="0"/>
+				<Props Name="Gleismitte" Offset="0;0.37;0" Position="3500" Qualitaet="0"/>
 				<Eintrag>
 					<Props Abstand="1" Anzahl="200" Datei="\Objekte\Accessoirs\UKL\Absteckstange.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="0;3.5;0" WeitSichtbar="TRUE" Winkel="0;0;0"/>
 					<Lightning>
 						<Props DayLight="100" LokLight="TRUE" NightLight="24"/>
+					</Lightning>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="FL_Lehre" Offset="0;0;0" Position="3500" Qualitaet="0"/>
+				<Eintrag>
+					<Props Abstand="1" Anzahl="200" Datei="\Objekte\Fahrleitung\ukl\FL-Lehren\Re160-Lehre.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="0;5.5;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="30"/>
 					</Lightning>
 				</Eintrag>
 			</Object>
@@ -4251,29 +4332,116 @@
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5004-200-550-LK.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2474.870117" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="FL-F_2575" Offset="0;0;0" Position="2575" Qualitaet="5"/>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelteil\Seitenhalter_QTW.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2524.850098" Verschiebung="0;5.5;0" Winkel="-2;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelteil\Seitenhalter_QTW.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="-50.150002" Verschiebung="0;5.5;0" Winkel="-2;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\F\Re160-5002-200-550-KL-ZF.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="-50.150002" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelteil\Seitenhalter_QTW.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="-0.13" Verschiebung="0;5.5;0" Winkel="178.5;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\F\Re160-5003-200-550-LL-VF.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="-0.13" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelteil\Seitenhalter_QTW.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="49.950001" Verschiebung="0;5.5;0" Winkel="179.5;0;0"/>
 				</Eintrag>
 			</Object>
 			<Object>
-				<Props Name="FL-F_2625" Offset="0;0;0" Position="2625" Qualitaet="5"/>
+				<Props Name="FL_2625" Offset="0;0;0" Position="0" Qualitaet="5"/>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re250\F\Re250-5000-180-530-KL-ZF.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="-50" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Spannwerke\Radspannwerk_U_Masthalterung.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2624.850098" Verschiebung="-3.9;5.5;0" Winkel="180;0;0"/>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re250\F\Re250-5000-180-530-AF-350.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="-50" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Spannwerke\Radspannwerk_U_FD_B350.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2624.850098" Verschiebung="-3.715;5.5;0" Winkel="181;0;0"/>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re250\F\Re250-5000-180-530-LK-VF.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Spannwerke\Radspannwerk_U_TS_B350.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2624.850098" Verschiebung="-4.115;5.5;0" Winkel="181;0;0"/>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re250\F\Re250-5000-180-530-FA-350.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5000-200-550-LK.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2625" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelteil\Seitenhalter_QTW.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2675" Verschiebung="0;5.5;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Spannwerke\Radspannwerk_U_Masthalterung.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2674.959961" Verschiebung="-3.4;5.5;0" Winkel="180;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Spannwerke\Radspannwerk_U_FD_B350.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2674.959961" Verschiebung="-3.15;5.5;0" Winkel="175;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Spannwerke\Radspannwerk_U_TS_B350.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2674.959961" Verschiebung="-3.55;5.5;0" Winkel="174.5;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelteil\Seitenhalter_QTW.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2175" Verschiebung="0;5.5;0" Winkel="180;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5000-200-550-LK.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2175" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelteil\Seitenhalter_QTW.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2225" Verschiebung="0;5.5;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5000-200-550-KL.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2225" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelteil\Seitenhalter_QTW.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2275" Verschiebung="0;5.5;0" Winkel="180;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5000-200-550-LK.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2275" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelteil\Seitenhalter_QTW.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2325" Verschiebung="0;5.5;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5000-200-550-KL.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2325" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelteil\Seitenhalter_QTW.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2375" Verschiebung="0;5.5;0" Winkel="180;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5000-200-550-LK.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2375" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelteil\Seitenhalter_QTW.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2424.949951" Verschiebung="0;5.5;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5000-200-550-KL.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2424.949951" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelteil\Seitenhalter_QTW.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2474.870117" Verschiebung="0;5.5;0" Winkel="178.5;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5004-200-550-LK.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2474.870117" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Spannwerke\Radspannwerk_U_FD_B350.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2624.850098" Verschiebung="-3.715;5.5;0" Winkel="181;0;0"/>
 				</Eintrag>
 			</Object>
 			<Object>
-				<Props Name="Gleismitte" Offset="0;0.37;0" Position="3400" Qualitaet="0"/>
+				<Props Name="Gleismitte" Offset="0;0.37;0" Position="3500" Qualitaet="0"/>
 				<Eintrag>
 					<Props Abstand="1" Anzahl="200" Datei="\Objekte\Accessoirs\UKL\Absteckstange.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="0;3.5;0" Winkel="0;0;0"/>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="Lichtraum" Offset="0;0.37;0" Position="2540" Qualitaet="0"/>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Standard\regellichtraum.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props PlatzfuerStromabnehmer="&#39;TRUE&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="Lineal" Offset="0;7.87;0" Position="0" Qualitaet="0"/>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Accessoirs\UKL\Lineal_Quer_10cm.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 			</Object>
 		</Objecte>
@@ -4483,9 +4651,18 @@
 		</TOPOLOGIE>
 		<Objecte>
 			<Object>
-				<Props Name="Gleismitte" Offset="0;0.37;0" Position="3400" Qualitaet="0"/>
+				<Props Name="Gleismitte" Offset="0;0.37;0" Position="3500" Qualitaet="0"/>
 				<Eintrag>
 					<Props Abstand="1" Anzahl="200" Datei="\Objekte\Accessoirs\UKL\Absteckstange.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="0;3.5;0" Winkel="0;0;0"/>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="FL_Lehre" Offset="0;0;0" Position="3400" Qualitaet="0"/>
+				<Eintrag>
+					<Props Abstand="1" Anzahl="200" Datei="\Objekte\Fahrleitung\ukl\FL-Lehren\Re160-Lehre.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="0;5.5;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="30"/>
+					</Lightning>
 				</Eintrag>
 			</Object>
 		</Objecte>
@@ -4631,7 +4808,7 @@
 				</Eintrag>
 			</Object>
 			<Object>
-				<Props Name="FL_2175" Offset="0;0;0" Position="0" Qualitaet="5"/>
+				<Props DynamicVisibility="WetterVars::*" FixedDynamicVisibility="FALSE" Name="FL_2175" Offset="0;0;0" Position="0" Qualitaet="5"/>
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5000-200-550-LK.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2175" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
@@ -4674,11 +4851,47 @@
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelteil\Seitenhalter_QTW.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2524.649902" Verschiebung="0;5.5;0" Winkel="172;0;0"/>
 				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5051-200-550-LK.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2524.649902" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Signale\DR-Signale\DR_Saalbahn\El-Signale\El6_re-li-ger_mR.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2525" Verschiebung="-0.25;0;0" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props Pfeil_links="&#39;TRUE&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelteil\Seitenhalter_QTW.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2575.25" Verschiebung="0;5.5;0" Winkel="-7.5;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Hainfurt\Hainfurt_2575_G5.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2575.25" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelteil\Seitenhalter_QTW.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2625.72998" Verschiebung="0;5.5;0" Winkel="-7;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Hainfurt\Hainfurt_2625_G5.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2625.72998" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
 			</Object>
 			<Object>
-				<Props Name="Gleismitte" Offset="0;0.37;0" Position="3100" Qualitaet="0"/>
+				<Props Name="Gleismitte" Offset="0;0.37;0" Position="3500" Qualitaet="0"/>
 				<Eintrag>
 					<Props Abstand="1" Anzahl="200" Datei="\Objekte\Accessoirs\UKL\Absteckstange.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="0;3.5;0" Winkel="0;0;0"/>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="Lichtraum" Offset="0;0.37;0" Position="2525" Qualitaet="0"/>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Standard\regellichtraum.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props PlatzfuerStromabnehmer="&#39;TRUE&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="Lineal" Offset="0;0;0" Position="0" Qualitaet="0"/>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Accessoirs\UKL\Lineal_Quer_10cm.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 			</Object>
 		</Objecte>
@@ -4950,7 +5163,7 @@
 				</Eintrag>
 			</Object>
 			<Object>
-				<Props Name="FL_2175" Offset="0;0;0" Position="0" Qualitaet="5"/>
+				<Props DynamicVisibility="Simulation::ZeitInSekunden" FixedDynamicVisibility="FALSE" Name="FL_2175" Offset="0;0;0" Position="0" Qualitaet="5"/>
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Hainfurt\Hainfurt_2174_G5a.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2174.300049" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
@@ -4996,11 +5209,56 @@
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelteil\Seitenhalter_QTW.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2525.310059" Verschiebung="0;5.5;0" Winkel="172;0;0"/>
 				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Hainfurt\Hainfurt_2525_G5a.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2525.310059" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelteil\Flachmaste\Flachmast_075.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2540.300049" Verschiebung="2;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelteil\Ausleger\Stuetzrohrhaenger_1750.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2540.300049" Verschiebung="0.2;7.45;0" Winkel="0;90;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelteil\Ausleger\Stuetzrohrhaenger_1850.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2540.300049" Verschiebung="0.025;5.93;0" Winkel="0;93;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelteil\Ausleger\Klemmhalter.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2540.300049" Verschiebung="0.025;5.5;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Signale\DR-Signale\DR_Saalbahn\El-Signale\El6_re-li-ger_mR.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2540" Verschiebung="-0.45;0;0" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props Pfeil_geradeaus="&#39;TRUE&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelteil\Seitenhalter_QTW_0040.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2575.100098" Verschiebung="-5.01;5.5;0" Winkel="172;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Hainfurt\Hainfurt_2575_G5a.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2575.100098" Verschiebung="-5.01;0;0" Winkel="0;0;0"/>
+				</Eintrag>
 			</Object>
 			<Object>
-				<Props Name="Gleismitte" Offset="0;0.37;0" Position="2400" Qualitaet="0"/>
+				<Props Name="Gleismitte" Offset="0;0.37;0" Position="3400" Qualitaet="0"/>
 				<Eintrag>
 					<Props Abstand="1" Anzahl="200" Datei="\Objekte\Accessoirs\UKL\Absteckstange.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="0;3.5;0" Winkel="0;0;0"/>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="FL_Lehre" Offset="0;0;0" Position="3400" Qualitaet="0"/>
+				<Eintrag>
+					<Props Abstand="1" Anzahl="200" Datei="\Objekte\Fahrleitung\ukl\FL-Lehren\Re160-Lehre.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="0;5.5;0" Winkel="0;0;0"/>
+					<Lightning>
+						<Props DayLight="100" LokLight="TRUE" NightLight="30"/>
+					</Lightning>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="Lichtraum" Offset="0;0.37;0" Position="3525" Qualitaet="0"/>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Standard\regellichtraum.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props PlatzfuerStromabnehmer="&#39;TRUE&#39;"/>
+					</Eigenschaften>
 				</Eintrag>
 			</Object>
 		</Objecte>
@@ -5118,6 +5376,30 @@
 			</Weiche>
 		</TOPOLOGIE>
 		<Objecte>
+			<Object>
+				<Props Name="FL" Offset="0;0;0" Position="0" Qualitaet="5"/>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Hainfurt\Hainfurt_2685_GV5.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2684.550049" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelausleger\QTW\Seitenhalter_QTW_1300_St.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2734.850098" Verschiebung="0.2;5.5;0" Winkel="6;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Hainfurt\Hainfurt_2735_GV5.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2734.850098" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Accessoirs\UKL\Lineal_Quer_10cm.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="2785.139893" Verschiebung="0;7.87;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelteil\Seitenhalter_QTW.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2785.139893" Verschiebung="0;5.5;0" Winkel="186;0;0"/>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="Gleismitte" Offset="0;0.37;0" Position="2700" Qualitaet="0"/>
+				<Eintrag>
+					<Props Abstand="1" Anzahl="200" Datei="\Objekte\Accessoirs\UKL\Absteckstange.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="0;3.5;0" Winkel="0;0;0"/>
+				</Eintrag>
+			</Object>
 		</Objecte>
 		<Hoeheunterbrechung>
 		</Hoeheunterbrechung>
