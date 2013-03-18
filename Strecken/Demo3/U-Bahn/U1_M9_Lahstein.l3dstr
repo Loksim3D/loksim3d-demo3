@@ -1386,7 +1386,7 @@
 				<Props Gleis="Gleis_1" Gleisverlauf="0" Kennung="Kr9" KreuzungsTyp="0" PositionBis="15400" PositionVon="15360" WeichenWinkel="7" WeichenWinkelDynamisch="FALSE"/>
 			</Kreuzung>
 			<Kreuzung>
-				<Props Gleis="Gleis_2" Gleisverlauf="0" Kennung="Kr10" KreuzungsTyp="0" PositionBis="15460" PositionVon="15460" WeichenWinkel="7" WeichenWinkelDynamisch="TRUE"/>
+				<Props Gleis="Gleis_2" Gleisverlauf="0" Kennung="Kr10" KreuzungsTyp="0" PositionBis="15470" PositionVon="15450" WeichenWinkel="7" WeichenWinkelDynamisch="TRUE"/>
 			</Kreuzung>
 		</TOPOLOGIE>
 		<Objecte>
