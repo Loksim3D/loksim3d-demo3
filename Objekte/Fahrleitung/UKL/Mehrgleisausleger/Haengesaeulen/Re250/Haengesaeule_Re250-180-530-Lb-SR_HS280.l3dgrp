@@ -2,7 +2,7 @@
 <GRUPPENOBJECT>
 	<Props FileAuthor="U.Klein" FileDoku="" FileInfo="Hängesäule 2,8m mit Ausleger Lang, Bauart b für Re250 mit Spitzenrohr/nGerade Strecke und Bogeninnen/nals Festpunkt geeignet/nFahrdrahthöhe: 5,5m, Systemhöhe: 1,8m/nAbstand Mastmitte &#47; Gleismitte 2,15m/n/nOriginal von Frieder Cramer/nBearbeitung: U.Klein 2012" FilePicture="Flachmast_Re160-180-550-Ka-SR.l3dgrp.jpg"/>
 	<Object>
-		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\ukl\Mehrgleisausleger\Einzelteile\Haengesaeule_280.l3dobj" Position="2.1;8.2;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\ukl\Mehrgleisausleger\Einzelteil\Haengesaeule_280.l3dobj" Position="2.1;8.2;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
 	</Object>
 	<Object>
 		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\ukl\Einzelteil\Ausleger\Re250_Ausleger_210_Lang_b_AL.l3dobj" Position="0;5.3;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>

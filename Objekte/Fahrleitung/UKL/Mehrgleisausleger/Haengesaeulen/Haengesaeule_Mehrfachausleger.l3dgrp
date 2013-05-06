@@ -2,7 +2,7 @@
 <GRUPPENOBJECT>
 	<Props FileAuthor="U.Klein" FileDoku="" FileInfo="Hängesäule für Mehrfachausleger, /nU-Eisen rechts&#47;links zuschaltbar/nAbstand Mastmitte &#47; Gleismitte 2,1m/n/nOriginal von Frieder Cramer/nBearbeitung: U.Klein 2012" FilePicture="Flachmast_Re160-180-550-La-SR.l3dgrp.jpg"/>
 	<Object>
-		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\ukl\Mehrgleisausleger\Einzelteile\Haengesaeule_260.l3dobj" Position="2.1;8.2;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\ukl\Mehrgleisausleger\Einzelteil\Haengesaeule_260.l3dobj" Position="2.1;8.2;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
 	</Object>
 	<Object>
 		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\UKL\Einzelteil\U_Eisen_80_50_800.l3dobj" Position="2;7.615;0" Rotation="0;0;0" ShowOn="Links" WeitSichtbar="FALSE" ZoomFaktor="1"/>

@@ -2,7 +2,7 @@
 <GRUPPENOBJECT>
 	<Props FileAuthor="U.Klein" FileDoku="" FileInfo="Hängesäule mit Doppel-Ausleger Stützpunkt D für Re160&#47;250/nRe160 lang, Re250 kurz/nfür Nachspannung und Streckentrennung/nFahrdrahthöhe: 5,5m, Systemhöhe: 1,8m/nAbstand Mastmitte &#47; Gleismitte 2,15m/n/nBearbeitung: U.Klein 2012" FilePicture="Betonmast_Re250-180-530-SPD.l3dgrp.jpg"/>
 	<Object>
-		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\ukl\Mehrgleisausleger\Einzelteile\Haengesaeule_310.l3dobj" Position="2.1;8.7;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\ukl\Mehrgleisausleger\Einzelteil\Haengesaeule_310.l3dobj" Position="2.1;8.7;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
 	</Object>
 	<Object>
 		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\ukl\Einzelteil\Ausleger\Re160_Ausleger_200_SPD_Lang_S_AL.l3dobj" Position="0;5.5;-0.35" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>

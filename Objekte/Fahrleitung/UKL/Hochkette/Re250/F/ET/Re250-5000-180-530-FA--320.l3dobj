@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="UKL-Fahrleitungsgenerator, Version 1.0.7" FileInfo="Fahrleitung der Bauart Re250 der DB/nSpannweite: 50.0m, Systemhöhe: 1.8m/nFahrdrahthöhe über SOK: 5.30m/nFestpunkt, Teilstück: -FA/nAbstand des Ankermastes von der Gleismitte: -3.20m" FilePicture="" Texture="\Objekte\Fahrleitung\allqtw.bmp" TransTexture="" Transparent="TRUE" TransparentTyp="1"/>
+<Point>
+<Props Normal="1;1;1" Vekt="-0.025;7.470;0.000"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.025;7.470;0.000"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="-3.175;6.970;50.000"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="-3.225;6.970;50.000"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.000;7.445;0.000"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.000;7.495;0.000"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="-3.200;6.995;50.000"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="-3.200;6.945;50.000"/>
+</Point>
+<Flaeche>
+<Props Points="0;1;2;3" Texture="1,43;1,3;200,3;200,43"/>
+</Flaeche>
+<Flaeche>
+<Props Points="4;5;6;7" Texture="1,43;1,3;200,3;200,43"/>
+</Flaeche>
+</OBJECT>

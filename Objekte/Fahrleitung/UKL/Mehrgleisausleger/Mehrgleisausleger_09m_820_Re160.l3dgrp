@@ -5,10 +5,10 @@
 		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\UKL\Einzelteil\Gittermasten\Gittermast_120.l3dobj" Position="3.5;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
 	</Object>
 	<Object>
-		<Props BlinkIntervall="0" Name="\Objekte\Standard\Frieder\Streckenmasten\ET\Rohrausleger_Masthalter.l3dobj" Position="3.9;8.15;0" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+		<Props BlinkIntervall="0" Name="Einzelteil\Masthalter.l3dobj" Position="3.1;8.2;0" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
 	</Object>
 	<Object>
-		<Props BlinkIntervall="0" Name="Einzelteile\Rohrausleger_09m.l3dobj" Position="3.1;8.2;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+		<Props BlinkIntervall="0" Name="Einzelteil\Rohrausleger_09m.l3dobj" Position="3.1;8.2;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
 	</Object>
 	<Object>
 		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\ukl\Einzelteil\Ausleger\Re160_Ausleger_320_Kurz_a_Rohr_AL.l3dobj" Position="0;5.5;0" Rotation="0;0;0" ShowOn="Kurz" WeitSichtbar="FALSE" ZoomFaktor="1"/>
@@ -44,7 +44,7 @@
 		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\UKL\Einzelteil\U_Eisen_80_40_600.l3dobj" Position="3.145;5.8;0" Rotation="0;0;0" ShowOn="Lang or Kurz" WeitSichtbar="FALSE" ZoomFaktor="1"/>
 	</Object>
 	<Object>
-		<Props BlinkIntervall="0" Name="Einzelteile\Winkeleisen_80_80_300_MGA.l3dobj" Position="-5.9;8.301;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+		<Props BlinkIntervall="0" Name="Einzelteil\Winkeleisen_80_80_300_MGA.l3dobj" Position="-5.9;8.301;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
 	</Object>
 	<Object>
 		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\ukl\Einzelteil\Ankerseil_10000.l3dobj" Position="-5.86;8.34;0.14" Rotation="0;112.75;-1.25" WeitSichtbar="FALSE" ZoomFaktor="1"/>

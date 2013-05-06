@@ -2477,6 +2477,15 @@
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Hainfurt\Hainfurt_2675_G1.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2675.52002" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Spannwerke\Radspannwerk_U_Masthalterung.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2725.699951" Verschiebung="0.8;5.5;0" Winkel="186.5;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Spannwerke\Radspannwerk_U_FD_B350.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2725.699951" Verschiebung="1;5.5;0" Winkel="180;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Spannwerke\Radspannwerk_U_TS_B350.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2725.699951" Verschiebung="0.6;5.5;0" Winkel="180;0;0"/>
+				</Eintrag>
 			</Object>
 			<Object>
 				<Props Name="Gleismitte" Offset="0;0.37;0" Position="3500" Qualitaet="0"/>
@@ -5367,19 +5376,22 @@
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Hainfurt\Hainfurt_2735_GV5.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2734.850098" Verschiebung="0;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 				<Eintrag>
-					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Accessoirs\UKL\Lineal_Quer_10cm.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="2785.139893" Verschiebung="0;7.87;0" Winkel="0;0;0"/>
-				</Eintrag>
-				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelausleger\QTW\Seitenhalter_QTW_1300_St.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2785.139893" Verschiebung="0;5.5;0" Winkel="186;0;0"/>
 				</Eintrag>
 				<Eintrag>
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelteil\Ausleger\Stuetzrohrhaenger_1600.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2785.139893" Verschiebung="0;7.92;0" Winkel="0;0;0"/>
 				</Eintrag>
-			</Object>
-			<Object>
-				<Props Name="Gleismitte" Offset="0;0.37;0" Position="2700" Qualitaet="0"/>
 				<Eintrag>
-					<Props Abstand="1" Anzahl="200" Datei="\Objekte\Accessoirs\UKL\Absteckstange.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="0;3.5;0" Winkel="0;0;0"/>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Hainfurt\Hainfurt_2785_GV5.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2785.139893" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Accessoirs\UKL\Lineal_Quer_10cm.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="2835.459961" Verschiebung="0;7.87;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelausleger\QTW\Seitenhalter_QTW_1300_St.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="2835.459961" Verschiebung="0;5.5;0" Winkel="6.5;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Einzelteil\Ausleger\Stuetzrohrhaenger_1600.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="2835.459961" Verschiebung="0;7.92;0" Winkel="0;0;0"/>
 				</Eintrag>
 			</Object>
 		</Objecte>
@@ -5464,6 +5476,12 @@
 			</Weiche>
 		</TOPOLOGIE>
 		<Objecte>
+			<Object>
+				<Props Name="Gleismitte" Offset="0;0.37;0" Position="2800" Qualitaet="0"/>
+				<Eintrag>
+					<Props Abstand="1" Anzahl="200" Datei="\Objekte\Accessoirs\UKL\Absteckstange.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="0;3.5;0" Winkel="0;0;0"/>
+				</Eintrag>
+			</Object>
 		</Objecte>
 		<Hoeheunterbrechung>
 		</Hoeheunterbrechung>
