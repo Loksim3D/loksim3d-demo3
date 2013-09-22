@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="ukl" FileDoku="" FileInfo="Pfeil für Signaltafel El6, emailiert" FilePicture="" Texture="EL6.png" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="0;0;-1" Vekt="-0.13;-0.065;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;-1" Vekt="-0.13;0.065;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;-1" Vekt="0.2;0.065;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;-1" Vekt="0.2;-0.065;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;-1" Vekt="-0.13;-0.065;0.028"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;-1" Vekt="-0.13;0.065;0.028"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;-1" Vekt="0.172;0.065;0.028"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;-1" Vekt="0.172;-0.065;0.028"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;-1" Vekt="0.26;-0.005;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;0;-1" Vekt="0.26;0.005;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;9;8;3" Texture="85,386;85,343;194,343;214,363;214,366;194,386"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="1;5;6;2" Texture="119,85;74,125;77,111;105,84"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;7;4;0" Texture="114,89;75,126;77,112;96,93"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;8;9;2;1;0" Texture="53,241;45,237;38,238;30,239;31,208;57,208"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="2;6;5;1" Texture="52,243;34,235;32,210;53,210"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="0;4;7;3" Texture="52,238;30,236;31,206;50,208"/>
+	</Flaeche>
+</OBJECT>

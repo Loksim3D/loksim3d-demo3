@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="UKL-Fahrleitungsgenerator, Version 1.0.7" FileInfo="Sonderfahrleitung der Bauart Re160 der DB/nSHK-Code: SHK-Re160-5005-200-550-0-0-0-0-0-0-0-40/nSpannweite: 50.1m, Systemhöhe: 2.0m/nFahrdrahthöhe über SOK: 5.50m/nTragseil, seitliche Abweichung, Stützpunkt 1: 0.00m/nTragseil, Höhenversatz, Stützpunkt 1: 0.00m/nFahrdraht, Höhenversatz, Stützpunkt 1: 0.00m/nFahrdraht, seitliche Abweichung, Stützpunkt 1: 0.00m/nTragseil, seitliche Abweichung, Stützpunkt 2: 0.00m/nTragseil, Höhenversatz, Stützpunkt 2: 0.00m/nFahrdraht, Höhenversatz, Stützpunkt 2: 0.00m/nFahrdraht, seitliche Abweichung, Stützpunkt 2: 0.40m" FilePicture="" Texture="\Objekte\Fahrleitung\allqtw.bmp" TransTexture="" Transparent="TRUE" TransparentTyp="1"/>
+<Point>
+<Props Normal="1;1;1" Vekt="-0.030;5.870;0.000"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.030;5.870;0.000"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.430;5.870;50.050"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.370;5.870;50.050"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.000;5.846;0.000"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.000;5.906;0.000"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.400;5.906;50.050"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.400;5.846;50.050"/>
+</Point>
+<Flaeche>
+<Props Points="0;1;2;3" Texture="1,43;1,3;200,3;200,43"/>
+</Flaeche>
+<Flaeche>
+<Props Points="4;5;6;7" Texture="1,43;1,3;200,3;200,43"/>
+</Flaeche>
+<Point>
+<Props Normal="1;1;1" Vekt="-0.023;7.870;0.000"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.023;7.870;0.000"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.023;7.655;6.000"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="-0.023;7.655;6.000"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.000;7.848;0.000"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.000;7.893;0.000"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.000;7.678;6.000"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.000;7.633;6.000"/>
+</Point>
+<Flaeche>
+<Props Points="8;9;10;11" Texture="1,43;1,3;200,3;200,43"/>
+</Flaeche>
+<Flaeche>
+<Props Points="12;13;14;15" Texture="1,43;1,3;200,3;200,43"/>
+</Flaeche>
+<Point>
+<Props Normal="1;1;1" Vekt="-0.023;7.655;6.000"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.023;7.655;6.000"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.023;7.464;13.762"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="-0.023;7.464;13.762"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.000;7.633;6.000"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.000;7.678;6.000"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.000;7.487;13.762"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.000;7.442;13.762"/>
+</Point>
+<Flaeche>
+<Props Points="16;17;18;19" Texture="1,43;1,3;200,3;200,43"/>
+</Flaeche>
+<Flaeche>
+<Props Points="20;21;22;23" Texture="1,43;1,3;200,3;200,43"/>
+</Flaeche>
+<Point>
+<Props Normal="1;1;1" Vekt="0.087;5.870;13.762"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="-0.023;7.464;13.762"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.023;7.464;13.762"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.132;5.870;13.762"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.110;5.882;13.740"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.000;7.464;13.740"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.000;7.464;13.785"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.110;5.882;13.785"/>
+</Point>
+<Flaeche>
+<Props Points="24;25;26;27" Texture="1,3;200,3;200,43;1,43"/>
+</Flaeche>
+<Flaeche>
+<Props Points="28;29;30;31" Texture="1,3;200,3;200,43;1,43"/>
+</Flaeche>
+<Point>
+<Props Normal="1;1;1" Vekt="-0.023;7.268;0.000"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.023;7.268;0.000"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.023;7.268;2.500"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="-0.023;7.268;2.500"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.000;7.245;0.000"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.000;7.290;0.000"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.000;7.290;2.500"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.000;7.245;2.500"/>
+</Point>
+<Flaeche>
+<Props Points="32;33;34;35" Texture="1,43;1,3;200,3;200,43"/>
+</Flaeche>
+<Flaeche>
+<Props Points="36;37;38;39" Texture="1,43;1,3;200,3;200,43"/>
+</Flaeche>
+<Point>
+<Props Normal="1;1;1" Vekt="-0.003;5.870;2.500"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="-0.023;7.268;2.500"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.023;7.268;2.500"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.042;5.870;2.500"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.020;5.882;2.478"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.000;7.268;2.478"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.000;7.268;2.523"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.020;5.882;2.523"/>
+</Point>
+<Flaeche>
+<Props Points="40;41;42;43" Texture="1,3;200,3;200,43;1,43"/>
+</Flaeche>
+<Flaeche>
+<Props Points="44;45;46;47" Texture="1,3;200,3;200,43;1,43"/>
+</Flaeche>
+<Point>
+<Props Normal="1;1;1" Vekt="-0.023;7.268;2.500"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.023;7.268;2.500"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.023;7.655;6.000"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="-0.023;7.655;6.000"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.000;7.245;2.500"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.000;7.290;2.500"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.000;7.678;6.000"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.000;7.633;6.000"/>
+</Point>
+<Flaeche>
+<Props Points="48;49;50;51" Texture="1,43;1,3;200,3;200,43"/>
+</Flaeche>
+<Flaeche>
+<Props Points="52;53;54;55" Texture="1,43;1,3;200,3;200,43"/>
+</Flaeche>
+<Point>
+<Props Normal="1;1;1" Vekt="-0.023;7.464;13.762"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.023;7.464;13.762"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.023;7.361;25.025"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="-0.023;7.361;25.025"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.000;7.442;13.762"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.000;7.487;13.762"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.000;7.384;25.025"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.000;7.339;25.025"/>
+</Point>
+<Flaeche>
+<Props Points="56;57;58;59" Texture="1,43;1,3;200,3;200,43"/>
+</Flaeche>
+<Flaeche>
+<Props Points="60;61;62;63" Texture="1,43;1,3;200,3;200,43"/>
+</Flaeche>
+<Point>
+<Props Normal="1;1;1" Vekt="0.178;5.870;25.025"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="-0.023;7.361;25.025"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.023;7.361;25.025"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.223;5.870;25.025"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.200;5.882;25.002"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.000;7.361;25.002"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.000;7.361;25.047"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.200;5.882;25.047"/>
+</Point>
+<Flaeche>
+<Props Points="64;65;66;67" Texture="1,3;200,3;200,43;1,43"/>
+</Flaeche>
+<Flaeche>
+<Props Points="68;69;70;71" Texture="1,3;200,3;200,43;1,43"/>
+</Flaeche>
+<Point>
+<Props Normal="1;1;1" Vekt="-0.023;7.361;25.025"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.023;7.361;25.025"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.023;7.464;36.287"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="-0.023;7.464;36.287"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.000;7.339;25.025"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.000;7.384;25.025"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.000;7.487;36.287"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.000;7.442;36.287"/>
+</Point>
+<Flaeche>
+<Props Points="72;73;74;75" Texture="1,43;1,3;200,3;200,43"/>
+</Flaeche>
+<Flaeche>
+<Props Points="76;77;78;79" Texture="1,43;1,3;200,3;200,43"/>
+</Flaeche>
+<Point>
+<Props Normal="1;1;1" Vekt="0.268;5.870;36.287"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="-0.023;7.464;36.287"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.023;7.464;36.287"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.313;5.870;36.287"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.290;5.882;36.265"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.000;7.464;36.265"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.000;7.464;36.310"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.290;5.882;36.310"/>
+</Point>
+<Flaeche>
+<Props Points="80;81;82;83" Texture="1,3;200,3;200,43;1,43"/>
+</Flaeche>
+<Flaeche>
+<Props Points="84;85;86;87" Texture="1,3;200,3;200,43;1,43"/>
+</Flaeche>
+<Point>
+<Props Normal="1;1;1" Vekt="-0.023;7.464;36.287"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.023;7.464;36.287"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.023;7.655;44.050"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="-0.023;7.655;44.050"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.000;7.442;36.287"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.000;7.487;36.287"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.000;7.678;44.050"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.000;7.633;44.050"/>
+</Point>
+<Flaeche>
+<Props Points="88;89;90;91" Texture="1,43;1,3;200,3;200,43"/>
+</Flaeche>
+<Flaeche>
+<Props Points="92;93;94;95" Texture="1,43;1,3;200,3;200,43"/>
+</Flaeche>
+<Point>
+<Props Normal="1;1;1" Vekt="-0.023;7.655;44.050"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.023;7.655;44.050"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.023;7.870;50.050"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="-0.023;7.870;50.050"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.000;7.633;44.050"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.000;7.678;44.050"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.000;7.893;50.050"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.000;7.848;50.050"/>
+</Point>
+<Flaeche>
+<Props Points="96;97;98;99" Texture="1,43;1,3;200,3;200,43"/>
+</Flaeche>
+<Flaeche>
+<Props Points="100;101;102;103" Texture="1,43;1,3;200,3;200,43"/>
+</Flaeche>
+<Point>
+<Props Normal="1;1;1" Vekt="-0.023;7.655;44.050"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.023;7.655;44.050"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.023;7.268;47.550"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="-0.023;7.268;47.550"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.000;7.633;44.050"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.000;7.678;44.050"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.000;7.290;47.550"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.000;7.245;47.550"/>
+</Point>
+<Flaeche>
+<Props Points="104;105;106;107" Texture="1,43;1,3;200,3;200,43"/>
+</Flaeche>
+<Flaeche>
+<Props Points="108;109;110;111" Texture="1,43;1,3;200,3;200,43"/>
+</Flaeche>
+<Point>
+<Props Normal="1;1;1" Vekt="0.358;5.870;47.550"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="-0.023;7.268;47.550"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.023;7.268;47.550"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.403;5.870;47.550"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.380;5.882;47.527"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.000;7.268;47.527"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.000;7.268;47.572"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.380;5.882;47.572"/>
+</Point>
+<Flaeche>
+<Props Points="112;113;114;115" Texture="1,3;200,3;200,43;1,43"/>
+</Flaeche>
+<Flaeche>
+<Props Points="116;117;118;119" Texture="1,3;200,3;200,43;1,43"/>
+</Flaeche>
+<Point>
+<Props Normal="1;1;1" Vekt="-0.023;7.268;47.550"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.023;7.268;47.550"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.023;7.268;50.050"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="-0.023;7.268;50.050"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.000;7.245;47.550"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.000;7.290;47.550"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.000;7.290;50.050"/>
+</Point>
+<Point>
+<Props Normal="1;1;1" Vekt="0.000;7.245;50.050"/>
+</Point>
+<Flaeche>
+<Props Points="120;121;122;123" Texture="1,43;1,3;200,3;200,43"/>
+</Flaeche>
+<Flaeche>
+<Props Points="124;125;126;127" Texture="1,43;1,3;200,3;200,43"/>
+</Flaeche>
+</OBJECT>

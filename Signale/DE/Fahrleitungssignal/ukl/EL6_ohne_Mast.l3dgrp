@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="U- Klein" FileDoku="" FileInfo="Fahrleitungssignal El6 mit Richtungpfeilen/nohne Mast/nNullpunkt: untere Ecke" FilePicture=""/>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\EL6_Email.l3dobj" Position="0;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="links or rechts" Name="ET\EL_Pfeil_Email.l3dobj" Position="0;0.837;0" Rotation="0;90;0" ShowOn="oben" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\EL_Pfeil_Email.l3dobj" Position="0;0.967;0" Rotation="0;90;0" ShowOn="oben and (links or rechts)" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="links" Name="ET\EL_Pfeil_Email.l3dobj" Position="0;0.772;0" Rotation="0;0;0" ShowOn="rechts" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="rechts" Name="ET\EL_Pfeil_Email.l3dobj" Position="0;0.772;0" Rotation="0;180;0" ShowOn="links" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="ET\EL_Doppelpfeil_Email.l3dobj" Position="0;0.772;0" Rotation="0;0;0" ShowOn="rechts and links" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+</GRUPPENOBJECT>

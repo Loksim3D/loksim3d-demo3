@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="U- Klein" FileDoku="" FileInfo="Seitenhalter für Quertragwerk, Stützpunk S1L/nmit Stahlrohr-Seitenhalter und Klemmhalter/nMit Fahrdrahthöhe einfügen/nAbstand FD-Unteres Richtseil: 250mm" FilePicture=""/>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\ukl\Einzelteil\Seitenhalter_QTW_S1L.l3dobj" Position="0;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\ukl\Einzelteil\Stab_200.l3dobj" Position="0;2.37;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+</GRUPPENOBJECT>
