@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="Andreas Peter" FileDoku="" FileInfo="Richtungsanzeiger alleinstehend/nAbstand zur Gleisachse 2,20 m/n/nAls Vorsignal definieren./n/n(c) Andreas Peter ; Dezember 2004" FilePicture="Zs2_Einzelmast.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Schaltkasten.l3dobj" Position="2.49;0.6;0.45" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Rundmast.l3dobj" Position="2.25;0.2;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\RahmenZs2.l3dobj" Position="2.25;3.85;-0.1" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Zusatzanzeiger.l3dobj" Position="2.25;-0.47;0.3" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Sperrsignal-nieder_Sockel.l3dobj" Position="2.05;0;-0.2" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Rundmast_Aussteifung.l3dobj" Position="2.25;0.2;0" Rotation="45;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Rundmast_Aussteifung.l3dobj" Position="2.25;0.2;0" Rotation="-45;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="" Fonthoehe="0.42" GroupProperty="Zs2" Leuchtend="TRUE" Name="\Signale\DToepel\einzelteile\Zs2\Richtungen-gelb.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="2.25;4.3;-0.12" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+</GRUPPENOBJECT>

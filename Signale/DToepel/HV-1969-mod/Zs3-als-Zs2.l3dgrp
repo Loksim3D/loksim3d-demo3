@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="Andreas Peter" FileDoku="" FileInfo="Vorsignal mit Geschwindigkeitsvoranzeiger/n2,2 m Abstand zur Gleisachse/n/n(c) Andreas Peter ; Oktober 2004/n" FilePicture="Vorsignal_mit_Zs3v.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Dreieck.l3dobj" Position="1.775;3.1;0.5" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Zusatzanzeiger.l3dobj" Position="2.25;-1.2;0.9" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Halterung_Voranzeiger.l3dobj" Position="2.25;3;1.1" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="" Fonthoehe="0.42" GroupProperty="Zs2" Leuchtend="TRUE" Name="\Signale\DToepel\einzelteile\Zs3\Geschwindigkeit.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="2.25;3.57;0.47" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+</GRUPPENOBJECT>

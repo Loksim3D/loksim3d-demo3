@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="" FileInfo="" FilePicture="Selbstblocksignal_FC.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Frieder\1969\Schirm-SBk.l3dobj" Position="3.15;5.4;-0.15" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Schute_breit.l3dobj" Position="3.15;6;-0.15" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Ersatzsignal.l3dobj" Position="2.97;5.4;-0.4" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Schute_klein.l3dobj" Position="3.15;5.7;-0.4" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Schute_klein.l3dobj" Position="3.07;5.51;-0.4" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Schute_klein.l3dobj" Position="3.25;5.51;-0.4" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Mast1969_560cm.l3dobj" Position="3.15;0.2;0" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Korb2.l3dobj" Position="3.15;5.75;0.75" Rotation="180;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Mastschild-wgwgw.l3dobj" Position="3.15;3.2;0" Rotation="0;0;0" ShowOn="Sbk" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\1969-rot.l3dobj" Position="2.97;5.9;-0.2" Rotation="0;0;0" ShowOn="Hp0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\1969-gruen.l3dobj" Position="3.15;5.9;-0.2" Rotation="0;0;0" ShowOn="Hp1" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Schaltkasten.l3dobj" Position="2.9;0.6;-0.35" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\scheinrot.l3dobj" Position="3.05;6;-0.19" Rotation="0;0;0" ShowOn="Hp0" ZoomFaktor="200"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\scheingruen.l3dobj" Position="3.23;6;-0.19" Rotation="0;0;0" ShowOn="Hp1" ZoomFaktor="200"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Signalnummer.l3dobj" Position="3.05;4;-0.25" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Sockel_Hp-Vr.l3dobj" Position="2.87;0;-0.15" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\weiss.l3dobj" Position="3.1;5.7;-0.33" Rotation="0;0;0" ShowOn="Zs1" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\weiss.l3dobj" Position="3;5.52;-0.33" Rotation="0;0;0" ShowOn="Zs1" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\weiss.l3dobj" Position="3.2;5.52;-0.33" Rotation="0;0;0" ShowOn="Zs1" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Sbk" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Mastschild-wrw.l3dobj" Position="3.15;3.2;0" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Font>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="0" DefaultText="" Fonthoehe="0.18" GroupProperty="TEXT" Leuchtend="FALSE" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Signalnummer.l3dfont" Position="3.15;4.12;-0.26" Rotation="0;0;0"/>
+	</Font>
+</GRUPPENOBJECT>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="Andreas Peter" FileDoku="" FileInfo="Selbstblocksignal zur Montage an /neinem Auslegermast oder Brücke/n/nab Loksim Version 2.5/n/n(c) Andreas Peter ; Februar 2007" FilePicture="Selbstblocksignal-Ausleger.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Schute_breit.l3dobj" Position="2.25;6.6;-1.75" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Ersatzsignal.l3dobj" Position="2.075;6;-2" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Schute_klein.l3dobj" Position="2.25;6.3;-2" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Schute_klein.l3dobj" Position="2.17;6.11;-2" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Schute_klein.l3dobj" Position="2.34;6.11;-2" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Mastschild-wgwgw.l3dobj" Position="1.85;7.8;-1.2" Rotation="0;0;0" ShowOn="Sbk" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\1969-rot.l3dobj" Position="2.05;6.5;-1.8" Rotation="0;0;0" ShowOn="Hp0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\1969-gruen.l3dobj" Position="2.24;6.5;-1.8" Rotation="0;0;0" ShowOn="Hp1" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\scheinrot.l3dobj" Position="2.12;6.6;-1.78" Rotation="0;0;0" ShowOn="Hp0" WeitSichtbar="FALSE" ZoomFaktor="180"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\scheingruen.l3dobj" Position="2.34;6.6;-1.78" Rotation="0;0;0" ShowOn="Hp1" WeitSichtbar="FALSE" ZoomFaktor="180"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Ausleger_Korb.l3dobj" Position="1.72;5.3;-1.2" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Signalnummer-Vr.l3dobj" Position="2.15;4.9;-2.84" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Ausleger_HalterungSig.l3dobj" Position="2.505;5.95;-1.2" Rotation="180;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\weiss.l3dobj" Position="2.2;6.3;-1.93" Rotation="0;0;0" ShowOn="Zs1" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\weiss.l3dobj" Position="2.1;6.12;-1.93" Rotation="0;0;0" ShowOn="Zs1" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\weiss.l3dobj" Position="2.3;6.12;-1.93" Rotation="0;0;0" ShowOn="Zs1" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Sbk" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Mastschild-wrw.l3dobj" Position="1.85;7.8;-1.2" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Zusatzanzeiger.l3dobj" Position="2.25;3.58;-1.38" Rotation="0;0;0" ShowOn="mitZs3" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Dreieck.l3dobj" Position="1.77;7.9;-1.8" Rotation="0;0;0" ShowOn="mitZs3" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\ZwischenblechHpZs.l3dobj" Position="2.25;7.7;-1.7" Rotation="180;0;0" ShowOn="mitZs3" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="mitHp2" Name="\Signale\Frieder\1969\Schirm-SBk.l3dobj" Position="2.25;6;-1.75" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Schirm-Hp.l3dobj" Position="2.25;6;-1.75" Rotation="0;0;0" ShowOn="mitHp2" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\ZS6Raute.l3dobj" Position="2.65;8.64;-1.25" Rotation="0;0;0" ShowOn="mitZs6" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Zusatzanzeiger_bei_Vr0-Hp0.l3dobj" Position="2.65;4.53;-0.9" Rotation="0;0;0" ShowOn="mitZs6" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Font>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="0" DefaultText="" Fonthoehe="0.18" GroupProperty="TEXT" Leuchtend="FALSE" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Signalnummer.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="2.25;5.01;-2.85" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="" Fonthoehe="0.42" GroupProperty="Signalkennziffer" Leuchtend="TRUE" Name="\Signale\DToepel\einzelteile\Zs3\Geschwindigkeit.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="2.25;8.35;-1.83" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="0" BlinkIntervall="0" Color="16777215" DefaultText="" Fonthoehe="0.42" GroupProperty="Zs2" Leuchtend="TRUE" Name="\Signale\DToepel\einzelteile\Richtungen_Zs2+6_Zs6.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="2.65;9.3;-1.37" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+</GRUPPENOBJECT>
