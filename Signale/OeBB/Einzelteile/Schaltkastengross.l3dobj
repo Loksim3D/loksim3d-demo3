@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="" FileInfo="" FilePicture="" Texture="Schaltkastenklein-b.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="2.414;0.2;-1"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="2.414;1.016;-1"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="2.686;1.016;-1"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="2.686;0.2;-1"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="2.414;0.2;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="2.414;1.016;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="2.686;1.016;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="2.686;0.2;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="2.482;-0.004;-1"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="2.618;-0.004;-1"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="376,170;376,105;396,105;396,170"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;6;5;4" Texture="367,90;367,25;348,25;348,90"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;2;6;7" Texture="8,88;6,12;132,11;130,89"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;1;0" Texture="204,90;204,18;322,19;320,91"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="1;5;6;2" Texture="129,7;129,11;8,11;11,7"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="0;3;9;8" Texture="349,74;366,74;363,89;352,89"/>
+	</Flaeche>
+</OBJECT>

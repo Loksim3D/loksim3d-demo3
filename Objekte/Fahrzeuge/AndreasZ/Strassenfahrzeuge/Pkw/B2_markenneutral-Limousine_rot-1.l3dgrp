@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="Andreas Zimmermann" FileInfo="markenneutrale Limousine/n----------------------------------------------------------------/nLackierung rot/nKategorie B - mit Licht und Blinkern/n- OHNE LICHTKEGEL -/n----------------------------------------------------------------/n(c) by Andreas Zimmermann, 09.09.2005/nwww.a-zimmermann.com" FilePicture="limousine-rot.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\karosserie-limo-rot.l3dobj" Position="0;0;0" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\scheinwerfer.l3dobj" Position="-0.05;0.3;4.88" Rotation="0;0;0" ShowOn="Licht_an or Fernlicht_an" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\ruecklicht.l3dobj" Position="0;0.37;-0.02" Rotation="0;0;0" ShowOn="Licht_an or Fernlicht_an" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\tarnteil.l3dobj" Position="0.1;0.4;0.05" Rotation="0;0;0" ShowOn="Licht_an or Fernlicht_an" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0.5" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\blinker1.l3dobj" Position="0;0.51;-0.02" Rotation="0;0;0" ShowOn="Blinker_links or Warnblinker" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0.5" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\blinker1.l3dobj" Position="1.45;0.51;-0.02" Rotation="0;0;0" ShowOn="Blinker_rechts or Warnblinker" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0.5" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\blinker1.l3dobj" Position="1.44;0.24;4.87" Rotation="0;90;0" ShowOn="Blinker_rechts or Warnblinker" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0.5" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\blinker1.l3dobj" Position="0.2;0.24;4.87" Rotation="0;90;0" ShowOn="Blinker_links or Warnblinker" ZoomFaktor="1"/>
+	</Object>
+</GRUPPENOBJECT>

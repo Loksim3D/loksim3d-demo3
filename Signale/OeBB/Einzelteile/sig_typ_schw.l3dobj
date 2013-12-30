@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="" FileInfo="Dieses Objekt habe ich von Lukas/nHaselsteiner übernommen." FilePicture="" Texture="HS.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0;0.125;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.3375;0.125;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.3375;0;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="34,170;34,152;50,152;50,170"/>
+	</Flaeche>
+</OBJECT>

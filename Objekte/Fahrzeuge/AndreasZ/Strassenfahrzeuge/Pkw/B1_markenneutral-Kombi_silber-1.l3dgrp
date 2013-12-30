@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="Andreas Zimmermann" FileInfo="markenneutraler Kombi/n----------------------------------------------------------------/nLackierung silbergrau/nKategorie B - mit Licht und Blinkern/n----------------------------------------------------------------/n(c) by Andreas Zimmermann, 09.09.2005/nwww.a-zimmermann.com" FilePicture="kombi-silber2.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\karosserie-kombi-silber2.l3dobj" Position="0;0;0" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\scheinwerfer2.l3dobj" Position="-0.05;0.3;4.88" Rotation="0;0;0" ShowOn="Licht_an or Fernlicht_an" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\ruecklicht.l3dobj" Position="0;0.4;0.1" Rotation="0;0;10" ShowOn="Licht_an or Fernlicht_an" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\tarnteil.l3dobj" Position="0.1;0.4;0.17" Rotation="0;0;10" ShowOn="Licht_an or Fernlicht_an" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0.5" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\blinker1.l3dobj" Position="0.05;0.53;0.13" Rotation="0;0;10" ShowOn="Blinker_links or Warnblinker" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0.5" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\blinker1.l3dobj" Position="1.4;0.53;0.13" Rotation="0;0;10" ShowOn="Blinker_rechts or Warnblinker" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0.5" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\blinker1.l3dobj" Position="1.44;0.24;4.87" Rotation="0;90;0" ShowOn="Blinker_rechts or Warnblinker" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0.5" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\blinker1.l3dobj" Position="0.2;0.24;4.87" Rotation="0;90;0" ShowOn="Blinker_links or Warnblinker" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\strasse_scheinwerfer2.l3dobj" Position="0.75;-0.13;4.8" Rotation="0;0;0" ShowOn="Licht_an" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0.5" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\strasse_ruecklicht.l3dobj" Position="0.15;-0.12;5" Rotation="0;0;0" ShowOn="Blinker_links or Warnblinker" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0.5" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\strasse_ruecklicht.l3dobj" Position="0.15;-0.12;-0.3" Rotation="180;0;0" ShowOn="Blinker_links or Warnblinker" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0.5" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\strasse_ruecklicht.l3dobj" Position="1.35;-0.12;5" Rotation="0;0;0" ShowOn="Blinker_rechts or Warnblinker" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0.5" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\strasse_ruecklicht.l3dobj" Position="1.35;-0.12;-0.3" Rotation="180;0;0" ShowOn="Blinker_rechts or Warnblinker" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\strasse_scheinwerfer.l3dobj" Position="0.75;-0.13;4.8" Rotation="0;0;0" ShowOn="Fernlicht_an" ZoomFaktor="1"/>
+	</Object>
+</GRUPPENOBJECT>

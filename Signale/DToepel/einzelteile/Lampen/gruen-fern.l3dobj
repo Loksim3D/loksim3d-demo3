@@ -14,6 +14,6 @@
 		<Props Normal="1;-1;-1" Vekt="0.02;-0.02;-0.04"/>
 	</Point>
 	<Flaeche>
-		<Props Points="0;1;2;3" Texture="39,86;30,86;30,95;39,95"/>
+		<Props Points="0;1;2;3" Texture="2,95;2,86;11,86;11,95"/>
 	</Flaeche>
 </OBJECT>

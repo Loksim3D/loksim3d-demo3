@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="" FileInfo="" FilePicture="" Texture="polizei.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="-0.35;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="-0.35;0.19;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.35;0.19;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.35;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="-0.35;0;0.25"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="-0.35;0.19;0.25"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.35;0.19;0.25"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="0.35;0;0.25"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="29,35;29,12;170,12;170,36"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;6;5;4" Texture="171,36;170,13;29,13;29,37"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="1;5;6;2" Texture="31,7;31,5;134,5;134,7"/>
+	</Flaeche>
+</OBJECT>

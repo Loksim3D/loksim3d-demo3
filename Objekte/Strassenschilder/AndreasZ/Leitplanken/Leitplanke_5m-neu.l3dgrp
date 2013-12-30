@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="Andreas Zimmermann" FileInfo="Leitplanke (Standard)/nfür Landstraßen" FilePicture="Leitplanke_5m-neu.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\5m-neu.l3dobj" Position="0;0.45;0" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\halterungn.l3dobj" Position="-0.15;0;1.25" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="Einzelteile\halterungn.l3dobj" Position="-0.15;0;3.55" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+</GRUPPENOBJECT>

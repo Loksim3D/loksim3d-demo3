@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="" FileInfo="" FilePicture="" Texture="Plane_orange2.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="-0.02;0;5.5"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="0;1.4;5.5"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="2.4;1.4;5.5"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="2.42;0;5.5"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;1" Vekt="1.2;1.56;5.5"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;-1" Vekt="1.2;1.56;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="2.4;1.4;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="2.42;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="1.2;1.56;2.75"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;0" Vekt="2.4;1.4;2.75"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;0" Vekt="2.42;0;2.75"/>
+	</Point>
+	<Flaeche>
+		<Props Points="3;2;4;1;0" Texture="317,4;440,6;452,137;446,271;318,270"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="2;3;10;9" Texture="312,133;312,262;1,262;1,133"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;2;9;8" Texture="312,273;312,340;5,340;5,273"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="8;9;6;5" Texture="312,273;312,341;4,341;4,273"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="9;10;7;6" Texture="313,1;313,130;1,130;1,1"/>
+	</Flaeche>
+</OBJECT>

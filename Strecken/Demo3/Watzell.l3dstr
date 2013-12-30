@@ -1,0 +1,1951 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STRECKE>
+	<Props FileAuthor="" FileDoku="" FileInfo="" FilePicture=""/>
+	<DefaulRail>
+		<Props File="\rails\juliang\betonschwellen\normal\16betonschwellen_schotter_dunkler3.l3drail"/>
+	</DefaulRail>
+	<StdTexture>
+		<Props File=""/>
+	</StdTexture>
+	<Himmelsrichtung>
+		<Props Value="0"/>
+	</Himmelsrichtung>
+	<GLEIS>
+		<Props Name="Gleis 0"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="6000" ParallelAbstand="-10" ParallelEnd="0" ParallelGleis="" ParallelStart="0" StartPos="0" StartPunkt="0;0;0" Typ="Normal" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
+			</Erstellung>
+		</TOPOLOGIE>
+		<Objecte>
+		</Objecte>
+		<Hoeheunterbrechung>
+			<Landschaftsobjekt>
+				<Props Ende="10000" Start="-100"/>
+			</Landschaftsobjekt>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+			<VOR>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<Bahnuebergang>
+				</Bahnuebergang>
+				<RAIL>
+					<Value>
+						<Props Pos="0" RAILVALUE="\Rails\nullRail.l3drail"/>
+					</Value>
+				</RAIL>
+				<RailQuality>
+				</RailQuality>
+				<LZB>
+				</LZB>
+				<Kilometrierung>
+				</Kilometrierung>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Ueberhoehung>
+				</Ueberhoehung>
+				<RailProps>
+				</RailProps>
+				<Bremswegabstand>
+				</Bremswegabstand>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</VOR>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="Gleis 1"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="10000" ParallelAbstand="9" ParallelEnd="10000" ParallelGleis="Gleis 0" ParallelStart="0" StartPos="0" StartPunkt="0;0;0" Typ="Parallel" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
+			</Erstellung>
+			<KURVE>
+				<Props Ende="3800" SanfterWinkel="FALSE" Start="2950" Winkel="50"/>
+			</KURVE>
+		</TOPOLOGIE>
+		<Objecte>
+			<Object>
+				<Props Name="Bahnsteig" Offset="0;0;0" Position="2270" Qualitaet="1"/>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="37" Datei="\Objekte\Bahnsteige\Frieder\Seitenbahnsteig5.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="37" Datei="\Objekte\Bahnsteige\Frieder\Seitenbahnsteig5.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0.0125" Verschiebung="2;-0.0125;0" Winkel="0;0;0"/>
+				</Eintrag>
+			</Object>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+			<VOR>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="60" KMHNEIG="60" KeinHp2="FALSE" NichtImFahrplan="FALSE" Pos="1690"/>
+					</Value>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi500Bis="0" IndusiFile1000="\Signale\Indusimagnet 2.l3dgrp" IndusiPos1000="0" KennLimit="150" KennLimitHide="40" Pos="490" SignalFile="\Signale\DToepel\OeBB-mod\VS+Zs3v.l3dgrp" Tafel100="TRUE" Tafel200="TRUE" Tafel300="TRUE" TafelFile100="\Objekte\Tafeln\DToepel\Ne3\Ne3-normal-1.l3dgrp" TafelFile200="\Objekte\Tafeln\DToepel\Ne3\Ne3-normal-2.l3dgrp" TafelFile300="\Objekte\Tafeln\DToepel\Ne3\Ne3-normal-3.l3dgrp" TafelPos100="100" TafelPos200="175" TafelPos300="250" Typ="Vorsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<TafelObjExtraData100>
+							<Position>
+								<Props Position="0.6;0;0" Rotation="0;0;0"/>
+							</Position>
+						</TafelObjExtraData100>
+						<TafelObjExtraData200>
+							<Position>
+								<Props Position="0.6;0;0" Rotation="0;0;0"/>
+							</Position>
+						</TafelObjExtraData200>
+						<TafelObjExtraData300>
+							<Position>
+								<Props Position="0.6;0;0" Rotation="0;0;0"/>
+							</Position>
+						</TafelObjExtraData300>
+						<ObjectProps>
+							<Position>
+								<Props Position="1;0;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props Sbk="&#39;TRUE&#39;" Zs3v_Anzeige="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="60" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile1000="\Signale\Indusimagnet 2.l3dgrp" IndusiFile2000="\Signale\Indusimagnet 2.l3dgrp" IndusiFile500="\Signale\Indusimagnet 2.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" IndusiPos500="250" KennLimit="150" KennLimitHide="40;60" Pos="1690" SignalFile="\Signale\DToepel\OeBB-mod\KS+Zs3+Zs3v.l3dgrp" Typ="KombisignalKenn" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="1;0;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props Lichtpunkt_40="&#39;TRUE&#39;" Lichtpunkt_60="&#39;TRUE&#39;" Sbk="&#39;TRUE&#39;" Zs3_Anzeige="&#39;TRUE&#39;" Zs3v_Anzeige="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="60" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile1000="\Signale\Indusimagnet 2.l3dgrp" IndusiFile2000="\Signale\Indusimagnet 2.l3dgrp" IndusiFile500="\Signale\Indusimagnet 2.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" IndusiPos500="250" KennLimit="150" KennLimitHide="40;60" Pos="2690" SignalFile="\Signale\DToepel\OeBB-mod\KS+Zs3+Zs3v.l3dgrp" Typ="KombisignalKenn" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props Lichtpunkt_40="&#39;TRUE&#39;" Lichtpunkt_60="&#39;TRUE&#39;" Sbk="&#39;TRUE&#39;" Zs3_Anzeige="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+							<Position>
+								<Props Position="0.45;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<Bahnuebergang>
+				</Bahnuebergang>
+				<RAIL>
+				</RAIL>
+				<RailQuality>
+				</RailQuality>
+				<LZB>
+				</LZB>
+				<Kilometrierung>
+				</Kilometrierung>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Ueberhoehung>
+				</Ueberhoehung>
+				<RailProps>
+				</RailProps>
+				<Bremswegabstand>
+				</Bremswegabstand>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</VOR>
+			<ZURUECK>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<LZB>
+				</LZB>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</ZURUECK>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="Gleis 2"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="-4" ParallelEnd="10000" ParallelGleis="Gleis 1" ParallelStart="0" StartPos="0" StartPunkt="0;0;0" Typ="Parallel" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
+			</Erstellung>
+		</TOPOLOGIE>
+		<Objecte>
+			<Object>
+				<Props Name="Bahnsteig" Offset="0;0;0" Position="2270" Qualitaet="1"/>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="37" Datei="\Objekte\Bahnsteige\Frieder\Seitenbahnsteig5.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="11" Verschiebung="0;0;0" Winkel="180;0;0"/>
+				</Eintrag>
+			</Object>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+			<VOR>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="60" KMHNEIG="60" KeinHp2="FALSE" NichtImFahrplan="FALSE" Pos="1690"/>
+					</Value>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi500Bis="0" IndusiFile1000="\Signale\Indusimagnet 2.l3dgrp" IndusiPos1000="0" KennLimit="150" KennLimitHide="40" Pos="490" SignalFile="\Signale\DToepel\OeBB-mod\VS+Zs3v.l3dgrp" Tafel100="TRUE" Tafel200="TRUE" Tafel300="TRUE" TafelFile100="\Objekte\Tafeln\DToepel\Ne3\Ne3-normal-1.l3dgrp" TafelFile200="\Objekte\Tafeln\DToepel\Ne3\Ne3-normal-2.l3dgrp" TafelFile300="\Objekte\Tafeln\DToepel\Ne3\Ne3-normal-3.l3dgrp" TafelPos100="100" TafelPos200="175" TafelPos300="250" Typ="Vorsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<TafelObjExtraData100>
+							<Position>
+								<Props Position="-6;0;0" Rotation="0;0;0"/>
+							</Position>
+						</TafelObjExtraData100>
+						<TafelObjExtraData200>
+							<Position>
+								<Props Position="-6;0;0" Rotation="0;0;0"/>
+							</Position>
+						</TafelObjExtraData200>
+						<TafelObjExtraData300>
+							<Position>
+								<Props Position="-6;0;0" Rotation="0;0;0"/>
+							</Position>
+						</TafelObjExtraData300>
+						<ObjectProps>
+							<Position>
+								<Props Position="-6;0;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props Sbk="&#39;TRUE&#39;" Zs3v_Anzeige="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="60" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile1000="\Signale\Indusimagnet 2.l3dgrp" IndusiFile2000="\Signale\Indusimagnet 2.l3dgrp" IndusiFile500="\Signale\Indusimagnet 2.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" IndusiPos500="250" KennLimit="150" KennLimitHide="40;60" Pos="1690" SignalFile="\Signale\DToepel\OeBB-mod\KS+Zs3+Zs3v.l3dgrp" Typ="KombisignalKenn" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props Lichtpunkt_40="&#39;TRUE&#39;" Lichtpunkt_60="&#39;TRUE&#39;" Sbk="&#39;TRUE&#39;" Zs3_Anzeige="&#39;TRUE&#39;" Zs3v_Anzeige="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+							<Position>
+								<Props Position="-6;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="60" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile1000="\Signale\Indusimagnet 2.l3dgrp" IndusiFile2000="\Signale\Indusimagnet 2.l3dgrp" IndusiFile500="\Signale\Indusimagnet 2.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" IndusiPos500="250" KennLimit="150" KennLimitHide="40;60" Pos="2690" SignalFile="\Signale\DToepel\OeBB-mod\KS+Zs3+Zs3v.l3dgrp" Typ="KombisignalKenn" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props Lichtpunkt_40="&#39;TRUE&#39;" Lichtpunkt_60="&#39;TRUE&#39;" Sbk="&#39;TRUE&#39;" Schutzsignal_folgt="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+							<Position>
+								<Props Position="-0.45;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<Bahnuebergang>
+				</Bahnuebergang>
+				<RAIL>
+				</RAIL>
+				<RailQuality>
+				</RailQuality>
+				<LZB>
+				</LZB>
+				<Kilometrierung>
+				</Kilometrierung>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Ueberhoehung>
+				</Ueberhoehung>
+				<RailProps>
+				</RailProps>
+				<Bremswegabstand>
+				</Bremswegabstand>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</VOR>
+			<ZURUECK>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<LZB>
+				</LZB>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</ZURUECK>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="Gleis 3"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="10" ParallelEnd="4000" ParallelGleis="Gleis 1" ParallelStart="2110" StartPos="0" StartPunkt="0;0;0" Typ="Parallel" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
+			</Erstellung>
+			<KURVE>
+				<Props Ende="2150" SanfterWinkel="FALSE" Start="2220" Winkel="-6"/>
+			</KURVE>
+			<Weiche>
+				<Props Anfang="Vorne" ErstellungsArt="NaechsteVerbindung" Gleis="Gleis 1" Kennung="W007" Kruemung="10" Position="0" WeichenWinkel="8" WeichenWinkelDynamisch="TRUE"/>
+			</Weiche>
+		</TOPOLOGIE>
+		<Objecte>
+			<Object>
+				<Props Name="Bahnsteig" Offset="0;0;0" Position="2270" Qualitaet="1"/>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="37" Datei="\Objekte\Bahnsteige\Frieder\Seitenbahnsteig5.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="11" Verschiebung="0;0;0" Winkel="180;0;0"/>
+				</Eintrag>
+			</Object>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="Gleis 4"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="-5" ParallelEnd="5600" ParallelGleis="Gleis 0" ParallelStart="2110" StartPos="0" StartPunkt="0;0;0" Typ="Parallel" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
+			</Erstellung>
+			<KURVE>
+				<Props Ende="2150" SanfterWinkel="FALSE" Start="2220" Winkel="6"/>
+			</KURVE>
+			<Weiche>
+				<Props Anfang="Vorne" ErstellungsArt="NaechsteVerbindung" Gleis="Gleis 2" Kennung="W006" Kruemung="10" Position="0" WeichenWinkel="8" WeichenWinkelDynamisch="TRUE"/>
+			</Weiche>
+			<KURVE>
+				<Props Ende="3850" SanfterWinkel="FALSE" Start="3000" Winkel="-50"/>
+			</KURVE>
+			<Kreuzung>
+				<Props Gleis="Gleis 9" Gleisverlauf="0" Kennung="W301" KreuzungsTyp="1" PositionBis="4000" PositionVon="3800" WeichenWinkel="7.5" WeichenWinkelDynamisch="TRUE"/>
+			</Kreuzung>
+		</TOPOLOGIE>
+		<Objecte>
+			<Object>
+				<Props Name="Bahnsteig" Offset="0;0;0" Position="2270" Qualitaet="1"/>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="37" Datei="\Objekte\Bahnsteige\Frieder\Seitenbahnsteig5.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="37" Datei="\Objekte\Bahnsteige\Frieder\Seitenbahnsteig5.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0.0125" Verschiebung="2;-0.0125;0" Winkel="0;0;0"/>
+				</Eintrag>
+			</Object>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+			<Landschaftsobjekt>
+				<Props Abstand="10" Name="Schotter 4000" Polygon="TRUE" Position="0" Scale="0.190546" Texture="TRUE" TextureFile="\Texturen\juliang\schotter_dunkler3.bmp" Zwischenpunkte="TRUE"/>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="4000" Verschiebung="2.7"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="5600" Verschiebung="2.7"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="5600" Verschiebung="-6.7"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="4000" Verschiebung="-6.7"/>
+				</Landschaftsobjekt>
+			</Landschaftsobjekt>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+			<VOR>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="60" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile1000="\Signale\Indusimagnet 2.l3dgrp" IndusiFile2000="\Signale\Indusimagnet 2.l3dgrp" IndusiFile500="\Signale\Indusimagnet 2.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" IndusiPos500="241" KennLimit="150" KennLimitHide="40;60" Pos="2690" SignalFile="\Signale\DToepel\OeBB-mod\KS+Zs3+Zs3v.l3dgrp" Typ="KombisignalKenn" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props Lichtpunkt_40="&#39;TRUE&#39;" Lichtpunkt_60="&#39;TRUE&#39;" Sbk="&#39;TRUE&#39;" Schutzsignal_folgt="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+							<Position>
+								<Props Position="0.45;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="80" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\Indusimagnet 2.l3dgrp" IndusiPos2000="0" KennLimit="150" KennLimitHide="40;60" Pos="2449" SignalFile="\Signale\DToepel\OeBB-mod\HSh+Zs3.l3dgrp" Typ="Schutzsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props Rangiersignal="&#39;TRUE&#39;" Sbk="&#39;TRUE&#39;" Schutzsignal_folgt="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+							<Position>
+								<Props Position="0.45;0.6;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="60" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile1000="\Signale\Indusimagnet 2.l3dgrp" IndusiFile2000="\Signale\Indusimagnet 2.l3dgrp" IndusiFile500="\Signale\Indusimagnet 2.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" IndusiPos500="241" KennLimit="150" KennLimitHide="40;60" Pos="3890" SignalFile="\Signale\DToepel\OeBB-mod\KS+Zs3+Zs3v.l3dgrp" Typ="KombisignalKenn" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props Lichtpunkt_40="&#39;TRUE&#39;" Lichtpunkt_60="&#39;TRUE&#39;" Sbk="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+							<Position>
+								<Props Position="0;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="60" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile1000="\Signale\Indusimagnet 2.l3dgrp" IndusiFile2000="\Signale\Indusimagnet 2.l3dgrp" IndusiFile500="\Signale\Indusimagnet 2.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" IndusiPos500="250" KennLimit="150" KennLimitHide="40;60" Pos="4990" SignalFile="\Signale\DToepel\OeBB-mod\KS+Zs3+Zs3v.l3dgrp" Typ="KombisignalKenn" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="1;0;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props Sbk="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<Bahnuebergang>
+				</Bahnuebergang>
+				<RAIL>
+				</RAIL>
+				<RailQuality>
+				</RailQuality>
+				<LZB>
+				</LZB>
+				<Kilometrierung>
+				</Kilometrierung>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Ueberhoehung>
+				</Ueberhoehung>
+				<RailProps>
+				</RailProps>
+				<Bremswegabstand>
+				</Bremswegabstand>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</VOR>
+			<ZURUECK>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="60" KMHNEIG="60" KeinHp2="FALSE" NichtImFahrplan="FALSE" Pos="2210"/>
+					</Value>
+					<Value>
+						<Props File="" KMH="60" KMHNEIG="60" KeinHp2="FALSE" NichtImFahrplan="FALSE" Pos="4210"/>
+					</Value>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="80" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\Indusimagnet 2.l3dgrp" IndusiPos2000="0" KennLimit="150" KennLimitHide="40;60" Pos="2451" SignalFile="\Signale\DToepel\OeBB-mod\HSh+Zs3.l3dgrp" Typ="Schutzsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props Rangiersignal="&#39;TRUE&#39;" Sbk="&#39;TRUE&#39;" Schutzsignal_folgt="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+							<Position>
+								<Props Position="-0.45;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="80" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile1000="\Signale\Indusimagnet 2.l3dgrp" IndusiFile2000="\Signale\Indusimagnet 2.l3dgrp" IndusiFile500="\Signale\Indusimagnet 2.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" IndusiPos500="241" KennLimit="150" KennLimitHide="40;60" Pos="2210" SignalFile="\Signale\DToepel\OeBB-mod\HS+Zs3.l3dgrp" Typ="HauptsignalKenn" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props Lichtpunkt_40="&#39;TRUE&#39;" Lichtpunkt_60="&#39;TRUE&#39;" Sbk="&#39;TRUE&#39;" Schutzsignal_folgt="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+							<Position>
+								<Props Position="-0.45;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="60" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile1000="\Signale\Indusimagnet 2.l3dgrp" IndusiFile2000="\Signale\Indusimagnet 2.l3dgrp" IndusiFile500="\Signale\Indusimagnet 2.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" IndusiPos500="250" KennLimit="150" KennLimitHide="40;60" Pos="3010" SignalFile="\Signale\DToepel\OeBB-mod\KS+Zs3+Zs3v.l3dgrp" Typ="KombisignalKenn" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props Lichtpunkt_40="&#39;TRUE&#39;" Lichtpunkt_60="&#39;TRUE&#39;" Sbk="&#39;TRUE&#39;" Schutzsignal_folgt="&#39;TRUE&#39;" Zs3_Anzeige="&#39;TRUE&#39;" Zs3v_Anzeige="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+							<Position>
+								<Props Position="-0.45;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="60" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile1000="\Signale\Indusimagnet 2.l3dgrp" IndusiFile2000="\Signale\Indusimagnet 2.l3dgrp" IndusiFile500="\Signale\Indusimagnet 2.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" IndusiPos500="250" KennLimit="150" KennLimitHide="" Pos="4210" SignalFile="\Signale\DToepel\OeBB-mod\KS+Zs3Unsichtbar+Zs3v.l3dgrp" Typ="KombisignalKenn" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="-6;0;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props Lichtpunkt_40="&#39;TRUE&#39;" Lichtpunkt_60="&#39;TRUE&#39;" Sbk="&#39;TRUE&#39;" Schutzsignal_folgt="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="60" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile1000="\Signale\Indusimagnet 2.l3dgrp" IndusiFile2000="\Signale\Indusimagnet 2.l3dgrp" IndusiFile500="\Signale\Indusimagnet 2.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" IndusiPos500="250" KennLimit="150" KennLimitHide="40;60" Pos="5210" SignalFile="\Signale\DToepel\Ks-mod\KS-Mehrabschnittssignal-links.l3dgrp" Typ="KombisignalKenn" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="0;0;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props Sbk="&#39;TRUE&#39;" Zs3v_Anzeige="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<LZB>
+				</LZB>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</ZURUECK>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="Gleis 6"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="-4" ParallelEnd="5600" ParallelGleis="Gleis 4" ParallelStart="2100" StartPos="0" StartPunkt="0;0;0" Typ="Parallel" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
+			</Erstellung>
+			<KURVE>
+				<Props Ende="2140" SanfterWinkel="FALSE" Start="2190" Winkel="3.6"/>
+			</KURVE>
+			<KURVE>
+				<Props Ende="2150" SanfterWinkel="FALSE" Start="2220" Winkel="-6"/>
+			</KURVE>
+			<Weiche>
+				<Props Anfang="Vorne" ErstellungsArt="NaechsteVerbindung" Gleis="Gleis 2" Kennung="W003" Kruemung="10" Position="0" WeichenWinkel="8" WeichenWinkelDynamisch="TRUE"/>
+			</Weiche>
+		</TOPOLOGIE>
+		<Objecte>
+			<Object>
+				<Props Name="Bahnsteig" Offset="0;0;0" Position="2270" Qualitaet="1"/>
+				<Eintrag>
+					<Props Abstand="10" Anzahl="37" Datei="\Objekte\Bahnsteige\Frieder\Seitenbahnsteig5.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="11" Verschiebung="0;0;0" Winkel="180;0;0"/>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="Gebüsch 0" Offset="0;0;0" Position="4800" Qualitaet="4" RollMaterial="FALSE"/>
+				<Eintrag>
+					<Props Abstand="4" Anzahl="202" Datei="\Objekte\Pflanzen\Frieder\Rand\Busch\131bBusch.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="TRUE" Position="2" Verschiebung="-9;0;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Random>
+						<Props SRAND="1296" XValue="5" YValue="0.1" ZValue="10"/>
+					</Random>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="40" Anzahl="21" Datei="\Objekte\Pflanzen\Frieder\Rand\Busch\116Busch.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="TRUE" Position="0" Verschiebung="-13;0;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Random>
+						<Props SRAND="21179" XValue="7" YValue="0.1" ZValue="10"/>
+					</Random>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="4" Anzahl="202" Datei="\Objekte\Pflanzen\Frieder\Rand\Busch\131cBusch.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="TRUE" Position="2" Verschiebung="-9;0;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Random>
+						<Props SRAND="25815" XValue="5" YValue="0.1" ZValue="10"/>
+					</Random>
+				</Eintrag>
+			</Object>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+			<VOR>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="60" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile1000="\Signale\Indusimagnet 2.l3dgrp" IndusiFile2000="\Signale\Indusimagnet 2.l3dgrp" IndusiFile500="\Signale\Indusimagnet 2.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" IndusiPos500="241" KennLimit="150" KennLimitHide="40;60" Pos="2690" SignalFile="\Signale\DToepel\OeBB-mod\KS+Zs3+Zs3v.l3dgrp" Typ="KombisignalKenn" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props Lichtpunkt_40="&#39;TRUE&#39;" Lichtpunkt_60="&#39;TRUE&#39;" Sbk="&#39;TRUE&#39;" Schutzsignal_folgt="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+							<Position>
+								<Props Position="-0.45;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="80" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\Indusimagnet 2.l3dgrp" IndusiPos2000="0" KennLimit="150" KennLimitHide="40;60" Pos="2449" SignalFile="\Signale\DToepel\OeBB-mod\HSh+Zs3.l3dgrp" Typ="Schutzsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props Rangiersignal="&#39;TRUE&#39;" Sbk="&#39;TRUE&#39;" Schutzsignal_folgt="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+							<Position>
+								<Props Position="-0.45;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="60" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile1000="\Signale\Indusimagnet 2.l3dgrp" IndusiFile2000="\Signale\Indusimagnet 2.l3dgrp" IndusiFile500="\Signale\Indusimagnet 2.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" IndusiPos500="241" KennLimit="150" KennLimitHide="40;60" Pos="3890" SignalFile="\Signale\DToepel\OeBB-mod\KS+Zs3+Zs3v.l3dgrp" Typ="KombisignalKenn" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props Lichtpunkt_40="&#39;TRUE&#39;" Lichtpunkt_60="&#39;TRUE&#39;" Sbk="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+							<Position>
+								<Props Position="-0.45;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="60" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile1000="\Signale\Indusimagnet 2.l3dgrp" IndusiFile2000="\Signale\Indusimagnet 2.l3dgrp" IndusiFile500="\Signale\Indusimagnet 2.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" IndusiPos500="250" KennLimit="150" KennLimitHide="40;60" Pos="4990" SignalFile="\Signale\DToepel\OeBB-mod\KS+Zs3+Zs3v.l3dgrp" Typ="KombisignalKenn" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="-6;0;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props Sbk="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<Bahnuebergang>
+				</Bahnuebergang>
+				<RAIL>
+				</RAIL>
+				<RailQuality>
+				</RailQuality>
+				<LZB>
+				</LZB>
+				<Kilometrierung>
+				</Kilometrierung>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Ueberhoehung>
+				</Ueberhoehung>
+				<RailProps>
+				</RailProps>
+				<Bremswegabstand>
+				</Bremswegabstand>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</VOR>
+			<ZURUECK>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="80" KMHNEIG="80" KeinHp2="FALSE" NichtImFahrplan="FALSE" Pos="2210"/>
+					</Value>
+					<Value>
+						<Props File="" KMH="40" KMHNEIG="40" KeinHp2="FALSE" NichtImFahrplan="FALSE" Pos="4210"/>
+					</Value>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="80" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile1000="\Signale\Indusimagnet 2.l3dgrp" IndusiFile2000="\Signale\Indusimagnet 2.l3dgrp" IndusiFile500="\Signale\Indusimagnet 2.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" IndusiPos500="241" KennLimit="150" KennLimitHide="40;60" Pos="2210" SignalFile="\Signale\DToepel\OeBB-mod\HS+Zs3.l3dgrp" Typ="HauptsignalKenn" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props GA="&#39;8&#39;" GA-Blech="&#39;TRUE&#39;" Lichtpunkt_40="&#39;TRUE&#39;" Lichtpunkt_60="&#39;TRUE&#39;" Sbk="&#39;TRUE&#39;" Schutzsignal_folgt="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+							<Position>
+								<Props Position="0.45;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="60" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile1000="\Signale\Indusimagnet 2.l3dgrp" IndusiFile2000="\Signale\Indusimagnet 2.l3dgrp" IndusiFile500="\Signale\Indusimagnet 2.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" IndusiPos500="250" KennLimit="150" KennLimitHide="40;60" Pos="3010" SignalFile="\Signale\DToepel\OeBB-mod\KS+Zs3+Zs3v.l3dgrp" Typ="KombisignalKenn" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props Lichtpunkt_40="&#39;TRUE&#39;" Lichtpunkt_60="&#39;TRUE&#39;" Sbk="&#39;TRUE&#39;" Schutzsignal_folgt="&#39;TRUE&#39;" Zs3_Anzeige="&#39;TRUE&#39;" Zs3v_Anzeige="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+							<Position>
+								<Props Position="0.45;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="80" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\Indusimagnet 2.l3dgrp" IndusiPos2000="0" KennLimit="150" KennLimitHide="40;60" Pos="2451" SignalFile="\Signale\DToepel\OeBB-mod\HSh+Zs3.l3dgrp" Typ="Schutzsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="0.5;0.6;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props Rangiersignal="&#39;TRUE&#39;" Sbk="&#39;TRUE&#39;" Schutzsignal_folgt="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="60" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile1000="\Signale\Indusimagnet 2.l3dgrp" IndusiFile2000="\Signale\Indusimagnet 2.l3dgrp" IndusiFile500="\Signale\Indusimagnet 2.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" IndusiPos500="250" KennLimit="150" KennLimitHide="" Pos="4210" SignalFile="\Signale\DToepel\OeBB-mod\KS+Zs3Unsichtbar+Zs3v.l3dgrp" Typ="KombisignalKenn" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="1;0;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props Lichtpunkt_40="&#39;TRUE&#39;" Lichtpunkt_60="&#39;TRUE&#39;" Sbk="&#39;TRUE&#39;" Schutzsignal_folgt="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="60" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile1000="\Signale\Indusimagnet 2.l3dgrp" IndusiFile2000="\Signale\Indusimagnet 2.l3dgrp" IndusiFile500="\Signale\Indusimagnet 2.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" IndusiPos500="250" KennLimit="150" KennLimitHide="40;60" Pos="5210" SignalFile="\Signale\DToepel\Ks-mod\KS-Mehrabschnittssignal-rechts.l3dgrp" Typ="KombisignalKenn" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="0;0;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props Sbk="&#39;TRUE&#39;" Zs3v_Anzeige="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<LZB>
+				</LZB>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</ZURUECK>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="Gleis 101"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="5" ParallelEnd="3900" ParallelGleis="Gleis 4" ParallelStart="2910" StartPos="0" StartPunkt="0;0;0" Typ="Parallel" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
+			</Erstellung>
+			<KURVE>
+				<Props Ende="2910" SanfterWinkel="FALSE" Start="2940" Winkel="-5"/>
+			</KURVE>
+			<Weiche>
+				<Props Anfang="Vorne" ErstellungsArt="NaechsteVerbindung" Gleis="Gleis 4" Kennung="W102" Kruemung="10" Position="0" WeichenWinkel="5.5" WeichenWinkelDynamisch="FALSE"/>
+			</Weiche>
+			<Weiche>
+				<Props Anfang="Ende" ErstellungsArt="NaechsteVerbindung" Gleis="Gleis 9" Kennung="W302" Kruemung="10" Position="0" WeichenWinkel="8" WeichenWinkelDynamisch="TRUE"/>
+			</Weiche>
+		</TOPOLOGIE>
+		<Objecte>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+			<ZURUECK>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="60" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile1000="\Signale\Indusimagnet 2.l3dgrp" IndusiFile2000="\Signale\Indusimagnet 2.l3dgrp" IndusiFile500="\Signale\Indusimagnet 2.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" IndusiPos500="250" KennLimit="150" KennLimitHide="40;60" Pos="3010" SignalFile="\Signale\DToepel\OeBB-mod\KS+Zs3+Zs3v.l3dgrp" Typ="KombisignalKenn" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props Lichtpunkt_40="&#39;TRUE&#39;" Lichtpunkt_60="&#39;TRUE&#39;" Sbk="&#39;TRUE&#39;" Schutzsignal_folgt="&#39;TRUE&#39;" Zs3_Anzeige="&#39;TRUE&#39;" Zs3v_Anzeige="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+							<Position>
+								<Props Position="0;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="80" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\Indusimagnet 2.l3dgrp" IndusiPos2000="0" KennLimit="150" KennLimitHide="40;60" Pos="3130" SignalFile="\Signale\DToepel\OeBB-mod\HSh+Zs3.l3dgrp" Typ="Schutzsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props Rangiersignal="&#39;TRUE&#39;" Sbk="&#39;TRUE&#39;" Schutzsignal_folgt="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+							<Position>
+								<Props Position="0;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<LZB>
+				</LZB>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</ZURUECK>
+			<VOR>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="60" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500="TRUE" Indusi500Bis="0" IndusiFile1000="\Signale\Indusimagnet 2.l3dgrp" IndusiFile2000="\Signale\Indusimagnet 2.l3dgrp" IndusiFile500="\Signale\Indusimagnet 2.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" IndusiPos500="241" KennLimit="150" KennLimitHide="40;60" Pos="3890" SignalFile="\Signale\DToepel\OeBB-mod\KS+Zs3+Zs3v.l3dgrp" Typ="KombisignalKenn" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props Lichtpunkt_40="&#39;TRUE&#39;" Lichtpunkt_60="&#39;TRUE&#39;" Sbk="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+							<Position>
+								<Props Position="0;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="80" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\Indusimagnet 2.l3dgrp" IndusiPos2000="0" KennLimit="150" KennLimitHide="40;60" Pos="3760" SignalFile="\Signale\DToepel\OeBB-mod\HSh+Zs3.l3dgrp" Typ="Schutzsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="-0.45;0;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props Rangiersignal="&#39;TRUE&#39;" Sbk="&#39;TRUE&#39;" Schutzsignal_folgt="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<Bahnuebergang>
+				</Bahnuebergang>
+				<RAIL>
+				</RAIL>
+				<RailQuality>
+				</RailQuality>
+				<LZB>
+				</LZB>
+				<Kilometrierung>
+				</Kilometrierung>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Ueberhoehung>
+				</Ueberhoehung>
+				<RailProps>
+				</RailProps>
+				<Bremswegabstand>
+				</Bremswegabstand>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</VOR>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="Gleis 102"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="4" ParallelEnd="3800" ParallelGleis="Gleis 101" ParallelStart="3090" StartPos="0" StartPunkt="0;0;0" Typ="Parallel" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
+			</Erstellung>
+			<Weiche>
+				<Props Anfang="Vorne" ErstellungsArt="NaechsteVerbindung" Gleis="Gleis 103" Kennung="W111" Kruemung="10" Position="0" WeichenWinkel="4" WeichenWinkelDynamisch="TRUE"/>
+			</Weiche>
+			<Weiche>
+				<Props Anfang="Ende" ErstellungsArt="NaechsteVerbindung" Gleis="Gleis 103" Kennung="W304" Kruemung="10" Position="0" WeichenWinkel="8" WeichenWinkelDynamisch="TRUE"/>
+			</Weiche>
+		</TOPOLOGIE>
+		<Objecte>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+			<ZURUECK>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="80" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\Indusimagnet 2.l3dgrp" IndusiPos2000="0" KennLimit="150" KennLimitHide="40;60" Pos="3130" SignalFile="\Signale\DToepel\OeBB-mod\HSh+Zs3.l3dgrp" Typ="Schutzsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="-0.45;0;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props GA="&#39;4&#39;" GA-Blech="&#39;TRUE&#39;" Rangiersignal="&#39;TRUE&#39;" Sbk="&#39;TRUE&#39;" Schutzsignal_folgt="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<LZB>
+				</LZB>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</ZURUECK>
+			<VOR>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="80" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\Indusimagnet 2.l3dgrp" IndusiPos2000="0" KennLimit="150" KennLimitHide="40;60" Pos="3760" SignalFile="\Signale\DToepel\OeBB-mod\HSh+Zs3.l3dgrp" Typ="Schutzsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="-0.45;0;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props GA="&#39;4&#39;" GA-Blech="&#39;TRUE&#39;" Rangiersignal="&#39;TRUE&#39;" Sbk="&#39;TRUE&#39;" Schutzsignal_folgt="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<Bahnuebergang>
+				</Bahnuebergang>
+				<RAIL>
+				</RAIL>
+				<RailQuality>
+				</RailQuality>
+				<LZB>
+				</LZB>
+				<Kilometrierung>
+				</Kilometrierung>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Ueberhoehung>
+				</Ueberhoehung>
+				<RailProps>
+				</RailProps>
+				<Bremswegabstand>
+				</Bremswegabstand>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</VOR>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="Gleis 103"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="8" ParallelEnd="3820" ParallelGleis="Gleis 101" ParallelStart="3060" StartPos="0" StartPunkt="0;0;0" Typ="Parallel" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
+			</Erstellung>
+			<KURVE>
+				<Props Ende="3080" SanfterWinkel="FALSE" Start="3110" Winkel="-7"/>
+			</KURVE>
+			<Weiche>
+				<Props Anfang="Vorne" ErstellungsArt="NaechsteVerbindung" Gleis="Gleis 101" Kennung="W110" Kruemung="10" Position="0" WeichenWinkel="5.5" WeichenWinkelDynamisch="FALSE"/>
+			</Weiche>
+			<Weiche>
+				<Props Anfang="Ende" ErstellungsArt="NaechsteVerbindung" Gleis="Gleis 101" Kennung="W303" Kruemung="10" Position="0" WeichenWinkel="8" WeichenWinkelDynamisch="TRUE"/>
+			</Weiche>
+			<KURVE>
+				<Props Ende="3820" SanfterWinkel="FALSE" Start="3780" Winkel="-7"/>
+			</KURVE>
+		</TOPOLOGIE>
+		<Objecte>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+			<ZURUECK>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="80" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\Indusimagnet 2.l3dgrp" IndusiPos2000="0" KennLimit="150" KennLimitHide="40;60" Pos="3130" SignalFile="\Signale\DToepel\OeBB-mod\HSh+Zs3.l3dgrp" Typ="Schutzsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="-0.45;0;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props GA="&#39;4&#39;" GA-Blech="&#39;TRUE&#39;" Rangiersignal="&#39;TRUE&#39;" Sbk="&#39;TRUE&#39;" Schutzsignal_folgt="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<LZB>
+				</LZB>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</ZURUECK>
+			<VOR>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="80" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\Indusimagnet 2.l3dgrp" IndusiPos2000="0" KennLimit="150" KennLimitHide="40;60" Pos="3760" SignalFile="\Signale\DToepel\OeBB-mod\HSh+Zs3.l3dgrp" Typ="Schutzsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props GA="&#39;4&#39;" GA-Blech="&#39;TRUE&#39;" Rangiersignal="&#39;TRUE&#39;" Sbk="&#39;TRUE&#39;" Schutzsignal_folgt="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+							<Position>
+								<Props Position="0.45;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<Bahnuebergang>
+				</Bahnuebergang>
+				<RAIL>
+				</RAIL>
+				<RailQuality>
+				</RailQuality>
+				<LZB>
+				</LZB>
+				<Kilometrierung>
+				</Kilometrierung>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Ueberhoehung>
+				</Ueberhoehung>
+				<RailProps>
+				</RailProps>
+				<Bremswegabstand>
+				</Bremswegabstand>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</VOR>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="Gleis 9"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="-10" ParallelEnd="0" ParallelGleis="" ParallelStart="0" StartPos="0" StartPunkt="0;0;0" Typ="Weiche" WeicheEnd="1000" WeicheGleis="Gleis 6" WeicheGleisPos="4000" WeicheGleisRichtung="3" WeicheName="W300" WeicheStart="0" WeichenWinkel="7.5" Winkel="0"/>
+			</Erstellung>
+			<KURVE>
+				<Props Ende="800" SanfterWinkel="FALSE" Start="80" Winkel="-50"/>
+			</KURVE>
+		</TOPOLOGIE>
+		<Objecte>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="Verbindung 2-1a"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="-10" ParallelEnd="0" ParallelGleis="" ParallelStart="0" StartPos="0" StartPunkt="0;0;0" Typ="Weiche" WeicheEnd="10" WeicheGleis="Gleis 2" WeicheGleisPos="1900" WeicheGleisRichtung="0" WeicheName="W001" WeicheStart="0" WeichenWinkel="5.5" Winkel="0"/>
+			</Erstellung>
+			<Weiche>
+				<Props Anfang="Ende" ErstellungsArt="NaechsteVerbindung" Gleis="Gleis 1" Kennung="W002" Kruemung="10" Position="0" WeichenWinkel="8" WeichenWinkelDynamisch="TRUE"/>
+			</Weiche>
+		</TOPOLOGIE>
+		<Objecte>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="Verbindung 1-2a"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="-10" ParallelEnd="0" ParallelGleis="" ParallelStart="0" StartPos="0" StartPunkt="0;0;0" Typ="Weiche" WeicheEnd="10" WeicheGleis="Gleis 1" WeicheGleisPos="2000" WeicheGleisRichtung="1" WeicheName="W004" WeicheStart="0" WeichenWinkel="5.5" Winkel="0"/>
+			</Erstellung>
+			<Weiche>
+				<Props Anfang="Ende" ErstellungsArt="NaechsteVerbindung" Gleis="Gleis 2" Kennung="W005" Kruemung="10" Position="0" WeichenWinkel="8" WeichenWinkelDynamisch="TRUE"/>
+			</Weiche>
+		</TOPOLOGIE>
+		<Objecte>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="Verbindung 1-4"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="-10" ParallelEnd="0" ParallelGleis="" ParallelStart="0" StartPos="0" StartPunkt="0;0;0" Typ="Weiche" WeicheEnd="100" WeicheGleis="Gleis 1" WeicheGleisPos="2750" WeicheGleisRichtung="1" WeicheName="W100" WeicheStart="0" WeichenWinkel="4" Winkel="0"/>
+			</Erstellung>
+			<Weiche>
+				<Props Anfang="Ende" ErstellungsArt="NaechsteVerbindung" Gleis="Gleis 4" Kennung="W101" Kruemung="10" Position="0" WeichenWinkel="8" WeichenWinkelDynamisch="TRUE"/>
+			</Weiche>
+			<Kreuzung>
+				<Props Gleis="Gleis 101" Gleisverlauf="0" Kennung="K103" KreuzungsTyp="3" PositionBis="200" PositionVon="100" WeichenWinkel="8" WeichenWinkelDynamisch="TRUE"/>
+			</Kreuzung>
+		</TOPOLOGIE>
+		<Objecte>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="Verbindung 6-4a"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="-10" ParallelEnd="0" ParallelGleis="" ParallelStart="0" StartPos="0" StartPunkt="0;0;0" Typ="Weiche" WeicheEnd="10" WeicheGleis="Gleis 6" WeicheGleisPos="2750" WeicheGleisRichtung="0" WeicheName="W104" WeicheStart="0" WeichenWinkel="5.5" Winkel="0"/>
+			</Erstellung>
+			<Weiche>
+				<Props Anfang="Ende" ErstellungsArt="NaechsteVerbindung" Gleis="Gleis 4" Kennung="W105" Kruemung="10" Position="0" WeichenWinkel="8" WeichenWinkelDynamisch="TRUE"/>
+			</Weiche>
+		</TOPOLOGIE>
+		<Objecte>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="Verbindung 4-6a"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="-10" ParallelEnd="0" ParallelGleis="" ParallelStart="0" StartPos="0" StartPunkt="0;0;0" Typ="Weiche" WeicheEnd="10" WeicheGleis="Gleis 4" WeicheGleisPos="2840" WeicheGleisRichtung="1" WeicheName="W106" WeicheStart="0" WeichenWinkel="5.5" Winkel="0"/>
+			</Erstellung>
+			<Weiche>
+				<Props Anfang="Ende" ErstellungsArt="NaechsteVerbindung" Gleis="Gleis 6" Kennung="W107" Kruemung="10" Position="0" WeichenWinkel="8" WeichenWinkelDynamisch="TRUE"/>
+			</Weiche>
+		</TOPOLOGIE>
+		<Objecte>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="Verbindung 2-101"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="-10" ParallelEnd="0" ParallelGleis="" ParallelStart="0" StartPos="0" StartPunkt="0;0;0" Typ="Weiche" WeicheEnd="10" WeicheGleis="Gleis 2" WeicheGleisPos="2920" WeicheGleisRichtung="1" WeicheName="W108" WeicheStart="0" WeichenWinkel="6" Winkel="0"/>
+			</Erstellung>
+			<Weiche>
+				<Props Anfang="Ende" ErstellungsArt="NaechsteVerbindung" Gleis="Gleis 101" Kennung="W109" Kruemung="10" Position="0" WeichenWinkel="8" WeichenWinkelDynamisch="TRUE"/>
+			</Weiche>
+		</TOPOLOGIE>
+		<Objecte>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="Straße N"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="-37" ParallelEnd="5600" ParallelGleis="Gleis 4" ParallelStart="2600" StartPos="0" StartPunkt="0;0;0" Typ="Parallel" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
+			</Erstellung>
+			<KURVE>
+				<Props Ende="3800" SanfterWinkel="FALSE" Start="4000" Winkel="-20"/>
+			</KURVE>
+			<STEIGUNG>
+				<Props Ende="3600" Promille="5" SanfterWinkel="FALSE" Start="2600"/>
+			</STEIGUNG>
+			<STEIGUNG>
+				<Props Ende="5100" Promille="-20" SanfterWinkel="TRUE" Start="4600"/>
+			</STEIGUNG>
+		</TOPOLOGIE>
+		<Objecte>
+			<Object>
+				<Props Name="Schilder" Offset="0;0;0" Position="0" Qualitaet="0"/>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Strassenschilder\Verkehrszeichen\Gruppe200\274.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="2250.25" Verschiebung="-1;1;0" Winkel="180;0;0"/>
+					<Eigenschaften>
+						<Props Geschwindigkeit="&#39;70&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Strassenschilder\Verkehrszeichen\Gruppe200\274.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="2250.25" Verschiebung="20.1;1;0" Winkel="180;0;0"/>
+					<Eigenschaften>
+						<Props Geschwindigkeit="&#39;70&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Strassenschilder\Verkehrszeichen\Gruppe200\274.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="2050.25" Verschiebung="-1;1;0" Winkel="180;0;0"/>
+					<Eigenschaften>
+						<Props Geschwindigkeit="&#39;50&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Strassenschilder\Verkehrszeichen\Gruppe200\274.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="2050.25" Verschiebung="20.1;1;0" Winkel="180;0;0"/>
+					<Eigenschaften>
+						<Props Geschwindigkeit="&#39;50&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Strassenschilder\DToepel\Schild4.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="1950" Verschiebung="-7.5;0;0" Winkel="180;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Strassenschilder\DToepel\215.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="1925" Verschiebung="-6;1;0" Winkel="180;0;0"/>
+					<Eigenschaften>
+						<Props Geschwindigkeit="&#39;50&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Strassenschilder\DToepel\215.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="1925" Verschiebung="6;1;0" Winkel="180;0;0"/>
+					<Eigenschaften>
+						<Props Geschwindigkeit="&#39;50&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Strassenschilder\DToepel\Schild5.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="1825" Verschiebung="-8;0;0" Winkel="180;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Strassenschilder\Verkehrszeichen\Gruppe200\274.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="1650.25" Verschiebung="-1;1;0" Winkel="180;0;0"/>
+					<Eigenschaften>
+						<Props Geschwindigkeit="&#39;130&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Strassenschilder\Verkehrszeichen\Gruppe200\274.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="1650.25" Verschiebung="20.1;1;0" Winkel="180;0;0"/>
+					<Eigenschaften>
+						<Props Geschwindigkeit="&#39;130&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="Autos re" Offset="0;0;0" Position="3240" Qualitaet="4"/>
+				<Eintrag>
+					<Props Abstand="560" Anzahl="5" Datei="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Lkw_MAN\A1_MAN_Pritsche_EpIV_blau-grau.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="30" Verschiebung="-2;0.25;0" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props Licht_an="&#39;TRUE&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="460" Anzahl="5" Datei="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Lkw_MAN\A1_MAN_Pritsche_EpIV_gruen-orange.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="200" Verschiebung="-2;0.25;0" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props Licht_an="&#39;TRUE&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="680" Anzahl="4" Datei="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Lkw_MAN\A1_MAN_Pritsche_EpIV_orange-beigegrau.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="300" Verschiebung="-2;0.25;0" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props Licht_an="&#39;TRUE&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="680" Anzahl="4" Datei="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Pkw\A1_VW Kaefer_80_dunkelgruen-1.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="150" Verschiebung="-1;0.25;0" Winkel="180;0;0"/>
+					<Eigenschaften>
+						<Props Licht_an="&#39;TRUE&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="880" Anzahl="3" Datei="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Lkw_Mercedes-Benz\A1_Mercedes_Sattelzugmaschine_EpIV_schwarz.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="400" Verschiebung="-2;0.25;0" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props Licht_an="&#39;TRUE&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="880" Anzahl="3" Datei="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Lkw_Anhaenger\A2_Sattelauflieger3_EpIV_grau-rot.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="400" Verschiebung="-2;0.25;0" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props Licht_an="&#39;TRUE&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="Autos li" Offset="0;0;0" Position="3100" Qualitaet="4"/>
+				<Eintrag>
+					<Props Abstand="460" Anzahl="5" Datei="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Pkw\B0_markenneutral-Limousine_schwarz-1.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="100" Verschiebung="3;0.5;0" Winkel="180;0;0"/>
+					<Eigenschaften>
+						<Props Licht_an="&#39;TRUE&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="560" Anzahl="5" Datei="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Pkw\B1_markenneutral-Kleinwagen_gelb-1.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="185" Verschiebung="3;0.5;0" Winkel="180;0;0"/>
+					<Eigenschaften>
+						<Props Licht_an="&#39;TRUE&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="380" Anzahl="5" Datei="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Pkw\B1_markenneutral-Kombi_silber-1.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="245" Verschiebung="3;0.5;0" Winkel="180;0;0"/>
+					<Eigenschaften>
+						<Props Licht_an="&#39;TRUE&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="480" Anzahl="5" Datei="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Pkw\B2_markenneutral-Limousine_rot-1.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="310" Verschiebung="3;0.5;0" Winkel="180;0;0"/>
+					<Eigenschaften>
+						<Props Licht_an="&#39;TRUE&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="526" Anzahl="5" Datei="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Pkw\B1_markenneutral-Kleinwagen_blau-1.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="380" Verschiebung="3;0.5;0" Winkel="180;0;0"/>
+					<Eigenschaften>
+						<Props Licht_an="&#39;TRUE&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="345" Anzahl="5" Datei="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Pkw\B1_markenneutral-Kombi_gold-1.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="470" Verschiebung="3;0.5;0" Winkel="180;0;0"/>
+					<Eigenschaften>
+						<Props Licht_an="&#39;TRUE&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="25" Anzahl="3" Datei="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Pkw\B1_markenneutral-Kombi_polizei-1.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="1045" Verschiebung="3;0.5;0" Winkel="180;0;0"/>
+					<Eigenschaften>
+						<Props Blaulicht="&#39;TRUE&#39;" Blinker_links="&#39;TRUE&#39;" Licht_an="&#39;TRUE&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="Leitplanke" Offset="0;0;0" Position="3800" Qualitaet="2"/>
+				<Eintrag>
+					<Props Abstand="5" Anzahl="360" Datei="\Objekte\Strassenschilder\AndreasZ\Leitplanken\Leitplanke_5m-neu.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="-6;0.5;0" Winkel="0;0;0"/>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="Wald 0" Offset="-25;0;0" Position="4600" Qualitaet="4" RollMaterial="FALSE"/>
+				<Eintrag>
+					<Props Abstand="30" Anzahl="33" Datei="\Objekte\Pflanzen\Frieder\Rand\Nadelbaum\128Nadel.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="TRUE" Position="0" Verschiebung="1;0;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Random>
+						<Props SRAND="10933" XValue="15" YValue="0.5" ZValue="30"/>
+					</Random>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="30" Anzahl="33" Datei="\Objekte\Pflanzen\Frieder\Rand\Nadelbaum\127Nadel.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="TRUE" Position="0" Verschiebung="1;0;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Random>
+						<Props SRAND="30118" XValue="15" YValue="0.5" ZValue="30"/>
+					</Random>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="30" Anzahl="33" Datei="\Objekte\Pflanzen\Frieder\Rand\Laubbaum\01Laub.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="TRUE" Position="0" Verschiebung="0;0;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Random>
+						<Props SRAND="27780" XValue="15" YValue="0.5" ZValue="30"/>
+					</Random>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="30" Anzahl="33" Datei="\Objekte\Pflanzen\Frieder\Rand\Laubbaum\122Laub.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="TRUE" Position="0" Verschiebung="1;0;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Random>
+						<Props SRAND="11273" XValue="15" YValue="15" ZValue="1"/>
+					</Random>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="30" Anzahl="33" Datei="\Objekte\Pflanzen\DToepel\Herbst\01Busch.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="TRUE" Position="0" Verschiebung="2;0;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Random>
+						<Props SRAND="16275" XValue="15" YValue="0.5" ZValue="30"/>
+					</Random>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="30" Anzahl="33" Datei="\Objekte\Pflanzen\DToepel\Herbst\02Busch.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="TRUE" Position="0" Verschiebung="0;0;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Random>
+						<Props SRAND="4951" XValue="15" YValue="0.5" ZValue="30"/>
+					</Random>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="30" Anzahl="33" Datei="\Objekte\Pflanzen\DToepel\Herbst\03Busch.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="TRUE" Position="0" Verschiebung="0;0;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Random>
+						<Props SRAND="7887" XValue="15" YValue="0.5" ZValue="30"/>
+					</Random>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="30" Anzahl="33" Datei="\Objekte\Pflanzen\DToepel\Herbst\04Busch.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="TRUE" Position="0" Verschiebung="0;0;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Random>
+						<Props SRAND="4682" XValue="15" YValue="0.5" ZValue="30"/>
+					</Random>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="30" Anzahl="33" Datei="\Objekte\Pflanzen\DToepel\Herbst\05Busch.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="TRUE" Position="0" Verschiebung="0;0;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Random>
+						<Props SRAND="14244" XValue="15" YValue="0.5" ZValue="30"/>
+					</Random>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="30" Anzahl="33" Datei="\Objekte\Pflanzen\DToepel\Herbst\06Busch.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="TRUE" Position="0" Verschiebung="0;0;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Random>
+						<Props SRAND="17382" XValue="15" YValue="0.5" ZValue="30"/>
+					</Random>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="30" Anzahl="33" Datei="\Objekte\Pflanzen\Frieder\Rand\Laubbaum\106Laub.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="TRUE" Position="0" Verschiebung="0;0;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Random>
+						<Props SRAND="30500" XValue="15" YValue="0.5" ZValue="30"/>
+					</Random>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="30" Anzahl="33" Datei="\Objekte\Pflanzen\Frieder\Rand\Laubbaum\120Laub.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="TRUE" Position="0" Verschiebung="0;0;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Random>
+						<Props SRAND="11917" XValue="15" YValue="0.5" ZValue="30"/>
+					</Random>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="30" Anzahl="33" Datei="\Objekte\Pflanzen\Frieder\Rand\Laubbaum\08Laub.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="TRUE" Position="0" Verschiebung="0;0;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Random>
+						<Props SRAND="18779" XValue="15" YValue="0.5" ZValue="30"/>
+					</Random>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="30" Anzahl="33" Datei="\Objekte\Pflanzen\DToepel\Herbst\Baum1a.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="TRUE" Position="0" Verschiebung="0;0;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Random>
+						<Props SRAND="22662" XValue="15" YValue="0.5" ZValue="30"/>
+					</Random>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="30" Anzahl="33" Datei="\Objekte\Pflanzen\DToepel\Herbst\Baum1b.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="TRUE" Position="0" Verschiebung="0;0;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Random>
+						<Props SRAND="25653" XValue="15" YValue="0.5" ZValue="30"/>
+					</Random>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="20" Anzahl="50" Datei="\Objekte\Pflanzen\Frieder\Rand\Busch\04bBusch.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="TRUE" Position="0" Verschiebung="0;0;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Random>
+						<Props SRAND="19911" XValue="8" YValue="0" ZValue="1"/>
+					</Random>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="Wald 0+" Offset="-45;0;0" Position="4600" Qualitaet="4" RollMaterial="FALSE"/>
+				<Eintrag>
+					<Props Abstand="30" Anzahl="33" Datei="\Objekte\Pflanzen\Frieder\Rand\Nadelbaum\128Nadel.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="TRUE" Position="0" Verschiebung="1;0;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Random>
+						<Props SRAND="19658" XValue="15" YValue="0.5" ZValue="30"/>
+					</Random>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="30" Anzahl="33" Datei="\Objekte\Pflanzen\Frieder\Rand\Nadelbaum\127Nadel.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="TRUE" Position="0" Verschiebung="1;0;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Random>
+						<Props SRAND="680" XValue="15" YValue="0.5" ZValue="30"/>
+					</Random>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="30" Anzahl="33" Datei="\Objekte\Pflanzen\Frieder\Rand\Laubbaum\01Laub.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="TRUE" Position="0" Verschiebung="0;0;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Random>
+						<Props SRAND="11522" XValue="15" YValue="0.5" ZValue="30"/>
+					</Random>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="30" Anzahl="33" Datei="\Objekte\Pflanzen\Frieder\Rand\Laubbaum\122Laub.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="TRUE" Position="0" Verschiebung="1;0;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Random>
+						<Props SRAND="28744" XValue="15" YValue="15" ZValue="1"/>
+					</Random>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="30" Anzahl="33" Datei="\Objekte\Pflanzen\DToepel\Herbst\01Busch.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="TRUE" Position="0" Verschiebung="2;0;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Random>
+						<Props SRAND="11494" XValue="15" YValue="0.5" ZValue="30"/>
+					</Random>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="30" Anzahl="33" Datei="\Objekte\Pflanzen\DToepel\Herbst\02Busch.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="TRUE" Position="0" Verschiebung="0;0;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Random>
+						<Props SRAND="15206" XValue="15" YValue="0.5" ZValue="30"/>
+					</Random>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="30" Anzahl="33" Datei="\Objekte\Pflanzen\DToepel\Herbst\03Busch.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="TRUE" Position="0" Verschiebung="0;0;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Random>
+						<Props SRAND="31691" XValue="15" YValue="0.5" ZValue="30"/>
+					</Random>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="30" Anzahl="33" Datei="\Objekte\Pflanzen\DToepel\Herbst\04Busch.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="TRUE" Position="0" Verschiebung="0;0;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Random>
+						<Props SRAND="3106" XValue="15" YValue="0.5" ZValue="30"/>
+					</Random>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="30" Anzahl="33" Datei="\Objekte\Pflanzen\DToepel\Herbst\05Busch.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="TRUE" Position="0" Verschiebung="0;0;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Random>
+						<Props SRAND="26363" XValue="15" YValue="0.5" ZValue="30"/>
+					</Random>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="30" Anzahl="33" Datei="\Objekte\Pflanzen\DToepel\Herbst\06Busch.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="TRUE" Position="0" Verschiebung="0;0;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Random>
+						<Props SRAND="29057" XValue="15" YValue="0.5" ZValue="30"/>
+					</Random>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="30" Anzahl="33" Datei="\Objekte\Pflanzen\Frieder\Rand\Laubbaum\106Laub.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="TRUE" Position="0" Verschiebung="0;0;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Random>
+						<Props SRAND="1198" XValue="15" YValue="0.5" ZValue="30"/>
+					</Random>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="30" Anzahl="33" Datei="\Objekte\Pflanzen\Frieder\Rand\Laubbaum\120Laub.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="TRUE" Position="0" Verschiebung="0;0;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Random>
+						<Props SRAND="26394" XValue="15" YValue="0.5" ZValue="30"/>
+					</Random>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="30" Anzahl="33" Datei="\Objekte\Pflanzen\Frieder\Rand\Laubbaum\08Laub.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="TRUE" Position="0" Verschiebung="0;0;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Random>
+						<Props SRAND="3952" XValue="15" YValue="0.5" ZValue="30"/>
+					</Random>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="30" Anzahl="33" Datei="\Objekte\Pflanzen\DToepel\Herbst\Baum1a.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="TRUE" Position="0" Verschiebung="0;0;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Random>
+						<Props SRAND="32081" XValue="15" YValue="0.5" ZValue="30"/>
+					</Random>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="30" Anzahl="33" Datei="\Objekte\Pflanzen\DToepel\Herbst\Baum1b.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="TRUE" Position="0" Verschiebung="0;0;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Random>
+						<Props SRAND="15861" XValue="15" YValue="0.5" ZValue="30"/>
+					</Random>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="20" Anzahl="50" Datei="\Objekte\Pflanzen\Frieder\Rand\Busch\04bBusch.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="TRUE" Position="0" Verschiebung="0;0;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+					<Random>
+						<Props SRAND="24675" XValue="8" YValue="0" ZValue="1"/>
+					</Random>
+				</Eintrag>
+			</Object>
+		</Objecte>
+		<Hoeheunterbrechung>
+			<Landschaftsobjekt>
+				<Props Ende="5000" Start="-100"/>
+			</Landschaftsobjekt>
+		</Hoeheunterbrechung>
+		<Landschaft>
+			<Landschaftsobjekt>
+				<Props Abstand="20" Name="Rand" Polygon="TRUE" Position="0" Scale="0.57544" Texture="TRUE" TextureFile="\Texturen\BenjaminR\Gleisbettschotter.bmp" Zwischenpunkte="TRUE"/>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="2600" Verschiebung="-6.5"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="5600" Verschiebung="-6.5"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="5600" Verschiebung="6.5"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="2600" Verschiebung="6.5"/>
+				</Landschaftsobjekt>
+			</Landschaftsobjekt>
+			<Landschaftsobjekt>
+				<Props Abstand="20" Name="Böschung li 0" Polygon="TRUE" Position="4590" Scale="1" Texture="TRUE" TextureFile="\Texturen\KurtP\Waldboden.bmp" Zwischenpunkte="TRUE"/>
+				<Landschaftsobjekt>
+					<Props Hoehe="24" Hoehefrei="FALSE" Position="0" Verschiebung="-65"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="20" Hoehefrei="FALSE" Position="500" Verschiebung="-62"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="24" Hoehefrei="FALSE" Position="1010" Verschiebung="-64"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="1010" Verschiebung="-7"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="0" Verschiebung="-7"/>
+				</Landschaftsobjekt>
+			</Landschaftsobjekt>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+			<VOR>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<Bahnuebergang>
+				</Bahnuebergang>
+				<RAIL>
+					<Value>
+						<Props Pos="0" RAILVALUE="\Rails\strasse_10m.l3drail"/>
+					</Value>
+					<Value>
+						<Props Pos="1840" RAILVALUE="\Rails\strasse_10m.l3drail"/>
+					</Value>
+					<Value>
+						<Props Pos="1810" RAILVALUE="\Rails\nullRail.l3drail"/>
+					</Value>
+				</RAIL>
+				<RailQuality>
+				</RailQuality>
+				<LZB>
+				</LZB>
+				<Kilometrierung>
+				</Kilometrierung>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Ueberhoehung>
+					<Value>
+						<Props Faktor="0.6" Fest="0" MaxValue="4" Pos="0" Typ="0"/>
+					</Value>
+				</Ueberhoehung>
+				<RailProps>
+				</RailProps>
+				<Bremswegabstand>
+				</Bremswegabstand>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</VOR>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="Straße S"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="9" ParallelEnd="5600" ParallelGleis="Straße N" ParallelStart="2600" StartPos="0" StartPunkt="0;0;0" Typ="Parallel" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
+			</Erstellung>
+		</TOPOLOGIE>
+		<Objecte>
+			<Object>
+				<Props Name="Leitplanke" Offset="0;0;0" Position="3100" Qualitaet="4"/>
+				<Eintrag>
+					<Props Abstand="5" Anzahl="500" Datei="\Objekte\Strassenschilder\AndreasZ\Leitplanken\Leitplanke_5m-grau.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="5" Verschiebung="6;0.5;0" Winkel="180;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="50" Anzahl="50" Datei="\Objekte\Strassenschilder\AndreasZ\Leitplanken\Leitpfosten2_D.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="20" Verschiebung="6;0.5;0" Winkel="180;0;0"/>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="Schilder" Offset="0;0;0" Position="0" Qualitaet="0"/>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Strassenschilder\Verkehrszeichen\Gruppe200\274.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="1050" Verschiebung="-20.1;1;0" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props Geschwindigkeit="&#39;110&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Strassenschilder\Verkehrszeichen\Gruppe200\274.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="1050" Verschiebung="1;1;0" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props Geschwindigkeit="&#39;110&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Strassenschilder\Verkehrszeichen\Gruppe200\274.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="1250" Verschiebung="-20.1;1;0" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props Geschwindigkeit="&#39;90&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Strassenschilder\Verkehrszeichen\Gruppe200\274.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="1250" Verschiebung="1;1;0" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props Geschwindigkeit="&#39;90&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Strassenschilder\Verkehrszeichen\Gruppe200\274.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="1450" Verschiebung="-20.1;1;0" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props Geschwindigkeit="&#39;70&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Strassenschilder\Verkehrszeichen\Gruppe200\274.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="1450" Verschiebung="1;1;0" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props Geschwindigkeit="&#39;70&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Strassenschilder\DToepel\Schild3.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="1600" Verschiebung="8;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Strassenschilder\Verkehrszeichen\Gruppe200\274.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="1650" Verschiebung="1;1;0" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props Geschwindigkeit="&#39;50&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Strassenschilder\Verkehrszeichen\Gruppe200\274.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="1650" Verschiebung="-20.1;1;0" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props Geschwindigkeit="&#39;50&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Strassenschilder\DToepel\215.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="1725" Verschiebung="-6;1;0" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props Geschwindigkeit="&#39;50&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Strassenschilder\DToepel\215.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="1725" Verschiebung="6;1;0" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props Geschwindigkeit="&#39;50&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Strassenschilder\Verkehrszeichen\Gruppe200\274.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="2050" Verschiebung="1;1;0" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props Geschwindigkeit="&#39;100&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Strassenschilder\Verkehrszeichen\Gruppe200\274.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="2050" Verschiebung="-20.1;1;0" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props Geschwindigkeit="&#39;100&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="Autos li" Offset="0;0;0" Position="5100" Qualitaet="4"/>
+				<Eintrag>
+					<Props Abstand="-460" Anzahl="5" Datei="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Pkw\B0_markenneutral-Limousine_schwarz-1.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="100" Verschiebung="-3;0.5;0" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props Licht_an="&#39;TRUE&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="-560" Anzahl="4" Datei="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Pkw\B1_markenneutral-Kleinwagen_gelb-1.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="185" Verschiebung="-3;0.5;0" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props Licht_an="&#39;TRUE&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="-380" Anzahl="5" Datei="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Pkw\B1_markenneutral-Kombi_silber-1.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="245" Verschiebung="-3;0.5;0" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props Licht_an="&#39;TRUE&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="-480" Anzahl="5" Datei="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Pkw\B2_markenneutral-Limousine_rot-1.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="310" Verschiebung="-3;0.5;0" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props Licht_an="&#39;TRUE&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="-526" Anzahl="5" Datei="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Pkw\B1_markenneutral-Kleinwagen_blau-1.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="380" Verschiebung="-3;0.5;0" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props Licht_an="&#39;TRUE&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="-345" Anzahl="5" Datei="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Pkw\B1_markenneutral-Kombi_gold-1.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="470" Verschiebung="-3;0.5;0" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props Licht_an="&#39;TRUE&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="Autos re" Offset="0;0;0" Position="5150" Qualitaet="4"/>
+				<Eintrag>
+					<Props Abstand="-560" Anzahl="4" Datei="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Lkw_MAN\A1_MAN_Pritsche_EpIV_blau-grau.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="20" Verschiebung="2;0.25;0" Winkel="180;0;0"/>
+					<Eigenschaften>
+						<Props Licht_an="&#39;TRUE&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="-460" Anzahl="5" Datei="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Lkw_MAN\A1_MAN_Pritsche_EpIV_gruen-orange.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="200" Verschiebung="2;0.25;0" Winkel="180;0;0"/>
+					<Eigenschaften>
+						<Props Licht_an="&#39;TRUE&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="-680" Anzahl="4" Datei="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Lkw_MAN\A1_MAN_Pritsche_EpIV_orange-beigegrau.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="300" Verschiebung="2;0.25;0" Winkel="180;0;0"/>
+					<Eigenschaften>
+						<Props Licht_an="&#39;TRUE&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="-680" Anzahl="3" Datei="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Pkw\A1_VW Kaefer_80_dunkelgruen-1.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="150" Verschiebung="1;0.25;0" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props Licht_an="&#39;TRUE&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="-880" Anzahl="3" Datei="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Lkw_Mercedes-Benz\A1_Mercedes_Sattelzugmaschine_EpIV_schwarz.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="400" Verschiebung="2;0.25;0" Winkel="180;0;0"/>
+					<Eigenschaften>
+						<Props Licht_an="&#39;TRUE&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="-880" Anzahl="3" Datei="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Lkw_Anhaenger\A2_Sattelauflieger3_EpIV_grau-rot.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="400" Verschiebung="2;0.25;0" Winkel="180;0;0"/>
+					<Eigenschaften>
+						<Props Licht_an="&#39;TRUE&#39;"/>
+					</Eigenschaften>
+				</Eintrag>
+			</Object>
+		</Objecte>
+		<Hoeheunterbrechung>
+			<Landschaftsobjekt>
+				<Props Ende="5000" Start="-100"/>
+			</Landschaftsobjekt>
+		</Hoeheunterbrechung>
+		<Landschaft>
+			<Landschaftsobjekt>
+				<Props Abstand="20" Name="Rand" Polygon="TRUE" Position="0" Scale="0.57544" Texture="TRUE" TextureFile="\Texturen\BenjaminR\Gleisbettschotter.bmp" Zwischenpunkte="TRUE"/>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="2600" Verschiebung="-6.5"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="5600" Verschiebung="-6.5"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="5600" Verschiebung="6.5"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="2600" Verschiebung="6.5"/>
+				</Landschaftsobjekt>
+			</Landschaftsobjekt>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+			<VOR>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<Bahnuebergang>
+				</Bahnuebergang>
+				<RAIL>
+					<Value>
+						<Props Pos="0" RAILVALUE="\Rails\strasse_10m.l3drail"/>
+					</Value>
+				</RAIL>
+				<RailQuality>
+				</RailQuality>
+				<LZB>
+				</LZB>
+				<Kilometrierung>
+				</Kilometrierung>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Ueberhoehung>
+					<Value>
+						<Props Faktor="0.6" Fest="0" MaxValue="4" Pos="0" Typ="0"/>
+					</Value>
+				</Ueberhoehung>
+				<RailProps>
+				</RailProps>
+				<Bremswegabstand>
+				</Bremswegabstand>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</VOR>
+			<ZURUECK>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<LZB>
+				</LZB>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</ZURUECK>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+</STRECKE>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="" FileInfo="" FilePicture="" Texture="FuehrerhausMAN-gruen.bmp" TransTexture="FuehrerhausMAN_AA.bmp" Transparent="FALSE" TransparentTyp="3"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0;2;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="2.2;2;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="2.2;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="0;0;1.65"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="0;2;1.65"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="2.2;2;1.65"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="2.2;0;1.65"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0.05;2.08;0.05"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="0.05;2.08;1.6"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="2.15;2.08;1.6"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="2.15;2.08;0.05"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="281,476;281,246;476,246;476,476"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;6;5;4" Texture="1,476;1,246;276,246;276,476"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;2;6;7" Texture="193,236;193,6;387,6;387,236"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;1;0" Texture="1,236;1,6;194,6;194,236"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="8;9;10;11" Texture="395,233;413,234;412,223;395,221"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="1;2;11;8" Texture="409,221;409,232;397,233;398,222"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="2;11;10;6" Texture="412,222;410,231;397,232;397,221"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="6;10;9;5" Texture="411,220;411,231;396,233;400,222"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="1;8;9;5" Texture="410,222;409,231;399,234;396,221"/>
+	</Flaeche>
+</OBJECT>

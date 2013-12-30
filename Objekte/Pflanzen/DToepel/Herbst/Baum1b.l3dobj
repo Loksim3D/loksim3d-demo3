@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="TRUE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="Frieder Cramer" FileInfo="Esche/nHöhe: 32m/nBreite: 28m/ndreht mit dem Betrachter mit" FilePicture="105Laub.l3dobj.jpg" Texture="Baum1b.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="2"/>
+	<Point>
+		<Props Normal="0;-1;0" Vekt="-7;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="-7;16;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="7;16;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;-1;0" Vekt="7;0;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="0,480;0,0;415,0;415,480"/>
+	</Flaeche>
+</OBJECT>

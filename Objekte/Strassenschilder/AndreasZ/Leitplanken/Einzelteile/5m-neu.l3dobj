@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="Andreas Zimmermann" FileInfo="Leitplanke 5m" FilePicture="" Texture="5m-grau.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="-1;-1;0" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;0" Vekt="0;0.4;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;0" Vekt="0.1;0.4;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;0" Vekt="0.1;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;0" Vekt="0;0;5.1"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;0" Vekt="0;0.4;5.1"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;0" Vekt="0.1;0.4;5.1"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;0" Vekt="0.1;0;5.1"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="1,119;1,81;4,81;4,119"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;6;5;4" Texture="1,119;1,81;4,81;4,119"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;2;6;7" Texture="1,119;1,81;299,81;299,119"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;1;0" Texture="1,119;1,81;299,81;299,119"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="1;5;6;2" Texture="4,81;4,85;154,84;151,81"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;3;0;4" Texture="8,94;13,92;199,91;199,94"/>
+	</Flaeche>
+</OBJECT>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="TRUE" Drawrueckseiten="FALSE" FileAuthor="" FileInfo="Dieses Objekt ist vom Set/n&#34;Signale\Einzelteile&#34;/nübernommen." FilePicture="" Texture="scheinweiss.bmp" TransTexture="" Transparent="TRUE" TransparentTyp="1"/>
+	<Point>
+		<Props Normal="1;1;1" Vekt="-0.01;0.01;-0.003"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.01;0.01;-0.003"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.01;-0.01;-0.003"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="-0.01;-0.01;-0.003"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="0,0;134,0;135,127;0,127"/>
+	</Flaeche>
+</OBJECT>

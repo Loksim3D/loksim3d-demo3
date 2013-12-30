@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="TRUE" Drawrueckseiten="TRUE" FileAuthor="" FileInfo="" FilePicture="" Texture="polizei.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="-0.56;0;-0.01"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="-0.56;0.2;-0.01"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.56;0.2;-0.01"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.56;0;-0.01"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="-0.56;0;0.26"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="-0.56;0.2;0.26"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.56;0.2;0.26"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="0.56;0;0.26"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.35;0;-0.01"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.35;0.2;-0.01"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.35;0.2;0.26"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="0.35;0;0.26"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="-0.35;0;-0.01"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="-0.35;0.2;-0.01"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="-0.35;0.2;0.26"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="-0.35;0;0.26"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;13;12" Texture="11,6;12,5;20,5;18,7"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;1;0" Texture="11,7;14,5;17,5;21,6"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="1;5;14;13" Texture="12,6;15,5;20,5;19,7"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;15;14;5" Texture="14,7;22,7;20,5;12,5"/>
+	</Flaeche>
+</OBJECT>

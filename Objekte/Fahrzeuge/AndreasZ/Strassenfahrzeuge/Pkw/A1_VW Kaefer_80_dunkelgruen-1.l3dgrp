@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="Andreas Zimmermann" FileInfo="VW Käfer (um 1980)/n----------------------------------------------------------------/nLackierung dunkelgrün/nKategorie A - mit Licht und Blinkern/n----------------------------------------------------------------/n(c) by Andreas Zimmermann, 28.09.2005/nwww.a-zimmermann.com" FilePicture="A1_VW Kaefer_80_dunkelgruen-1.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\karosserie-kaefer-dunkelgruen2.l3dobj" Position="1.725;0.32;3.6" Rotation="180;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0.5" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\blinker3.l3dobj" Position="0.32;0.75;1.05" Rotation="0;0;0" ShowOn="Blinker_links or Warnblinker" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0.5" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\blinker3.l3dobj" Position="1.59;0.75;1.05" Rotation="0;0;0" ShowOn="Blinker_rechts or Warnblinker" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\strasse_scheinwerfer2.l3dobj" Position="0.75;0.1;5" Rotation="0;0;0" ShowOn="Licht_an" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0.5" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\strasse_ruecklicht.l3dobj" Position="0.3;0.1;5.1" Rotation="0;0;0" ShowOn="Blinker_links or Warnblinker" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0.5" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\strasse_ruecklicht.l3dobj" Position="0.35;0.1;0.7" Rotation="180;0;0" ShowOn="Blinker_links or Warnblinker" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0.5" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\strasse_ruecklicht.l3dobj" Position="1.63;0.1;5.1" Rotation="0;0;0" ShowOn="Blinker_rechts or Warnblinker" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0.5" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\strasse_ruecklicht.l3dobj" Position="1.6;0.1;0.7" Rotation="180;0;0" ShowOn="Blinker_rechts or Warnblinker" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\reifen-vw2.l3dobj" Position="0.16;0.39;4.3" Rotation="180;90;0" ZoomFaktor="0"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\reifen-vw2.l3dobj" Position="0.16;0.39;1.57" Rotation="180;90;0" ZoomFaktor="0"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\reifen-vw2.l3dobj" Position="1.79;0.39;1.57" Rotation="0;90;0" ZoomFaktor="0"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\reifen-vw2.l3dobj" Position="1.79;0.39;4.3" Rotation="0;90;0" ZoomFaktor="0"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\rueckfahrlicht2.l3dobj" Position="0.3;0.625;1.025" Rotation="0;0;0" ShowOn="Rückwärtsgang" ZoomFaktor="0"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\rueckfahrlicht2.l3dobj" Position="1.57;0.625;1.025" Rotation="0;0;0" ShowOn="Rückwärtsgang" ZoomFaktor="0"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\tritt-kaefer.l3dobj" Position="0.175;0.29;2.07" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\auspuff-kaefer.l3dobj" Position="0.7;0.26;0.75" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\auspuff-kaefer.l3dobj" Position="1.19;0.26;0.75" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\stossstange-kaefer1.l3dobj" Position="0.57;0.38;0.77" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\stossstange-kaefer1a.l3dobj" Position="0.17;0.38;0.9" Rotation="17;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\stossstange-kaefer1a.l3dobj" Position="1.36;0.38;0.77" Rotation="-17;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\stossstange-kaefer1a.l3dobj" Position="0.57;0.4;1.19" Rotation="90;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\stossstange-kaefer1a.l3dobj" Position="1.33;0.4;1.19" Rotation="90;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\stossstange-kaefer1a.l3dobj" Position="1.33;0.4;5.04" Rotation="90;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\stossstange-kaefer1a.l3dobj" Position="0.57;0.4;5.04" Rotation="90;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\stossstange-kaefer1.l3dobj" Position="0.57;0.38;4.99" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\stossstange-kaefer1a.l3dobj" Position="0.17;0.38;4.92" Rotation="-10;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\stossstange-kaefer1a.l3dobj" Position="1.36;0.38;4.99" Rotation="10;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\scheinwerfer-kaefer.l3dobj" Position="1.6;0.7;4.79" Rotation="90;70;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\scheinwerfer-kaefer.l3dobj" Position="0.35;0.7;4.79" Rotation="90;70;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\kennzeichen-alt.l3dobj" Position="1.27;0.33;5.06" Rotation="180;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\ruecklicht-kaefer-dunkelgruen.l3dobj" Position="1.61;0.7;1.05" Rotation="180;0;80" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\ruecklicht-kaefer-dunkelgruen.l3dobj" Position="0.34;0.7;1.05" Rotation="180;0;80" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Licht_an" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\kennzeichen-alt2.l3dobj" Position="0.8;0.63;1.01" Rotation="0;0;23" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\kennzeichenbeleuchtung-kaefer.l3dobj" Position="0.87;0.88;1.08" Rotation="0;0;10" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\blinker-aus.l3dobj" Position="1.5;0.42;5.04" Rotation="10;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\blinker-aus.l3dobj" Position="0.25;0.42;5" Rotation="-10;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\kennzeichen-alt2-beleuchtet.l3dobj" Position="0.8;0.63;1.01" Rotation="0;0;23" ShowOn="Licht_an" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0.5" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\blinker-ein.l3dobj" Position="1.5;0.42;5.06" Rotation="10;0;0" ShowOn="Blinker_rechts or Warnblinker" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0.5" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\blinker-ein.l3dobj" Position="0.25;0.42;5.02" Rotation="-10;0;0" ShowOn="Blinker_links or Warnblinker" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\ruecklicht-kaefer-ein.l3dobj" Position="0.3;0.66;1.03" Rotation="0;0;7" ShowOn="Licht_an" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\ruecklicht-kaefer-ein.l3dobj" Position="1.57;0.66;1.03" Rotation="0;0;7" ShowOn="Licht_an" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\scheinwerfer-kaefer-ein.l3dobj" Position="1.495;0.615;4.84" Rotation="0;0;-20" ShowOn="Licht_an" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\scheinwerfer-kaefer-ein.l3dobj" Position="0.25;0.615;4.84" Rotation="0;0;-20" ShowOn="Licht_an" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\griff-kaefer.l3dobj" Position="0.97;0.52;4.85" Rotation="270;30;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\spiegel-kaefer.l3dobj" Position="0.25;1.1;3.49" Rotation="160;0;0" ZoomFaktor="1"/>
+	</Object>
+</GRUPPENOBJECT>

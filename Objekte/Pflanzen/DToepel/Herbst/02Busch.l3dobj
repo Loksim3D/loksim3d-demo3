@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="TRUE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="Frieder Cramer" FileInfo="Busch 5,5m" FilePicture="02Busch.l3dobj.jpg" Texture="02Busch.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="2"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="-3.37;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="-3.37;5.5;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="3.37;5.5;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="3.37;0;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="0,200;0,0;245,0;245,200"/>
+	</Flaeche>
+</OBJECT>

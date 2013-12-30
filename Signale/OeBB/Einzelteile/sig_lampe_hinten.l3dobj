@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="" FileInfo="Erstellt mit L3D ObjectCreator, Version 0.99" FilePicture="" Texture="blende_grosz.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="0.11;0;0" Vekt="0.1056;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0.07;0;-0.09" Vekt="0.0672;0;-0.0864"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.02;0;-0.11" Vekt="-0.0192;0;-0.1056"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.1;0;-0.05" Vekt="-0.096;0;-0.048"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.1;0;0.05" Vekt="-0.096;0;0.048"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.02;0;0.11" Vekt="-0.0192;0;0.1056"/>
+	</Point>
+	<Point>
+		<Props Normal="0.07;0;0.09" Vekt="0.0672;0;0.0864"/>
+	</Point>
+	<Point>
+		<Props Normal="0.11;0;0" Vekt="0.1056;0.2016;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0.07;0;-0.09" Vekt="0.0672;0.2016;-0.0864"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.02;0;-0.11" Vekt="-0.0192;0.2016;-0.1056"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.1;0;-0.05" Vekt="-0.096;0.2016;-0.048"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.1;0;0.05" Vekt="-0.096;0.2016;0.048"/>
+	</Point>
+	<Point>
+		<Props Normal="-0.02;0;0.11" Vekt="-0.0192;0.2016;0.1056"/>
+	</Point>
+	<Point>
+		<Props Normal="0.07;0;0.09" Vekt="0.0672;0.2016;0.0864"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;7;8;1" Texture="5,5;50,5;50,50;5,50"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="1;8;9;2" Texture="5,5;50,5;50,50;5,50"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="2;9;10;3" Texture="5,5;50,5;50,50;5,50"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;10;11;4" Texture="5,5;50,5;50,50;5,50"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;11;12;5" Texture="5,5;50,5;50,50;5,50"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="5;12;13;6" Texture="5,5;50,5;50,50;5,50"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="6;13;7;0" Texture="5,5;50,5;50,50;5,50"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;8;9;10;11;12;13" Texture="0,0;0,0;0,0;0,0;0,0;0,0;0,0"/>
+	</Flaeche>
+</OBJECT>

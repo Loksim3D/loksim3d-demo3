@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<OBJECT>
+	<Props TransparentTyp="1" Beleuchtet="FALSE" Transparent="TRUE" FilePicture="" FileAuthor="" FileInfo="" Drawrueckseiten="TRUE" TransTexture="" Texture="KS-Mast-2.bmp"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0;1.04;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.18;1.04;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.18;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="0;0;0.35"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="0;1.04;0.35"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.18;1.04;0.35"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="0.18;0;0.35"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="0,171;0,0;56,0;56,171"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;6;5;4" Texture="0,171;0,0;56,0;56,171"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;2;6;7" Texture="65,171;65,0;124,0;124,171"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;1;0" Texture="65,170;65,0;124,0;124,170"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="1;5;6;2" Texture="0,100;0,0;56,0;56,100"/>
+	</Flaeche>
+</OBJECT>

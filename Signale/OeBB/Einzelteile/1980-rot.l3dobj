@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="TRUE" Drawrueckseiten="FALSE" FileAuthor="" FileInfo="" FilePicture="" Texture="1980-rot.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="2"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0;0.2;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.2;0.2;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.2;0;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="9,244;9,35;215,35;215,244"/>
+	</Flaeche>
+</OBJECT>

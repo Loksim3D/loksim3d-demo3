@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="Andreas Zimmermann" FileInfo="" FilePicture="" Texture="Pritsche_grau.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="0;0.7;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="2.4;0.7;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="2.4;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;0" Vekt="0;0;5.5"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;0" Vekt="0;0.7;5.5"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;0" Vekt="2.4;0.7;5.5"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;0" Vekt="2.4;0;5.5"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="1,140;1,95;188,95;188,140"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;2;6;7" Texture="1,46;1,1;477,1;477,46"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;1;0" Texture="1,93;1,48;479,48;479,93"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;0;3;7" Texture="232,138;234,97;193,97;192,138"/>
+	</Flaeche>
+</OBJECT>

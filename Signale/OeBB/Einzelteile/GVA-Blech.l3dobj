@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="FALSE" FileAuthor="" FileInfo="Dieses Objekt stammt von Rainer Ziener." FilePicture="" Texture="GVA-Blech.bmp" TransTexture="" Transparent="TRUE" TransparentTyp="1"/>
+	<Point>
+		<Props Normal="0;1;0" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="-0.42;0.76;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="0.42;0.76;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="-0.42;0.76;0"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;0" Vekt="0.42;0.76;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2" Texture="43,76;1,1;85,1"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;5;4" Texture="76,64;83,48;68,48"/>
+	</Flaeche>
+</OBJECT>

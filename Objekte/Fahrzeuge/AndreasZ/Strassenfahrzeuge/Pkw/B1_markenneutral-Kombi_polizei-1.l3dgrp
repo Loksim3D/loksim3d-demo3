@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="Andreas Zimmermann" FileInfo="markenneutraler Kombi/n----------------------------------------------------------------/nLackierung Polizei/nKategorie B - mit Licht und Blinkern/nBlaulicht und Leuchtschrift/n----------------------------------------------------------------/n(c) by Andreas Zimmermann, 09.09.2005/nwww.nietenzaehler.de/n----------------------------------------------------------------/nDas Blaulicht stammt von Andre Weiß./n(c) by Andre Weiß, 12.2005" FilePicture="B1_markenneutral-Kombi_polizei-1.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\andreW\polizei\karosserie-kombi-polizei.l3dobj" Position="0;0;0" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\scheinwerfer2.l3dobj" Position="-0.05;0.31;4.88" Rotation="0;0;0" ShowOn="Licht_an or Fernlicht_an" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\ruecklicht.l3dobj" Position="0;0.4;0.1" Rotation="0;0;10" ShowOn="Licht_an or Fernlicht_an" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\tarnteil.l3dobj" Position="0.1;0.4;0.17" Rotation="0;0;10" ShowOn="Licht_an or Fernlicht_an" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0.5" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\blinker1.l3dobj" Position="0.05;0.53;0.13" Rotation="0;0;10" ShowOn="Blinker_links or Warnblinker" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0.5" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\blinker1.l3dobj" Position="1.4;0.53;0.13" Rotation="0;0;10" ShowOn="Blinker_rechts or Warnblinker" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0.5" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\blinker1.l3dobj" Position="1.44;0.24;4.87" Rotation="0;90;0" ShowOn="Blinker_rechts or Warnblinker" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0.5" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\blinker1.l3dobj" Position="0.2;0.24;4.87" Rotation="0;90;0" ShowOn="Blinker_links or Warnblinker" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\strasse_scheinwerfer2.l3dobj" Position="0.75;-0.13;4.8" Rotation="0;0;0" ShowOn="Licht_an" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0.5" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\strasse_ruecklicht.l3dobj" Position="0.15;-0.12;5" Rotation="0;0;0" ShowOn="Blinker_links or Warnblinker" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0.5" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\strasse_ruecklicht.l3dobj" Position="0.15;-0.12;-0.3" Rotation="180;0;0" ShowOn="Blinker_links or Warnblinker" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0.5" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\strasse_ruecklicht.l3dobj" Position="1.35;-0.12;5" Rotation="0;0;0" ShowOn="Blinker_rechts or Warnblinker" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0.5" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\strasse_ruecklicht.l3dobj" Position="1.35;-0.12;-0.3" Rotation="180;0;0" ShowOn="Blinker_rechts or Warnblinker" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\strasse_scheinwerfer.l3dobj" Position="0.75;-0.13;4.8" Rotation="0;0;0" ShowOn="Fernlicht_an" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\andreW\polizei\Rundumlicht.l3dobj" Position="0.75;1.35;2.3" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\andreW\polizei\Rundumlicht2.l3dobj" Position="0.75;1.35;2.3" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0.2" Name="\Objekte\Fahrzeuge\andreW\polizei\Rundumlicht3.l3dobj" Position="0.75;1.35;2.3" Rotation="0;0;0" ShowOn="Blaulicht" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0.7" Name="\Objekte\Fahrzeuge\andreW\polizei\Rundumlicht4.l3dobj" Position="0.75;1.35;2.3" Rotation="0;0;0" ShowOn="Blaulicht and Stop_Polizei" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\andreW\polizei\karosserie-kombi-polizei-mh.l3dobj" Position="0;0;0" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\andreW\polizei\antenne.l3dobj" Position="0.75;1.35;1.2" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\andreW\polizei\Rundumlicht2-a.l3dobj" Position="0.75;1.35;2.3" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0.25" Name="\Objekte\Fahrzeuge\andreW\polizei\Rundumlicht3-a.l3dobj" Position="0.75;1.35;2.3" Rotation="0;0;0" ShowOn="Blaulicht" ZoomFaktor="1"/>
+	</Object>
+	<Font>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="16777215" DefaultText="Polizei" Fonthoehe="0.4" GroupProperty="" Leuchtend="FALSE" Name="\Fonts\Impact.l3dfont" Position="-0.01;0.4;3" Rotation="90;0;0"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="16777215" DefaultText="Polizei" Fonthoehe="0.4" GroupProperty="" Leuchtend="FALSE" Name="\Fonts\Impact.l3dfont" Position="1.51;0.4;3" Rotation="-90;0;0"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="16777215" DefaultText="Polizei" Fonthoehe="0.4" GroupProperty="" Leuchtend="FALSE" Name="\Fonts\Impact.l3dfont" Position="0.8;0.72;4.3" Rotation="180;0;78"/>
+	</Font>
+</GRUPPENOBJECT>

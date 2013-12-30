@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<OBJECT>
+	<Props TransparentTyp="0" Beleuchtet="FALSE" Transparent="FALSE" FilePicture="" FileAuthor="" FileInfo="" Drawrueckseiten="FALSE" TransTexture="" Texture="Rohr.bmp"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0;0.1;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.08;0.1;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.08;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="0;0;0.3"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="0;0.1;0.3"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.08;0.1;0.3"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="0.08;0;0.3"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="13,62;0,0;100,0;106,59"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;6;5;4" Texture="0,100;0,0;100,0;100,100"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;2;6;7" Texture="4,64;0,0;100,0;104,61"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;1;0" Texture="5,64;0,0;100,0;98,63"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="1;5;6;2" Texture="3,65;0,0;100,0;103,63"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;3;0;4" Texture="0,64;0,0;100,0;99,65"/>
+	</Flaeche>
+</OBJECT>

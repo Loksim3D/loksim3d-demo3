@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="Andreas Zimmermann" FileInfo="Mercedes Sattelzugmaschine (Ep IV)/n----------------------------------------------------------------/nFarbe schwarz, Unterbau dunkelrot/nKategorie A - mit Licht und Blinkern/n- MIT LICHTKEGEL -/n----------------------------------------------------------------/n(c) by Andreas Zimmermann, 18.02.2007/nwww.nietenzaehler.de" FilePicture="A1_Mercedes_Sattelzugmaschine_EpIV_schwarz.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\Rad-Auflieger.l3dobj" Position="-1.2;0.5;0.3" Rotation="180;90;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\Rad-Auflieger.l3dobj" Position="1.2;0.5;0.3" Rotation="0;90;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\Rad-Auflieger.l3dobj" Position="-0.88;0.5;0.3" Rotation="180;90;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\Rad-Auflieger.l3dobj" Position="0.88;0.5;0.3" Rotation="0;90;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\schlusslampen.l3dobj" Position="1;0.86;1" Rotation="180;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\schlusslampen.l3dobj" Position="-1;0.96;1" Rotation="180;180;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\Achse-Lkw.l3dobj" Position="-1;0.4;0.2" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\Spritzschutz3.l3dobj" Position="1.18;0.2;0.91" Rotation="180;0;4" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\Spritzschutz3.l3dobj" Position="-0.58;0.2;0.91" Rotation="180;0;4" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\schutzblech-rotbraun.l3dobj" Position="1.2;0.47;0.3" Rotation="0;90;90" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\schutzblech-rotbraun.l3dobj" Position="-0.55;0.47;0.3" Rotation="0;90;90" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\Frieder\ET\LKW\Zapfen.l3dobj" Position="0;0.7;0" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\blech1a.l3dobj" Position="1.2;0.93;0.93" Rotation="180;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Licht_an" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\kennzeichen-alt3.l3dobj" Position="1.1;0.58;0.94" Rotation="180;0;9" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\Rahmen-kurz.l3dobj" Position="0.5;0.6;0.9" Rotation="180;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\Rad_Vorne2.l3dobj" Position="-1.2;0.5;-2.6" Rotation="180;90;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\Rad_Vorne2.l3dobj" Position="1.2;0.5;-2.6" Rotation="0;90;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\kennzeichen-alt3-beleuchtet.l3dobj" Position="1.1;0.58;0.94" Rotation="180;0;9" ShowOn="Licht_an or Licht_anTag" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Brightness="60" GreaterAs="FALSE" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\ruecklicht-kaefer-ein.l3dobj" Position="0.93;0.87;1.02" Rotation="180;0;0" ShowIfBrightness="TRUE" ShowOn="Licht_an" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Brightness="60" GreaterAs="FALSE" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\ruecklicht-kaefer-ein.l3dobj" Position="-0.83;0.87;1.02" Rotation="180;0;0" ShowIfBrightness="TRUE" ShowOn="Licht_an" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0.5" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\blinker4.l3dobj" Position="-1.01;0.87;1.02" Rotation="180;90;0" ShowOn="Blinker_rechts or Warnblinker" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0.5" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\blinker4.l3dobj" Position="0.96;0.87;1.02" Rotation="180;90;0" ShowOn="Blinker_links or Warnblinker" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0.5" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\blinker4.l3dobj" Position="-1.01;0.87;0.97" Rotation="90;90;0" ShowOn="Blinker_rechts or Warnblinker" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0.5" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\blinker4.l3dobj" Position="1.01;0.87;0.97" Rotation="90;90;0" ShowOn="Blinker_links or Warnblinker" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\ruecklicht-kaefer-ein.l3dobj" Position="0.93;0.87;1.02" Rotation="180;0;0" ShowOn="Licht_anTag" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\ruecklicht-kaefer-ein.l3dobj" Position="-0.83;0.87;1.02" Rotation="180;0;0" ShowOn="Licht_anTag" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\schutzblech-rotbraun.l3dobj" Position="1.2;0.47;-2.6" Rotation="0;90;90" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\schutzblech-rotbraun.l3dobj" Position="-0.55;0.47;-2.6" Rotation="0;90;90" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\Spritzschutz3.l3dobj" Position="1.18;0.2;-2" Rotation="180;0;4" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\Spritzschutz3.l3dobj" Position="-0.58;0.2;-2" Rotation="180;0;4" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\FuehrerhausMB-schwarz.l3dobj" Position="-1.1;0.62;-3.71" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\StossstangeMB-rotbraun.l3dobj" Position="-1.15;0.52;-3.77" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\kennzeichen-alt_2-dreckig.l3dobj" Position="-0.3;0.57;-3.8" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\Tank.l3dobj" Position="-0.86;0.7;-1.9" Rotation="90;90;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\Luftbehaelter.l3dobj" Position="1.1;0.63;-1.66" Rotation="0;90;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\Luftbehaelter.l3dobj" Position="1.1;0.63;-1.3" Rotation="0;90;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\Achse-Lkw.l3dobj" Position="-0.1;0.28;0.55" Rotation="90;5;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\Einfuellstutzen.l3dobj" Position="-0.86;0.8;-1.6" Rotation="0;45;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\Behaelter.l3dobj" Position="0.66;0.8;-1.8" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\Auspuff.l3dobj" Position="0.95;0.4;-1.2" Rotation="111;-80;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\Auspuff2.l3dobj" Position="1.03;0.36;-1.12" Rotation="133;-75;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\Auspuff.l3dobj" Position="0.85;0.45;-1.77" Rotation="90;90;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\Auspuff2.l3dobj" Position="0.76;0.45;-1.85" Rotation="135;90;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\Auspuff.l3dobj" Position="0.5;0.45;-1.83" Rotation="180;90;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\Achse-Lkw.l3dobj" Position="-1;0.4;-2.7" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\Unterbau.l3dobj" Position="-0.5;0.4;-3.3" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\FuehrerhausMB-beigegrau_Dach.l3dobj" Position="-0.5;2.65;-3.4" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\Grill_MB.l3dobj" Position="-0.85;0.89;-3.74" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\tritt_MB.l3dobj" Position="-1.15;0.57;-3.62" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\trittunten.l3dobj" Position="1.23;0.38;-3.55" Rotation="-90;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\trittunten.l3dobj" Position="-1.23;0.38;-3.25" Rotation="90;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\trittunten-rotbraun.l3dobj" Position="-0.3;0.4;-3.78" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\Scheibenwischer.l3dobj" Position="0.75;1.868;-3.73" Rotation="0;86;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\Scheibenwischer.l3dobj" Position="0.18;1.87;-3.73" Rotation="0;85;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\Scheibenwischer.l3dobj" Position="-0.4;1.875;-3.73" Rotation="0;84;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\sitz.l3dobj" Position="0.25;1.5;-2.8" Rotation="0;0;-4" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\sitz.l3dobj" Position="-0.8;1.5;-2.8" Rotation="0;0;-4" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\Amaturenbrett.l3dobj" Position="-1.05;1.62;-3.64" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\Seitenverkleidung.l3dobj" Position="1.05;1.14;-2.07" Rotation="90;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\Seitenverkleidung.l3dobj" Position="-1.05;1.14;-3.67" Rotation="-90;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\Lenkrad-lkw.l3dobj" Position="0.525;1.88;-3.35" Rotation="0;0;10" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\lenksaeule.l3dobj" Position="0.48;0.92;-3.57" Rotation="0;0;10" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0.5" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\blinker1.l3dobj" Position="-1.16;0.64;-3.78" Rotation="90;90;0" ShowOn="Blinker_rechts or Warnblinker" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0.5" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\blinker1.l3dobj" Position="-1.16;0.64;-3.78" Rotation="180;90;0" ShowOn="Blinker_rechts or Warnblinker" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0.5" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\blinker1.l3dobj" Position="1.16;0.64;-3.78" Rotation="90;90;0" ShowOn="Blinker_links or Warnblinker" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0.5" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\blinker1.l3dobj" Position="1.16;0.64;-3.78" Rotation="0;90;0" ShowOn="Blinker_links or Warnblinker" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\TIR-Schild.l3dobj" Position="0.4;1.34;-3.76" Rotation="0;0;0" ShowOn="TIR-Schild" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Brightness="60" GreaterAs="FALSE" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\scheinwerfer-MB-ein.l3dobj" Position="0.965;0.58;-3.79" Rotation="180;0;0" ShowIfBrightness="TRUE" ShowOn="Licht_an" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Brightness="60" GreaterAs="FALSE" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\scheinwerfer-MB-ein.l3dobj" Position="-0.7;0.58;-3.79" Rotation="180;0;0" ShowIfBrightness="TRUE" ShowOn="Licht_an" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\scheinwerfer-MB-ein.l3dobj" Position="0.965;0.58;-3.79" Rotation="180;0;0" ShowOn="Licht_anTag" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\scheinwerfer-MB-ein.l3dobj" Position="-0.7;0.58;-3.79" Rotation="180;0;0" ShowOn="Licht_anTag" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Brightness="60" GreaterAs="FALSE" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\strasse_scheinwerfer2.l3dobj" Position="0;0.08;-4.5" Rotation="180;0;0" ShowIfBrightness="TRUE" ShowOn="Licht_an" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\strasse_scheinwerfer2.l3dobj" Position="0;0.08;-4.5" Rotation="180;0;0" ShowOn="Licht_anTag" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\Spiegelhalter.l3dobj" Position="1.32;2;-3.65" Rotation="180;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\Spiegelhalter.l3dobj" Position="-1.32;2;-3.65" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\spiegel-MB.l3dobj" Position="-1.35;2.16;-3.62" Rotation="20;0;3" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\spiegel-MB.l3dobj" Position="1.2;2.12;-3.65" Rotation="-10;0;3" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\spiegel-MB2.l3dobj" Position="-1.4;1.96;-3.62" Rotation="16;5;11" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\Auspuff2.l3dobj" Position="0;0.8;0.8" Rotation="0;0;90" ZoomFaktor="1"/>
+	</Object>
+</GRUPPENOBJECT>

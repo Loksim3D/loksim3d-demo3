@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="Andreas Zimmermann" FileInfo="karosserie" FilePicture="" Texture="karosserie-kombi-polizei.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="2"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="0;-0.2;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0.1;1.4;0.3"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="1.4;1.4;0.3"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="1.5;-0.2;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="0;-0.2;4.85"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="0.1;1.33;3"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="1.4;1.33;3"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="1.5;-0.2;4.85"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="1.5;0.6;4.85"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="1.5;0.84;3.6"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="0;0.84;3.6"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="0;0.6;4.85"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="230,76;235,5;305,5;311,77"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="1;5;6;2" Texture="58,89;59,83;68,85;68,91"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="8;7;4;11" Texture="91,80;91,120;10,119;10,80"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="6;9;10;5" Texture="173,79;175,103;112,103;113,79"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="9;6;2;3;7;8" Texture="157,26;127,3;11,3;3,75;219,75;219,35"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="10;11;4;0;1;5" Texture="159,27;219,35;219,74;3,74;10,3;128,3"/>
+	</Flaeche>
+</OBJECT>

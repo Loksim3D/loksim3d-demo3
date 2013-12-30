@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="Andreas Zimmermann" FileInfo="markenneutrale Limousine/n----------------------------------------------------------------/nLackierung schwarz/nKategorie B - ohne Licht/n----------------------------------------------------------------/n(c) by Andreas Zimmermann, 09.09.2005/nwww.a-zimmermann.com" FilePicture="limousine-schwarz.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Objekte\Fahrzeuge\AndreasZ\Strassenfahrzeuge\Einzelteile\karosserie-limo-schwarz.l3dobj" Position="0;0;0" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+</GRUPPENOBJECT>

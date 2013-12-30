@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="" FileInfo="" FilePicture="" Texture="blech1.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="-1;-1;0" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;0" Vekt="0;0.9;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;0" Vekt="0.6;0.9;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;0" Vekt="0.6;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;0" Vekt="0;0;0.05"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;0" Vekt="0;0.9;0.05"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;0" Vekt="0.6;0.9;0.05"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;0" Vekt="0.6;0;0.05"/>
+	</Point>
+	<Flaeche>
+		<Props Points="7;6;5;4" Texture="1,76;1,1;50,1;50,76"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;2;6;7" Texture="46,75;46,2;50,2;50,76"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;1;0" Texture="1,76;1,2;4,2;5,76"/>
+	</Flaeche>
+</OBJECT>
