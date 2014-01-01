@@ -1,0 +1,2855 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STRECKE>
+	<Props FileAuthor="" FileDoku="" FileInfo="" FilePicture=""/>
+	<DefaulRail>
+		<Props File="\Rails\RainerH\flimmerfrei\16holzschwellen_schotter_normal.l3drail"/>
+	</DefaulRail>
+	<StdTexture>
+		<Props File=""/>
+	</StdTexture>
+	<Himmelsrichtung>
+		<Props Value="0"/>
+	</Himmelsrichtung>
+	<GLEIS>
+		<Props Name="Hauptgleis R"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="35500" ParallelAbstand="-10" ParallelEnd="0" ParallelGleis="" ParallelStart="0" StartPos="28000" StartPunkt="0;0;0" Typ="Normal" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
+			</Erstellung>
+			<KURVE>
+				<Props Ende="28400" SanfterWinkel="TRUE" Start="28200" Winkel="17"/>
+			</KURVE>
+			<KURVE>
+				<Props Ende="29650" SanfterWinkel="TRUE" Start="29100" Winkel="30"/>
+			</KURVE>
+			<KURVE>
+				<Props Ende="30000" SanfterWinkel="TRUE" Start="29800" Winkel="15"/>
+			</KURVE>
+			<KURVE>
+				<Props Ende="31800" SanfterWinkel="TRUE" Start="31400" Winkel="-7"/>
+			</KURVE>
+			<KURVE>
+				<Props Ende="32200" SanfterWinkel="TRUE" Start="32000" Winkel="-3"/>
+			</KURVE>
+			<KURVE>
+				<Props Ende="32900" SanfterWinkel="TRUE" Start="32700" Winkel="10"/>
+			</KURVE>
+			<KURVE>
+				<Props Ende="33500" SanfterWinkel="TRUE" Start="32900" Winkel="-3"/>
+			</KURVE>
+			<KURVE>
+				<Props Ende="33700" SanfterWinkel="TRUE" Start="33500" Winkel="-2"/>
+			</KURVE>
+			<KURVE>
+				<Props Ende="33880" SanfterWinkel="TRUE" Start="33680" Winkel="4"/>
+			</KURVE>
+			<KURVE>
+				<Props Ende="35200" SanfterWinkel="TRUE" Start="34300" Winkel="15"/>
+			</KURVE>
+		</TOPOLOGIE>
+		<Objecte>
+			<Object>
+				<Props Name="Hektometer DB Ri1" Offset="0;0;0" Position="0" Qualitaet="0"/>
+				<Eintrag>
+					<Props Abstand="200" Anzahl="2" Datei="\Objekte\Tafeln\Frieder\Hektometertafel_Mast.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="28000" Verschiebung="3.5;0.5;0" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props KILOMETER="STRECKENHEKTOMETER"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Tafeln\Frieder\Hektometertafel_Mast.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="28399.779297" Verschiebung="3.5;0.5;0" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props KILOMETER="STRECKENHEKTOMETER"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="200" Anzahl="5" Datei="\Objekte\Tafeln\Frieder\Hektometertafel_Mast.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="28600" Verschiebung="3.5;0.5;0" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props KILOMETER="STRECKENHEKTOMETER"/>
+					</Eigenschaften>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Tafeln\Frieder\Hektometertafel_Mast.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="29599.75" Verschiebung="3.5;0.5;0" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props KILOMETER="STRECKENHEKTOMETER"/>
+					</Eigenschaften>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="Hektometer OeBB Ri1" Offset="0;0;-0.22" Position="0" Qualitaet="0"/>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Signale\OeBB\Form\Sonstige Signale\Hektometertafel.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="32000" Verschiebung="0;0;0" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props KILOMETER="STRECKENHEKTOMETER"/>
+					</Eigenschaften>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="FL-Mast 28000" Offset="0;0;0" Position="0" Qualitaet="5"/>
+				<Eintrag>
+					<Props Abstand="100" Anzahl="3" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re160\Flachmast_Re160-180-550-Ka.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="28000" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="100" Anzahl="3" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re160\Flachmast_Re160-180-550-La.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="28050" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="50" Anzahl="2" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re160\Flachmast_Re160-180-550-La-SR.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="28300" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="FD 28000" Offset="0;0;0" Position="0" Qualitaet="5"/>
+				<Eintrag>
+					<Props Abstand="100" Anzahl="3" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5000-180-550-KL.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="28000" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="100" Anzahl="2" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5000-180-550-LK.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="28050" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="50" Anzahl="3" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5000-180-550-LL.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="28250" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="NSp 28400" Offset="0;0;0" Position="28400" Qualitaet="5" RollMaterial="FALSE"/>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\UKL\Streckenmasten\Re160\Gittermast_Re160-180-550-La-SR.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\UKL\Spannwerke\Radspannwerk_N_Masthalterung.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="3.5;5.5;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\UKL\Spannwerke\Radspannwerk_N_B350.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="3.3;5.5;0" Winkel="-3.58;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\UKL\Spannwerke\Radspannwerk_N_B350.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="3.7;5.5;0" Winkel="-4.27;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\UKL\Streckenmasten\Re160\Flachmast_Re160-180-550-SP2-N.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="50" Verschiebung="0;0;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\UKL\Streckenmasten\Re160\Flachmast_Re160-180-550-SP1-N.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="100" Verschiebung="0;0;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\UKL\Streckenmasten\Re160\Gittermast_Re160-180-550-Ka-SR.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="150" Verschiebung="0;0;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\UKL\Spannwerke\Radspannwerk_N_Masthalterung.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="150" Verschiebung="3.5;5.5;0" WeitSichtbar="FALSE" Winkel="180;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\UKL\Spannwerke\Radspannwerk_N_B350.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="150" Verschiebung="3.3;5.5;0" Winkel="184.039993;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\UKL\Spannwerke\Radspannwerk_N_B350.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="150" Verschiebung="3.7;5.5;0" Winkel="184.100006;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\UKL\Hochkette\Re160\N\Re160-5000-180-550-LS2K-N.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\UKL\Hochkette\Re160\N\Re160-5000-180-550-AS2L-N-RN-350.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\UKL\Hochkette\Re160\N\Re160-5000-180-550-S2KS1K-N.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="50" Verschiebung="0;0;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\UKL\Hochkette\Re160\N\Re160-5000-180-550-S2LS1L-N.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="50" Verschiebung="0;0;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\UKL\Hochkette\Re160\N\Re160-5000-180-550-S1LK-N.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="100" Verschiebung="0;0;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\UKL\Hochkette\Re160\N\Re160-5000-180-550-S1KA-N-RN-350.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="100" Verschiebung="0;0;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="FD 28550" Offset="0;0;0" Position="0" Qualitaet="5"/>
+				<Eintrag>
+					<Props Abstand="100" Anzahl="6" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5000-180-550-KL.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="28550" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="100" Anzahl="5" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5000-180-550-LK.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="28600" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="50" Anzahl="10" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5000-180-550-LL.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="29100" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="FL-Mast 28600" Offset="0;0;0" Position="0" Qualitaet="5"/>
+				<Eintrag>
+					<Props Abstand="100" Anzahl="6" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re160\Flachmast_Re160-180-550-La.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="28600" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="100" Anzahl="5" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re160\Flachmast_Re160-180-550-Ka.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="28650" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="50" Anzahl="9" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re160\Flachmast_Re160-180-550-La.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="29150" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="NSp 29600" Offset="0;0;0" Position="29600" Qualitaet="5" RollMaterial="FALSE"/>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\UKL\Streckenmasten\Re160\Gittermast_Re160-180-550-La-SR.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\UKL\Spannwerke\Radspannwerk_N_Masthalterung.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="3.5;5.5;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\UKL\Spannwerke\Radspannwerk_N_B350.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="3.3;5.5;0" Winkel="-3.58;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\UKL\Spannwerke\Radspannwerk_N_B350.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="3.7;5.5;0" Winkel="-4.27;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\UKL\Streckenmasten\Re160\Flachmast_Re160-180-550-SP2-N.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="50" Verschiebung="0;0;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\UKL\Streckenmasten\Re160\Flachmast_Re160-180-550-SP1-N.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="100" Verschiebung="0;0;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\UKL\Streckenmasten\Re160\Gittermast_Re160-180-550-Ka-SR.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="150" Verschiebung="0;0;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\UKL\Spannwerke\Radspannwerk_N_Masthalterung.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="150" Verschiebung="3.5;5.5;0" WeitSichtbar="FALSE" Winkel="180;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\UKL\Spannwerke\Radspannwerk_N_B350.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="150" Verschiebung="3.3;5.5;0" Winkel="184.039993;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\UKL\Spannwerke\Radspannwerk_N_B350.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="150" Verschiebung="3.7;5.5;0" Winkel="184.100006;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\UKL\Hochkette\Re160\N\Re160-5000-180-550-LS2K-N.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\UKL\Hochkette\Re160\N\Re160-5000-180-550-AS2L-N-RN-350.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\UKL\Hochkette\Re160\N\Re160-5000-180-550-S2KS1K-N.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="50" Verschiebung="0;0;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\UKL\Hochkette\Re160\N\Re160-5000-180-550-S2LS1L-N.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="50" Verschiebung="0;0;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\UKL\Hochkette\Re160\N\Re160-5000-180-550-S1LK-N.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="100" Verschiebung="0;0;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\UKL\Hochkette\Re160\N\Re160-5000-180-550-S1KA-N-RN-350.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="100" Verschiebung="0;0;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="FD 29750" Offset="0;0;0" Position="0" Qualitaet="5"/>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5000-180-550-KL.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="29750" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="50" Anzahl="3" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5000-180-550-LL.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="29800" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5000-180-550-LK.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="29950" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5000-180-550-KL.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="30000" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\N\Re160-5500-180-550-LS2K-N.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="30050" Verschiebung="0;0;0" Winkel="0;0;0.017"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\Miguel\Hochkette\Re160\GW\Re160-3000-180-550-S1KS1L.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="30105.349609" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="FL-Mast 29800" Offset="0;0;0" Position="0" Qualitaet="0"/>
+				<Eintrag>
+					<Props Abstand="50" Anzahl="4" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re160\Flachmast_Re160-180-550-La-SR.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="29800" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re160\Gittermast_Re160-180-550-Ka.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="30000" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re160\Gittermast_Re160-180-550-La-SR.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="30050" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\Miguel\Streckenmasten\Re160\Flachmast_Re160-180-550-SP2-GW-R.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="30105" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\Miguel\Streckenmasten\Re160\Flachmast_Re160-180-550-SP2-GW-L.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="30135" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+			</Object>
+		</Objecte>
+		<Hoeheunterbrechung>
+			<Landschaftsobjekt>
+				<Props Ende="35500" Start="28000"/>
+			</Landschaftsobjekt>
+		</Hoeheunterbrechung>
+		<Landschaft>
+			<Landschaftsobjekt>
+				<Props Abstand="20" Name="Schotter" Polygon="TRUE" Position="28000" Scale="0.120226" Texture="TRUE" TextureFile="\Rails\RainerZ\Schotter_Unkr1.bmp" Zwischenpunkte="TRUE"/>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="0" Verschiebung="0"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="4000" Verschiebung="0"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="4000" Verschiebung="-5"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="0" Verschiebung="-5"/>
+				</Landschaftsobjekt>
+			</Landschaftsobjekt>
+			<Landschaftsobjekt>
+				<Props Abstand="20" Name="Schotter re" Polygon="TRUE" Position="28000" Scale="0.20893" Texture="TRUE" TextureFile="\Rails\RainerZ\Schotter_Unkr1.bmp" Zwischenpunkte="TRUE"/>
+				<Landschaftsobjekt>
+					<Props Hoehe="-0.1" Hoehefrei="FALSE" Position="0" Verschiebung="0"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="-0.35" Hoehefrei="FALSE" Position="0" Verschiebung="3.8"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="-0.35" Hoehefrei="FALSE" Position="2000" Verschiebung="3.8"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="2050" Verschiebung="3.8"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="4000" Verschiebung="3.8"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="4000" Verschiebung="0"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="2050" Verschiebung="0"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="-0.1" Hoehefrei="FALSE" Position="2000" Verschiebung="0"/>
+				</Landschaftsobjekt>
+			</Landschaftsobjekt>
+			<Landschaftsobjekt>
+				<Props Abstand="20" Name="Bahndamm 28000" Polygon="TRUE" Position="28000" Scale="1" Texture="FALSE" TextureFile="" Zwischenpunkte="TRUE"/>
+				<Landschaftsobjekt>
+					<Props Hoehe="-0.35" Hoehefrei="FALSE" Position="0" Verschiebung="4.5"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="-5" Hoehefrei="FALSE" Position="0" Verschiebung="10"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="-1" Hoehefrei="FALSE" Position="1300" Verschiebung="10"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="-0.35" Hoehefrei="FALSE" Position="1300" Verschiebung="4.5"/>
+				</Landschaftsobjekt>
+			</Landschaftsobjekt>
+			<Landschaftsobjekt>
+				<Props Abstand="20" Name="Bahndamm 29400" Polygon="TRUE" Position="29400" Scale="1" Texture="FALSE" TextureFile="" Zwischenpunkte="TRUE"/>
+				<Landschaftsobjekt>
+					<Props Hoehe="-0.35" Hoehefrei="FALSE" Position="0" Verschiebung="4.5"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="-1" Hoehefrei="FALSE" Position="0" Verschiebung="10"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="-5" Hoehefrei="FALSE" Position="400" Verschiebung="10"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="-0.35" Hoehefrei="FALSE" Position="400" Verschiebung="4.5"/>
+				</Landschaftsobjekt>
+			</Landschaftsobjekt>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+			<VOR>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="80" KMHNEIG="80" KeinHp2="FALSE" NichtImFahrplan="FALSE" Pos="33150" Tafel="TRUE" TafelFile="\Signale\OeBB\Form\Sonstige Signale\Ankuendigungstafel.l3dgrp" TafelPos="1030"/>
+						<TafelObjExtraData>
+							<Position>
+								<Props Position="3;1.7;-0.05" Rotation="0;0;0"/>
+							</Position>
+						</TafelObjExtraData>
+						<ObjectProps>
+							<Position>
+								<Props Position="3.5;1;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props File="\Signale\OeBB\Form\Sonstige Signale\Geschwindigkeitstafel.l3dgrp" KMH="110" KMHNEIG="110" KeinHp2="FALSE" NichtImFahrplan="FALSE" Pos="32600"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="3.5;1.5;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props File="" KMH="130" KMHNEIG="130" KeinHp2="FALSE" NichtImFahrplan="FALSE" Pos="28000"/>
+					</Value>
+					<Value>
+						<Props File="" KMH="40" KMHNEIG="40" KeinHp2="FALSE" NichtImFahrplan="TRUE" NurBeiHp0="TRUE" Pos="34300"/>
+					</Value>
+					<Value>
+						<Props File="" KMH="80" KMHNEIG="80" KeinHp2="FALSE" NichtImFahrplan="TRUE" Pos="34320"/>
+					</Value>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi500Bis="0" IndusiFile1000="\Signale\Indusimagnet 2.l3dgrp" IndusiPos1000="0" KennLimit="150" KennLimitHide="40" Pos="32120" SignalFile="\Signale\OeBB\Licht\1980\Mast-mitte\Vorsignal\VS.l3dgrp" Tafel100="TRUE" Tafel200="TRUE" Tafel300="TRUE" TafelFile100="\Signale\OeBB\Form\Zusatzsignale\Abstandstafel_1.l3dgrp" TafelFile200="\Signale\OeBB\Form\Zusatzsignale\Abstandstafel_2.l3dgrp" TafelFile300="\Signale\OeBB\Form\Zusatzsignale\Abstandstafel_3.l3dgrp" TafelPos100="70" TafelPos200="270" TafelPos300="470" Typ="Vorsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="0.5;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi500Bis="0" KennLimit="150" KennLimitHide="40" Pos="32800" SignalFile="\Signale\OeBB\Licht\1980\Mast-mitte\Vorsignal\SN.l3dgrp" Typ="Vorsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="1;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="50" HomeSignal="FALSE" Hp3Bis="100" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile1000="\Signale\Indusimagnet 0.l3dgrp" IndusiFile2000="\Signale\PZB-Magnet.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" KennLimit="150" KennLimitHide="40;60" Pos="33147" SignalFile="\Signale\OeBB\Licht\1980\Mast-mitte\Kombisignal\HS-Typ-1-VS_GA-Licht.l3dgrp" Typ="KombisignalKenn" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="1;0;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props Lichtpunkt_40="&#39;TRUE&#39;" Lichtpunkt_60="&#39;TRUE&#39;" Signalnummer="&#39;A&#39;" Signaltyp1_unten="&#39;ES&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi500Bis="0" KennLimit="150" KennLimitHide="40" Pos="33466" SignalFile="\Signale\OeBB\Licht\1980\Zwergsignal\Verschubsignal\Standard-1980.l3dgrp" Typ="Sonstiges" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props Signalnummer="&#39;V102&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi500Bis="0" KennLimit="150" KennLimitHide="40" Pos="33615" SignalFile="\Signale\OeBB\Licht\1980\Zwergsignal\Verschubsignal\Standard-1980.l3dgrp" Typ="Sonstiges" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props Signalnummer="&#39;V112&#39;" vZusatz="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi500Bis="0" KennLimit="150" KennLimitHide="40" Pos="34320" SignalFile="\Signale\OeBB\Licht\1980\Mast-mitte\Schutzsignal\Schutz.l3dgrp" Typ="Schutzsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props Signalnummer="&#39;Sch 102&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi500Bis="0" KennLimit="150" KennLimitHide="40" Pos="34682" SignalFile="\Signale\OeBB\Licht\1980\Mast-mitte\Hauptsignal\HS-Typ-1_v2_1.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props Lichtpunkt_60="&#39;TRUE&#39;" Rangiersignal="&#39;TRUE&#39;" Signalnummer="&#39;R2&#39;" Signaltyp1_oben="&#39;AS&#39;" Typ_oben="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi500Bis="0" KennLimit="150" KennLimitHide="40" Pos="35228" SignalFile="\Objekte\Tafeln\Frieder\Ra10b.l3dgrp" Typ="Sonstiges" VSigLimit="0" Zwischensignal="FALSE"/>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi500Bis="0" IndusiFile1000="\Signale\Indusimagnet 2.l3dgrp" IndusiPos1000="0" KennLimit="150" KennLimitHide="40" Pos="28580" SignalFile="\Signale\KS_Saalbahn\Vorsignale\01Va.l3dgrp" Tafel100="TRUE" Tafel200="TRUE" Tafel300="TRUE" TafelFile100="\Signale\KS_Saalbahn\Nebensignale\Ne3_1.l3dgrp" TafelFile200="\Signale\KS_Saalbahn\Nebensignale\Ne3_2.l3dgrp" TafelFile300="\Signale\KS_Saalbahn\Nebensignale\Ne3_3.l3dgrp" TafelPos100="100" TafelPos200="150" TafelPos300="250" Typ="Vorsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props Sockel_klein="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+							<Position>
+								<Props Position="3.5;-0.25;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+						<TafelObjExtraData100>
+							<Position>
+								<Props Position="3.1;0;0" Rotation="0;0;0"/>
+							</Position>
+						</TafelObjExtraData100>
+						<TafelObjExtraData200>
+							<Position>
+								<Props Position="3.1;0;0" Rotation="0;0;0"/>
+							</Position>
+						</TafelObjExtraData200>
+						<TafelObjExtraData300>
+							<Position>
+								<Props Position="3.1;0;0" Rotation="0;0;0"/>
+							</Position>
+						</TafelObjExtraData300>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi500Bis="0" KennLimit="150" KennLimitHide="40" Pos="29325" SignalFile="\Signale\KS_Saalbahn\VorsignalWdh\01VWf.l3dgrp" Typ="Vorsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props Sockel_klein="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+							<Position>
+								<Props Position="3.5;-0.1;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile1000="\Signale\Indusimagnet 0.l3dgrp" IndusiFile2000="\Signale\PZB-Magnet.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" KennLimit="150" KennLimitHide="130" Pos="29580" SignalFile="\Signale\KS_Saalbahn\MehrabschSignale\01F.l3dgrp" Typ="KombisignalKenn" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="3.5;-0.25;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props Signalnummer="&#39;A&#39;" Sockel_klein="&#39;TRUE&#39;" Stellbereich="&#39;34&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="60" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\PZB-Magnet.l3dgrp" IndusiPos2000="0" KennLimit="150" KennLimitHide="40" Pos="30935" SignalFile="\Signale\KS_Saalbahn\Hauptsignale\02N1.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props Signalnummer="&#39;N1&#39;" Stellbereich="&#39;34&#39;"/>
+							</Eigenschaften>
+							<Position>
+								<Props Position="3.5;0.27;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+					<Value>
+						<Props File="" Name="Modulende" Pos="28000" ToleranzMinus="25" ToleranzPlus="25" Zuglaenge="0"/>
+					</Value>
+				</Haltepunkt>
+				<Bahnuebergang>
+				</Bahnuebergang>
+				<RAIL>
+				</RAIL>
+				<RailQuality>
+				</RailQuality>
+				<LZB>
+				</LZB>
+				<Kilometrierung>
+					<Value>
+						<Props Miles="FALSE" Pos="32000" PosNew="0" Reverse="FALSE"/>
+					</Value>
+				</Kilometrierung>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Ueberhoehung>
+				</Ueberhoehung>
+				<RailProps>
+				</RailProps>
+				<Bremswegabstand>
+				</Bremswegabstand>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</VOR>
+			<ZURUECK>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="\Signale\OeBB\Form\Sonstige Signale\Geschwindigkeitstafel.l3dgrp" KMH="110" KMHNEIG="110" KeinHp2="FALSE" NichtImFahrplan="FALSE" Pos="33100"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="-3.5;1.5;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props File="\Signale\OeBB\Form\Sonstige Signale\Geschwindigkeitstafel.l3dgrp" KMH="130" KMHNEIG="130" KeinHp2="FALSE" NichtImFahrplan="FALSE" Pos="32650"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="-3.5;1;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="50" HomeSignal="FALSE" Hp3Bis="60" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile1000="\Signale\Indusimagnet 0.l3dgrp" IndusiFile2000="\Signale\PZB-Magnet.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" KennLimit="150" KennLimitHide="40;60;80" Pos="35343" SignalFile="\Signale\OeBB\Licht\1980\Mast-mitte\Kombisignal\HS-Typ-1-VS_GA-Licht.l3dgrp" Typ="KombisignalKenn" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="-5.5;0;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props Lichtpunkt_40="&#39;TRUE&#39;" Lichtpunkt_60="&#39;TRUE&#39;" Signalnummer="&#39;Y&#39;" Signaltyp1_unten="&#39;ES&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi500Bis="0" KennLimit="150" KennLimitHide="40" Pos="35114" SignalFile="\Signale\OeBB\Licht\1980\Zwergsignal\Verschubsignal\Standard-1980.l3dgrp" Typ="Sonstiges" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props Signalnummer="&#39;V202&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi500Bis="0" KennLimit="150" KennLimitHide="40" Pos="33787" SignalFile="\Signale\OeBB\Licht\1980\Mast-mitte\Hauptsignal\HS-Typ-1_v2_1.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props Abfahrtsignal="&#39;TRUE&#39;" Lichtpunkt_60="&#39;TRUE&#39;" Rangiersignal="&#39;TRUE&#39;" Signalnummer="&#39;H2&#39;" Signaltyp1_unten="&#39;AS&#39;" Zp9="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi500Bis="0" KennLimit="150" KennLimitHide="40" Pos="33378" SignalFile="\Objekte\Tafeln\Frieder\Ra10b.l3dgrp" Typ="Sonstiges" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="-6;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi500Bis="0" IndusiFile1000="\Signale\PZB-Magnet.l3dgrp" IndusiPos1000="0" KennLimit="150" KennLimitHide="40" Pos="32397" SignalFile="\Signale\KS_Saalbahn\Vorsignale\01Vaa.l3dgrp" Typ="Vorsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="-3.5;-0.33;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props Sockel_klein="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile1000="\Signale\Indusimagnet 0.l3dgrp" IndusiFile2000="\Signale\PZB-Magnet.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" KennLimit="60" KennLimitHide="40" Pos="31375" SignalFile="\Signale\KS_Saalbahn\MehrabschSignale\01FF.l3dgrp" Typ="KombisignalKenn" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="-3.5;-0.33;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props Signalnummer="&#39;FF&#39;" Sockel_gross="&#39;TRUE&#39;" Stellbereich="&#39;34&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<LZB>
+				</LZB>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</ZURUECK>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="Hauptgleis L"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="-4.5" ParallelEnd="35500" ParallelGleis="Hauptgleis R" ParallelStart="28000" StartPos="0" StartPunkt="0;0;0" Typ="Parallel" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
+			</Erstellung>
+			<Ausweiche>
+				<Props Abstand="-0.5" Ende="35000" KurvenWeite="150" Start="29800"/>
+			</Ausweiche>
+			<Ausweiche>
+				<Props Abstand="-5" Ende="34850" KurvenWeite="200" Start="33680"/>
+			</Ausweiche>
+		</TOPOLOGIE>
+		<Objecte>
+			<Object>
+				<Props Name="Hektometer DB Ri1" Offset="0;0;0" Position="0" Qualitaet="0"/>
+				<Eintrag>
+					<Props Abstand="1000" Anzahl="2" Datei="\Objekte\Tafeln\Frieder\Hektometertafel_Mast.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="28000" Verschiebung="-3.5;0.5;0" Winkel="0;0;0"/>
+					<Eigenschaften>
+						<Props KILOMETER="STRECKENHEKTOMETER"/>
+					</Eigenschaften>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="FL-Mast 28000-28350" Offset="0;0;0" Position="0" Qualitaet="5"/>
+				<Eintrag>
+					<Props Abstand="100" Anzahl="3" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re160\Flachmast_Re160-180-550-La-SR.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="28000" Verschiebung="0;0;0" Winkel="180;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="100" Anzahl="2" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re160\Flachmast_Re160-180-550-Ka.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="28050" Verschiebung="0;0;0" Winkel="180;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="50" Anzahl="3" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re160\Flachmast_Re160-180-550-Ka.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="28250" Verschiebung="0;0;0" Winkel="180;0;0"/>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="FD 28000-28350" Offset="0;0;0" Position="0" Qualitaet="5"/>
+				<Eintrag>
+					<Props Abstand="100" Anzahl="2" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5000-180-550-KL.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="28000" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="100" Anzahl="2" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5000-180-550-LK.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="28050" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5038-180-550-KL.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="28200" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5050-180-550-LL.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="28250" Verschiebung="0;0;0" Winkel="-0.02;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5040-180-550-LL.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="28300" Verschiebung="0;0;0" Winkel="-0.02;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5025-180-550-LL.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="28350" Verschiebung="0;0;0" Winkel="-0.03;0;0"/>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="NSp 28400" Offset="0;0;0" Position="28400" Qualitaet="5"/>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re160\Gittermast_Re160-180-550-Ka.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0.05" Verschiebung="0;0;0" Winkel="180;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\UKL\Spannwerke\Radspannwerk_N_Masthalterung.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0.05" Verschiebung="-3.5;5.5;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\UKL\Spannwerke\Radspannwerk_N_B350.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0.05" Verschiebung="-3.3;5.5;0" Winkel="3.38;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\UKL\Spannwerke\Radspannwerk_N_B350.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0.05" Verschiebung="-3.7;5.5;0" Winkel="4.05;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re160\Flachmast_Re160-180-550-SP1-N.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="50" Verschiebung="0;0;0" Winkel="180;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\N\Re160-5000-180-550-S1KA-N-RN-350.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="50" Verschiebung="0;0;0" Winkel="180;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\N\Re160-5000-180-550-S1LK-N.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="50" Verschiebung="0;0;0" Winkel="180;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re160\Flachmast_Re160-180-550-SP2-N.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="100" Verschiebung="0;0;0" Winkel="180;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\N\Re160-5000-180-550-S2KS1K-N.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="100" Verschiebung="0;0;0" Winkel="180;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\N\Re160-5000-180-550-S2LS1L-N.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="100" Verschiebung="0;0;0" Winkel="180;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re160\Gittermast_Re160-180-550-La.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="150" Verschiebung="0;0;0" Winkel="180;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\N\Re160-5000-180-550-AS2L-N-RN-350.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="150" Verschiebung="0;0;0" Winkel="180;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\N\Re160-5000-180-550-LS2K-N.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="150" Verschiebung="0;0;0" Winkel="180;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\UKL\Spannwerke\Radspannwerk_N_Masthalterung.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="150" Verschiebung="-3.5;5.5;0" WeitSichtbar="FALSE" Winkel="180;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\UKL\Spannwerke\Radspannwerk_N_B350.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="150" Verschiebung="-3.7;5.5;0" Winkel="175.729996;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\UKL\Spannwerke\Radspannwerk_N_B350.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="150" Verschiebung="-3.3;5.5;0" Winkel="176.419998;0;0"/>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="FD 28550-29550" Offset="0;0;0" Position="0" Qualitaet="5"/>
+				<Eintrag>
+					<Props Abstand="100" Anzahl="6" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5000-180-550-KL.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="28550" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="100" Anzahl="5" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5000-180-550-LK.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="28600" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5010-180-550-LL.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="29100" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="50" Anzahl="5" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5030-180-550-LL.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="29150" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="50" Anzahl="4" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5028-180-550-LL.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="29399.990234" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="FL-Mast 28600-29550" Offset="0;0;0" Position="0" Qualitaet="5"/>
+				<Eintrag>
+					<Props Abstand="100" Anzahl="6" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re160\Flachmast_Re160-180-550-Ka.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="28600" Verschiebung="0;0;0" Winkel="180;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="100" Anzahl="5" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re160\Flachmast_Re160-180-550-La.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="28650" Verschiebung="0;0;0" Winkel="180;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="50" Anzahl="9" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re160\Flachmast_Re160-180-550-Ka.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="29150" Verschiebung="0;0;0" Winkel="180;0;0"/>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="NSp 29600" Offset="0;0;0" Position="29600" Qualitaet="5"/>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re160\Gittermast_Re160-180-550-Ka.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0.05" Verschiebung="0;0;0" Winkel="180;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\UKL\Spannwerke\Radspannwerk_N_Masthalterung.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0.05" Verschiebung="-3.5;5.5;0" WeitSichtbar="FALSE" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\UKL\Spannwerke\Radspannwerk_N_B350.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0.05" Verschiebung="-3.3;5.5;0" Winkel="3.38;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\UKL\Spannwerke\Radspannwerk_N_B350.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="0.05" Verschiebung="-3.7;5.5;0" Winkel="4.05;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re160\Flachmast_Re160-180-550-SP1-N.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="50" Verschiebung="0;0;0" Winkel="180;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\N\Re160-5000-180-550-S1KA-N-RN-350.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="50" Verschiebung="0;0;0" Winkel="180;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\N\Re160-5000-180-550-S1LK-N.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="50" Verschiebung="0;0;0" Winkel="180;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re160\Flachmast_Re160-180-550-SP2-N.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="100" Verschiebung="0;0;0" Winkel="180;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\N\Re160-5000-180-550-S2KS1K-N.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="100" Verschiebung="0;0;0" Winkel="180;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\N\Re160-5000-180-550-S2LS1L-N.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="100" Verschiebung="0;0;0" Winkel="180;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re160\Gittermast_Re160-180-550-La.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="150" Verschiebung="0;0;0" Winkel="180;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\N\Re160-5000-180-550-AS2L-N-RN-350.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="150" Verschiebung="0;0;0" Winkel="180;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\N\Re160-5000-180-550-LS2K-N.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="150" Verschiebung="0;0;0" Winkel="180;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\UKL\Spannwerke\Radspannwerk_N_Masthalterung.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="150" Verschiebung="-3.5;5.5;0" WeitSichtbar="FALSE" Winkel="180;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\UKL\Spannwerke\Radspannwerk_N_B350.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="150" Verschiebung="-3.7;5.5;0" Winkel="175.729996;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\UKL\Spannwerke\Radspannwerk_N_B350.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="150" Verschiebung="-3.3;5.5;0" Winkel="176.419998;0;0"/>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="FD 29750-" Offset="0;0;0" Position="0" Qualitaet="5"/>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5003-180-550-KL.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="29750" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5025-180-550-LL.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="29800" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5038-180-550-LL.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="29850" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5043-180-550-LL.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="29900" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Fahrleitung\ukl\Hochkette\Re160\Re160-5020-180-550-LL.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="29950" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="FL-Mast 29800-" Offset="0;0;0" Position="0" Qualitaet="5"/>
+				<Eintrag>
+					<Props Abstand="50" Anzahl="5" Datei="\Objekte\Fahrleitung\ukl\Streckenmasten\Re160\Flachmast_Re160-180-550-Ka.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="29800" Verschiebung="0;0;0" Winkel="180;0;0"/>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="0" Anzahl="1" Datei="" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="0;0;0" Winkel="0;0;0"/>
+				</Eintrag>
+			</Object>
+			<Object>
+				<Props Name="HILFE" Offset="0;0;0" Position="0" Qualitaet="0"/>
+				<Eintrag>
+					<Props Abstand="30" Anzahl="1" Datei="\Objekte\JohannesH\Tools\Fahrleitung-SH_5.5_-0.4.l3dgrp" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="30000" Verschiebung="0;0.37;0" Winkel="0;0;0"/>
+				</Eintrag>
+			</Object>
+		</Objecte>
+		<Hoeheunterbrechung>
+			<Landschaftsobjekt>
+				<Props Ende="35500" Start="28000"/>
+			</Landschaftsobjekt>
+		</Hoeheunterbrechung>
+		<Landschaft>
+			<Landschaftsobjekt>
+				<Props Abstand="20" Name="Schotter li" Polygon="TRUE" Position="28000" Scale="0.20893" Texture="TRUE" TextureFile="\Rails\RainerZ\Schotter_Unkr1.bmp" Zwischenpunkte="TRUE"/>
+				<Landschaftsobjekt>
+					<Props Hoehe="-0.1" Hoehefrei="FALSE" Position="0" Verschiebung="0"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="-0.35" Hoehefrei="FALSE" Position="0" Verschiebung="-3.8"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="-0.35" Hoehefrei="FALSE" Position="2000" Verschiebung="-3.8"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="-0.1" Hoehefrei="FALSE" Position="2000" Verschiebung="0"/>
+				</Landschaftsobjekt>
+			</Landschaftsobjekt>
+			<Landschaftsobjekt>
+				<Props Abstand="20" Name="Bahndamm" Polygon="TRUE" Position="28000" Scale="1" Texture="FALSE" TextureFile="" Zwischenpunkte="TRUE"/>
+				<Landschaftsobjekt>
+					<Props Hoehe="-0.35" Hoehefrei="FALSE" Position="0" Verschiebung="-4.5"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="-5" Hoehefrei="FALSE" Position="0" Verschiebung="-12"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="-5" Hoehefrei="FALSE" Position="2100" Verschiebung="-10"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="-0.35" Hoehefrei="FALSE" Position="2100" Verschiebung="-4.5"/>
+				</Landschaftsobjekt>
+			</Landschaftsobjekt>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+			<VOR>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="\Signale\OeBB\Form\Sonstige Signale\Geschwindigkeitstafel.l3dgrp" KMH="80" KMHNEIG="80" KeinHp2="FALSE" NichtImFahrplan="FALSE" Pos="33150" Tafel="TRUE" TafelFile="\Signale\OeBB\Form\Sonstige Signale\Ankuendigungstafel.l3dgrp" TafelPos="1030"/>
+						<TafelObjExtraData>
+							<Position>
+								<Props Position="-3;1.7;-0.05" Rotation="0;0;0"/>
+							</Position>
+						</TafelObjExtraData>
+						<ObjectProps>
+							<Position>
+								<Props Position="-3.5;1;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props File="\Signale\OeBB\Form\Sonstige Signale\Geschwindigkeitstafel.l3dgrp" KMH="110" KMHNEIG="110" KeinHp2="FALSE" NichtImFahrplan="FALSE" Pos="32600"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="-3.5;1.5;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props File="" KMH="130" KMHNEIG="130" KeinHp2="FALSE" NichtImFahrplan="FALSE" Pos="28000"/>
+					</Value>
+					<Value>
+						<Props File="" KMH="40" KMHNEIG="40" KeinHp2="FALSE" NichtImFahrplan="TRUE" NurBeiHp0="TRUE" Pos="34300"/>
+					</Value>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi500Bis="0" IndusiFile1000="\Signale\Indusimagnet 2.l3dgrp" IndusiPos1000="0" KennLimit="150" KennLimitHide="40" Pos="32120" SignalFile="\Signale\OeBB\Licht\1980\Mast-mitte\Vorsignal\VS.l3dgrp" Tafel100="TRUE" Tafel200="TRUE" Tafel300="TRUE" TafelFile100="\Signale\OeBB\Form\Zusatzsignale\Abstandstafel_1.l3dgrp" TafelFile200="\Signale\OeBB\Form\Zusatzsignale\Abstandstafel_2.l3dgrp" TafelFile300="\Signale\OeBB\Form\Zusatzsignale\Abstandstafel_3.l3dgrp" TafelPos100="70" TafelPos200="270" TafelPos300="470" Typ="Vorsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="-5.5;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi500Bis="0" KennLimit="150" KennLimitHide="40" Pos="32800" SignalFile="\Signale\OeBB\Licht\1980\Mast-mitte\Vorsignal\SN.l3dgrp" Typ="Vorsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="-6;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi500Bis="0" KennLimit="150" KennLimitHide="40" Pos="32940" SignalFile="\Signale\OeBB\Licht\1980\Mast-mitte\Vorsignal\SN.l3dgrp" Typ="Vorsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="-6;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="50" HomeSignal="FALSE" Hp3Bis="100" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile1000="\Signale\Indusimagnet 0.l3dgrp" IndusiFile2000="\Signale\PZB-Magnet.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" KennLimit="150" KennLimitHide="40;60" Pos="33147" SignalFile="\Signale\OeBB\Licht\1980\Mast-mitte\Kombisignal\HS-Typ-1-VS_GA-Licht.l3dgrp" Typ="KombisignalKenn" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props Lichtpunkt_40="&#39;TRUE&#39;" Lichtpunkt_60="&#39;TRUE&#39;" Signalnummer="&#39;B&#39;" Signaltyp1_unten="&#39;ES&#39;"/>
+							</Eigenschaften>
+							<Position>
+								<Props Position="-6;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi500Bis="0" KennLimit="150" KennLimitHide="40" Pos="33431" SignalFile="\Signale\OeBB\Licht\1980\Zwergsignal\Verschubsignal\Standard-1980.l3dgrp" Typ="Sonstiges" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props Signalnummer="&#39;V101&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi500Bis="0" KennLimit="150" KennLimitHide="40" Pos="33685" SignalFile="\Signale\OeBB\Licht\1980\Zwergsignal\Verschubsignal\Standard-1980.l3dgrp" Typ="Sonstiges" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props Signalnummer="&#39;V111&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi500Bis="0" KennLimit="150" KennLimitHide="40" Pos="34320" SignalFile="\Signale\OeBB\Licht\1980\Mast-mitte\Schutzsignal\Schutz.l3dgrp" Typ="Schutzsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props Signalnummer="&#39;Sch 101&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi500Bis="0" KennLimit="150" KennLimitHide="40" Pos="34675" SignalFile="\Signale\OeBB\Licht\1980\Mast-mitte\Hauptsignal\HS-Typ-1_v2_1.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props Lichtpunkt_60="&#39;TRUE&#39;" Rangiersignal="&#39;TRUE&#39;" Signalnummer="&#39;R1&#39;" Signaltyp1_oben="&#39;AS&#39;" Typ_oben="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi500Bis="0" KennLimit="150" KennLimitHide="40" Pos="34777" SignalFile="\Signale\OeBB\Licht\1980\Mast-mitte\Hauptsignal\HS-Typ-1.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi500Bis="0" KennLimit="150" KennLimitHide="40" Pos="35228" SignalFile="\Objekte\Tafeln\Frieder\Ra10b.l3dgrp" Typ="Sonstiges" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="-5.5;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi500Bis="0" KennLimit="150" KennLimitHide="40" Pos="28580" SignalFile="\Signale\KS_Saalbahn\Vorsignale\01Vaa.l3dgrp" Tafel100="TRUE" Tafel200="TRUE" Tafel300="TRUE" TafelFile100="\Signale\KS_Saalbahn\Nebensignale\Ne3_1.l3dgrp" TafelFile200="\Signale\KS_Saalbahn\Nebensignale\Ne3_2.l3dgrp" TafelFile300="\Signale\KS_Saalbahn\Nebensignale\Ne3_3.l3dgrp" TafelPos100="100" TafelPos200="150" TafelPos300="250" Typ="Vorsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props Sockel_klein="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+							<Position>
+								<Props Position="-3.5;-0.25;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+						<TafelObjExtraData100>
+							<Position>
+								<Props Position="-3.1;0;0" Rotation="0;0;0"/>
+							</Position>
+						</TafelObjExtraData100>
+						<TafelObjExtraData200>
+							<Position>
+								<Props Position="-3.1;0;0" Rotation="0;0;0"/>
+							</Position>
+						</TafelObjExtraData200>
+						<TafelObjExtraData300>
+							<Position>
+								<Props Position="-3.1;0;0" Rotation="0;0;0"/>
+							</Position>
+						</TafelObjExtraData300>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi500Bis="0" KennLimit="150" KennLimitHide="40" Pos="29325" SignalFile="\Signale\KS_Saalbahn\VorsignalWdh\01VWff.l3dgrp" Typ="Vorsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props Sockel_klein="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+							<Position>
+								<Props Position="-3.5;-0.1;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile1000="\Signale\Indusimagnet 0.l3dgrp" IndusiFile2000="\Signale\PZB-Magnet.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" KennLimit="150" KennLimitHide="110" Pos="29580" SignalFile="\Signale\KS_Saalbahn\MehrabschSignale\01FF.l3dgrp" Typ="KombisignalKenn" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="-3.5;-0.25;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props Signalnummer="&#39;AA&#39;" Sockel_klein="&#39;TRUE&#39;" Stellbereich="&#39;34&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="60" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\PZB-Magnet.l3dgrp" IndusiPos2000="0" KennLimit="150" KennLimitHide="110" Pos="30860" SignalFile="\Signale\KS_Saalbahn\Hauptsignale\02N2.l3dgrp" Typ="HauptsignalKenn" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props Signalnummer="&#39;N2&#39;" Sockel_klein="&#39;TRUE&#39;" Stellbereich="&#39;34&#39;"/>
+							</Eigenschaften>
+							<Position>
+								<Props Position="2.5;0.27;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+				</SIGNAL>
+				<Signaloptionen>
+					<Value>
+						<Props Pos="31080" Zs6="TRUE"/>
+					</Value>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<Bahnuebergang>
+				</Bahnuebergang>
+				<RAIL>
+				</RAIL>
+				<RailQuality>
+				</RailQuality>
+				<LZB>
+				</LZB>
+				<Kilometrierung>
+				</Kilometrierung>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Ueberhoehung>
+				</Ueberhoehung>
+				<RailProps>
+				</RailProps>
+				<Bremswegabstand>
+				</Bremswegabstand>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</VOR>
+			<ZURUECK>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="\Signale\OeBB\Form\Sonstige Signale\Geschwindigkeitstafel.l3dgrp" KMH="110" KMHNEIG="110" KeinHp2="FALSE" NichtImFahrplan="FALSE" Pos="33100"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="3.5;1.5;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props File="\Signale\OeBB\Form\Sonstige Signale\Geschwindigkeitstafel.l3dgrp" KMH="130" KMHNEIG="130" KeinHp2="FALSE" NichtImFahrplan="FALSE" Pos="32650"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="3.5;1;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="50" HomeSignal="FALSE" Hp3Bis="60" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile1000="\Signale\Indusimagnet 0.l3dgrp" IndusiFile2000="\Signale\PZB-Magnet.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" KennLimit="150" KennLimitHide="40;60;80" Pos="35343" SignalFile="\Signale\OeBB\Licht\1980\Mast-mitte\Kombisignal\HS-Typ-1-VS_GA-Licht.l3dgrp" Typ="KombisignalKenn" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="0.5;0;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props Lichtpunkt_40="&#39;TRUE&#39;" Lichtpunkt_60="&#39;TRUE&#39;" Signalnummer="&#39;Z&#39;" Signaltyp1_unten="&#39;ES&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi500Bis="0" KennLimit="150" KennLimitHide="40" Pos="35125" SignalFile="\Signale\OeBB\Licht\1980\Zwergsignal\Verschubsignal\Standard-1980.l3dgrp" Typ="Sonstiges" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props Signalnummer="&#39;V201&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi500Bis="0" KennLimit="150" KennLimitHide="40" Pos="34950" SignalFile="\Signale\OeBB\Licht\1980\Zwergsignal\Verschubsignal\Standard-1980.l3dgrp" Typ="Sonstiges" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props Signalnummer="&#39;V251&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi500Bis="0" KennLimit="150" KennLimitHide="40" Pos="33895" SignalFile="\Signale\OeBB\Licht\1980\Mast-mitte\Hauptsignal\HS-Typ-1_v2_1.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props Abfahrtsignal="&#39;TRUE&#39;" Lichtpunkt_60="&#39;TRUE&#39;" Rangiersignal="&#39;TRUE&#39;" Signalnummer="&#39;H1&#39;" Signaltyp1_unten="&#39;AS&#39;" Zp9="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi500Bis="0" KennLimit="150" KennLimitHide="40" Pos="33378" SignalFile="\Objekte\Tafeln\Frieder\Ra10b.l3dgrp" Typ="Sonstiges" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="0;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi500Bis="0" IndusiFile1000="\Signale\PZB-Magnet.l3dgrp" IndusiPos1000="0" KennLimit="150" KennLimitHide="40" Pos="32397" SignalFile="\Signale\KS_Saalbahn\Vorsignale\01Va.l3dgrp" Typ="Vorsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="3.5;-0.33;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props Sockel_klein="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi500Bis="0" KennLimit="150" KennLimitHide="40" Pos="31615" SignalFile="\Signale\KS_Saalbahn\VorsignalWdh\01VWa.l3dgrp" Typ="Vorsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="3.5;-0.33;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile1000="\Signale\Indusimagnet 0.l3dgrp" IndusiFile2000="\Signale\PZB-Magnet.l3dgrp" IndusiPos1000="0" IndusiPos2000="0" KennLimit="60" KennLimitHide="40" Pos="31375" SignalFile="\Signale\KS_Saalbahn\MehrabschSignale\01F.l3dgrp" Typ="KombisignalKenn" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="3.5;-0.33;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props Signalnummer="&#39;F&#39;" Sockel_gross="&#39;TRUE&#39;" Stellbereich="&#39;34&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi500Bis="0" KennLimit="150" KennLimitHide="40" Pos="31070" SignalFile="\Signale\Einheitssignale Bauform 1969\Sperrsignale\Sperrsignal-hoch.l3dgrp" Typ="Sonstiges" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="1;0;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000="TRUE" Indusi1000Bis="70" Indusi500Bis="0" IndusiFile1000="\Signale\PZB-Magnet.l3dgrp" IndusiPos1000="0" KennLimit="150" KennLimitHide="40" Pos="28415" SignalFile="\Signale\KS_Saalbahn\Vorsignale\01V01.l3dgrp" Tafel100="TRUE" Tafel200="TRUE" Tafel300="TRUE" TafelFile100="\Signale\KS_Saalbahn\Nebensignale\Ne3_1.l3dgrp" TafelFile200="\Signale\KS_Saalbahn\Nebensignale\Ne3_2.l3dgrp" TafelFile300="\Signale\KS_Saalbahn\Nebensignale\Ne3_3.l3dgrp" TafelPos100="100" TafelPos200="175" TafelPos300="250" Typ="Vorsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props Sockel_klein="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+							<Position>
+								<Props Position="3.5;-0.25;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+						<TafelObjExtraData100>
+							<Position>
+								<Props Position="3.1;0;0" Rotation="0;0;0"/>
+							</Position>
+						</TafelObjExtraData100>
+						<TafelObjExtraData200>
+							<Position>
+								<Props Position="3.1;0;0" Rotation="0;0;0"/>
+							</Position>
+						</TafelObjExtraData200>
+						<TafelObjExtraData300>
+							<Position>
+								<Props Position="3.1;0;0" Rotation="0;0;0"/>
+							</Position>
+						</TafelObjExtraData300>
+					</Value>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+					<Value>
+						<Props File="" Name="Modulende" Pos="28000" ToleranzMinus="25" ToleranzPlus="25" Zuglaenge="0"/>
+					</Value>
+				</Haltepunkt>
+				<LZB>
+				</LZB>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</ZURUECK>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="Gleis3"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="-10" ParallelEnd="30880" ParallelGleis="Hauptgleis R" ParallelStart="30340" StartPos="0" StartPunkt="0;0;0" Typ="Parallel" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
+			</Erstellung>
+			<Ausweiche>
+				<Props Abstand="-4" Ende="30700" KurvenWeite="75" Start="30000"/>
+			</Ausweiche>
+			<Weiche>
+				<Props Anfang="Vorne" ErstellungsArt="Annaeherung" Gleis="Hauptgleis L" Kennung="W1" Kruemung="10" Position="0" WeichenWinkel="6" WeichenWinkelDynamisch="FALSE"/>
+			</Weiche>
+			<Weiche>
+				<Props Anfang="Ende" ErstellungsArt="Annaeherung" Gleis="Hauptgleis L" Kennung="W2" Kruemung="10" Position="0" WeichenWinkel="6" WeichenWinkelDynamisch="FALSE"/>
+			</Weiche>
+		</TOPOLOGIE>
+		<Objecte>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+			<VOR>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="60" KMHNEIG="60" KeinHp2="FALSE" NichtImFahrplan="TRUE" Pos="30230"/>
+					</Value>
+					<Value>
+						<Props File="" KMH="60" KMHNEIG="60" KeinHp2="FALSE" NichtImFahrplan="TRUE" Pos="30900" Tafel="TRUE" TafelFile="\Signale\OeBB\Form\Zusatzsignale\Geschwindigkeitsvoranzeiger.l3dgrp" TafelPos="230"/>
+						<TafelObjExtraData>
+							<Position>
+								<Props Position="3.2;0;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props Fuss="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+						</TafelObjExtraData>
+					</Value>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="60" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi2000="TRUE" Indusi500Bis="0" IndusiFile2000="\Signale\PZB-Magnet.l3dgrp" IndusiPos2000="0" KennLimit="150" KennLimitHide="40" Pos="30870" SignalFile="\Signale\KS_Saalbahn\Hauptsignale\03P3.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props Signalnummer="&#39;N3&#39;" Sockel_klein="&#39;TRUE&#39;" Stellbereich="&#39;34&#39;" TEXT="&#39;6&#39;"/>
+							</Eigenschaften>
+							<Position>
+								<Props Position="2.5;0.27;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<Bahnuebergang>
+				</Bahnuebergang>
+				<RAIL>
+				</RAIL>
+				<RailQuality>
+				</RailQuality>
+				<LZB>
+				</LZB>
+				<Kilometrierung>
+				</Kilometrierung>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Ueberhoehung>
+				</Ueberhoehung>
+				<RailProps>
+				</RailProps>
+				<Bremswegabstand>
+				</Bremswegabstand>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</VOR>
+			<ZURUECK>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="60" KMHNEIG="60" KeinHp2="FALSE" NichtImFahrplan="TRUE" Pos="30500" Tafel="TRUE" TafelFile="\Signale\OeBB\Form\Zusatzsignale\Geschwindigkeitsvoranzeiger.l3dgrp" TafelPos="20"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="3.2;2;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+						<TafelObjExtraData>
+							<Position>
+								<Props Position="3.1;2.6;-0.75" Rotation="0;0;0"/>
+							</Position>
+						</TafelObjExtraData>
+					</Value>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi500Bis="0" KennLimit="150" KennLimitHide="40" Pos="30520" SignalFile="\Signale\KS_Saalbahn\VorsignalWdh\01VW02.l3dgrp" Typ="Vorsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Position>
+								<Props Position="3.5;0.27;0" Rotation="0;0;0"/>
+							</Position>
+							<Eigenschaften>
+								<Props Sockel_klein="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi500Bis="0" KennLimit="150" KennLimitHide="40" Pos="30300" SignalFile="\Signale\KS_Saalbahn\Hauptsignale\03P3.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props Hp0="&#39;TRUE&#39;" Signalnummer="&#39;P3&#39;" Sockel_klein="&#39;TRUE&#39;" Stellbereich="&#39;34&#39;" TEXT="&#39;6&#39;"/>
+							</Eigenschaften>
+							<Position>
+								<Props Position="3.5;0.27;0" Rotation="0;0;0"/>
+							</Position>
+						</ObjectProps>
+					</Value>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<LZB>
+				</LZB>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</ZURUECK>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="GW30140"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="-10" ParallelEnd="0" ParallelGleis="" ParallelStart="0" StartPos="0" StartPunkt="0;0;0" Typ="Weiche" WeicheEnd="30180" WeicheGleis="Hauptgleis R" WeicheGleisPos="30140" WeicheGleisRichtung="1" WeicheName="GW30140_1" WeicheStart="30140" WeichenWinkel="6" Winkel="0"/>
+			</Erstellung>
+			<Weiche>
+				<Props Anfang="Ende" ErstellungsArt="Annaeherung" Gleis="Hauptgleis L" Kennung="GW30140_2" Kruemung="10" Position="0" WeichenWinkel="6" WeichenWinkelDynamisch="FALSE"/>
+			</Weiche>
+		</TOPOLOGIE>
+		<Objecte>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+			<VOR>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="60" KMHNEIG="60" KeinHp2="FALSE" NichtImFahrplan="TRUE" Pos="30150"/>
+					</Value>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<Bahnuebergang>
+				</Bahnuebergang>
+				<RAIL>
+				</RAIL>
+				<RailQuality>
+				</RailQuality>
+				<LZB>
+				</LZB>
+				<Kilometrierung>
+				</Kilometrierung>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Ueberhoehung>
+				</Ueberhoehung>
+				<RailProps>
+				</RailProps>
+				<Bremswegabstand>
+				</Bremswegabstand>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</VOR>
+			<ZURUECK>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="60" KMHNEIG="60" KeinHp2="FALSE" NichtImFahrplan="TRUE" Pos="30150"/>
+					</Value>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<LZB>
+				</LZB>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</ZURUECK>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="GW31000"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="-10" ParallelEnd="0" ParallelGleis="" ParallelStart="0" StartPos="0" StartPunkt="0;0;0" Typ="Weiche" WeicheEnd="31030" WeicheGleis="Hauptgleis L" WeicheGleisPos="31000" WeicheGleisRichtung="0" WeicheName="W3" WeicheStart="31000" WeichenWinkel="6" Winkel="0"/>
+			</Erstellung>
+			<Weiche>
+				<Props Anfang="Ende" ErstellungsArt="Annaeherung" Gleis="Hauptgleis R" Kennung="W4" Kruemung="10" Position="0" WeichenWinkel="6" WeichenWinkelDynamisch="FALSE"/>
+			</Weiche>
+		</TOPOLOGIE>
+		<Objecte>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+			<VOR>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="60" KMHNEIG="60" KeinHp2="FALSE" NichtImFahrplan="TRUE" Pos="31020"/>
+					</Value>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<Bahnuebergang>
+				</Bahnuebergang>
+				<RAIL>
+				</RAIL>
+				<RailQuality>
+				</RailQuality>
+				<LZB>
+				</LZB>
+				<Kilometrierung>
+				</Kilometrierung>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Ueberhoehung>
+				</Ueberhoehung>
+				<RailProps>
+				</RailProps>
+				<Bremswegabstand>
+				</Bremswegabstand>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</VOR>
+			<ZURUECK>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="60" KMHNEIG="60" KeinHp2="FALSE" NichtImFahrplan="TRUE" Pos="31020"/>
+					</Value>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<LZB>
+				</LZB>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</ZURUECK>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="AB1"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="7" ParallelEnd="30200" ParallelGleis="Hauptgleis R" ParallelStart="29000" StartPos="0" StartPunkt="0;0;0" Typ="Parallel" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
+			</Erstellung>
+			<Ausweiche>
+				<Props Abstand="8" Ende="29990" KurvenWeite="150" Start="28500"/>
+			</Ausweiche>
+			<STEIGUNG>
+				<Props Ende="29400" Promille="3" SanfterWinkel="TRUE" Start="29000"/>
+			</STEIGUNG>
+			<STEIGUNG>
+				<Props Ende="29990" Promille="-3" SanfterWinkel="TRUE" Start="29590"/>
+			</STEIGUNG>
+		</TOPOLOGIE>
+		<Objecte>
+		</Objecte>
+		<Hoeheunterbrechung>
+			<Landschaftsobjekt>
+				<Props Ende="29800" Start="29000"/>
+			</Landschaftsobjekt>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+			<VOR>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="40" KMHNEIG="40" KeinHp2="FALSE" NichtImFahrplan="TRUE" Pos="29000"/>
+					</Value>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<Bahnuebergang>
+				</Bahnuebergang>
+				<RAIL>
+					<Value>
+						<Props Pos="29860" RAILVALUE="\Rails\RainerH\flimmerfrei\16holzschwellen_schotter_normal.l3drail"/>
+					</Value>
+					<Value>
+						<Props Pos="29000" RAILVALUE="\Rails\nullRail.l3drail"/>
+					</Value>
+				</RAIL>
+				<RailQuality>
+				</RailQuality>
+				<LZB>
+				</LZB>
+				<Kilometrierung>
+				</Kilometrierung>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Ueberhoehung>
+				</Ueberhoehung>
+				<RailProps>
+				</RailProps>
+				<Bremswegabstand>
+				</Bremswegabstand>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</VOR>
+			<ZURUECK>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="40" KMHNEIG="40" KeinHp2="FALSE" NichtImFahrplan="TRUE" Pos="30200"/>
+					</Value>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<LZB>
+				</LZB>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</ZURUECK>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="AB2"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="5" ParallelEnd="30200" ParallelGleis="AB1" ParallelStart="29860" StartPos="0" StartPunkt="0;0;0" Typ="Parallel" WeicheEnd="230" WeicheGleis="Hauptgleis R" WeicheGleisPos="30100" WeicheGleisRichtung="3" WeicheName="W_AB1" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
+			</Erstellung>
+			<KURVE>
+				<Props Ende="115" SanfterWinkel="FALSE" Start="85" Winkel="8"/>
+			</KURVE>
+			<KURVE>
+				<Props Ende="250" SanfterWinkel="TRUE" Start="125" Winkel="-25"/>
+			</KURVE>
+		</TOPOLOGIE>
+		<Objecte>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+			<VOR>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="40" KMHNEIG="40" KeinHp2="FALSE" NichtImFahrplan="TRUE" Pos="29860"/>
+					</Value>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<Bahnuebergang>
+				</Bahnuebergang>
+				<RAIL>
+				</RAIL>
+				<RailQuality>
+				</RailQuality>
+				<LZB>
+				</LZB>
+				<Kilometrierung>
+				</Kilometrierung>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Ueberhoehung>
+				</Ueberhoehung>
+				<RailProps>
+				</RailProps>
+				<Bremswegabstand>
+				</Bremswegabstand>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</VOR>
+			<ZURUECK>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="40" KMHNEIG="40" KeinHp2="FALSE" NichtImFahrplan="TRUE" Pos="30200"/>
+					</Value>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<LZB>
+				</LZB>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</ZURUECK>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="AB"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="-10" ParallelEnd="0" ParallelGleis="" ParallelStart="0" StartPos="0" StartPunkt="0;0;0" Typ="Weiche" WeicheEnd="29980" WeicheGleis="AB2" WeicheGleisPos="30015" WeicheGleisRichtung="1" WeicheName="AB4" WeicheStart="29900" WeichenWinkel="8" Winkel="0"/>
+			</Erstellung>
+			<Weiche>
+				<Props Anfang="Ende" ErstellungsArt="Annaeherung" Gleis="Hauptgleis R" Kennung="AB1" Kruemung="10" Position="0" WeichenWinkel="8" WeichenWinkelDynamisch="FALSE"/>
+			</Weiche>
+			<Kreuzung>
+				<Props Gleis="AB1" Gleisverlauf="0" Kennung="AB2_3" KreuzungsTyp="0" PositionBis="29980" PositionVon="29900" WeichenWinkel="8" WeichenWinkelDynamisch="TRUE"/>
+			</Kreuzung>
+		</TOPOLOGIE>
+		<Objecte>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+			<VOR>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="40" KMHNEIG="40" KeinHp2="FALSE" NichtImFahrplan="TRUE" Pos="29900"/>
+					</Value>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<Bahnuebergang>
+				</Bahnuebergang>
+				<RAIL>
+				</RAIL>
+				<RailQuality>
+				</RailQuality>
+				<LZB>
+				</LZB>
+				<Kilometrierung>
+				</Kilometrierung>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Ueberhoehung>
+				</Ueberhoehung>
+				<RailProps>
+				</RailProps>
+				<Bremswegabstand>
+				</Bremswegabstand>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</VOR>
+			<ZURUECK>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="40" KMHNEIG="40" KeinHp2="FALSE" NichtImFahrplan="TRUE" Pos="29980"/>
+					</Value>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<LZB>
+				</LZB>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</ZURUECK>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="Gleis 503"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="-5" ParallelEnd="34700" ParallelGleis="Hauptgleis L" ParallelStart="33840" StartPos="0" StartPunkt="0;0;0" Typ="Parallel" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
+			</Erstellung>
+			<Weiche>
+				<Props Anfang="Vorne" ErstellungsArt="Annaeherung" Gleis="GW1885" Kennung="W108" Kruemung="12" Position="50" WeichenWinkel="8" WeichenWinkelDynamisch="TRUE"/>
+			</Weiche>
+			<Weiche>
+				<Props Anfang="Ende" ErstellungsArt="Annaeherung" Gleis="Gleis 607" Kennung="W272" Kruemung="10" Position="0" WeichenWinkel="5" WeichenWinkelDynamisch="FALSE"/>
+			</Weiche>
+		</TOPOLOGIE>
+		<Objecte>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+			<VOR>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="40" KMHNEIG="40" KeinHp2="FALSE" NichtImFahrplan="TRUE" NurBeiHp0="TRUE" Pos="34290"/>
+					</Value>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi500Bis="0" KennLimit="150" KennLimitHide="40" Pos="34310" SignalFile="\Signale\OeBB\Licht\1980\Mast-mitte\Schutzsignal\Schutz.l3dgrp" Typ="Schutzsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props Signalnummer="&#39;Sch 103&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi500Bis="0" KennLimit="150" KennLimitHide="40" Pos="34659" SignalFile="\Signale\OeBB\Licht\1980\Mast-mitte\Hauptsignal\HS-Typ-1_v2_1.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props Lichtpunkt_60="&#39;TRUE&#39;" Rangiersignal="&#39;TRUE&#39;" Signalnummer="&#39;R3&#39;" Signaltyp1_oben="&#39;AS&#39;" Typ_oben="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<Bahnuebergang>
+				</Bahnuebergang>
+				<RAIL>
+				</RAIL>
+				<RailQuality>
+				</RailQuality>
+				<LZB>
+				</LZB>
+				<Kilometrierung>
+				</Kilometrierung>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Ueberhoehung>
+				</Ueberhoehung>
+				<RailProps>
+				</RailProps>
+				<Bremswegabstand>
+				</Bremswegabstand>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</VOR>
+			<ZURUECK>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi500Bis="0" KennLimit="150" KennLimitHide="40" Pos="33905" SignalFile="\Signale\OeBB\Licht\1980\Mast-mitte\Hauptsignal\HS-Typ-1_v2_1.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props Abfahrtsignal="&#39;TRUE&#39;" Lichtpunkt_60="&#39;TRUE&#39;" Rangiersignal="&#39;TRUE&#39;" Signalnummer="&#39;H3&#39;" Signaltyp1_unten="&#39;AS&#39;" Zp9="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<LZB>
+				</LZB>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</ZURUECK>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="Gleis 504"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="7" ParallelEnd="35150" ParallelGleis="Hauptgleis R" ParallelStart="33160" StartPos="0" StartPunkt="0;0;0" Typ="Parallel" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
+			</Erstellung>
+		</TOPOLOGIE>
+		<Objecte>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+			<VOR>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi500Bis="0" KennLimit="150" KennLimitHide="40" Pos="33625" SignalFile="\Signale\OeBB\Licht\1980\Zwergsignal\Verschubsignal\Standard-1980.l3dgrp" Typ="Sonstiges" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props Signalnummer="&#39;V104&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi500Bis="0" KennLimit="150" KennLimitHide="40" Pos="33490" SignalFile="\Signale\OeBB\Licht\1980\Zwergsignal\Verschubsignal\Standard-1980.l3dgrp" Typ="Sonstiges" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props Signalnummer="&#39;V106&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi500Bis="0" KennLimit="150" KennLimitHide="40" Pos="34668" SignalFile="\Signale\OeBB\Licht\1980\Mast-mitte\Hauptsignal\HS-Typ-1_v2_1.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props Lichtpunkt_40="&#39;TRUE&#39;" Lichtpunkt_60="&#39;TRUE&#39;" Rangiersignal="&#39;TRUE&#39;" Signalnummer="&#39;R4&#39;" Signaltyp1_oben="&#39;AS&#39;" Typ_oben="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<Bahnuebergang>
+				</Bahnuebergang>
+				<RAIL>
+				</RAIL>
+				<RailQuality>
+				</RailQuality>
+				<LZB>
+				</LZB>
+				<Kilometrierung>
+				</Kilometrierung>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Ueberhoehung>
+				</Ueberhoehung>
+				<RailProps>
+				</RailProps>
+				<Bremswegabstand>
+				</Bremswegabstand>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</VOR>
+			<ZURUECK>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi500Bis="0" KennLimit="150" KennLimitHide="40" Pos="35083" SignalFile="\Signale\OeBB\Licht\1980\Zwergsignal\Verschubsignal\Standard-1980.l3dgrp" Typ="Sonstiges" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props Signalnummer="&#39;V264&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi500Bis="0" KennLimit="150" KennLimitHide="40" Pos="34950" SignalFile="\Signale\OeBB\Licht\1980\Zwergsignal\Verschubsignal\Standard-1980.l3dgrp" Typ="Sonstiges" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props Signalnummer="&#39;V254&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi500Bis="0" KennLimit="150" KennLimitHide="40" Pos="33895" SignalFile="\Signale\OeBB\Licht\1980\Mast-mitte\Hauptsignal\HS-Typ-1_v2_1.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props GA="&#39;5&#39;" GA-Blech="&#39;TRUE&#39;" Lichtpunkt_40="&#39;TRUE&#39;" Rangiersignal="&#39;TRUE&#39;" Signalnummer="&#39;H4&#39;" Signaltyp1_unten="&#39;AS&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<LZB>
+				</LZB>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</ZURUECK>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="Gleis 506"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="12" ParallelEnd="34670" ParallelGleis="Hauptgleis R" ParallelStart="33890" StartPos="0" StartPunkt="0;0;0" Typ="Parallel" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
+			</Erstellung>
+			<Weiche>
+				<Props Anfang="Vorne" ErstellungsArt="Annaeherung" Gleis="Gleis 504" Kennung="W127" Kruemung="10" Position="0" WeichenWinkel="7" WeichenWinkelDynamisch="FALSE"/>
+			</Weiche>
+			<Weiche>
+				<Props Anfang="Ende" ErstellungsArt="Annaeherung" Gleis="Gleis 504" Kennung="W264" Kruemung="3" Position="0" WeichenWinkel="6" WeichenWinkelDynamisch="FALSE"/>
+			</Weiche>
+		</TOPOLOGIE>
+		<Objecte>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+			<VOR>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi500Bis="0" KennLimit="150" KennLimitHide="40" Pos="34697" SignalFile="\Signale\OeBB\Licht\1980\Mast-mitte\Hauptsignal\HS-Typ-1_v2_1.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props Lichtpunkt_40="&#39;TRUE&#39;" Lichtpunkt_60="&#39;TRUE&#39;" Rangiersignal="&#39;TRUE&#39;" Signalnummer="&#39;R6&#39;" Signaltyp1_oben="&#39;AS&#39;" Typ_oben="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<Bahnuebergang>
+				</Bahnuebergang>
+				<RAIL>
+				</RAIL>
+				<RailQuality>
+				</RailQuality>
+				<LZB>
+				</LZB>
+				<Kilometrierung>
+				</Kilometrierung>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Ueberhoehung>
+				</Ueberhoehung>
+				<RailProps>
+				</RailProps>
+				<Bremswegabstand>
+				</Bremswegabstand>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</VOR>
+			<ZURUECK>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi500Bis="0" KennLimit="150" KennLimitHide="40" Pos="33895" SignalFile="\Signale\OeBB\Licht\1980\Mast-mitte\Hauptsignal\HS-Typ-1_v2_1.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props GA="&#39;5&#39;" GA-Blech="&#39;TRUE&#39;" Lichtpunkt_40="&#39;TRUE&#39;" Rangiersignal="&#39;TRUE&#39;" Signalnummer="&#39;H6&#39;" Signaltyp1_unten="&#39;AS&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<LZB>
+				</LZB>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</ZURUECK>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="Gleis 508"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="17" ParallelEnd="34720" ParallelGleis="Hauptgleis R" ParallelStart="33770" StartPos="0" StartPunkt="0;0;0" Typ="Parallel" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
+			</Erstellung>
+			<Weiche>
+				<Props Anfang="Vorne" ErstellungsArt="Annaeherung" Gleis="Gleis 504" Kennung="W123" Kruemung="10" Position="0" WeichenWinkel="7" WeichenWinkelDynamisch="FALSE"/>
+			</Weiche>
+			<Weiche>
+				<Props Anfang="Ende" ErstellungsArt="Annaeherung" Gleis="Gleis 504" Kennung="W265" Kruemung="8" Position="0" WeichenWinkel="8" WeichenWinkelDynamisch="FALSE"/>
+			</Weiche>
+		</TOPOLOGIE>
+		<Objecte>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+			<VOR>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi500Bis="0" KennLimit="150" KennLimitHide="40" Pos="34740" SignalFile="\Signale\OeBB\Licht\1980\Mast-mitte\Hauptsignal\HS-Typ-1_v2_1.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props Lichtpunkt_40="&#39;TRUE&#39;" Lichtpunkt_60="&#39;TRUE&#39;" Rangiersignal="&#39;TRUE&#39;" Signalnummer="&#39;R8&#39;" Signaltyp1_oben="&#39;AS&#39;" Typ_oben="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<Bahnuebergang>
+				</Bahnuebergang>
+				<RAIL>
+				</RAIL>
+				<RailQuality>
+				</RailQuality>
+				<LZB>
+				</LZB>
+				<Kilometrierung>
+				</Kilometrierung>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Ueberhoehung>
+				</Ueberhoehung>
+				<RailProps>
+				</RailProps>
+				<Bremswegabstand>
+				</Bremswegabstand>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</VOR>
+			<ZURUECK>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi500Bis="0" KennLimit="150" KennLimitHide="40" Pos="33897" SignalFile="\Signale\OeBB\Licht\1980\Mast-mitte\Hauptsignal\HS-Typ-1_v2_1.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props GA="&#39;5&#39;" GA-Blech="&#39;TRUE&#39;" Lichtpunkt_40="&#39;TRUE&#39;" Rangiersignal="&#39;TRUE&#39;" Signalnummer="&#39;H8&#39;" Signaltyp1_unten="&#39;AS&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<LZB>
+				</LZB>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</ZURUECK>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="Gleis 405"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="-5" ParallelEnd="34250" ParallelGleis="Hauptgleis L" ParallelStart="33630" StartPos="0" StartPunkt="33630;0;0" Typ="Parallel" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
+			</Erstellung>
+			<Ausweiche>
+				<Props Abstand="-6" Ende="35500" KurvenWeite="100" Start="33780"/>
+			</Ausweiche>
+			<Ausweiche>
+				<Props Abstand="-5" Ende="35500" KurvenWeite="100" Start="33820"/>
+			</Ausweiche>
+		</TOPOLOGIE>
+		<Objecte>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+			<VOR>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="40" KMHNEIG="40" KeinHp2="FALSE" NichtImFahrplan="TRUE" Pos="33630"/>
+					</Value>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+					<Value>
+						<Props File="" Name="Grenzstadt" Pos="34245" ToleranzMinus="100" ToleranzPlus="25" Zuglaenge="0"/>
+					</Value>
+				</Haltepunkt>
+				<Bahnuebergang>
+				</Bahnuebergang>
+				<RAIL>
+					<Value>
+						<Props Pos="34245" RAILVALUE="\Rails\nullRail.l3drail"/>
+					</Value>
+				</RAIL>
+				<RailQuality>
+				</RailQuality>
+				<LZB>
+				</LZB>
+				<Kilometrierung>
+				</Kilometrierung>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Ueberhoehung>
+				</Ueberhoehung>
+				<RailProps>
+				</RailProps>
+				<Bremswegabstand>
+				</Bremswegabstand>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</VOR>
+			<ZURUECK>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="40" KMHNEIG="40" KeinHp2="FALSE" NichtImFahrplan="TRUE" Pos="34250"/>
+					</Value>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi500Bis="0" KennLimit="150" KennLimitHide="40" Pos="33987" SignalFile="\Signale\OeBB\Licht\1980\Mast-mitte\Hauptsignal\HS-Typ-1_v2_1.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props Lichtpunkt_40="&#39;TRUE&#39;" Rangiersignal="&#39;TRUE&#39;" Signalnummer="&#39;H5&#39;" Signaltyp1_unten="&#39;AS&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+					<Value>
+						<Props File="" Name="Kufstein" Pos="34150" ToleranzMinus="25" ToleranzPlus="25" Zuglaenge="0"/>
+					</Value>
+				</Haltepunkt>
+				<LZB>
+				</LZB>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</ZURUECK>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="Gleis 407"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="-5" ParallelEnd="34250" ParallelGleis="Gleis 405" ParallelStart="33995" StartPos="0" StartPunkt="0;0;0" Typ="Parallel" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
+			</Erstellung>
+			<Weiche>
+				<Props Anfang="Vorne" ErstellungsArt="Annaeherung" Gleis="Gleis 405" Kennung="W111" Kruemung="10" Position="0" WeichenWinkel="6" WeichenWinkelDynamisch="FALSE"/>
+			</Weiche>
+		</TOPOLOGIE>
+		<Objecte>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+			<ZURUECK>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi500Bis="0" KennLimit="150" KennLimitHide="40" Pos="33987" SignalFile="\Signale\OeBB\Licht\1980\Mast-mitte\Hauptsignal\HS-Typ-1_v2_1.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props Lichtpunkt_40="&#39;TRUE&#39;" Rangiersignal="&#39;TRUE&#39;" Signalnummer="&#39;H7&#39;" Signaltyp1_unten="&#39;AS&#39;" Zp9="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<LZB>
+				</LZB>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</ZURUECK>
+			<VOR>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="40" KMHNEIG="40" KeinHp2="FALSE" NichtImFahrplan="TRUE" Pos="33925"/>
+					</Value>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<Bahnuebergang>
+				</Bahnuebergang>
+				<RAIL>
+				</RAIL>
+				<RailQuality>
+				</RailQuality>
+				<LZB>
+				</LZB>
+				<Kilometrierung>
+				</Kilometrierung>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Ueberhoehung>
+				</Ueberhoehung>
+				<RailProps>
+				</RailProps>
+				<Bremswegabstand>
+				</Bremswegabstand>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</VOR>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="Gleis 607"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="-31" ParallelEnd="34750" ParallelGleis="Hauptgleis R" ParallelStart="34290" StartPos="0" StartPunkt="0;0;0" Typ="Parallel" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
+			</Erstellung>
+			<KURVE>
+				<Props Ende="34600" SanfterWinkel="TRUE" Start="34510" Winkel="6"/>
+			</KURVE>
+			<Weiche>
+				<Props Anfang="Ende" ErstellungsArt="Annaeherung" Gleis="Hauptgleis L" Kennung="W273" Kruemung="10" Position="0" WeichenWinkel="5" WeichenWinkelDynamisch="FALSE"/>
+			</Weiche>
+		</TOPOLOGIE>
+		<Objecte>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+			<VOR>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi500Bis="0" KennLimit="150" KennLimitHide="40" Pos="34590" SignalFile="\Signale\OeBB\Licht\1980\Mast-mitte\Hauptsignal\HS-Typ-1_v2_1.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props Lichtpunkt_40="&#39;TRUE&#39;" Lichtpunkt_60="&#39;TRUE&#39;" Rangiersignal="&#39;TRUE&#39;" Signalnummer="&#39;R7&#39;" Signaltyp1_oben="&#39;AS&#39;" Typ_oben="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<Bahnuebergang>
+				</Bahnuebergang>
+				<RAIL>
+				</RAIL>
+				<RailQuality>
+				</RailQuality>
+				<LZB>
+				</LZB>
+				<Kilometrierung>
+				</Kilometrierung>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Ueberhoehung>
+					<Value>
+						<Props Faktor="0.6" Fest="0" MaxValue="4" Pos="34290" Typ="0"/>
+					</Value>
+				</Ueberhoehung>
+				<RailProps>
+				</RailProps>
+				<Bremswegabstand>
+				</Bremswegabstand>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</VOR>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="Gleis 605"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="5" ParallelEnd="34590" ParallelGleis="Gleis 607" ParallelStart="34290" StartPos="0" StartPunkt="0;0;0" Typ="Parallel" WeicheEnd="0" WeicheGleis="" WeicheGleisPos="0" WeicheGleisRichtung="0" WeicheName="" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
+			</Erstellung>
+			<Weiche>
+				<Props Anfang="Ende" ErstellungsArt="Annaeherung" Gleis="Gleis 607" Kennung="W271" Kruemung="10" Position="0" WeichenWinkel="5" WeichenWinkelDynamisch="FALSE"/>
+			</Weiche>
+		</TOPOLOGIE>
+		<Objecte>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+			<VOR>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+					<Value>
+						<Props HP0Warsch="0" HP2Limit="40" HomeSignal="FALSE" Hp3Bis="0" Hp4Bis="0" Indusi1000Bis="70" Indusi500Bis="0" KennLimit="150" KennLimitHide="40" Pos="34610" SignalFile="\Signale\OeBB\Licht\1980\Mast-mitte\Hauptsignal\HS-Typ-1_v2_1.l3dgrp" Typ="Hauptsignal" VSigLimit="0" Zwischensignal="FALSE"/>
+						<ObjectProps>
+							<Eigenschaften>
+								<Props Lichtpunkt_60="&#39;TRUE&#39;" Rangiersignal="&#39;TRUE&#39;" Signalnummer="&#39;R5&#39;" Signaltyp1_oben="&#39;AS&#39;" Typ_oben="&#39;TRUE&#39;"/>
+							</Eigenschaften>
+						</ObjectProps>
+					</Value>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<Bahnuebergang>
+				</Bahnuebergang>
+				<RAIL>
+				</RAIL>
+				<RailQuality>
+				</RailQuality>
+				<LZB>
+				</LZB>
+				<Kilometrierung>
+				</Kilometrierung>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Ueberhoehung>
+					<Value>
+						<Props Faktor="0.6" Fest="0" MaxValue="4" Pos="34290" Typ="0"/>
+					</Value>
+				</Ueberhoehung>
+				<RailProps>
+				</RailProps>
+				<Bremswegabstand>
+				</Bremswegabstand>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</VOR>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="GW1460"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="-10" ParallelEnd="0" ParallelGleis="" ParallelStart="0" StartPos="0" StartPunkt="0;0;0" Typ="Weiche" WeicheEnd="1500" WeicheGleis="Hauptgleis L" WeicheGleisPos="33460" WeicheGleisRichtung="0" WeicheName="W101" WeicheStart="1460" WeichenWinkel="6" Winkel="0"/>
+			</Erstellung>
+			<Weiche>
+				<Props Anfang="Ende" ErstellungsArt="Annaeherung" Gleis="Hauptgleis R" Kennung="W102" Kruemung="10" Position="0" WeichenWinkel="6" WeichenWinkelDynamisch="FALSE"/>
+			</Weiche>
+		</TOPOLOGIE>
+		<Objecte>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+			<VOR>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="60" KMHNEIG="60" KeinHp2="FALSE" NichtImFahrplan="TRUE" Pos="1470"/>
+					</Value>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<Bahnuebergang>
+				</Bahnuebergang>
+				<RAIL>
+				</RAIL>
+				<RailQuality>
+				</RailQuality>
+				<LZB>
+				</LZB>
+				<Kilometrierung>
+				</Kilometrierung>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Ueberhoehung>
+				</Ueberhoehung>
+				<RailProps>
+				</RailProps>
+				<Bremswegabstand>
+				</Bremswegabstand>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</VOR>
+			<ZURUECK>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="60" KMHNEIG="60" KeinHp2="FALSE" NichtImFahrplan="TRUE" Pos="1470"/>
+					</Value>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<LZB>
+				</LZB>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</ZURUECK>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="GW1540"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="-10" ParallelEnd="0" ParallelGleis="" ParallelStart="0" StartPos="0" StartPunkt="0;0;0" Typ="Weiche" WeicheEnd="1600" WeicheGleis="Gleis 504" WeicheGleisPos="33540" WeicheGleisRichtung="1" WeicheName="W122" WeicheStart="1540" WeichenWinkel="7" Winkel="0"/>
+			</Erstellung>
+			<Weiche>
+				<Props Anfang="Ende" ErstellungsArt="Annaeherung" Gleis="Hauptgleis R" Kennung="W103" Kruemung="10" Position="0" WeichenWinkel="7" WeichenWinkelDynamisch="FALSE"/>
+			</Weiche>
+		</TOPOLOGIE>
+		<Objecte>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="GW1645"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="-10" ParallelEnd="0" ParallelGleis="" ParallelStart="0" StartPos="0" StartPunkt="0;0;0" Typ="Weiche" WeicheEnd="1690" WeicheGleis="Hauptgleis R" WeicheGleisPos="33645" WeicheGleisRichtung="0" WeicheName="W104" WeicheStart="1645" WeichenWinkel="5" Winkel="0"/>
+			</Erstellung>
+			<Weiche>
+				<Props Anfang="Ende" ErstellungsArt="Annaeherung" Gleis="Gleis 504" Kennung="W124" Kruemung="10" Position="0" WeichenWinkel="5" WeichenWinkelDynamisch="FALSE"/>
+			</Weiche>
+		</TOPOLOGIE>
+		<Objecte>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="GW1690"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="-10" ParallelEnd="0" ParallelGleis="" ParallelStart="0" StartPos="0" StartPunkt="0;0;0" Typ="Weiche" WeicheEnd="1700" WeicheGleis="Hauptgleis R" WeicheGleisPos="33690" WeicheGleisRichtung="1" WeicheName="W105" WeicheStart="1690" WeichenWinkel="5" Winkel="0"/>
+			</Erstellung>
+			<Weiche>
+				<Props Anfang="Ende" ErstellungsArt="Annaeherung" Gleis="Hauptgleis L" Kennung="W106" Kruemung="10" Position="0" WeichenWinkel="5" WeichenWinkelDynamisch="FALSE"/>
+			</Weiche>
+		</TOPOLOGIE>
+		<Objecte>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+			<VOR>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="60" KMHNEIG="60" KeinHp2="FALSE" NichtImFahrplan="TRUE" Pos="1700"/>
+					</Value>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<Bahnuebergang>
+				</Bahnuebergang>
+				<RAIL>
+				</RAIL>
+				<RailQuality>
+				</RailQuality>
+				<LZB>
+				</LZB>
+				<Kilometrierung>
+				</Kilometrierung>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Ueberhoehung>
+				</Ueberhoehung>
+				<RailProps>
+				</RailProps>
+				<Bremswegabstand>
+				</Bremswegabstand>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</VOR>
+			<ZURUECK>
+				<STRECKENNAMEN>
+				</STRECKENNAMEN>
+				<HOECHSTGESCHWINDIGKEIT>
+					<Value>
+						<Props File="" KMH="60" KMHNEIG="60" KeinHp2="FALSE" NichtImFahrplan="TRUE" Pos="1700"/>
+					</Value>
+				</HOECHSTGESCHWINDIGKEIT>
+				<SIGNAL>
+				</SIGNAL>
+				<Signaloptionen>
+				</Signaloptionen>
+				<Haltepunkt>
+				</Haltepunkt>
+				<LZB>
+				</LZB>
+				<IndusiExtra>
+				</IndusiExtra>
+				<Streckensound>
+				</Streckensound>
+				<ATB>
+				</ATB>
+			</ZURUECK>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="GW1770"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="-10" ParallelEnd="0" ParallelGleis="" ParallelStart="0" StartPos="0" StartPunkt="0;0;0" Typ="Weiche" WeicheEnd="1850" WeicheGleis="Gleis 504" WeicheGleisPos="33770" WeicheGleisRichtung="0" WeicheName="W126" WeicheStart="1770" WeichenWinkel="7" Winkel="0"/>
+			</Erstellung>
+			<Weiche>
+				<Props Anfang="Ende" ErstellungsArt="Annaeherung" Gleis="Gleis 508" Kennung="W128" Kruemung="10" Position="0" WeichenWinkel="7" WeichenWinkelDynamisch="FALSE"/>
+			</Weiche>
+		</TOPOLOGIE>
+		<Objecte>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="GW1885"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="-10" ParallelEnd="0" ParallelGleis="" ParallelStart="0" StartPos="0" StartPunkt="0;0;0" Typ="Weiche" WeicheEnd="50" WeicheGleis="Gleis 405" WeicheGleisPos="33885" WeicheGleisRichtung="3" WeicheName="W109" WeicheStart="0" WeichenWinkel="8" Winkel="0"/>
+			</Erstellung>
+			<Weiche>
+				<Props Anfang="Ende" ErstellungsArt="Annaeherung" Gleis="Hauptgleis L" Kennung="W107" Kruemung="10" Position="0" WeichenWinkel="8" WeichenWinkelDynamisch="FALSE"/>
+			</Weiche>
+		</TOPOLOGIE>
+		<Objecte>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="GW2340"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="-10" ParallelEnd="0" ParallelGleis="" ParallelStart="0" StartPos="0" StartPunkt="0;0;0" Typ="Weiche" WeicheEnd="2390" WeicheGleis="Gleis 503" WeicheGleisPos="34340" WeicheGleisRichtung="0" WeicheName="W248" WeicheStart="2340" WeichenWinkel="5" Winkel="0"/>
+			</Erstellung>
+			<Weiche>
+				<Props Anfang="Ende" ErstellungsArt="Annaeherung" Gleis="Hauptgleis L" Kennung="W249" Kruemung="10" Position="0" WeichenWinkel="5" WeichenWinkelDynamisch="FALSE"/>
+			</Weiche>
+		</TOPOLOGIE>
+		<Objecte>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="GW2850"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="-10" ParallelEnd="0" ParallelGleis="" ParallelStart="0" StartPos="0" StartPunkt="0;0;0" Typ="Weiche" WeicheEnd="2900" WeicheGleis="Gleis 504" WeicheGleisPos="34850" WeicheGleisRichtung="1" WeicheName="W267" WeicheStart="2850" WeichenWinkel="7" Winkel="0"/>
+			</Erstellung>
+			<Weiche>
+				<Props Anfang="Ende" ErstellungsArt="Annaeherung" Gleis="Hauptgleis R" Kennung="W268" Kruemung="10" Position="0" WeichenWinkel="8" WeichenWinkelDynamisch="FALSE"/>
+			</Weiche>
+		</TOPOLOGIE>
+		<Objecte>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="GW2900"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="-10" ParallelEnd="0" ParallelGleis="" ParallelStart="0" StartPos="0" StartPunkt="0;0;0" Typ="Weiche" WeicheEnd="2940" WeicheGleis="Hauptgleis L" WeicheGleisPos="34900" WeicheGleisRichtung="0" WeicheName="W275" WeicheStart="2900" WeichenWinkel="5" Winkel="0"/>
+			</Erstellung>
+			<Weiche>
+				<Props Anfang="Ende" ErstellungsArt="Annaeherung" Gleis="Hauptgleis R" Kennung="W276" Kruemung="10" Position="0" WeichenWinkel="5" WeichenWinkelDynamisch="FALSE"/>
+			</Weiche>
+		</TOPOLOGIE>
+		<Objecte>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="GW3000"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="-10" ParallelEnd="0" ParallelGleis="" ParallelStart="0" StartPos="0" StartPunkt="0;0;0" Typ="Weiche" WeicheEnd="3050" WeicheGleis="Hauptgleis R" WeicheGleisPos="35000" WeicheGleisRichtung="0" WeicheName="W277" WeicheStart="3000" WeichenWinkel="7" Winkel="0"/>
+			</Erstellung>
+			<Weiche>
+				<Props Anfang="Ende" ErstellungsArt="Annaeherung" Gleis="Gleis 504" Kennung="W295" Kruemung="10" Position="0" WeichenWinkel="7" WeichenWinkelDynamisch="FALSE"/>
+			</Weiche>
+		</TOPOLOGIE>
+		<Objecte>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+	<GLEIS>
+		<Props Name="GW3050"/>
+		<TOPOLOGIE>
+			<Erstellung>
+				<Props EndPunkt="1000" ParallelAbstand="-10" ParallelEnd="0" ParallelGleis="" ParallelStart="0" StartPos="0" StartPunkt="0;0;0" Typ="Weiche" WeicheEnd="3080" WeicheGleis="Hauptgleis R" WeicheGleisPos="35050" WeicheGleisRichtung="1" WeicheName="W278" WeicheStart="3050" WeichenWinkel="5" Winkel="0"/>
+			</Erstellung>
+			<Weiche>
+				<Props Anfang="Ende" ErstellungsArt="Annaeherung" Gleis="Hauptgleis L" Kennung="W279" Kruemung="10" Position="0" WeichenWinkel="5" WeichenWinkelDynamisch="FALSE"/>
+			</Weiche>
+		</TOPOLOGIE>
+		<Objecte>
+		</Objecte>
+		<Hoeheunterbrechung>
+		</Hoeheunterbrechung>
+		<Landschaft>
+		</Landschaft>
+		<EIGENSCHAFTEN>
+		</EIGENSCHAFTEN>
+	</GLEIS>
+</STRECKE>
