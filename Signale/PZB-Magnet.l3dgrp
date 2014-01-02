@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<GRUPPENOBJECT>
+	<Props FilePicture="PZB-Magnet.l3dgrp.jpg" FileAuthor="Sebastian Kircher" FileInfo="PZB-Gleismagnet moderne Bauform/n2000Hz//1000Hz//500Hz/n(c) 18. 09. 2004 Sebastian Kircher/nInfo: www.loksimportal.de"/>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="KS-Signale\Einzelteile\Indusimagnet_modern.l3dobj" Position="0.8;0.15;0"/>
+	</Object>
+</GRUPPENOBJECT>

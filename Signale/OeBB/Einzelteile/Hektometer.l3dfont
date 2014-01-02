@@ -1,0 +1,36 @@
+<FONT>
+	<Props Fonthoehe="26" Texture="Hektometer.bmp"/>
+	<Zeichen>
+		<Props Width="8" X="5" Y="5" Zeichen=" "/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="15" X="18" Y="5" Zeichen="0"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="15" X="38" Y="5" Zeichen="1"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="15" X="58" Y="5" Zeichen="2"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="15" X="5" Y="42" Zeichen="3"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="15" X="25" Y="42" Zeichen="4"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="15" X="45" Y="42" Zeichen="5"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="15" X="65" Y="42" Zeichen="6"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="15" X="5" Y="79" Zeichen="7"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="15" X="25" Y="79" Zeichen="8"/>
+	</Zeichen>
+	<Zeichen>
+		<Props Width="15" X="45" Y="79" Zeichen="9"/>
+	</Zeichen>
+</FONT>

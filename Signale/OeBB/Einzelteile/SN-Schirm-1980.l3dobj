@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="" FileInfo="" FilePicture="" Texture="GVA-Schirm.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="0;0.7;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.5;0.7;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.5;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="0;0;0.25"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;1" Vekt="0;0.7;0.25"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.5;0.7;0.25"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="0.5;0;0.25"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="4,136;3,0;129,1;129,136"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;6;5;4" Texture="135,136;137,2;258,2;258,136"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;2;6;7" Texture="136,134;136,2;176,2;176,134"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;1;0" Texture="174,132;174,3;217,3;218,132"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="1;5;6;2" Texture="212,133;214,5;255,5;254,133"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;3;0;4" Texture="218,132;218,4;256,4;254,132"/>
+	</Flaeche>
+</OBJECT>

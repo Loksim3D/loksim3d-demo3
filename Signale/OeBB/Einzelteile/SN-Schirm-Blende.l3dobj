@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="" FileInfo="" FilePicture="" Texture="SN-Schirm-Blende.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="0"/>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0;0.65;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.45;0.65;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.45;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0;0.65;-0.2"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.45;0.65;-0.2"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;4" Texture="45,89;45,20;81,20"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;1;2;5" Texture="47,49;90,49;90,21;46,21"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;5;2" Texture="76,81;76,20;45,20"/>
+	</Flaeche>
+</OBJECT>

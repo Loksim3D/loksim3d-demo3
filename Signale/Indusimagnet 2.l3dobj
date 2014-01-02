@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<OBJECT>
+	<Props Beleuchtet="FALSE" Transparent="TRUE" FilePicture="" FileAuthor="" FileInfo="" Drawrueckseiten="TRUE" Texture="Indusimagnet 2.bmp"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="0;0.05;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;3;-1" Vekt="0;0.2;0.2"/>
+	</Point>
+	<Point>
+		<Props Normal="1;3;-1" Vekt="0.2;0.2;0.2"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.2;0.05;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;-1;1" Vekt="0;0.05;1.5"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;3;1" Vekt="0;0.2;1.3"/>
+	</Point>
+	<Point>
+		<Props Normal="1;3;1" Vekt="0.2;0.2;1.3"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;1" Vekt="0.2;0.05;1.5"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.2;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0;0;1.5"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0.2;0;1.5"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3;9;8" Texture="118,12;342,15;346,7;119,2;101,3;102,13"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;6;5;4;10;11" Texture="120,13;332,14;332,3;123,2;103,2;99,13"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;2;6;7;11;9" Texture="1,105;95,18;761,18;849,114;849,145;1,145"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="4;5;1;0;8;10" Texture="847,111;745,3;98,3;2,94;2,144;847,144"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="1;5;6;2" Texture="120,16;128,2;439,5;494,15"/>
+	</Flaeche>
+</OBJECT>

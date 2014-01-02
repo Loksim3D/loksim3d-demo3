@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="Miguel 4024; 2012-02-03" FileInfo="OeBB Signal 1980/nVersion 2.1/n/nSignalnachahmer/n/n... Doku\OeBB\Signal-1980.pdf/n" FilePicture="SN.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="SNg" Name="\Signale\OeBB\Einzelteile\SN-Schirm.l3dobj" Position="2.275;3.7;-0.3" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="SNg" Name="\Signale\OeBB\Einzelteile\SN-Detail.l3dobj" Position="2.365;3.76;-0.32" Rotation="0;0;0" ShowOn="Vr0 or Vr1 or Vr2 or Vr3" WeitSichtbar="TRUE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\SN-Detail.l3dobj" Position="2.575;3.8;-0.32" Rotation="0;38;0" ShowOn="Vr2 or Vr3" WeitSichtbar="TRUE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="SNg" Name="\Signale\OeBB\Einzelteile\SN-Detail.l3dobj" Position="2.675;4.04;-0.32" Rotation="0;90;0" ShowOn="Vr0" WeitSichtbar="TRUE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\SN-Detail.l3dobj" Position="2.375;4.11;-0.32" Rotation="0;-38;0" ShowOn="Vr1" WeitSichtbar="TRUE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\SN-Schirm-Blende.l3dobj" Position="2.275;3.7;-0.3" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\Halterung.l3dobj" Position="2.475;3.78;-0.22" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\SN-Schirm-ge.l3dobj" Position="2.275;3.7;-0.3" Rotation="0;0;0" ShowOn="SNg" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\SN-Detail.l3dobj" Position="2.365;3.76;-0.32" Rotation="0;0;0" ShowOn="Vr0 and not SNg or Vr1 or Vr2 or Vr3" WeitSichtbar="TRUE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\SNg-Detail.l3dobj" Position="2.34;3.76;-0.32" Rotation="0;0;0" ShowOn="SNg and Vr0 " WeitSichtbar="TRUE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\SNg-Detail.l3dobj" Position="2.675;4.04;-0.32" Rotation="0;90;0" ShowOn="SNg and Vr0" WeitSichtbar="TRUE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\Mast.l3dobj" Position="-0.05;0.5;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\Schaltkastenklein.l3dobj" Position="-0.05;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\Halterung.l3dobj" Position="2.475;4.15;-0.22" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\Signalkorb-Vorsignal.l3dobj" Position="2.525;3.1;0.1" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\Mastfuss.l3dobj" Position="2.435;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+</GRUPPENOBJECT>

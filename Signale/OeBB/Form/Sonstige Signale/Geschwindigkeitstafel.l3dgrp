@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="Miquel; 2013-02-28" FileDoku="\Doku\OeBB\DV_V2_Signale\Geschwindigkeitstafel.pdf" FileInfo="OeBB Signale/nnach DV V2 &#47; Stand 2012/n/nSonstige Signale:/nGeschwindigkeitstafel/n/nmiguel.t@movistar.es/n/nEinzelteile von LukasH;/nFont von AndreasZ/n/n" FilePicture="Geschwindigkeitstafel.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\GA-Blech_rot.l3dobj" Position="0;1.55;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\Stange.l3dobj" Position="0;-0.9;0.025" Rotation="0;0;0" ShowOn="Fuss" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Font>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="200564" DefaultText="9" Fonthoehe="0.55" GroupProperty="Streckenlimit" Leuchtend="FALSE" Name="\Fonts\AndreasZ\DIN 1451.l3dfont" NormBottomLeft="0;1;0" NormBottomRight="0;1;0" NormTopLeft="0;1;0" NormTopRight="0;1;0" Position="0;1.85;-0.01" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+</GRUPPENOBJECT>

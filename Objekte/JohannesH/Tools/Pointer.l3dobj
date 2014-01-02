@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="TRUE" Drawrueckseiten="TRUE" FileAuthor="" FileDoku="" FileInfo="" FilePicture="" Texture="\Texturen\JohannesH\Metall.bmp" TransTexture="\Objekte\JohannesH\_Alphas\Flat_50prozent.bmp" Transparent="FALSE" TransparentTyp="3"/>
+	<Point>
+		<Props Normal="1;1;1" Vekt="-1;0;-4"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="1;0;-4"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0;-1;-4"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0;1;-4"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="1;0;4"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="-1;0;4"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0;1;4"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="0;-1;4"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2" Texture="55,24;60,16;64,24"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;4;5" Texture="55,8;60,0;64,8"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="6;7;8" Texture="55,24;60,16;64,24"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="9;10;11" Texture="55,8;60,0;64,8"/>
+	</Flaeche>
+</OBJECT>

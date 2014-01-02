@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="Miquel; 2013-02-28" FileDoku="\Doku\OeBB\DV_V2_Signale\Hektometertafel.pdf" FileInfo="OeBB Signale/nnach DV V2 &#47; Stand 2012/n/nSonstige Signale:/nHektometertafel &#60; 100 km/n/nmiguel.t@movistar.es/n/nObjekt von Andreas Hofmann" FilePicture="Hektometertafel.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="NBU" Name="\Signale\OeBB\Einzelteile\Hektometertafel2.l3dobj" Position="0;2;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\Hektometertafel2_NBU.l3dobj" Position="0;2;0" Rotation="0;0;0" ShowOn="NBU" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\Stange.l3dobj" Position="0;-0.25;0.025" Rotation="0;0;0" ShowOn="Fuss" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Font>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="0" DefaultText="65/n6" Fonthoehe="0.32" GroupProperty="KILOMETER" Leuchtend="FALSE" Name="\Signale\OeBB\Einzelteile\Hektometer.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0;2.42;-0.01" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="2" AlignVert="1" BlinkIntervall="0" Color="0" DefaultText="" Fonthoehe="0.05" GroupProperty="TEXT" Leuchtend="FALSE" Name="\Signale\OeBB\Einzelteile\Hektometer.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="0.24;2.05;-0.01" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+</GRUPPENOBJECT>

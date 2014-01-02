@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="Michael Tutsch; 2010-11-01" FileInfo="OeBB Signal 1980/nVersion 1.1 für Loksim ab 2.6/nKombisignal &#34;Typ 1&#34; mit/nLicht-Geschwindigkeitsanzeiger für/n&#34;AS&#34; - Ausfahrsignal/n&#34;ES&#34; - Einfahrsignal/n&#34;ZS&#34; - Zwischensignal/nMast mittig angebracht/n/nZur vorbildgerechten Aufstellung bitte die/nBedienungsanleitung unter/n\Loksim\Doku\OeBB\Signal-1980.pdf/nbeachten./n/nSant Josep de Sa Talaia/n2010-11-01/nmiguel4024@ya.com" FilePicture="HS-Typ-1-VS-GA_Licht.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\Halt-GA-oben.l3dobj" Position="2.45;8.09;-0.29" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\GVA-Schirm.l3dobj" Position="2.25;7.39;-0.29" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\GVA-Schirm-Blende.l3dobj" Position="2.25;7.39;-0.29" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\Blende.l3dobj" Position="2.34;6.16;-0.3" Rotation="0;-180;90" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\1980-rot.l3dobj" Position="2.24;6.03;-0.315" Rotation="0;0;0" ShowOn="Hp0 or Zs1 or Sh1" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\1980-rot-dunkel.l3dobj" Position="2.24;6.03;-0.31" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\scheinrot.l3dobj" Position="2.34;6.13;-0.315" Rotation="0;0;0" ShowOn="Hp0 or Zs1 or Sh1" WeitSichtbar="TRUE" ZoomFaktor="200"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\sig_lampe_hinten.l3dobj" Position="2.34;6.15;-0.29" Rotation="0;0;90" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\Blende.l3dobj" Position="2.68;7.17;-0.3" Rotation="0;180;90" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\1980-gruen.l3dobj" Position="2.58;7.07;-0.315" Rotation="0;0;0" ShowOn="Hp1 or Hp2 or Hp3" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\1980-gruen-dunkel.l3dobj" Position="2.58;7.07;-0.31" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\scheingruen.l3dobj" Position="2.68;7.17;-0.315" Rotation="0;0;0" ShowOn="Hp1 or Hp2 or Hp3" WeitSichtbar="TRUE" ZoomFaktor="200"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\sig_lampe_hinten.l3dobj" Position="2.68;7.17;-0.29" Rotation="0;0;90" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\Blende.l3dobj" Position="2.68;6.16;-0.3" Rotation="0;180;90" ShowOn="Lichtpunkt_60" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\1980-gruen.l3dobj" Position="2.58;6.03;-0.315" Rotation="0;0;0" ShowOn="Lichtpunkt_60 and Hp3" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\1980-gruen-dunkel.l3dobj" Position="2.58;6.03;-0.31" Rotation="0;0;0" ShowOn="Lichtpunkt_60" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\scheingruen.l3dobj" Position="2.68;6.13;-0.315" Rotation="0;0;0" ShowOn="Lichtpunkt_60 and Hp3" WeitSichtbar="TRUE" ZoomFaktor="200"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\sig_lampe_hinten.l3dobj" Position="2.68;6.15;-0.29" Rotation="0;0;90" ShowOn="Lichtpunkt_60" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\Blende-k.l3dobj" Position="2.33;7.17;-0.3" Rotation="0;180;90" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0.75" Name="\Signale\OeBB\Einzelteile\1980-weiss-k.l3dobj" Position="2.27;7.11;-0.311" Rotation="0;0;0" ShowOn="Zs1" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\1980-weiss-dunkel-k.l3dobj" Position="2.27;7.11;-0.31" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0.75" Name="\Signale\OeBB\Einzelteile\scheinweiss.l3dobj" Position="2.33;7.17;-0.315" Rotation="0;0;0" ShowOn="Zs1" WeitSichtbar="TRUE" ZoomFaktor="200"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\sig_lampe_hinten-k.l3dobj" Position="2.33;7.17;-0.29" Rotation="0;0;90" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\Mastschild.l3dobj" Position="-0.04;0.5;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\HS.l3dobj" Position="2.15;5.94;-0.3" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\Halterung.l3dobj" Position="2.475;6.16;-0.28" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\Halterung.l3dobj" Position="2.475;6.53;-0.28" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\Signalkorb-Vorsignal.l3dobj" Position="2.5;5.64;0.15" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\sig_typ_w.l3dobj" Position="2.275;5.72;-0.31" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\Halterung.l3dobj" Position="2.475;3.98;-0.28" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\sig_typ_schw.l3dobj" Position="2.325;3.97;-0.29" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\Blende.l3dobj" Position="2.68;6.43;-0.3" Rotation="0;180;90" ShowOn="Lichtpunkt_40" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\1980-gelb.l3dobj" Position="2.58;6.3;-0.315" Rotation="0;0;0" ShowOn="Lichtpunkt_40 and Hp2" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\1980-gelb-dunkel.l3dobj" Position="2.58;6.3;-0.31" Rotation="0;0;0" ShowOn="Lichtpunkt_40" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\scheingelb.l3dobj" Position="2.68;6.4;-0.315" Rotation="0;0;0" ShowOn="Lichtpunkt_40 and Hp2" WeitSichtbar="TRUE" ZoomFaktor="200"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\sig_lampe_hinten.l3dobj" Position="2.68;6.41;-0.29" Rotation="0;0;90" ShowOn="Lichtpunkt_40" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\Blende-k.l3dobj" Position="2.33;6.67;-0.3" Rotation="0;-180;90" ShowOn="Rangiersignal" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\1980-weiss-k.l3dobj" Position="2.27;6.61;-0.311" Rotation="0;0;0" ShowOn="Rangiersignal and Sh1" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\1980-weiss-dunkel-k.l3dobj" Position="2.27;6.61;-0.31" Rotation="0;0;0" ShowOn="Rangiersignal" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\scheinweiss.l3dobj" Position="2.33;6.67;-0.315" Rotation="0;0;0" ShowOn="Rangiersignal and Sh1" WeitSichtbar="TRUE" ZoomFaktor="200"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\sig_lampe_hinten-k.l3dobj" Position="2.33;6.67;-0.29" Rotation="0;0;90" ShowOn="Rangiersignal" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\Blende-k.l3dobj" Position="2.68;6.92;-0.3" Rotation="0;-180;90" ShowOn="Rangiersignal" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\1980-weiss-k.l3dobj" Position="2.62;6.86;-0.311" Rotation="0;0;0" ShowOn="Rangiersignal and Sh1" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\1980-weiss-dunkel-k.l3dobj" Position="2.62;6.86;-0.31" Rotation="0;0;0" ShowOn="Rangiersignal" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\scheinweiss.l3dobj" Position="2.68;6.92;-0.315" Rotation="0;0;0" ShowOn="Rangiersignal and Sh1" WeitSichtbar="TRUE" ZoomFaktor="200"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\sig_lampe_hinten-k.l3dobj" Position="2.68;6.92;-0.29" Rotation="0;0;90" ShowOn="Rangiersignal" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\Blende-k.l3dobj" Position="2.68;6.77;-0.3" Rotation="0;180;90" ShowOn="Abfahrtsignal" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="1" HideOn="Hp0" Name="\Signale\OeBB\Einzelteile\1980-gruen-k.l3dobj" Position="2.62;6.71;-0.315" Rotation="0;0;0" ShowOn="Abfahrtsignal and Zp9" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\1980-gruen-dunkel-k.l3dobj" Position="2.62;6.71;-0.31" Rotation="0;0;0" ShowOn="Abfahrtsignal" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="1" HideOn="Hp0" Name="\Signale\OeBB\Einzelteile\scheingruen.l3dobj" Position="2.68;6.77;-0.315" Rotation="0;0;0" ShowOn="Abfahrtsignal and Zp9" WeitSichtbar="TRUE" ZoomFaktor="200"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\sig_lampe_hinten-k.l3dobj" Position="2.68;6.77;-0.29" Rotation="0;0;90" ShowOn="Abfahrtsignal" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\Mast.l3dobj" Position="-0.05;1.44;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\Schaltkastengross.l3dobj" Position="-0.05;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\Halterung.l3dobj" Position="2.475;5.1;-0.22" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\Halterung.l3dobj" Position="2.475;5.46;-0.22" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Schutzsignal_folgt " Name="\Signale\OeBB\Einzelteile\VS.l3dobj" Position="2.025;4.84;-0.25" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\VS-w.l3dobj" Position="2.025;4.84;-0.25" Rotation="0;0;0" ShowOn="Schutzsignal_folgt" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\Blende.l3dobj" Position="2.245;5.61;-0.25" Rotation="0;180;85" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Hp0 or Zs1 or Sh1" Name="\Signale\OeBB\Einzelteile\1980-gelb.l3dobj" Position="2.145;5.48;-0.27" Rotation="0;0;0" ShowOn="Vr0 or Vr2 or Vr3" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Hp0 or Zs1 or Sh1" Name="\Signale\OeBB\Einzelteile\scheingelb.l3dobj" Position="2.24;5.58;-0.26" Rotation="0;0;0" ShowOn="Vr0 or Vr2 or Vr3" WeitSichtbar="TRUE" ZoomFaktor="200"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\sig_lampe_hinten.l3dobj" Position="2.25;5.57;-0.25" Rotation="0;0;90" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\Blende.l3dobj" Position="2.765;5.61;-0.25" Rotation="0;180;85" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Hp0 or Zs1 or Sh1" Name="\Signale\OeBB\Einzelteile\1980-gelb.l3dobj" Position="2.665;5.48;-0.27" Rotation="0;0;0" ShowOn="Vr0 or Vr2" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Hp0 or Zs1 or Sh1" Name="\Signale\OeBB\Einzelteile\scheingelb.l3dobj" Position="2.77;5.58;-0.26" Rotation="0;0;0" ShowOn="Vr0 or Vr2" WeitSichtbar="TRUE" ZoomFaktor="200"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\sig_lampe_hinten.l3dobj" Position="2.76;5.57;-0.25" Rotation="0;0;90" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\Blende.l3dobj" Position="2.245;5.09;-0.25" Rotation="0;180;85" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Hp0 or Zs1 or Sh1" Name="\Signale\OeBB\Einzelteile\1980-gruen.l3dobj" Position="2.145;4.96;-0.27" Rotation="0;0;0" ShowOn="Vr1 or Vr2 or Vr3" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Hp0 or Zs1 or Sh1" Name="\Signale\OeBB\Einzelteile\scheingruen.l3dobj" Position="2.24;5.05;-0.27" Rotation="0;0;0" ShowOn="Vr1 or Vr2 or Vr3" WeitSichtbar="TRUE" ZoomFaktor="200"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\sig_lampe_hinten.l3dobj" Position="2.25;5.05;-0.25" Rotation="0;0;90" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\Blende.l3dobj" Position="2.765;5.29;-0.25" Rotation="0;180;85" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Hp0 or Zs1 or Sh1" Name="\Signale\OeBB\Einzelteile\1980-gruen.l3dobj" Position="2.665;5.17;-0.27" Rotation="0;0;0" ShowOn="Vr1 or Vr3" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Hp0 or Zs1 or Sh1" Name="\Signale\OeBB\Einzelteile\scheingruen.l3dobj" Position="2.77;5.26;-0.27" Rotation="0;0;0" ShowOn="Vr1 or Vr3" WeitSichtbar="TRUE" ZoomFaktor="200"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\sig_lampe_hinten.l3dobj" Position="2.76;5.26;-0.25" Rotation="0;0;90" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\Signalkorb-Vorsignal.l3dobj" Position="2.525;3.84;0.1" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\1980-gelb-dunkel.l3dobj" Position="2.145;5.48;-0.26" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\1980-gelb-dunkel.l3dobj" Position="2.665;5.48;-0.26" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\1980-gruen-dunkel.l3dobj" Position="2.145;4.96;-0.26" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\1980-gruen-dunkel.l3dobj" Position="2.665;5.17;-0.26" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\Mastfuss.l3dobj" Position="2.435;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\Masterweiterung.l3dobj" Position="-0.05;1.44;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\Masterg.l3dobj" Position="0.05;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\Masterg.l3dobj" Position="0.05;0.4;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Font>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="16777215" DefaultText="" Fonthoehe="0.5" GroupProperty="Signalkennziffer" Leuchtend="TRUE" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Geschwindigkeit_XX.l3dfont" NormBottomLeft="0;1;0" NormBottomRight="0;1;0" NormTopLeft="0;1;0" NormTopRight="0;1;0" Position="2.5;7.71;-0.31" Rotation="0;0;0"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="16777215" DefaultText="" Fonthoehe="0.19" GroupProperty="Signalnummer" Leuchtend="FALSE" Name="\Fonts\ArialNarrow.l3dfont" NormBottomLeft="0;1;0" NormBottomRight="0;1;0" NormTopLeft="0;1;0" NormTopRight="0;1;0" Position="2.51;4.04;-0.3" Rotation="0;0;0"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="0" DefaultText="" Fonthoehe="0.3" GroupProperty="Signaltyp1_unten" Leuchtend="FALSE" Name="\Fonts\ArialNarrowFett.l3dfont" NormBottomLeft="0;0;-1" NormBottomRight="0;0;-1" NormTopLeft="0;0;-1" NormTopRight="0;0;-1" Position="2.5;5.85;-0.32" Rotation="0;0;0"/>
+	</Font>
+	<Font>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="16777215" DefaultText="" Fonthoehe="0.13" GroupProperty="Vorsignalnummer" Leuchtend="FALSE" Name="\Fonts\ArialNarrow.l3dfont" NormBottomLeft="0;1;0" NormBottomRight="0;1;0" NormTopLeft="0;1;0" NormTopRight="0;1;0" Position="2.75;4.94;-0.28" Rotation="0;0;0"/>
+	</Font>
+</GRUPPENOBJECT>

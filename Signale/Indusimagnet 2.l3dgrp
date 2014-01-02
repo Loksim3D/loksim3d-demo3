@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<GRUPPENOBJECT>
+	<Props FilePicture="Indusimagnet 2.l3dgrp.jpg" FileAuthor="Sebastian Kircher" FileInfo="PZB-Magnet/n/n2000Hz//1000Hz//500Hz"/>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="Indusimagnet 2.l3dobj" Position="0.84;0.15;0"/>
+	</Object>
+</GRUPPENOBJECT>

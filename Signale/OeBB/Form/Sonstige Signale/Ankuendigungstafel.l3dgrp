@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="Miquel; 2013-02-28" FileDoku="\Doku\OeBB\DV_V2_Signale\Ankündigungstafel.pdf" FileInfo="OeBB Signale/nnach DV V2 &#47; Stand 2012/n/nSonstige Signale:/nAnkündigungstafel/nAusführung ab 1975/n/nmiguel.t@movistar.es/n/nEinzelteile von LukasH;/nFont von AndreasZ" FilePicture="Ankuendigungstafel.l3dgrp.jpg"/>
+	<Object>
+		<Props BlinkIntervall="0" HideOn="Spitze_oben" Name="\Signale\OeBB\Einzelteile\GVA-Blech_rot.l3dobj" Position="0;1.52;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\GVA-Blech_rot.l3dobj" Position="0;2.4;0" Rotation="0;180;0" ShowOn="Spitze_oben" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Object>
+		<Props BlinkIntervall="0" Name="\Signale\OeBB\Einzelteile\Stange.l3dobj" Position="0;-0.8;0.025" Rotation="0;0;0" ShowOn="Fuss" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+	</Object>
+	<Font>
+		<Props AlignHorz="1" AlignVert="1" BlinkIntervall="0" Color="134242" DefaultText="8" Fonthoehe="0.38" GroupProperty="Streckenlimit" Leuchtend="FALSE" Name="\Fonts\AndreasZ\DIN 1451.l3dfont" NormBottomLeft="0;1;0" NormBottomRight="0;1;0" NormTopLeft="0;1;0" NormTopRight="0;1;0" Position="-0.01;1.95;-0.01" Rotation="0;0;0" Vertikal="FALSE"/>
+	</Font>
+</GRUPPENOBJECT>

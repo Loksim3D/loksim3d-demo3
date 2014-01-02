@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+	<Props FileAuthor="WH Okt 2007" FileInfo="PZB-Magnet/n2000Hz&#47;1000Hz&#47;500Hz (kein sichtbare Magnet)" FilePicture=""/>
+	<Object>
+		<Props BlinkIntervall="0" Name="Indusimagnet 0.l3dobj" Position="0;0;0" Rotation="0;0;0" ZoomFaktor="1"/>
+	</Object>
+</GRUPPENOBJECT>
