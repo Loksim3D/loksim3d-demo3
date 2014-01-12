@@ -57,6 +57,69 @@
 					<Props Abstand="0" Anzahl="1" Datei="\Objekte\Bruecken\Frieder\Betonbruecken\Betonbruecke15mA.l3dgrp" GleisHoeheFolgen="FALSE" HoeheLand="FALSE" Position="0" Verschiebung="-4.5;0;0" Winkel="0;0;0"/>
 				</Eintrag>
 			</Object>
+			<Object>
+				<Props Name="Wald 0" Offset="1;0;0" Position="0" Qualitaet="4"/>
+				<Eintrag>
+					<Props Abstand="15" Anzahl="125" Datei="\Objekte\Pflanzen\Frieder\Rand\Busch\01Busch.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="TRUE" Position="0" Verschiebung="6;0;0" Winkel="0;0;0"/>
+					<Random>
+						<Props SRAND="31658" XValue="2" YValue="1" ZValue="2"/>
+					</Random>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="15" Anzahl="125" Datei="\Objekte\Pflanzen\Frieder\Rand\Busch\02Busch.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="TRUE" Position="5" Verschiebung="6;0;0" Winkel="0;0;0"/>
+					<Random>
+						<Props SRAND="1693" XValue="2" YValue="2" ZValue="2"/>
+					</Random>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="15" Anzahl="125" Datei="\Objekte\Pflanzen\Frieder\Rand\Busch\03Busch.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="TRUE" Position="10" Verschiebung="6;0;0" Winkel="0;0;0"/>
+					<Random>
+						<Props SRAND="12615" XValue="2" YValue="1" ZValue="2"/>
+					</Random>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="30" Anzahl="62" Datei="\Objekte\Pflanzen\Frieder\Rand\Laubbaum\113Laub.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="TRUE" Position="0" Verschiebung="10;-2;0" Winkel="0;0;0"/>
+					<Random>
+						<Props SRAND="22044" XValue="2" YValue="3" ZValue="10"/>
+					</Random>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="30" Anzahl="62" Datei="\Objekte\Pflanzen\Frieder\Rand\Laubbaum\122Laub.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="TRUE" Position="0" Verschiebung="12;-3;0" Winkel="0;0;0"/>
+					<Random>
+						<Props SRAND="11616" XValue="2" YValue="3" ZValue="10"/>
+					</Random>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="30" Anzahl="62" Datei="\Objekte\Pflanzen\Frieder\Rand\Laubbaum\106Laub.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="TRUE" Position="0" Verschiebung="15;-2;0" Winkel="0;0;0"/>
+					<Random>
+						<Props SRAND="2088" XValue="3" YValue="2" ZValue="15"/>
+					</Random>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="20" Anzahl="100" Datei="\Objekte\Pflanzen\Frieder\Rand\Nadelbaum\125Nadel.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="TRUE" Position="0" Verschiebung="20;-2;0" Winkel="0;0;0"/>
+					<Random>
+						<Props SRAND="32550" XValue="4" YValue="2" ZValue="10"/>
+					</Random>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="20" Anzahl="100" Datei="\Objekte\Pflanzen\Frieder\Rand\Nadelbaum\126Nadel.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="TRUE" Position="10" Verschiebung="25;-2;0" Winkel="0;0;0"/>
+					<Random>
+						<Props SRAND="2522" XValue="15" YValue="1" ZValue="20"/>
+					</Random>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="15" Anzahl="125" Datei="\Objekte\Pflanzen\DToepel\Herbst\06Busch.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="TRUE" Position="10" Verschiebung="5;-1;0" Winkel="0;0;0"/>
+					<Random>
+						<Props SRAND="5816" XValue="2" YValue="1" ZValue="6"/>
+					</Random>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="15" Anzahl="125" Datei="\Objekte\Pflanzen\DToepel\Herbst\01Busch.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="TRUE" Position="0" Verschiebung="7;-1;0" Winkel="0;0;0"/>
+					<Random>
+						<Props SRAND="31043" XValue="5" YValue="1" ZValue="10"/>
+					</Random>
+				</Eintrag>
+			</Object>
 		</Objecte>
 		<Hoeheunterbrechung>
 		</Hoeheunterbrechung>
@@ -89,6 +152,21 @@
 				</Landschaftsobjekt>
 				<Landschaftsobjekt>
 					<Props Hoehe="9" Hoehefrei="FALSE" Position="20" Verschiebung="20"/>
+				</Landschaftsobjekt>
+			</Landschaftsobjekt>
+			<Landschaftsobjekt>
+				<Props Abstand="20" Name="Waldboden 0" Polygon="TRUE" Position="0" Scale="1" Texture="TRUE" TextureFile="\Texturen\grasmix-laub.bmp" Zwischenpunkte="TRUE"/>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="0" Verschiebung="3"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="2" Hoehefrei="FALSE" Position="0" Verschiebung="25"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="2" Hoehefrei="FALSE" Position="2000" Verschiebung="25"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="2000" Verschiebung="3"/>
 				</Landschaftsobjekt>
 			</Landschaftsobjekt>
 		</Landschaft>
@@ -373,6 +451,69 @@
 					<Props Abstand="10" Anzahl="27" Datei="\Objekte\Bahnsteige\Frieder\Seitenbahnsteig5.l3dobj" GleisHoeheFolgen="TRUE" HoeheLand="FALSE" Position="10" Verschiebung="0;0;0" Winkel="180;0;0"/>
 				</Eintrag>
 			</Object>
+			<Object>
+				<Props Name="Wald 0" Offset="-1;0;0" Position="0" Qualitaet="4"/>
+				<Eintrag>
+					<Props Abstand="15" Anzahl="125" Datei="\Objekte\Pflanzen\Frieder\Rand\Busch\01Busch.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="TRUE" Position="0" Verschiebung="-6;0;0" Winkel="0;0;0"/>
+					<Random>
+						<Props SRAND="13550" XValue="2" YValue="1" ZValue="2"/>
+					</Random>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="15" Anzahl="125" Datei="\Objekte\Pflanzen\Frieder\Rand\Busch\02Busch.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="TRUE" Position="5" Verschiebung="-6;0;0" Winkel="0;0;0"/>
+					<Random>
+						<Props SRAND="5212" XValue="2" YValue="2" ZValue="2"/>
+					</Random>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="15" Anzahl="125" Datei="\Objekte\Pflanzen\Frieder\Rand\Busch\03Busch.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="TRUE" Position="10" Verschiebung="-6;0;0" Winkel="0;0;0"/>
+					<Random>
+						<Props SRAND="32627" XValue="2" YValue="1" ZValue="2"/>
+					</Random>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="30" Anzahl="62" Datei="\Objekte\Pflanzen\Frieder\Rand\Laubbaum\113Laub.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="TRUE" Position="0" Verschiebung="-10;-2;0" Winkel="0;0;0"/>
+					<Random>
+						<Props SRAND="28794" XValue="2" YValue="3" ZValue="10"/>
+					</Random>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="30" Anzahl="62" Datei="\Objekte\Pflanzen\Frieder\Rand\Laubbaum\122Laub.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="TRUE" Position="0" Verschiebung="-12;-3;0" Winkel="0;0;0"/>
+					<Random>
+						<Props SRAND="23341" XValue="2" YValue="3" ZValue="10"/>
+					</Random>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="30" Anzahl="62" Datei="\Objekte\Pflanzen\Frieder\Rand\Laubbaum\106Laub.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="TRUE" Position="0" Verschiebung="-15;-2;0" Winkel="0;0;0"/>
+					<Random>
+						<Props SRAND="9133" XValue="3" YValue="2" ZValue="15"/>
+					</Random>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="20" Anzahl="100" Datei="\Objekte\Pflanzen\Frieder\Rand\Nadelbaum\125Nadel.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="TRUE" Position="0" Verschiebung="-20;-2;0" Winkel="0;0;0"/>
+					<Random>
+						<Props SRAND="10898" XValue="4" YValue="2" ZValue="10"/>
+					</Random>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="20" Anzahl="100" Datei="\Objekte\Pflanzen\Frieder\Rand\Nadelbaum\126Nadel.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="TRUE" Position="10" Verschiebung="-25;-2;0" Winkel="0;0;0"/>
+					<Random>
+						<Props SRAND="17955" XValue="15" YValue="1" ZValue="20"/>
+					</Random>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="15" Anzahl="125" Datei="\Objekte\Pflanzen\DToepel\Herbst\06Busch.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="TRUE" Position="10" Verschiebung="-5;-1;0" Winkel="0;0;0"/>
+					<Random>
+						<Props SRAND="11875" XValue="2" YValue="1" ZValue="6"/>
+					</Random>
+				</Eintrag>
+				<Eintrag>
+					<Props Abstand="15" Anzahl="125" Datei="\Objekte\Pflanzen\DToepel\Herbst\01Busch.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="TRUE" Position="0" Verschiebung="-7;-1;0" Winkel="0;0;0"/>
+					<Random>
+						<Props SRAND="20827" XValue="3" YValue="1" ZValue="10"/>
+					</Random>
+				</Eintrag>
+			</Object>
 		</Objecte>
 		<Hoeheunterbrechung>
 		</Hoeheunterbrechung>
@@ -405,6 +546,21 @@
 				</Landschaftsobjekt>
 				<Landschaftsobjekt>
 					<Props Hoehe="9" Hoehefrei="FALSE" Position="20" Verschiebung="-20"/>
+				</Landschaftsobjekt>
+			</Landschaftsobjekt>
+			<Landschaftsobjekt>
+				<Props Abstand="20" Name="Waldboden 0" Polygon="TRUE" Position="0" Scale="1" Texture="TRUE" TextureFile="\Texturen\grasmix-laub.bmp" Zwischenpunkte="TRUE"/>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="0" Verschiebung="-3"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="-8" Hoehefrei="FALSE" Position="0" Verschiebung="-20"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="-8" Hoehefrei="FALSE" Position="2000" Verschiebung="-20"/>
+				</Landschaftsobjekt>
+				<Landschaftsobjekt>
+					<Props Hoehe="0" Hoehefrei="FALSE" Position="2000" Verschiebung="-3"/>
 				</Landschaftsobjekt>
 			</Landschaftsobjekt>
 		</Landschaft>
