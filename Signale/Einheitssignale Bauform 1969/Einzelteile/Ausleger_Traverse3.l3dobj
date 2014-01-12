@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OBJECT>
+	<Props AutoRotate="FALSE" Beleuchtet="FALSE" Drawrueckseiten="TRUE" FileAuthor="" FileInfo="" FilePicture="" Texture="Auslegermast1.bmp" TransTexture="" Transparent="FALSE" TransparentTyp="2"/>
+	<Point>
+		<Props Normal="0;1;-1" Vekt="7.8;0;-0.38"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;-1" Vekt="7.8;1.465;-0.38"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="11.44;1.465;-0.38"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="11.44;0;-0.38"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;1" Vekt="7.8;0;0.38"/>
+	</Point>
+	<Point>
+		<Props Normal="0;1;1" Vekt="7.8;1.465;0.38"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="11.44;1.465;0.38"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;1" Vekt="11.44;0;0.38"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="215,88;215,4;425,4;425,88"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="7;6;5;4" Texture="425,88;425,4;215,4;215,88"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="3;2;6;7" Texture="4,88;4,4;49,4;49,88"/>
+	</Flaeche>
+	<Flaeche>
+		<Props Points="0;4;7;3" Texture="385,343;409,344;408,140;382,140"/>
+	</Flaeche>
+</OBJECT>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<OBJECT>
+	<Props TransparentTyp="1" Beleuchtet="FALSE" Transparent="TRUE" FilePicture="" FileAuthor="" FileInfo="" Drawrueckseiten="TRUE" TransTexture="" Texture="Schirm-HpShZsVr.bmp"/>
+	<Point>
+		<Props Normal="-1;-1;-1" Vekt="-0.32;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="-1;1;-1" Vekt="-0.32;0.25;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;1;-1" Vekt="0.32;0.25;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;-1;-1" Vekt="0.32;0;0"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="5,43;5,4;111,4;111,43"/>
+	</Flaeche>
+</OBJECT>

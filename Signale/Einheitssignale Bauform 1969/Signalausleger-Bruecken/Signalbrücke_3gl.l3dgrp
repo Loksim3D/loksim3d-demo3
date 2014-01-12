@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<GRUPPENOBJECT>
+	<Props FilePicture="Signalbrücke_3gl.l3dgrp.jpg" FileAuthor="Andreas Peter" FileInfo="Signalbrücke für 3 Gleise/nGleisabstände 4 m/nmax. 6 Signalkörbe/n/nNovember 2004"/>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Ausleger_Stuetze.l3dobj" Position="-3.8;0.2;0"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Auslegerfundament.l3dobj" Position="-3.8;0;0"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Aussteifungen.l3dobj" Position="-3.8;0.2;0.3"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Aussteifungen.l3dobj" Position="-3.8;0.2;-0.3"/>
+	</Object>
+	<Object>
+		<Props Rotation="90;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Aussteifungen.l3dobj" Position="-3.5;0.2;0"/>
+	</Object>
+	<Object>
+		<Props Rotation="90;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Aussteifungen.l3dobj" Position="-4.1;0.2;0"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Ausleger_Leiter.l3dobj" Position="-3.8;0.5;0"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Ausleger_Schutzkorb.l3dobj" Position="-3.8;2.6;0"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Ausleger_Verbindung.l3dobj" Position="-3.8;7.6;0"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Ausleger_Traverse1.l3dobj" Position="-3.8;8.2;0"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Ausleger_Pendelstuetze.l3dobj" Position="8;0.2;0"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Auslegerfundament.l3dobj" Position="11.5;0;0"/>
+	</Object>
+	<Object>
+		<Props Rotation="90;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Aussteifungen.l3dobj" Position="11.5;0.2;0"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Ausleger_Traverse2.l3dobj" Position="-3.8;8.2;0"/>
+	</Object>
+	<Object>
+		<Props Rotation="0;0;0" BlinkIntervall="0" ZoomFaktor="1" Name="\Signale\Einheitssignale Bauform 1969\Einzelteile\Ausleger_Traverse3.l3dobj" Position="0.2;8.2;0"/>
+	</Object>
+</GRUPPENOBJECT>

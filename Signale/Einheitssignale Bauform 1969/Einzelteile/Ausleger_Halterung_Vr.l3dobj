@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<OBJECT>
+	<Props TransparentTyp="0" Beleuchtet="FALSE" Transparent="FALSE" FilePicture="" FileAuthor="" FileInfo="" Drawrueckseiten="TRUE" TransTexture="" Texture="Auslegermast1.bmp"/>
+	<Point>
+		<Props Normal="1;0;0" Vekt="0;0;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;0;0" Vekt="0;0.15;0"/>
+	</Point>
+	<Point>
+		<Props Normal="1;0;0" Vekt="0;0.15;-0.74"/>
+	</Point>
+	<Point>
+		<Props Normal="1;0;0" Vekt="0;0;-0.74"/>
+	</Point>
+	<Flaeche>
+		<Props Points="0;1;2;3" Texture="112,76;114,67;84,66;85,73"/>
+	</Flaeche>
+</OBJECT>
