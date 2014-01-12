@@ -37,6 +37,9 @@
 			<STEIGUNG>
 				<Props Ende="5100" Promille="8" SanfterWinkel="TRUE" Start="3100"/>
 			</STEIGUNG>
+			<STEIGUNG>
+				<Props Ende="3110" Promille="-12" SanfterWinkel="TRUE" Start="2900"/>
+			</STEIGUNG>
 		</TOPOLOGIE>
 		<Objecte>
 			<Object>
@@ -58,7 +61,7 @@
 				</Eintrag>
 			</Object>
 			<Object>
-				<Props Name="Wald 0" Offset="1;0;0" Position="0" Qualitaet="4"/>
+				<Props Name="Wald 1600" Offset="2;0;0" Position="1600" Qualitaet="4"/>
 				<Eintrag>
 					<Props Abstand="15" Anzahl="125" Datei="\Objekte\Pflanzen\Frieder\Rand\Busch\01Busch.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="TRUE" Position="0" Verschiebung="6;0;0" Winkel="0;0;0"/>
 					<Random>
@@ -155,7 +158,7 @@
 				</Landschaftsobjekt>
 			</Landschaftsobjekt>
 			<Landschaftsobjekt>
-				<Props Abstand="20" Name="Waldboden 0" Polygon="TRUE" Position="0" Scale="1" Texture="TRUE" TextureFile="\Texturen\grasmix-laub.bmp" Zwischenpunkte="TRUE"/>
+				<Props Abstand="20" Name="Waldboden 1600" Polygon="TRUE" Position="1600" Scale="1" Texture="TRUE" TextureFile="\Texturen\grasmix-laub.bmp" Zwischenpunkte="TRUE"/>
 				<Landschaftsobjekt>
 					<Props Hoehe="0" Hoehefrei="FALSE" Position="0" Verschiebung="3"/>
 				</Landschaftsobjekt>
@@ -452,7 +455,7 @@
 				</Eintrag>
 			</Object>
 			<Object>
-				<Props Name="Wald 0" Offset="-1;0;0" Position="0" Qualitaet="4"/>
+				<Props Name="Wald 1600" Offset="-2;0;0" Position="1600" Qualitaet="4"/>
 				<Eintrag>
 					<Props Abstand="15" Anzahl="125" Datei="\Objekte\Pflanzen\Frieder\Rand\Busch\01Busch.l3dobj" GleisHoeheFolgen="FALSE" HoeheLand="TRUE" Position="0" Verschiebung="-6;0;0" Winkel="0;0;0"/>
 					<Random>
@@ -549,7 +552,7 @@
 				</Landschaftsobjekt>
 			</Landschaftsobjekt>
 			<Landschaftsobjekt>
-				<Props Abstand="20" Name="Waldboden 0" Polygon="TRUE" Position="0" Scale="1" Texture="TRUE" TextureFile="\Texturen\grasmix-laub.bmp" Zwischenpunkte="TRUE"/>
+				<Props Abstand="20" Name="Waldboden 1600" Polygon="TRUE" Position="1600" Scale="1" Texture="TRUE" TextureFile="\Texturen\grasmix-laub.bmp" Zwischenpunkte="TRUE"/>
 				<Landschaftsobjekt>
 					<Props Hoehe="0" Hoehefrei="FALSE" Position="0" Verschiebung="-3"/>
 				</Landschaftsobjekt>
