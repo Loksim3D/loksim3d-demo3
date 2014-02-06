@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRUPPENOBJECT>
+<Props FileAuthor="UKL-Fahrleitungsgenerator, Version 1.0.8" FileInfo="Fahrleitung der Bauart Re160 der DB/nSpannweite: 50.4m, Systemhöhe: 1.8m/nFahrdrahthöhe über SOK: 5.50m/nStreckentrennung, Teilstück: -ASAL/nRadspanner nebeneinander/nAbstand des Abspannmastes von der Gleismitte: 3.50m/nTragseilwinkel: -4.70/nFahrdrahtwinkel: -4.76" FilePicture="" />
+<Object>
+<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\ukl\Hochkette\Re160\S\ET\Re160-5035-180-550-ASAL-S-RN-350.l3dobj"Position="0;0;0" Rotation="0;0;0" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+</Object>
+<Object>
+<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\ukl\Einzelteil\Iso_Keramik_7s_w.l3dobj"Position="3.155;6.888;6.650" Rotation="-4.698;0.000;-1.388" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+</Object>
+<Object>
+<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\ukl\Einzelteil\Iso_Keramik_7s_w.l3dobj"Position="2.748;6.673;6.650" Rotation="-4.756;0.000;0.401" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+</Object>
+<Object>
+<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\ukl\Einzelteil\Spannwerke\Abspanngabel_mit_Zugstange_100.l3dobj"Position="3.481;6.726;2.670" Rotation="-94.698;0.000;-1.388" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+</Object>
+<Object>
+<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\ukl\Einzelteil\Spannwerke\Abspanngabel_mit_Zugstange_100.l3dobj"Position="3.078;6.715;2.670" Rotation="-94.756;0.000;0.401" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+</Object>
+</GRUPPENOBJECT>

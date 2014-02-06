@@ -10,4 +10,10 @@
 <Object>
 <Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\ukl\Einzelteil\Iso_Keramik_7s_w.l3dobj"Position="2.955;6.671;42.650" Rotation="2.827;0.000;-0.404" WeitSichtbar="FALSE" ZoomFaktor="1"/>
 </Object>
+<Object>
+<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\ukl\Einzelteil\Spannwerke\Abspanngabel_mit_Zugstange_100.l3dobj"Position="3.523;6.743;47.330" Rotation="93.808;0.000;1.401" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+</Object>
+<Object>
+<Props BlinkIntervall="0" Name="\Objekte\Fahrleitung\ukl\Einzelteil\Spannwerke\Abspanngabel_mit_Zugstange_100.l3dobj"Position="3.168;6.718;47.330" Rotation="92.827;0.000;-0.404" WeitSichtbar="FALSE" ZoomFaktor="1"/>
+</Object>
 </GRUPPENOBJECT>
